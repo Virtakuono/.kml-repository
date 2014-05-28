@@ -507,14 +507,6 @@ Help the KAUST community find its way in Jeddah!]]></description>
     </Point>
   </Placemark>
   <Placemark>
-    <name>Happy pets</name>
-    <description><![CDATA[<div dir="ltr">Pet shop</div>]]></description>
-    <styleUrl>#style20</styleUrl>
-    <Point>
-      <coordinates>39.142644,21.602444,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Suq Al Alawi, Al Balad District</name>
     <description><![CDATA[Jeddah 22236, Saudi Arabia<br>]]></description>
     <styleUrl>#style25</styleUrl>
