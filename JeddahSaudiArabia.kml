@@ -501,7 +501,7 @@ Help the KAUST community find its way in Jeddah!]]></description>
   <Placemark>
     <name>Pet Oasis</name>
     <description><![CDATA[<div dir="ltr">Pet shop</div>]]></description>
-    <styleUrl>#style20</styleUrl>
+    <styleUrl>#style10</styleUrl>
     <Point>
       <coordinates>39.142574,21.597027,0.000000</coordinates>
     </Point>
@@ -509,7 +509,7 @@ Help the KAUST community find its way in Jeddah!]]></description>
   <Placemark>
     <name>Happy pets</name>
     <description><![CDATA[<div dir="ltr">Pet shop</div>]]></description>
-    <styleUrl>#style20</styleUrl>
+    <styleUrl>#style10</styleUrl>
     <Point>
       <coordinates>39.142644,21.602444,0.000000</coordinates>
     </Point>
@@ -517,7 +517,7 @@ Help the KAUST community find its way in Jeddah!]]></description>
   <Placemark>
     <name>Suq Al Alawi, Al Balad District</name>
     <description><![CDATA[Jeddah 22236, Saudi Arabia<br>]]></description>
-    <styleUrl>#style25</styleUrl>
+    <styleUrl>#style10</styleUrl>
     <Point>
       <coordinates>39.188267,21.484844,0.000000</coordinates>
     </Point>
@@ -525,11 +525,18 @@ Help the KAUST community find its way in Jeddah!]]></description>
   <Placemark>
     <name>Animal Market</name>
     <description><![CDATA[Sells all kinds of animals, best time to visit friday 4pm to 6pm<br>]]></description>
-    <styleUrl>#style25</styleUrl>
+    <styleUrl>#style10</styleUrl>
     <Point>
       <coordinates>39.2245174,21.3807425,0.000000</coordinates>
     </Point>
   </Placemark>
-
+  <Placemark>
+    <name>Rockets Souq</name>
+    <description><![CDATA[electronics, cloths, food, carpets,furniture…etc<br>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>39.2245174,21.3807425,0.000000</coordinates>
+    </Point>
+  </Placemark>
 </Document>
 </kml>
