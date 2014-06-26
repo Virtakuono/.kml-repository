@@ -683,7 +683,7 @@ Help the KAUST community find its way in Jeddah!]]></description>
 
 
 <Placemark>
-    <name>The Butcher Shop & Grill</name>
+    <name>The Butcher Shop and Grill</name>
     <description><![CDATA[<div dir="ltr">Steak and grill restaurant</div>]]></description>
     <styleUrl>#style12</styleUrl>
     <Point>
@@ -700,8 +700,6 @@ Help the KAUST community find its way in Jeddah!]]></description>
       <coordinates>39.1302160,21.6414706,0.0000000</coordinates>
     </Point>
 </Placemark>
-
-
 <Placemark>
     <name>Spears</name>
     <description><![CDATA[<div dir="ltr">Brazilian restaurant</div>]]></description>
@@ -710,9 +708,6 @@ Help the KAUST community find its way in Jeddah!]]></description>
       <coordinates>39.1559482,21.5156605,0.0000000</coordinates>
     </Point>
 </Placemark>
-
-
-
 <Placemark>
     <name>Sakura</name>
     <description><![CDATA[<div dir="ltr">Japanese restaurant</div>]]></description>
@@ -721,7 +716,5 @@ Help the KAUST community find its way in Jeddah!]]></description>
       <coordinates>39.1558114,21.5168508,0.0000000</coordinates>
     </Point>
 </Placemark>
-
-
-
+</Document>
 </kml>
