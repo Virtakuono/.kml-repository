@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <name>Jeddah, Saudi Arabia</name>
-  <description><![CDATA[Add the location of restaurants, hardware stores, bank branches, cell phone stores, etc.
-Help the KAUST community find its way in Jeddah!]]></description>
+  <name>Points of Interest in and near Jeddah, Kingdom of Saudi Arabia</name>
+  <description><![CDATA[Please add relevant points of interest to the wider KAUST community in Github.com]]></description>
   <Style id="style23">
     <IconStyle>
       <Icon>
@@ -613,7 +612,7 @@ Help the KAUST community find its way in Jeddah!]]></description>
 <Placemark>
     <name>Mahmoud Saeed Souq</name>
     <description><![CDATA[<div dir="ltr">Excellent market for carpets and furniture</div>]]></description>
-    <styleUrl>#style12</styleUrl>
+    <styleUrl>#style32</styleUrl>
     <Point>
       <coordinates>39.1819452,21.5717486,0.0000000</coordinates>
     </Point>
@@ -624,7 +623,7 @@ Help the KAUST community find its way in Jeddah!]]></description>
 <Placemark>
     <name>Makkah Restaurant</name>
     <description><![CDATA[<div dir="ltr">Indian restaurant in a traditional area</div>]]></description>
-    <styleUrl>#style12</styleUrl>
+    <styleUrl>#style32</styleUrl>
     <Point>
       <coordinates>39.1906515,21.5014506,0.0000000</coordinates>
     </Point>
@@ -634,7 +633,7 @@ Help the KAUST community find its way in Jeddah!]]></description>
 <Placemark>
     <name>Abo Yasser Restaurant</name>
     <description><![CDATA[<div dir="ltr">African restaurant in the area of many other african restaurants</div>]]></description>
-    <styleUrl>#style12</styleUrl>
+    <styleUrl>#style32</styleUrl>
     <Point>
       <coordinates>39.1899502,21.4777281,0.0000000</coordinates>
     </Point>
@@ -645,7 +644,7 @@ Help the KAUST community find its way in Jeddah!]]></description>
 <Placemark>
     <name>Sahareej Adan</name>
     <description><![CDATA[<div dir="ltr">Yemeni Restaurant</div>]]></description>
-    <styleUrl>#style12</styleUrl>
+    <styleUrl>#style32</styleUrl>
     <Point>
       <coordinates>39.1439582,21.6122717,0.0000000</coordinates>
     </Point>
@@ -655,7 +654,7 @@ Help the KAUST community find its way in Jeddah!]]></description>
 <Placemark>
     <name>Alfairwz Restaurant</name>
     <description><![CDATA[<div dir="ltr">A turkish restaurant</div>]]></description>
-    <styleUrl>#style12</styleUrl>
+    <styleUrl>#style32</styleUrl>
     <Point>
       <coordinates>39.1305579,21.6093990,0.0000000</coordinates>
     </Point>
@@ -665,7 +664,7 @@ Help the KAUST community find its way in Jeddah!]]></description>
 <Placemark>
     <name>Reem Albawadi</name>
     <description><![CDATA[<div dir="ltr">A Middle Eastern Restaurant</div>]]></description>
-    <styleUrl>#style12</styleUrl>
+    <styleUrl>#style32</styleUrl>
     <Point>
       <coordinates>39.1454033,21.5579117,0.0000000</coordinates>
     </Point>
@@ -675,7 +674,7 @@ Help the KAUST community find its way in Jeddah!]]></description>
 <Placemark>
     <name>Aseil</name>
     <description><![CDATA[<div dir="ltr">A traditional Saudi restaurant</div>]]></description>
-    <styleUrl>#style12</styleUrl>
+    <styleUrl>#style32</styleUrl>
     <Point>
       <coordinates>39.1412087,21.5593291,0.0000000</coordinates>
     </Point>
@@ -685,7 +684,7 @@ Help the KAUST community find its way in Jeddah!]]></description>
 <Placemark>
     <name>The Butcher Shop and Grill</name>
     <description><![CDATA[<div dir="ltr">Steak and grill restaurant</div>]]></description>
-    <styleUrl>#style12</styleUrl>
+    <styleUrl>#style32</styleUrl>
     <Point>
       <coordinates>39.1532162,21.5598458,0.0000000</coordinates>
     </Point>
@@ -695,7 +694,7 @@ Help the KAUST community find its way in Jeddah!]]></description>
 <Placemark>
     <name>19 Century Burger</name>
     <description><![CDATA[<div dir="ltr">Good local burger restaurant</div>]]></description>
-    <styleUrl>#style12</styleUrl>
+    <styleUrl>#style32</styleUrl>
     <Point>
       <coordinates>39.1302160,21.6414706,0.0000000</coordinates>
     </Point>
@@ -703,7 +702,7 @@ Help the KAUST community find its way in Jeddah!]]></description>
 <Placemark>
     <name>Spears</name>
     <description><![CDATA[<div dir="ltr">Brazilian restaurant</div>]]></description>
-    <styleUrl>#style12</styleUrl>
+    <styleUrl>#style32</styleUrl>
     <Point>
       <coordinates>39.1559482,21.5156605,0.0000000</coordinates>
     </Point>
@@ -711,7 +710,7 @@ Help the KAUST community find its way in Jeddah!]]></description>
 <Placemark>
     <name>Sakura</name>
     <description><![CDATA[<div dir="ltr">Japanese restaurant</div>]]></description>
-    <styleUrl>#style12</styleUrl>
+    <styleUrl>#style32</styleUrl>
     <Point>
       <coordinates>39.1558114,21.5168508,0.0000000</coordinates>
     </Point>
