@@ -17,6 +17,14 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style668">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/toll_station.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+
   <Style id="style23">
     <IconStyle>
       <Icon>
@@ -804,7 +812,7 @@
     <name>KAUST EXIT: MAIN GATE</name>
     <Snippet></Snippet>
     <description><![CDATA[]]></description>
-    <styleUrl>#style36</styleUrl>
+    <styleUrl>#style668</styleUrl>
     <Point>
       <coordinates>39.148041,22.307402,0.000000</coordinates>
     </Point>
@@ -813,7 +821,7 @@
     <name>KAUST EXIT: MAIN GATE</name>
     <Snippet></Snippet>
     <description><![CDATA[]]></description>
-    <styleUrl>#style36</styleUrl>
+    <styleUrl>#style668</styleUrl>
     <Point>
       <coordinates>39.148041,22.307402,0.000000</coordinates>
     </Point>
@@ -822,7 +830,7 @@
     <name>KAUST-VENDOR GATE</name>
     <Snippet></Snippet>
     <description><![CDATA[]]></description>
-    <styleUrl>#style89</styleUrl>
+    <styleUrl>#style668</styleUrl>
     <Point>
       <coordinates>39.210205,22.324671,0.000000</coordinates>
     </Point>
@@ -831,7 +839,7 @@
     <name>KAUST-THUWAL GATE</name>
     <Snippet></Snippet>
     <description><![CDATA[]]></description>
-    <styleUrl>#style125</styleUrl>
+    <styleUrl>#style668</styleUrl>
     <Point>
       <coordinates>39.104286,22.298656,0.000000</coordinates>
     </Point>
