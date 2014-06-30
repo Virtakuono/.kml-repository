@@ -31,6 +31,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/POI.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Style id="style32">
     <IconStyle>
       <Icon>
