@@ -588,7 +588,7 @@
   <Placemark>
     <name>Suq Al Alawi, Al Balad District</name>
     <description><![CDATA[Jeddah 22236, Saudi Arabia<br>]]></description>
-    <styleUrl>#style10</styleUrl>
+    <styleUrl>#style671</styleUrl>
     <Point>
       <coordinates>39.188267,21.484844,0.000000</coordinates>
     </Point>
@@ -597,7 +597,7 @@
 <Placemark>
     <name>Animal Market</name>
     <description><![CDATA[<div dir="ltr">Best time to visit is on Friday from 4:00-6:00 PM where you can find all kind of animals.</div>]]></description>
-    <styleUrl>#style12</styleUrl>
+    <styleUrl>#style671</styleUrl>
     <Point>
       <coordinates>39.2245174,21.3807425,0.0000000</coordinates>
     </Point>
