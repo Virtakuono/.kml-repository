@@ -66,6 +66,50 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style675">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/beach.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style676">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/hardware.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style677">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/car.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style678">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/book.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style679">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/furniture.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style680">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/veterinary.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+
+
 
 
   <Style id="style23">
@@ -417,7 +461,7 @@
   <Placemark>
     <name>IKEA</name>
     <description><![CDATA[<div dir="ltr">P.O.Box 8054, Jeddah 21482 – Saudi Arabia<br>Phone: +966 2 6633000<br><br><br>Saturday to Thursday: 10:00 – 24:00<br>Friday: 16:00 – 24:00<br>Special opening hours in Ramadan and EID. 	<br><br>IKEA in Jeddah<br>P.O.Box 8054, Jeddah 21482 – Saudi Arabia<br>Phone: +966 2 6633000<br>E-mail: Infojed@ikea.com.saThis e-mail address is being protected from spam bots, you need JavaScript enabled to view it<br><br>Opening hours at normal days:<br>Saturday to Thursday: 10:00 – 24:00<br>Friday: 17:00 – 24:00<br>Special opening hours in Ramadan and EID. </div>]]></description>
-    <styleUrl>#style11</styleUrl>
+    <styleUrl>#style679</styleUrl>
     <Point>
       <coordinates>39.183277,21.557119,0.000000</coordinates>
     </Point>
@@ -425,7 +469,7 @@
   <Placemark>
     <name>Al-Muhaidib Hardware</name>
     <description><![CDATA[<div dir="ltr">I found door chains here. Door lock, handles etc. </div>]]></description>
-    <styleUrl>#style26</styleUrl>
+    <styleUrl>#style676</styleUrl>
     <Point>
       <coordinates>39.178703,21.557421,0.000000</coordinates>
     </Point>
@@ -473,7 +517,7 @@
   <Placemark>
     <name>SACO</name>
     <description><![CDATA[<div dir="ltr">Hardware Store<br>http://www.saco-ksa.com/</div>]]></description>
-    <styleUrl>#style17</styleUrl>
+    <styleUrl>#style676</styleUrl>
     <Point>
       <coordinates>39.204906,21.563448,0.000000</coordinates>
     </Point>
@@ -481,7 +525,7 @@
   <Placemark>
     <name>Albilad Beach</name>
     <description><![CDATA[GPS: +21° 42' 29.22", +39° 5' 9.90"<br>]]></description>
-    <styleUrl>#style5</styleUrl>
+    <styleUrl>#style675</styleUrl>
     <Point>
       <coordinates>39.084751,21.710089,0.000000</coordinates>
     </Point>
@@ -489,7 +533,7 @@
   <Placemark>
     <name>Silver Sands Beach Club</name>
     <description><![CDATA[GPS: +21° 46' 24.96", +39° 3' 4.32"<br>Phone: <span style="font-family:Arial"><font face="Comic Sans MS, Arial, Helvetica"><font size="2">02 656 2632</font></font></span>]]></description>
-    <styleUrl>#style31</styleUrl>
+    <styleUrl>#style675</styleUrl>
     <Point>
       <coordinates>39.051201,21.773600,0.000000</coordinates>
     </Point>
@@ -529,7 +573,7 @@
   <Placemark>
     <name>Toyota Car Dealer</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style18</styleUrl>
+    <styleUrl>#style677</styleUrl>
     <Point>
       <coordinates>39.203960,21.633814,0.000000</coordinates>
     </Point>
@@ -545,7 +589,7 @@
   <Placemark>
     <name>Jarir Bookstore</name>
     <description><![CDATA[<div dir="ltr">on Sar[iy] Street.<br><br>Showroom Timings: Sat-Thu 9am-2pm, 4.30pm-11pm; Fri 4.30pm-11pm<br>Tel. No. +966 2 682-7666, Fax No.+966 2 698-1120 </div>]]></description>
-    <styleUrl>#style7</styleUrl>
+    <styleUrl>#style678</styleUrl>
     <Point>
       <coordinates>39.145775,21.574816,0.000000</coordinates>
     </Point>
@@ -569,7 +613,7 @@
   <Placemark>
     <name>SACO</name>
     <description><![CDATA[<div dir="ltr">Jeddah main store<br>Title SACO World Jeddah<br>Address Al Amir Sultan Street<br>Phone 02-6199967 Fax 02-6199558 <br>P.O Box 20358 - Jeddah 21455<br><br>We open during these times:<br>Sat to Thur	08:00a.m / 12:00a.m<br>Fri	05:00p.m / 12:00a.m</div>]]></description>
-    <styleUrl>#style34</styleUrl>
+    <styleUrl>#style676</styleUrl>
     <Point>
       <coordinates>39.121468,21.661177,0.000000</coordinates>
     </Point>
@@ -585,7 +629,7 @@
   <Placemark>
     <name>Arabian Vets</name>
     <description><![CDATA[<div dir="ltr">This is where the KAUST Wednesday Vet has her practice.</div>]]></description>
-    <styleUrl>#style12</styleUrl>
+    <styleUrl>#style680</styleUrl>
     <Point>
       <coordinates>39.142441,21.602423,0.000000</coordinates>
     </Point>
@@ -819,7 +863,7 @@
 <Placemark>
     <name>Eurovets</name>
     <description><![CDATA[<div dir="ltr">Vet clinic with Dr. Carlos</div>]]></description>
-    <styleUrl>#style12</styleUrl>
+    <styleUrl>#style680</styleUrl>
     <Point>
       <coordinates>39.1636280,21.5516800,0.0000000</coordinates>
     </Point>
