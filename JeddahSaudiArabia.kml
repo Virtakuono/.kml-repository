@@ -10,6 +10,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style667">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/restaurant_generic.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Style id="style23">
     <IconStyle>
       <Icon>
@@ -311,7 +318,7 @@
   <Placemark>
     <name>Good Seafood Restaurant</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style32</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.105740,21.588215,0.000000</coordinates>
     </Point>
@@ -439,7 +446,7 @@
   <Placemark>
     <name>Fish restaurant</name>
     <description><![CDATA[<br>]]></description>
-    <styleUrl>#style15</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.103958,21.718073,0.000000</coordinates>
     </Point>
@@ -658,7 +665,7 @@
 <Placemark>
     <name>Makkah Restaurant</name>
     <description><![CDATA[<div dir="ltr">Indian restaurant in a traditional area</div>]]></description>
-    <styleUrl>#style32</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1906515,21.5014506,0.0000000</coordinates>
     </Point>
@@ -668,7 +675,7 @@
 <Placemark>
     <name>Abo Yasser Restaurant</name>
     <description><![CDATA[<div dir="ltr">African restaurant in the area of many other african restaurants</div>]]></description>
-    <styleUrl>#style32</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1899502,21.4777281,0.0000000</coordinates>
     </Point>
@@ -679,7 +686,7 @@
 <Placemark>
     <name>Sahareej Adan</name>
     <description><![CDATA[<div dir="ltr">Yemeni Restaurant</div>]]></description>
-    <styleUrl>#style32</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1439582,21.6122717,0.0000000</coordinates>
     </Point>
@@ -689,7 +696,7 @@
 <Placemark>
     <name>Alfairwz Restaurant</name>
     <description><![CDATA[<div dir="ltr">A turkish restaurant</div>]]></description>
-    <styleUrl>#style32</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1305579,21.6093990,0.0000000</coordinates>
     </Point>
@@ -699,7 +706,7 @@
 <Placemark>
     <name>Reem Albawadi</name>
     <description><![CDATA[<div dir="ltr">A Middle Eastern Restaurant</div>]]></description>
-    <styleUrl>#style32</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1454033,21.5579117,0.0000000</coordinates>
     </Point>
@@ -709,7 +716,7 @@
 <Placemark>
     <name>Aseil</name>
     <description><![CDATA[<div dir="ltr">A traditional Saudi restaurant</div>]]></description>
-    <styleUrl>#style32</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1412087,21.5593291,0.0000000</coordinates>
     </Point>
@@ -719,7 +726,7 @@
 <Placemark>
     <name>The Butcher Shop and Grill</name>
     <description><![CDATA[<div dir="ltr">Steak and grill restaurant</div>]]></description>
-    <styleUrl>#style32</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1532162,21.5598458,0.0000000</coordinates>
     </Point>
@@ -729,7 +736,7 @@
 <Placemark>
     <name>19 Century Burger</name>
     <description><![CDATA[<div dir="ltr">Good local burger restaurant</div>]]></description>
-    <styleUrl>#style32</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1302160,21.6414706,0.0000000</coordinates>
     </Point>
@@ -737,7 +744,7 @@
 <Placemark>
     <name>Spears</name>
     <description><![CDATA[<div dir="ltr">Brazilian restaurant</div>]]></description>
-    <styleUrl>#style32</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1559482,21.5156605,0.0000000</coordinates>
     </Point>
@@ -745,7 +752,7 @@
 <Placemark>
     <name>Sakura</name>
     <description><![CDATA[<div dir="ltr">Japanese restaurant</div>]]></description>
-    <styleUrl>#style32</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1558114,21.5168508,0.0000000</coordinates>
     </Point>
@@ -753,7 +760,7 @@
 <Placemark>
     <name>Texas Roadhouse</name>
     <description><![CDATA[<div dir="ltr">A steak house</div>]]></description>
-    <styleUrl>#style32</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1676410,21.5535830,0.0000000</coordinates>
     </Point>
