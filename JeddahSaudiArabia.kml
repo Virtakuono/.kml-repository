@@ -731,6 +731,69 @@
       <coordinates>39.1636280,21.5516800,0.0000000</coordinates>
     </Point>
 </Placemark>
+  <Placemark>
+    <name>EXIT for SULTAN ST.</name>
+    <Snippet>To Jarir Mall, etc.</Snippet>
+    <description><![CDATA[<div dir="ltr">To Jarir Mall, etc.</div>]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>39.125233,21.670509,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>EXIT BACK FROM MALL OF ARABIA</name>
+    <Snippet>This is the U-Turn to get back on Madina Rd to KAUST from Mall of Arabia...</Snippet>
+    <description><![CDATA[<div dir="ltr">This is the U-Turn to get back on Madina Rd to KAUST from Mall of Arabia...</div>]]></description>
+    <styleUrl>#style93</styleUrl>
+    <Point>
+      <coordinates>39.155960,21.632538,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>THUWAL EXIT</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>39.125961,22.273132,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>KAUST EXIT: MAIN GATE</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>39.148041,22.307402,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>KAUST EXIT: MAIN GATE</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>39.148041,22.307402,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>KAUST-VENDOR GATE</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style89</styleUrl>
+    <Point>
+      <coordinates>39.210205,22.324671,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>KAUST-THUWAL GATE</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style125</styleUrl>
+    <Point>
+      <coordinates>39.104286,22.298656,0.000000</coordinates>
+    </Point>
+  </Placemark>
 
 </Document>
 </kml>
