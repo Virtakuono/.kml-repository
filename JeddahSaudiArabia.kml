@@ -136,6 +136,13 @@
       </Icon>
     </IconStyle>
   </Style>
+ <Style id="style685">
+    <IconStyle>
+      <Icon>
+        <href>https:/raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/bank.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
 
 
 
@@ -449,7 +456,7 @@
   <Placemark>
     <name>SABB Branch</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style9</styleUrl>
+    <styleUrl>#style685</styleUrl>
     <Point>
       <coordinates>39.142700,21.571289,0.000000</coordinates>
     </Point>
