@@ -16,6 +16,11 @@ To view the map, simply visit
 In addition to the original map, material has been added
 from
 
-http://goo.gl/maps/mFxL3
+[http://goo.gl/maps/mFxL3]
 
 among other sources.
+
+Some icons copied from Map Icons Collection by Nicolas Mollet
+[http://mapicons.nicolasmollet.com]
+under CC BY SA 3.0 License
+

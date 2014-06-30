@@ -3,6 +3,13 @@
 <Document>
   <name>Points of Interest in and near Jeddah, Kingdom of Saudi Arabia</name>
   <description><![CDATA[Please add relevant points of interest to the wider KAUST community in Github.com]]></description>
+  <Style id="style666">
+    <IconStyle>
+      <Icon>
+	<href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/hotel_nostars.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Style id="style23">
     <IconStyle>
       <Icon>
@@ -272,7 +279,7 @@
   <Placemark>
     <name>Park Hyatt Hotel</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style23</styleUrl>
+    <styleUrl>#style666</styleUrl>
     <Point>
       <coordinates>39.154984,21.513374,0.000000</coordinates>
     </Point>
@@ -280,7 +287,7 @@
   <Placemark>
     <name>Rosewood Hotel</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style2</styleUrl>
+    <styleUrl>#style666</styleUrl>
     <Point>
       <coordinates>39.110378,21.576391,0.000000</coordinates>
     </Point>
@@ -288,7 +295,7 @@
   <Placemark>
     <name>Habitat Hotel</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style29</styleUrl>
+    <styleUrl>#style666</styleUrl>
     <Point>
       <coordinates>39.156570,21.606915,0.000000</coordinates>
     </Point>
