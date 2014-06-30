@@ -59,6 +59,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style674">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
 
 
   <Style id="style23">
@@ -434,7 +441,7 @@
   <Placemark>
     <name>Emax Store 1 (electronics)</name>
     <description><![CDATA[<div dir="ltr">Sitteen Street, Bawadi,<br>Jeddah,<br>Tel: +966 2 6977519, 6977517</div>]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>#style674</styleUrl>
     <Point>
       <coordinates>39.176861,21.590605,0.000000</coordinates>
     </Point>
@@ -442,7 +449,7 @@
   <Placemark>
     <name>Emax store 2 (electronics)</name>
     <description><![CDATA[<div dir="ltr">Centrepoint Dome <br>Dome - Amir Sultan Street,<br>Jeddah<br>Tel: +966 2 6394492</div>]]></description>
-    <styleUrl>#style24</styleUrl>
+    <styleUrl>#style674</styleUrl>
     <Point>
       <coordinates>39.141109,21.606686,0.000000</coordinates>
     </Point>
@@ -498,7 +505,7 @@
   <Placemark>
     <name>Extra</name>
     <description><![CDATA[<div dir="ltr">Electronics and home appliances store</div>]]></description>
-    <styleUrl>#style14</styleUrl>
+    <styleUrl>#style674</styleUrl>
     <Point>
       <coordinates>39.143234,21.597956,0.000000</coordinates>
     </Point>
