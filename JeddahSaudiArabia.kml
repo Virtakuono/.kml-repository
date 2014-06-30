@@ -143,7 +143,13 @@
       </Icon>
     </IconStyle>
   </Style>
-
+ <Style id="style662">
+    <IconStyle>
+      <Icon>
+        <href>https:/raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/generic.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
 
 
   <Placemark>
@@ -173,7 +179,7 @@
   <Placemark>
     <name>IOB - KAUST</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style10</styleUrl>
+    <styleUrl>#style662</styleUrl>
     <Point>
       <coordinates>39.142834,21.567173,0.000000</coordinates>
     </Point>
@@ -349,7 +355,7 @@
   <Placemark>
     <name>Wheels</name>
     <description><![CDATA[<div dir="ltr">The only specialised bike shop in Jeddah. Trak only. Phone: 698 1302.<br><br>Note that the roundabout the map shows West is here has been replaced with an overpass along Sari Street. To get to Wheels you need to approach from East and NOT go on the overpass.</div>]]></description>
-    <styleUrl>#style8</styleUrl>
+    <styleUrl>#style662</styleUrl>
     <Point>
       <coordinates>39.145294,21.575548,0.000000</coordinates>
     </Point>
