@@ -108,6 +108,22 @@
       </Icon>
     </IconStyle>
   </Style>
+ <Style id="style681">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/pets.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+ <Style id="style682">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/toys.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+
+
 
 
 
@@ -477,7 +493,7 @@
   <Placemark>
     <name>Toy&#39;s R Us</name>
     <description><![CDATA[<div dir="ltr">Store is in the Roshan Mall.  On the Mosaic globe roundabout.</div>]]></description>
-    <styleUrl>#style21</styleUrl>
+    <styleUrl>#style682</styleUrl>
     <Point>
       <coordinates>39.108559,21.664667,0.000000</coordinates>
     </Point>
@@ -621,7 +637,7 @@
   <Placemark>
     <name>Jarir Bookstore</name>
     <description><![CDATA[<div dir="ltr"> Prince Sultan Street, Jeddah <br>Showroom Timings: Sat-Thu 9am-12pm, 4.30pm-11pm; Fri 4.30pm-11pm<br>Tel. No. +966 2 420-2050, Fax No.+966 2 420-2060</div>]]></description>
-    <styleUrl>#style19</styleUrl>
+    <styleUrl>#style678</styleUrl>
     <Point>
       <coordinates>39.132401,21.640196,0.000000</coordinates>
     </Point>
@@ -637,7 +653,7 @@
   <Placemark>
     <name>Pet Oasis</name>
     <description><![CDATA[<div dir="ltr">Pet shop</div>]]></description>
-    <styleUrl>#style10</styleUrl>
+    <styleUrl>#style681</styleUrl>
     <Point>
       <coordinates>39.142574,21.597027,0.000000</coordinates>
     </Point>
@@ -645,7 +661,7 @@
   <Placemark>
     <name>Happy pets</name>
     <description><![CDATA[<div dir="ltr">Pet shop</div>]]></description>
-    <styleUrl>#style10</styleUrl>
+    <styleUrl>#style681</styleUrl>
     <Point>
       <coordinates>39.142644,21.602444,0.000000</coordinates>
     </Point>
