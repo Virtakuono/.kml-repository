@@ -52,6 +52,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style673">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/supermarket.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
 
 
   <Style id="style23">
@@ -387,7 +394,7 @@
   <Placemark>
     <name>Hyper Panda</name>
     <description><![CDATA[<div dir="ltr">Hypermarket. Large grocery store with dry goods also. In the Roshan Mall</div>]]></description>
-    <styleUrl>#style3</styleUrl>
+    <styleUrl>#style673</styleUrl>
     <Point>
       <coordinates>39.109032,21.665804,0.000000</coordinates>
     </Point>
@@ -395,7 +402,7 @@
   <Placemark>
     <name>Danube</name>
     <description><![CDATA[<div dir="ltr">Hypermarket. Large grocery store with dry goods also.  In the Red Sea Mall.</div>]]></description>
-    <styleUrl>#style30</styleUrl>
+    <styleUrl>#style673</styleUrl>
     <Point>
       <coordinates>39.110256,21.626883,0.000000</coordinates>
     </Point>
@@ -451,7 +458,7 @@
   <Placemark>
     <name>Hyper Panda</name>
     <description><![CDATA[<div dir="ltr">Hyper Market. Large grocery st</div>]]></description>
-    <styleUrl>#style6</styleUrl>
+    <styleUrl>#style673</styleUrl>
     <Point>
       <coordinates>39.204132,21.563267,0.000000</coordinates>
     </Point>
