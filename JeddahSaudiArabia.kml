@@ -24,6 +24,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style669">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/junction.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
 
   <Style id="style23">
     <IconStyle>
@@ -785,7 +792,7 @@
     <name>EXIT for SULTAN ST.</name>
     <Snippet>To Jarir Mall, etc.</Snippet>
     <description><![CDATA[<div dir="ltr">To Jarir Mall, etc.</div>]]></description>
-    <styleUrl>#style74</styleUrl>
+    <styleUrl>#style669</styleUrl>
     <Point>
       <coordinates>39.125233,21.670509,0.000000</coordinates>
     </Point>
@@ -794,7 +801,7 @@
     <name>EXIT BACK FROM MALL OF ARABIA</name>
     <Snippet>This is the U-Turn to get back on Madina Rd to KAUST from Mall of Arabia...</Snippet>
     <description><![CDATA[<div dir="ltr">This is the U-Turn to get back on Madina Rd to KAUST from Mall of Arabia...</div>]]></description>
-    <styleUrl>#style93</styleUrl>
+    <styleUrl>#style669</styleUrl>
     <Point>
       <coordinates>39.155960,21.632538,0.000000</coordinates>
     </Point>
@@ -803,7 +810,7 @@
     <name>THUWAL EXIT</name>
     <Snippet></Snippet>
     <description><![CDATA[]]></description>
-    <styleUrl>#style70</styleUrl>
+    <styleUrl>#style669</styleUrl>
     <Point>
       <coordinates>39.125961,22.273132,0.000000</coordinates>
     </Point>
@@ -812,7 +819,7 @@
     <name>KAUST EXIT: MAIN GATE</name>
     <Snippet></Snippet>
     <description><![CDATA[]]></description>
-    <styleUrl>#style668</styleUrl>
+    <styleUrl>#style669</styleUrl>
     <Point>
       <coordinates>39.148041,22.307402,0.000000</coordinates>
     </Point>
