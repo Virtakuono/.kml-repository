@@ -8,7 +8,7 @@ Kingdom of Saudi Arabia. If you just want to look at the map,
 see
 [https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml]
 
-If you are interested in details, please read below:
+If you are interested in contributing and/or details, please read below:
 
 Essentially, this is an effort to bring back to life the map
 [https://maps.google.com/maps/ms?ie=UTF8&t=h&hl=en&vps=1&jsv=178b&safe=on&oe=UTF8&msa=0&msid=109723124894778733708.0004726ebc11f578c532c&dg=feature]
@@ -16,10 +16,13 @@ Essentially, this is an effort to bring back to life the map
 that has been left unedited for almost three years at the time of writing.
 
 In case you want to edit to make improvements or correct errors,
-please fork and make pull request.
-
-To view the map, simply visit
-[https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml]
+please fork and make pull request. Since the map essentially
+relies on the github server to host the .kml file, note that
+any changes need to be pushed to the server before they are
+public. For debugging purposes you may
+a) view your edited .kml file in, for example, google earth
+b) put your kml file online somewhere and modify the gmail url accordingly
+c) make changes while testing on a different branch than the master.
 
 Another noteworthy source of information is 
 [http://goo.gl/maps/mFxL3]
