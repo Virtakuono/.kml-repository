@@ -410,14 +410,6 @@
     <description><![CDATA[]]></description>
     <styleUrl>#style689</styleUrl>
     <Point>
-      <coordinates>40.275879,22.329752,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Checkpoint</name>
-    <description><![CDATA[]]></description>
-    <styleUrl>#style689</styleUrl>
-    <Point>
       <coordinates>39.255779,21.408072,0.000000</coordinates>
     </Point>
   </Placemark>
