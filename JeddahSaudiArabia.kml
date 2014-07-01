@@ -157,6 +157,28 @@
       </Icon>
     </IconStyle>
   </Style>
+ <Style id="style688">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/bank.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+ <Style id="style689">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/police_checkpoint.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+ <Style id="style690">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/embassy.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+
 
 
   <Placemark>
@@ -271,7 +293,7 @@
   <Placemark>
     <name>United States Consulate</name>
     <description><![CDATA[This is the entrance for the US Consulate for passports, visas, document notarization, etc. Park in the hospital parking lot and cross the street to get to the entrance.<br>]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style690</styleUrl>
     <Point>
       <coordinates>39.166039,21.525021,0.000000</coordinates>
     </Point>
@@ -279,7 +301,7 @@
   <Placemark>
     <name>Mayrig restaurant</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.172989,21.543489,0.000000</coordinates>
     </Point>
@@ -287,7 +309,7 @@
   <Placemark>
     <name>Piatto (Etoile Center)</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.127277,21.575054,0.000000</coordinates>
     </Point>
@@ -319,7 +341,7 @@
   <Placemark>
     <name>Checkpoint</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style689</styleUrl>
     <Point>
       <coordinates>40.275879,22.329752,0.000000</coordinates>
     </Point>
@@ -327,7 +349,7 @@
   <Placemark>
     <name>Checkpoint</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style689</styleUrl>
     <Point>
       <coordinates>39.255779,21.408072,0.000000</coordinates>
     </Point>
@@ -335,7 +357,7 @@
   <Placemark>
     <name>SABB Branch</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style688</styleUrl>
     <Point>
       <coordinates>39.142700,21.571289,0.000000</coordinates>
     </Point>
@@ -344,7 +366,7 @@
     <name>APPLEBEE&#39;s</name>
     <Snippet>Restaurant</Snippet>
     <description><![CDATA[<div dir="ltr">Restaurant</div>]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.131584,21.646580,0.000000</coordinates>
     </Point>
@@ -352,7 +374,7 @@
   <Placemark>
     <name>SITACO</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style676</styleUrl>
     <Point>
       <coordinates>39.164886,21.577953,0.000000</coordinates>
     </Point>
@@ -361,15 +383,15 @@
   <Placemark>
     <name>Jeddah International Markets</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style677</styleUrl>
     <Point>
       <coordinates>39.170723,21.558397,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
-    <name>HindaWeyah (Ribbon Souk)</name>
+    <name>Hinda Weyah (Ribbon Souk)</name>
     <description><![CDATA[<div dir="ltr">Thanks, Linda!</div>]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style677</styleUrl>
     <Point>
       <coordinates>39.232178,21.442842,0.000000</coordinates>
     </Point>
