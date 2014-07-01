@@ -178,12 +178,129 @@
       </Icon>
     </IconStyle>
   </Style>
-
+ <Style id="style691">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/bicycle_shop.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+ <Style id="style692">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/sewingmachine.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+ <Style id="style693">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/computers.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+ <Style id="style694">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/mall.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
 
 
   <Placemark>
+    <name>Hera International Mall</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>39.152954,21.615622,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mall of Arabia</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>39.153728,21.613867,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Red Sea Mall</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>39.109955,21.626793,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>THALIA MALL</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>39.148834,21.549059,0.000000</coordinates>
+    </Point>
+  <Placemark>
+    <name>Aziz Mall</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>39.199306,21.576677,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Roshan Mall</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>39.110130,21.665110,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Computer Shops</name>
+    <description><![CDATA[<div dir="ltr">Farther Down this street: Khalid Al Waleed St.</div>]]></description>
+    <styleUrl>#style693</styleUrl>
+    <Point>
+      <coordinates>39.185143,21.529419,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Computer Stores</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style693</styleUrl>
+    <Point>
+      <coordinates>39.153728,21.612471,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Computer Shops: MANY (S)</name>
+    <Snippet>This is about the South end of the Computer Stores strip. DETAILS? See: http://r</Snippet>
+    <description><![CDATA[<div dir="ltr">This is about the South end of the Computer Stores strip. DETAILS? See: <a href="http://redseainfo.info" target="_blank">http://redseainfo.info</a></div>]]></description>
+    <styleUrl>#style693</styleUrl>
+    <Point>
+      <coordinates>39.186207,21.517082,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>COMPUTER Shops: MANY (N)</name>
+    <Snippet>This is about the North end of the Computer Shops &amp;apos;Souk&amp;apos;.DETAILS? See:</Snippet>
+    <description><![CDATA[<div dir="ltr">This is about the North end of the Computer Shops 'Souk'.<br>DETAILS? See: <a href="http://redseainfo.info" target="_blank">http://redseainfo.info</a></div>]]></description>
+    <styleUrl>#style693</styleUrl>
+    <Point>
+      <coordinates>39.185673,21.520290,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lingo Computer Store</name>
+    <Snippet>Sells Apple products</Snippet>
+    <description><![CDATA[<div dir="ltr">Sells Apple products</div>]]></description>
+    <styleUrl>#style693</styleUrl>
+    <Point>
+      <coordinates>39.109730,21.665180,0.000000</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
     <name>Four Seasons</name>
-    <Snippet></Snippet>
     <description><![CDATA[]]></description>
     <styleUrl>#style666</styleUrl>
     <Point>
@@ -192,7 +309,6 @@
   </Placemark>
   <Placemark>
     <name>Habitat hotel</name>
-    <Snippet></Snippet>
     <description><![CDATA[]]></description>
     <styleUrl>#style666</styleUrl>
     <Point>
@@ -277,7 +393,7 @@
   <Placemark>
     <name>Wheels</name>
     <description><![CDATA[<div dir="ltr">Sari str, <br>Carries TREK - Sam Abalos (WHEELS) Tel:026981302 Cell:0508691557 (open 09:30-12:00 and 16:30-00:00 from a phone call)<br><br>Note that the roundabout the map shows West is here has been replaced with an overpass along Sari Street. To get to Wheels you need to approach from East and NOT go on the overpass.</div>]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style691</styleUrl>
     <Point>
       <coordinates>39.145294,21.575739,0.000000</coordinates>
     </Point>
@@ -285,7 +401,7 @@
   <Placemark>
     <name>Look for Tent Makers in this area</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style671</styleUrl>
     <Point>
       <coordinates>39.248657,21.583221,0.000000</coordinates>
     </Point>
@@ -343,14 +459,6 @@
     <description><![CDATA[]]></description>
     <styleUrl>#style689</styleUrl>
     <Point>
-      <coordinates>40.275879,22.329752,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Checkpoint</name>
-    <description><![CDATA[]]></description>
-    <styleUrl>#style689</styleUrl>
-    <Point>
       <coordinates>39.255779,21.408072,0.000000</coordinates>
     </Point>
   </Placemark>
@@ -399,7 +507,7 @@
   <Placemark>
     <name>Sewing Machine Shops</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style692</styleUrl>
     <Point>
       <coordinates>39.186604,21.477751,0.000000</coordinates>
     </Point>
@@ -533,6 +641,31 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Red Sea Resort (Sheraton)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style675</styleUrl>
+    <Point>
+      <coordinates>39.072361,21.735115,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Al Lith Resort</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style675</styleUrl>
+    <Point>
+      <coordinates>40.246845,20.158010,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Palm Beach</name>
+    <Snippet>A private beach and accommodation facility.Parking is outside (road side car par</Snippet>
+    <description><![CDATA[<div dir="ltr">A private beach and accommodation facility.<br>Parking is outside (road side car park).<br>Yellow brick fence (wall) - Palm Beach written on this.<br>Entrance fee is &lt; 100 SR.</div>]]></description>
+    <styleUrl>#style675</styleUrl>
+    <Point>
+      <coordinates>39.075157,21.728962,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Albilad Beach</name>
     <description><![CDATA[GPS: +21° 42' 29.22", +39° 5' 9.90"<br>]]></description>
     <styleUrl>#style675</styleUrl>
@@ -546,6 +679,30 @@
     <styleUrl>#style675</styleUrl>
     <Point>
       <coordinates>39.051201,21.773600,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Koreana restaurant</name>
+    <description><![CDATA[<div dir="ltr">Restaurant is in what looks like residential area and may be difficult to find. Call 660-4769 if lost.<br>&nbsp;</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.165337,21.535366,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sahareej Aden Yemini Resturaunt</name>
+    <description><![CDATA[<div dir="ltr">The best Yemeni restaurant I have been to in Jeddah. The food is incredible! -Sameed</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.199306,21.578571,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Asia Restaurant </name>
+    <description><![CDATA[<div dir="ltr">Thai Food - Recommended<br>See Review:<br>http://www.jeddahfood.com/?p=5548<br><br>02 6828525</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.161476,21.580608,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -874,7 +1031,6 @@
   </Placemark>
   <Placemark>
     <name>THUWAL EXIT</name>
-    <Snippet></Snippet>
     <description><![CDATA[]]></description>
     <styleUrl>#style669</styleUrl>
     <Point>
@@ -883,7 +1039,6 @@
   </Placemark>
   <Placemark>
     <name>KAUST EXIT: MAIN GATE</name>
-    <Snippet></Snippet>
     <description><![CDATA[]]></description>
     <styleUrl>#style669</styleUrl>
     <Point>
@@ -892,7 +1047,6 @@
   </Placemark>
   <Placemark>
     <name>KAUST EXIT: MAIN GATE</name>
-    <Snippet></Snippet>
     <description><![CDATA[]]></description>
     <styleUrl>#style668</styleUrl>
     <Point>
@@ -901,7 +1055,6 @@
   </Placemark>
   <Placemark>
     <name>KAUST-VENDOR GATE</name>
-    <Snippet></Snippet>
     <description><![CDATA[]]></description>
     <styleUrl>#style668</styleUrl>
     <Point>
@@ -910,7 +1063,6 @@
   </Placemark>
   <Placemark>
     <name>KAUST-THUWAL GATE</name>
-    <Snippet></Snippet>
     <description><![CDATA[]]></description>
     <styleUrl>#style668</styleUrl>
     <Point>
