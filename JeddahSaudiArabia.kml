@@ -192,6 +192,51 @@
       </Icon>
     </IconStyle>
   </Style>
+ <Style id="style693">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/computers.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+
+  <Placemark>
+    <name>Computer Shops</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Farther Down this street: Khalid Al Waleed St.</div>]]></description>
+    <styleUrl>#style693</styleUrl>
+    <Point>
+      <coordinates>39.185143,21.529419,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Computer Stores</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style693</styleUrl>
+    <Point>
+      <coordinates>39.153728,21.612471,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Computer Shops: MANY (S)</name>
+    <Snippet>This is about the South end of the Computer Stores strip. DETAILS? See: http://r</Snippet>
+    <description><![CDATA[<div dir="ltr">This is about the South end of the Computer Stores strip. DETAILS? See: <a href="http://redseainfo.info" target="_blank">http://redseainfo.info</a></div>]]></description>
+    <styleUrl>#style693</styleUrl>
+    <Point>
+      <coordinates>39.186207,21.517082,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>COMPUTER Shops: MANY (N)</name>
+    <Snippet>This is about the North end of the Computer Shops &amp;apos;Souk&amp;apos;.DETAILS? See:</Snippet>
+    <description><![CDATA[<div dir="ltr">This is about the North end of the Computer Shops 'Souk'.<br>DETAILS? See: <a href="http://redseainfo.info" target="_blank">http://redseainfo.info</a></div>]]></description>
+    <styleUrl>#style693</styleUrl>
+    <Point>
+      <coordinates>39.185673,21.520290,0.000000</coordinates>
+    </Point>
+  </Placemark>
+
 
 
   <Placemark>
@@ -546,6 +591,15 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Palm Beach</name>
+    <Snippet>A private beach and accommodation facility.Parking is outside (road side car par</Snippet>
+    <description><![CDATA[<div dir="ltr">A private beach and accommodation facility.<br>Parking is outside (road side car park).<br>Yellow brick fence (wall) - Palm Beach written on this.<br>Entrance fee is &lt; 100 SR.</div>]]></description>
+    <styleUrl>#style675</styleUrl>
+    <Point>
+      <coordinates>39.075157,21.728962,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Albilad Beach</name>
     <description><![CDATA[GPS: +21° 42' 29.22", +39° 5' 9.90"<br>]]></description>
     <styleUrl>#style675</styleUrl>
@@ -559,6 +613,30 @@
     <styleUrl>#style675</styleUrl>
     <Point>
       <coordinates>39.051201,21.773600,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Koreana restaurant</name>
+    <description><![CDATA[<div dir="ltr">Restaurant is in what looks like residential area and may be difficult to find. Call 660-4769 if lost.<br>&nbsp;</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.165337,21.535366,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sahareej Aden Yemini Resturaunt</name>
+    <description><![CDATA[<div dir="ltr">The best Yemeni restaurant I have been to in Jeddah. The food is incredible! -Sameed</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.199306,21.578571,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Asia Restaurant </name>
+    <description><![CDATA[<div dir="ltr">Thai Food - Recommended<br>See Review:<br>http://www.jeddahfood.com/?p=5548<br><br>02 6828525</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.161476,21.580608,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
