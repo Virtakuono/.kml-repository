@@ -199,7 +199,70 @@
       </Icon>
     </IconStyle>
   </Style>
+ <Style id="style694">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/mall.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
 
+
+  <Placemark>
+    <name>Mega Mall</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>41.066895,20.735565,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hera International Mall</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>39.152954,21.615622,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mall of Arabia</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>39.153728,21.613867,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Red Sea Mall</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>39.109955,21.626793,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>THALIA MALL</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>39.148834,21.549059,0.000000</coordinates>
+    </Point>
+  <Placemark>
+    <name>Aziz Mall</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>39.199306,21.576677,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Roshan Mall</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>39.110130,21.665110,0.000000</coordinates>
+    </Point>
+  </Placemark>
   <Placemark>
     <name>Computer Shops</name>
     <Snippet></Snippet>
