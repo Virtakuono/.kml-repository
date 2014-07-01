@@ -2,7 +2,7 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
   <name>Points of Interest in and near Jeddah, Kingdom of Saudi Arabia</name>
-  <description><![CDATA[Please add relevant points of interest to the wider KAUST community in Github.com]]></description>
+  <description><![CDATA[See detailed info at https://github.com/Virtakuono/.kml-repository]]></description>
   <Style id="style666">
     <IconStyle>
       <Icon>
@@ -133,6 +133,27 @@
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/generic.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+ <Style id="style685">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/police_station.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+ <Style id="style686">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/university.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+ <Style id="style687">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/carrepair.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -274,7 +295,7 @@
   <Placemark>
     <name>Effat University</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style686</styleUrl>
     <Point>
       <coordinates>39.210918,21.478472,0.000000</coordinates>
     </Point>
@@ -282,7 +303,7 @@
   <Placemark>
     <name>Balad Police Station</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style685</styleUrl>
     <Point>
       <coordinates>39.176704,21.501102,0.000000</coordinates>
     </Point>
@@ -290,7 +311,7 @@
   <Placemark>
     <name>Motor Vehicle Periodic Inspection</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style687</styleUrl>
     <Point>
       <coordinates>39.194347,21.623201,0.000000</coordinates>
     </Point>
