@@ -122,36 +122,253 @@
       </Icon>
     </IconStyle>
   </Style>
- <Style id="style665">
+ <Style id="style683">
     <IconStyle>
       <Icon>
-        <href>https:/raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/hospital-building.png</href>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/hospital-building.png</href>
       </Icon>
     </IconStyle>
   </Style>
- <Style id="style664">
+ <Style id="style684">
     <IconStyle>
       <Icon>
-        <href>https:/raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/computers.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
- <Style id="style663">
-    <IconStyle>
-      <Icon>
-        <href>https:/raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/bank.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
- <Style id="style662">
-    <IconStyle>
-      <Icon>
-        <href>https:/raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/generic.png</href>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/generic.png</href>
       </Icon>
     </IconStyle>
   </Style>
 
 
+  <Placemark>
+    <name>Four Seasons</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>46.673557,24.711058,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Habitat hotel</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>39.156345,21.606924,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hilton Hotel</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>39.107208,21.604450,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Holiday Inn - Intercontinental</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>39.156162,21.515903,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Holiday Inn Jeddah Al Salam</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>39.207977,21.484392,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Le Meridien</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>39.172180,21.558962,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Radisson Blu Royal Suites</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>39.189606,21.549538,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sultan</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>39.142090,21.608330,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avail Hotel and Suite</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>39.155102,21.612190,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sheraton Towers</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>46.665127,24.727449,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Marriott Jeddah</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>39.195236,21.531874,0.000000</coordinates>
+    </Point>
+  </Placemark>
+
+
+
+  <Placemark>
+    <name>Wheels</name>
+    <description><![CDATA[<div dir="ltr">Sari str, <br>Carries TREK - Sam Abalos (WHEELS) Tel:026981302 Cell:0508691557 (open 09:30-12:00 and 16:30-00:00 from a phone call)<br><br>Note that the roundabout the map shows West is here has been replaced with an overpass along Sari Street. To get to Wheels you need to approach from East and NOT go on the overpass.</div>]]></description>
+    <styleUrl>#style684</styleUrl>
+    <Point>
+      <coordinates>39.145294,21.575739,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Look for Tent Makers in this area</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style684</styleUrl>
+    <Point>
+      <coordinates>39.248657,21.583221,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>United States Consulate</name>
+    <description><![CDATA[This is the entrance for the US Consulate for passports, visas, document notarization, etc. Park in the hospital parking lot and cross the street to get to the entrance.<br>]]></description>
+    <styleUrl>#style684</styleUrl>
+    <Point>
+      <coordinates>39.166039,21.525021,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mayrig restaurant</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style684</styleUrl>
+    <Point>
+      <coordinates>39.172989,21.543489,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Piatto (Etoile Center)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style684</styleUrl>
+    <Point>
+      <coordinates>39.127277,21.575054,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Effat University</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style684</styleUrl>
+    <Point>
+      <coordinates>39.210918,21.478472,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Balad Police Station</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style684</styleUrl>
+    <Point>
+      <coordinates>39.176704,21.501102,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Motor Vehicle Periodic Inspection</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style684</styleUrl>
+    <Point>
+      <coordinates>39.194347,21.623201,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Checkpoint</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style684</styleUrl>
+    <Point>
+      <coordinates>40.275879,22.329752,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Checkpoint</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style684</styleUrl>
+    <Point>
+      <coordinates>39.255779,21.408072,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SABB Branch</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style684</styleUrl>
+    <Point>
+      <coordinates>39.142700,21.571289,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>APPLEBEE&#39;s</name>
+    <Snippet>Restaurant</Snippet>
+    <description><![CDATA[<div dir="ltr">Restaurant</div>]]></description>
+    <styleUrl>#style684</styleUrl>
+    <Point>
+      <coordinates>39.131584,21.646580,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SITACO</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style684</styleUrl>
+    <Point>
+      <coordinates>39.164886,21.577953,0.000000</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Jeddah International Markets</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style684</styleUrl>
+    <Point>
+      <coordinates>39.170723,21.558397,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>HindaWeyah (Ribbon Souk)</name>
+    <description><![CDATA[<div dir="ltr">Thanks, Linda!</div>]]></description>
+    <styleUrl>#style684</styleUrl>
+    <Point>
+      <coordinates>39.232178,21.442842,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sewing Machine Shops</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style684</styleUrl>
+    <Point>
+      <coordinates>39.186604,21.477751,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>IMC - International Medical Center, Jeddah</name>
+    <description><![CDATA[<div dir="ltr">PO Box: 2172<br>Jeddah: 21451<br><br>Phone: +966 2 650 9000<br>Fax: +966 2 653 5045<br>E-mail: imcinfo@imc.med.sa</div>]]></description>
+    <styleUrl>#style683</styleUrl>
+    <Point>
+      <coordinates>39.174286,21.513458,0.000000</coordinates>
+    </Point>
+  </Placemark>
   <Placemark>
     <name>Park Hyatt Hotel</name>
     <description><![CDATA[]]></description>
@@ -177,27 +394,11 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>IOB - KAUST</name>
-    <description><![CDATA[]]></description>
-    <styleUrl>#style662</styleUrl>
-    <Point>
-      <coordinates>39.142834,21.567173,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Good Seafood Restaurant</name>
     <description><![CDATA[]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.105740,21.588215,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>SABB Branch</name>
-    <description><![CDATA[]]></description>
-    <styleUrl>#style663</styleUrl>
-    <Point>
-      <coordinates>39.142700,21.571289,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -273,14 +474,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Lingo Computer Store</name>
-    <description><![CDATA[<div dir="ltr">Sells Apple products</div>]]></description>
-    <styleUrl>#style664</styleUrl>
-    <Point>
-      <coordinates>39.109440,21.665565,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Hyper Panda</name>
     <description><![CDATA[<div dir="ltr">Hyper Market. Large grocery st</div>]]></description>
     <styleUrl>#style673</styleUrl>
@@ -353,35 +546,11 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Wheels</name>
-    <description><![CDATA[<div dir="ltr">The only specialised bike shop in Jeddah. Trak only. Phone: 698 1302.<br><br>Note that the roundabout the map shows West is here has been replaced with an overpass along Sari Street. To get to Wheels you need to approach from East and NOT go on the overpass.</div>]]></description>
-    <styleUrl>#style662</styleUrl>
-    <Point>
-      <coordinates>39.145294,21.575548,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Jarir Bookstore</name>
     <description><![CDATA[<div dir="ltr">on Sar[iy] Street.<br><br>Showroom Timings: Sat-Thu 9am-2pm, 4.30pm-11pm; Fri 4.30pm-11pm<br>Tel. No. +966 2 682-7666, Fax No.+966 2 698-1120 </div>]]></description>
     <styleUrl>#style678</styleUrl>
     <Point>
       <coordinates>39.145775,21.574816,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>IMC - International Medical Center, Jeddah</name>
-    <description><![CDATA[<div dir="ltr">International Medical Center<br>PO Box: 2172<br>Jeddah: 21451<br><br>Phone: +966 2 650 9000<br>Fax: +966 2 653 5045<br>E-mail: imcinfo@imc.med.sa</div>]]></description>
-    <styleUrl>#style665</styleUrl>
-    <Point>
-      <coordinates>39.174286,21.513458,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>IMC - Emergency Room</name>
-    <description><![CDATA[]]></description>
-    <styleUrl>#style665</styleUrl>
-    <Point>
-      <coordinates>39.175350,21.513832,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
