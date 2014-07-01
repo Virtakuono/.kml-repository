@@ -171,6 +171,15 @@
       </Icon>
     </IconStyle>
   </Style>
+ <Style id="style690">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/embassy.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+
+
 
   <Placemark>
     <name>Four Seasons</name>
@@ -284,7 +293,7 @@
   <Placemark>
     <name>United States Consulate</name>
     <description><![CDATA[This is the entrance for the US Consulate for passports, visas, document notarization, etc. Park in the hospital parking lot and cross the street to get to the entrance.<br>]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style690</styleUrl>
     <Point>
       <coordinates>39.166039,21.525021,0.000000</coordinates>
     </Point>
