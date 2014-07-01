@@ -157,7 +157,13 @@
       </Icon>
     </IconStyle>
   </Style>
-
+ <Style id="style688">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/bank.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
 
   <Placemark>
     <name>Four Seasons</name>
@@ -335,7 +341,7 @@
   <Placemark>
     <name>SABB Branch</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style688</styleUrl>
     <Point>
       <coordinates>39.142700,21.571289,0.000000</coordinates>
     </Point>
@@ -361,15 +367,15 @@
   <Placemark>
     <name>Jeddah International Markets</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style677</styleUrl>
     <Point>
       <coordinates>39.170723,21.558397,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
-    <name>HindaWeyah (Ribbon Souk)</name>
+    <name>Hinda Weyah (Ribbon Souk)</name>
     <description><![CDATA[<div dir="ltr">Thanks, Linda!</div>]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style677</styleUrl>
     <Point>
       <coordinates>39.232178,21.442842,0.000000</coordinates>
     </Point>
