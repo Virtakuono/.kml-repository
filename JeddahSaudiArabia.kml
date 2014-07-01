@@ -209,14 +209,6 @@
 
 
   <Placemark>
-    <name>Mega Mall</name>
-    <description><![CDATA[]]></description>
-    <styleUrl>#style694</styleUrl>
-    <Point>
-      <coordinates>41.066895,20.735565,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Hera International Mall</name>
     <description><![CDATA[]]></description>
     <styleUrl>#style694</styleUrl>
