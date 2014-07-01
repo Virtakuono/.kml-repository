@@ -285,7 +285,7 @@
   <Placemark>
     <name>Mayrig restaurant</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.172989,21.543489,0.000000</coordinates>
     </Point>
@@ -293,7 +293,7 @@
   <Placemark>
     <name>Piatto (Etoile Center)</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.127277,21.575054,0.000000</coordinates>
     </Point>
@@ -350,7 +350,7 @@
     <name>APPLEBEE&#39;s</name>
     <Snippet>Restaurant</Snippet>
     <description><![CDATA[<div dir="ltr">Restaurant</div>]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.131584,21.646580,0.000000</coordinates>
     </Point>
@@ -358,7 +358,7 @@
   <Placemark>
     <name>SITACO</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style684</styleUrl>
+    <styleUrl>#style676</styleUrl>
     <Point>
       <coordinates>39.164886,21.577953,0.000000</coordinates>
     </Point>
