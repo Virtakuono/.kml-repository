@@ -592,6 +592,23 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Red Sea Resort (Sheraton)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style675</styleUrl>
+    <Point>
+      <coordinates>39.072361,21.735115,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Al Lith Resort</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style675</styleUrl>
+    <Point>
+      <coordinates>40.246845,20.158010,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Palm Beach</name>
     <Snippet>A private beach and accommodation facility.Parking is outside (road side car par</Snippet>
     <description><![CDATA[<div dir="ltr">A private beach and accommodation facility.<br>Parking is outside (road side car park).<br>Yellow brick fence (wall) - Palm Beach written on this.<br>Entrance fee is &lt; 100 SR.</div>]]></description>
