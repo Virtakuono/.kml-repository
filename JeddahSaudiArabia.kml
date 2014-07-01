@@ -257,7 +257,6 @@
   </Placemark>
   <Placemark>
     <name>Computer Shops</name>
-    <Snippet></Snippet>
     <description><![CDATA[<div dir="ltr">Farther Down this street: Khalid Al Waleed St.</div>]]></description>
     <styleUrl>#style693</styleUrl>
     <Point>
@@ -266,7 +265,6 @@
   </Placemark>
   <Placemark>
     <name>Computer Stores</name>
-    <Snippet></Snippet>
     <description><![CDATA[]]></description>
     <styleUrl>#style693</styleUrl>
     <Point>
@@ -301,11 +299,8 @@
     </Point>
   </Placemark>
 
-
-
   <Placemark>
     <name>Four Seasons</name>
-    <Snippet></Snippet>
     <description><![CDATA[]]></description>
     <styleUrl>#style666</styleUrl>
     <Point>
@@ -314,7 +309,6 @@
   </Placemark>
   <Placemark>
     <name>Habitat hotel</name>
-    <Snippet></Snippet>
     <description><![CDATA[]]></description>
     <styleUrl>#style666</styleUrl>
     <Point>
@@ -656,7 +650,6 @@
   </Placemark>
   <Placemark>
     <name>Al Lith Resort</name>
-    <Snippet></Snippet>
     <description><![CDATA[]]></description>
     <styleUrl>#style675</styleUrl>
     <Point>
@@ -1038,7 +1031,6 @@
   </Placemark>
   <Placemark>
     <name>THUWAL EXIT</name>
-    <Snippet></Snippet>
     <description><![CDATA[]]></description>
     <styleUrl>#style669</styleUrl>
     <Point>
@@ -1047,7 +1039,6 @@
   </Placemark>
   <Placemark>
     <name>KAUST EXIT: MAIN GATE</name>
-    <Snippet></Snippet>
     <description><![CDATA[]]></description>
     <styleUrl>#style669</styleUrl>
     <Point>
@@ -1056,7 +1047,6 @@
   </Placemark>
   <Placemark>
     <name>KAUST EXIT: MAIN GATE</name>
-    <Snippet></Snippet>
     <description><![CDATA[]]></description>
     <styleUrl>#style668</styleUrl>
     <Point>
@@ -1065,7 +1055,6 @@
   </Placemark>
   <Placemark>
     <name>KAUST-VENDOR GATE</name>
-    <Snippet></Snippet>
     <description><![CDATA[]]></description>
     <styleUrl>#style668</styleUrl>
     <Point>
@@ -1074,7 +1063,6 @@
   </Placemark>
   <Placemark>
     <name>KAUST-THUWAL GATE</name>
-    <Snippet></Snippet>
     <description><![CDATA[]]></description>
     <styleUrl>#style668</styleUrl>
     <Point>
