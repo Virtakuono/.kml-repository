@@ -469,6 +469,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>SABB Branch</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style688</styleUrl>
+    <Point>
+      <coordinates>39.078530,22.403745,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>APPLEBEE&#39;s</name>
     <Snippet>Restaurant</Snippet>
     <description><![CDATA[<div dir="ltr">Restaurant</div>]]></description>
