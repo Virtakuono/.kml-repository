@@ -265,7 +265,7 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Computer Stores</name>
+    <name>Computer Shops</name>
     <description><![CDATA[]]></description>
     <styleUrl>#style693</styleUrl>
     <Point>
@@ -274,7 +274,7 @@
   </Placemark>
   <Placemark>
     <name>Computer Shops: MANY (S)</name>
-    <Snippet>This is about the South end of the Computer Stores strip. DETAILS? See: http://r</Snippet>
+    <Snippet>This is about the South end of the Computer Stores strip.</Snippet>
     <description><![CDATA[<div dir="ltr">This is about the South end of the Computer Stores strip. DETAILS? See: <a href="http://redseainfo.info" target="_blank">http://redseainfo.info</a></div>]]></description>
     <styleUrl>#style693</styleUrl>
     <Point>
@@ -283,7 +283,7 @@
   </Placemark>
   <Placemark>
     <name>COMPUTER Shops: MANY (N)</name>
-    <Snippet>This is about the North end of the Computer Shops &amp;apos;Souk&amp;apos;.DETAILS? See:</Snippet>
+    <Snippet>This is about the North end of the Computer Shops &amp;apos;Souk&amp;apos</Snippet>
     <description><![CDATA[<div dir="ltr">This is about the North end of the Computer Shops 'Souk'.<br>DETAILS? See: <a href="http://redseainfo.info" target="_blank">http://redseainfo.info</a></div>]]></description>
     <styleUrl>#style693</styleUrl>
     <Point>
@@ -306,14 +306,6 @@
     <styleUrl>#style666</styleUrl>
     <Point>
       <coordinates>46.673557,24.711058,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Habitat hotel</name>
-    <description><![CDATA[]]></description>
-    <styleUrl>#style666</styleUrl>
-    <Point>
-      <coordinates>39.156345,21.606924,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
