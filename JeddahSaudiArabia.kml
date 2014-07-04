@@ -462,7 +462,7 @@
   </Placemark>
   <Placemark>
     <name>SABB Branch</name>
-    <description><![CDATA[Full services, includes a separate ladies section]]></description>
+    <description><![CDATA[]]></description>
     <styleUrl>#style688</styleUrl>
     <Point>
       <coordinates>39.142700,21.571289,0.000000</coordinates>
@@ -470,7 +470,7 @@
   </Placemark>
   <Placemark>
     <name>SABB Branch</name>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[Full services, includes a separate ladies section]]></description>
     <styleUrl>#style688</styleUrl>
     <Point>
       <coordinates>39.078530,22.403745,0.000000</coordinates>
