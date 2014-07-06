@@ -894,7 +894,14 @@
       <coordinates>39.2081129,21.4120009,0.0000000</coordinates>
     </Point>
 </Placemark>
-
+  <Placemark>
+    <name>Afghan Souq</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style671</styleUrl>
+    <Point>
+      <coordinates>39.194637,21.477522,0.000000</coordinates>
+    </Point>
+  </Placemark>
 <Placemark>
     <name>Alahdal Souq</name>
     <description><![CDATA[<div dir="ltr">Some traditional stuff and they have a small animal market.</div>]]></description>
