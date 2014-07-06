@@ -885,6 +885,14 @@
       <coordinates>39.2245174,21.3807425,0.0000000</coordinates>
     </Point>
 </Placemark>
+  <Placemark>
+    <name>Jeddah International Markets</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style671</styleUrl>
+    <Point>
+      <coordinates>39.170723,21.558397,0.000000</coordinates>
+    </Point>
+  </Placemark>
 
 <Placemark>
     <name>Rockets Souq</name>
