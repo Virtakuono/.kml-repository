@@ -299,6 +299,22 @@
       <coordinates>39.109730,21.665180,0.000000</coordinates>
     </Point>
   </Placemark>
+  <Placemark>
+    <name>iZone</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style693</styleUrl>
+    <Point>
+      <coordinates>39.143277,21.568754,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>iZone</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style693</styleUrl>
+    <Point>
+      <coordinates>39.165702,21.553138,0.000000</coordinates>
+    </Point>
+  </Placemark>
 
   <Placemark>
     <name>Four Seasons</name>
