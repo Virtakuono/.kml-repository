@@ -206,8 +206,23 @@
       </Icon>
     </IconStyle>
   </Style>
+ <Style id="style695">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/boatshop.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
 
 
+  <Placemark>
+    <name>Boat Dealer</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style695</styleUrl>
+    <Point>
+      <coordinates>39.120678,21.607118,0.000000</coordinates>
+    </Point>
+  </Placemark>
   <Placemark>
     <name>Hera International Mall</name>
     <description><![CDATA[]]></description>
