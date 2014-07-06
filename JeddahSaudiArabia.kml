@@ -213,8 +213,38 @@
       </Icon>
     </IconStyle>
   </Style>
+ <Style id="style696">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/scubashop.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+ <Style id="style697">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/scuba.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
 
 
+  <Placemark>
+    <name>Desert Sea Divers</name>
+    <description><![CDATA[Dive shop and marina. http://desertseadivers.com/]]></description>
+    <styleUrl>#style697</styleUrl>
+    <Point>
+      <coordinates>39.106958,21.730373,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dream Divers</name>
+    <description><![CDATA[Departure point for boat trips]]></description>
+    <styleUrl>#style697</styleUrl>
+    <Point>
+      <coordinates>39.123057,21.736630,0.000000</coordinates>
+    </Point>
+  </Placemark>
   <Placemark>
     <name>Boat Dealer</name>
     <description><![CDATA[]]></description>
