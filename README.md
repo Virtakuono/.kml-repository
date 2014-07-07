@@ -48,5 +48,8 @@ and professor Raul Tempone.
 
 Icons are copied from
 [Map Icons Collection by Nicolas Mollet](http://mapicons.nicolasmollet.com)
-under CC BY SA 3.0 License
+under [CC BY SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/)
+the few shell scripts in this repository may be redistributed under the same
+license.
+
 
