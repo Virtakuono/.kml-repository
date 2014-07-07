@@ -529,6 +529,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Dar Al-Hekma University</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style686</styleUrl>
+    <Point>
+      <coordinates>39.230568,21.488691,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Balad Police Station</name>
     <description><![CDATA[]]></description>
     <styleUrl>#style685</styleUrl>
