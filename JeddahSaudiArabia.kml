@@ -716,6 +716,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>SACO</name>
+    <description><![CDATA[<div dir="ltr">Hardware Store<br>http://www.saco-ksa.com/</div>]]></description>
+    <styleUrl>#style676</styleUrl>
+    <Point>
+      <coordinates>39.165009,21.5182478,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Red Sea Resort (Sheraton)</name>
     <description><![CDATA[]]></description>
     <styleUrl>#style675</styleUrl>
