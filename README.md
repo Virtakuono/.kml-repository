@@ -46,7 +46,7 @@ includes material from
 [Claire Sale](https://maps.google.com/maps/ms?msid=216110785410091998621.0004a4de8ab547c2ca385&msa=0&ll=22.287002,39.112723&spn=0.001437,0.001851&dg=feature)
 and professor Raul Tempone.
 
-Some icons copied from
-(Map Icons Collection by Nicolas Mollet)[http://mapicons.nicolasmollet.com]
+Icons are copied from
+[Map Icons Collection by Nicolas Mollet](http://mapicons.nicolasmollet.com)
 under CC BY SA 3.0 License
 
