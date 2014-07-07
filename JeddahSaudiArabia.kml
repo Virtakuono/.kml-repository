@@ -262,11 +262,28 @@
       </Icon>
     </IconStyle>
   </Style>
+ <Style id="style703">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/atm.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
 
 
 
 
 
+
+
+  <Placemark>
+    <name>ATM</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style703</styleUrl>
+    <Point>
+      <coordinates>39.114738,22.289682,0.000000</coordinates>
+    </Point>
+  </Placemark>
   <Placemark>
     <name>Car wash</name>
     <description><![CDATA[<div dir="ltr">SAR 20. They use high pressure hoses, cloth and lots of soap. </div>]]></description>
