@@ -847,6 +847,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>hardware store</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style676</styleUrl>
+    <Point>
+      <coordinates>39.113754,22.290386,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Red Sea Resort (Sheraton)</name>
     <description><![CDATA[]]></description>
     <styleUrl>#style675</styleUrl>
