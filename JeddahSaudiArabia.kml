@@ -1109,6 +1109,22 @@
     </Point>
 </Placemark>
 <Placemark>
+    <name>Goodies</name>
+    <description><![CDATA[<div dir="ltr">A good food market type restaurant, large dessers/sweets selection. In Coral Mall.</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.163132,21.550248,0.0000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Goodies</name>
+    <description><![CDATA[<div dir="ltr">A good food market type restaurant, large dessers/sweets selection. In Stars Avenue Mall.</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.127308,21.57295,0.0000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
     <name>Eurovets</name>
     <description><![CDATA[<div dir="ltr">Vet clinic with Dr. Carlos</div>]]></description>
     <styleUrl>#style680</styleUrl>
