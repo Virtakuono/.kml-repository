@@ -38,6 +38,23 @@ echo ""
 
 diff JeddahShopping.kml JeddahShopping_old.kml
 
+echo "Backing up Thuwal map by Claire..."
+echo ""
+
+mv Thuwal.kml Thuwal_old.kml
+
+wget -O Thuwal.kml "https://maps.google.com/maps/ms?hl=en&ie=UTF8&oe=UTF8&dg=feature&authuser=0&msa=0&output=kml&msid=216110785410091998621.0004a4de8ab547c2ca385"
+
+echo ""
+echo "Done."
+
+echo ""
+echo "Difference of the old and new version of the file:"
+echo ""
+
+diff Thuwal.kml Thuwal_old.kml
+
+
 echo ""
 echo "Commit and push if needed."
 echo ""
