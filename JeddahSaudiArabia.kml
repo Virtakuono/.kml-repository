@@ -255,7 +255,22 @@
       </Icon>
     </IconStyle>
   </Style>
+ <Style id="style702">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/carwash.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
 
+  <Placemark>
+    <name>Car wash</name>
+    <description><![CDATA[<div dir="ltr">SAR 20. They use high pressure hoses, cloth and lots of soap. </div>]]></description>
+    <styleUrl>#style702</styleUrl>
+    <Point>
+      <coordinates>39.115707,22.287516,0.000000</coordinates>
+    </Point>
+  </Placemark>
   <Placemark>
     <name>Pharmacy</name>
     <description><![CDATA[]]></description>
