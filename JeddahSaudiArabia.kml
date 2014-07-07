@@ -1207,6 +1207,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>KAUST-MAIN GATE</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style668</styleUrl>
+    <Point>
+      <coordinates>>39.138309,22.320393,,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>KAUST-THUWAL GATE</name>
     <description><![CDATA[]]></description>
     <styleUrl>#style668</styleUrl>
