@@ -20,20 +20,27 @@ please fork and make pull request. Since the map essentially
 relies on the github server to host the .kml file, note that
 any changes need to be pushed to the server before they are
 public. For debugging purposes you may
-a) view your edited .kml file in, for example, google earth
-b) put your kml file online somewhere and modify the gmail url accordingly
-c) make changes while testing on a different branch than the master.
+1. view your edited .kml file in, for example, google earth
+2. put your kml file online somewhere and modify the gmail url accordingly
+3. make changes while testing on a different branch than the master.
 
-Another noteworthy source of information is 
+There are a plethora of google maps that have roughly the
+same purpose as this map. Many of those maps appear to have
+been copied from the same origins and I have continued to
+ruthlessly follow in the footsteps of plagiarisation.
+Two maps worth noting are 
 [http://goo.gl/maps/mFxL3]
-from where a lot of icons have been copied more or less
-verbatim leaving out a few obviously misplaced icons, such
-as Danube market at the Beach, and La Plage beach in the sea.
-A problem with this map is that - to my knowledge -
-it has no version control and any mistakes committed by mistake
-are hard to correct. This repository includes a small script that
-a) Downloads a backup of the relevant .kml file for version control
-b) Allows to track the changes that non-git-users make to that map
+and
+[https://maps.google.com/maps/ms?ie=UTF8&msa=0&msid=114277812997999651227.0004863c2f62b04789ee3&ll=21.487734,39.203382&spn=0.009803,0.021007&t=h&z=16&iwloc=000486d78d6a0da7a66b9&dg=feature]
+The first one is a rather comprehensive list of items, but lacks
+version control. Anyone can edit and as there is no version control,
+any fat finger mistakes are nearly impossible to correct.
+The latter one, on the other hand, is more correct, but the only
+option to edit it is through emailing the author.
+This map aims to fix the problems by
+1. Creating a backup and version control of both of the maps mentioned above in order to track how these maps have been edited
+2. Allowing non-git-users to make changes to the former map in a way that is easy to update into the relevant .kml file.
+
 
 Some icons copied from Map Icons Collection by Nicolas Mollet
 [http://mapicons.nicolasmollet.com]
