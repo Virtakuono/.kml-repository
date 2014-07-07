@@ -1172,6 +1172,79 @@
       <coordinates>39.127308,21.57295,0.0000000</coordinates>
     </Point>
 </Placemark>
+  <Placemark>
+    <name>Yemeni Resturant</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.113758,22.287275,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chicken and Rice</name>
+    <description><![CDATA[<div dir="ltr">One of the best grilled chicken in Thuwal and very nice rice.</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>38.627930,22.806566,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Istanbul Resturaunt</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>38.320312,22.786310,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Shwarma Carry-out</name>
+    <description><![CDATA[<div dir="ltr">4 sar for a shwarma. Delicious. Beef *(skip it) Chicken, (yep.) and Falafel for the vegetarians.</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.112209,22.286245,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Shish tawook</name>
+    <description><![CDATA[<div dir="ltr">delicious shish tawook, 4SAR each</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.115719,22.291243,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rotisserie Chicken Carry-out</name>
+    <description><![CDATA[<div dir="ltr">Rotisserie chicken. 22 sar for a whole chicken, rice and arabic bread.</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.113503,22.287018,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Broast Chicken Carry-out</name>
+    <description><![CDATA[<div dir="ltr">Fried Chicken (BROAST) Get a 1/2 chicken plus french fries, garlic sauce and a few arabic breads for 11sar. Yes, you heard me...11sar, and it's to die for. Everything is fried fresh when you walk in.</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.112083,22.286291,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pakistani Restaurant </name>
+    <description><![CDATA[Great fresh-baked naan. &nbsp;]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.114506,22.288223,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chicken</name>
+    <description><![CDATA[Grilled &amp; rotisserie, comes with huge plate of rice and salad.]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.113205,22.287312,0.000000</coordinates>
+    </Point>
+  </Placemark>
+
 <Placemark>
     <name>Eurovets</name>
     <description><![CDATA[<div dir="ltr">Vet clinic with Dr. Carlos</div>]]></description>
