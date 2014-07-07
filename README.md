@@ -18,9 +18,9 @@ please fork and make pull request. Since the map essentially
 relies on the github server to host the .kml file, note that
 any changes need to be pushed to the server before they are
 public. For debugging purposes you may
-1. view your edited .kml file in, for example, google earth
-2. put your kml file online somewhere and modify the gmail url accordingly
-3. make changes while testing on a different branch than the master.
+  1. view your edited .kml file in, for example, google earth
+  2. put your kml file online somewhere and modify the gmail url accordingly
+  3. make changes while testing on a different branch than the master.
 
 There are a plethora of google maps that have roughly the
 same purpose as this map. Many of those maps appear to have
@@ -38,8 +38,8 @@ any fat finger mistakes are nearly impossible to correct.
 The latter one, on the other hand, is more correct, but the only
 option to edit it is through emailing the author.
 This map aims to fix the problems by
-1. Creating a backup and version control of both of the maps mentioned above in order to track how these maps have been edited
-2. Allowing non-git-users to make changes to the former map in a way that is easy to update into the relevant .kml file.
+  1. Creating a backup and version control of both of the maps mentioned above in order to track how these maps have been edited
+  2. Allowing non-git-users to make changes to the former map in a way that is easy to update into the relevant .kml file.
 
 In addition to the two maps mentioned above, this repository
 includes material from
