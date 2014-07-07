@@ -791,6 +791,22 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Electronic Store and Mobiles</name>
+    <description><![CDATA[<div dir="ltr">Memory sticks, cell phones, etc. Best selection and prices that I've found.</div>]]></description>
+    <styleUrl>#style674</styleUrl>
+    <Point>
+      <coordinates>39.112736,22.287321,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mobile Shop</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style674</styleUrl>
+    <Point>
+      <coordinates>39.112926,22.287313,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Emax Store 1 (electronics)</name>
     <description><![CDATA[<div dir="ltr">Sitteen Street, Bawadi,<br>Jeddah,<br>Tel: +966 2 6977519, 6977517</div>]]></description>
     <styleUrl>#style674</styleUrl>
