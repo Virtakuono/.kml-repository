@@ -1230,6 +1230,14 @@
       <coordinates>39.1371766,22.7396757,0.000000</coordinates>
     </Point>
   </Placemark>
+  <Placemark>
+    <name>Madain Saleh</name>
+    <description><![CDATA[Access here is restricted. See, for example http://kcomm.wikispaces.com/Day+Trips for info on how to get permits.]]></description>
+    <styleUrl>#style699</styleUrl>
+    <Point>
+      <coordinates>37.947500,26.814167,0.000000</coordinates>
+    </Point>
+  </Placemark>
 
 </Document>
 </kml>
