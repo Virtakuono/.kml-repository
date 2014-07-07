@@ -248,7 +248,30 @@
       </Icon>
     </IconStyle>
   </Style>
+ <Style id="style701">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/photo.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
 
+  <Placemark>
+    <name>Passport Photo Studio</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style701</styleUrl>
+    <Point>
+      <coordinates>39.112568,22.286854,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Passport Photo Studio</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style701</styleUrl>
+    <Point>
+      <coordinates>39.113266,22.286694,0.000000</coordinates>
+    </Point>
+  </Placemark>
   <Placemark>
     <name>Desert Sea Divers</name>
     <description><![CDATA[Dive shop and marina. http://desertseadivers.com/]]></description>
@@ -580,6 +603,14 @@
     <styleUrl>#style688</styleUrl>
     <Point>
       <coordinates>39.142700,21.571289,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tahweel - Money Transfer </name>
+    <description><![CDATA[<div dir="ltr">Cheap Money Transfer (20 sar instead of 75 sar at samba) open in evenings/nights. Bring Iqama to setup account and get a card.</div>]]></description>
+    <styleUrl>#style688</styleUrl>
+    <Point>
+      <coordinates>37.727051,23.180763,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
