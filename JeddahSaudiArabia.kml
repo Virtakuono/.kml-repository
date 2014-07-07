@@ -614,14 +614,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Tahweel - Money Transfer </name>
-    <description><![CDATA[<div dir="ltr">Cheap Money Transfer (20 sar instead of 75 sar at samba) open in evenings/nights. Bring Iqama to setup account and get a card.</div>]]></description>
-    <styleUrl>#style688</styleUrl>
-    <Point>
-      <coordinates>37.727051,23.180763,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>SABB Branch</name>
     <description><![CDATA[Full services, includes a separate ladies section]]></description>
     <styleUrl>#style688</styleUrl>
@@ -1223,22 +1215,6 @@
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.113758,22.287275,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Chicken and Rice</name>
-    <description><![CDATA[<div dir="ltr">One of the best grilled chicken in Thuwal and very nice rice.</div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>38.627930,22.806566,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Istanbul Resturaunt</name>
-    <description><![CDATA[]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>38.320312,22.786310,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
