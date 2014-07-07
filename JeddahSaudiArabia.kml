@@ -263,6 +263,10 @@
     </IconStyle>
   </Style>
 
+
+
+
+
   <Placemark>
     <name>Car wash</name>
     <description><![CDATA[<div dir="ltr">SAR 20. They use high pressure hoses, cloth and lots of soap. </div>]]></description>
@@ -965,6 +969,14 @@
     <styleUrl>#style677</styleUrl>
     <Point>
       <coordinates>39.203960,21.633814,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mechanic</name>
+    <description><![CDATA[<div dir="ltr">also sells engine oil, filters etc</div>]]></description>
+    <styleUrl>#style687</styleUrl>
+    <Point>
+      <coordinates>39.115868,22.292561,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
