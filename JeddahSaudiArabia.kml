@@ -345,7 +345,7 @@
     <description><![CDATA[<div dir="ltr">Baroom centre,6733 Fayd Ar Rida, Jeddah 23213</div>]]></description>
     <styleUrl>#style693</styleUrl>
     <Point>
-      <coordinates>>39.172558,21.512861,0.000000</coordinates>
+      <coordinates>39.172558,21.512861,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1219,7 +1219,7 @@
     <description><![CDATA[]]></description>
     <styleUrl>#style668</styleUrl>
     <Point>
-      <coordinates>>39.138309,22.320393,,0.000000</coordinates>
+      <coordinates>39.138309,22.320393,,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
