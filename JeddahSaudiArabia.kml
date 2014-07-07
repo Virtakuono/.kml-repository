@@ -759,6 +759,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Grocery Store</name>
+    <description><![CDATA[<div dir="ltr">Good prices on veggies (you pay the seller directly for veggies, everything else do at the checkout) also get your cleaning supplies, some office supplies, household stuff here. <br><br>Try also their fresh baked bread.</div>]]></description>
+    <styleUrl>#style673</styleUrl>
+    <Point>
+      <coordinates>39.112556,22.286587,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Danube</name>
     <description><![CDATA[<div dir="ltr">Supermarket.</div>]]></description>
     <styleUrl>#style673</styleUrl>
