@@ -234,6 +234,13 @@
       </Icon>
     </IconStyle>
   </Style>
+ <Style id="style699">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/fortress.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
 
 
   <Placemark>
@@ -1215,5 +1222,14 @@
       <coordinates>39.849844,23.310912,0.000000</coordinates>
     </Point>
   </Placemark>
+  <Placemark>
+    <name>Ruins of an Ottoman fortress</name>
+    <description><![CDATA[Big thanks to Claire Sale for this, http://clairesale.com/adventures-in-the-desert-ottoman-castle-near-rabigh/]]></description>
+    <styleUrl>#style699</styleUrl>
+    <Point>
+      <coordinates>39.1371766,22.7396757,0.000000</coordinates>
+    </Point>
+  </Placemark>
+
 </Document>
 </kml>
