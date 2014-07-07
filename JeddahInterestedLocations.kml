@@ -1055,9 +1055,9 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>APPLEBEE&#39;s</name>
+    <name>Applebee&#39;s</name>
     <Snippet>Restaurant</Snippet>
-    <description><![CDATA[<div dir="ltr">Restaurant</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Restaurant, this is copied from Jeddah: Interested locations but seems to be in a residential area. Please update or verify the location.</div>]]></description>
     <styleUrl>#style107</styleUrl>
     <Point>
       <coordinates>39.131584,21.646580,0.000000</coordinates>
