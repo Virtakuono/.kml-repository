@@ -683,6 +683,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Tailor</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style692</styleUrl>
+    <Point>
+      <coordinates>39.112328,22.286188,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>IMC - International Medical Center, Jeddah</name>
     <description><![CDATA[<div dir="ltr">PO Box: 2172<br>Jeddah: 21451<br><br>Phone: +966 2 650 9000<br>Fax: +966 2 653 5045<br>E-mail: imcinfo@imc.med.sa</div>]]></description>
     <styleUrl>#style683</styleUrl>
