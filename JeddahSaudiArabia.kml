@@ -707,6 +707,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Danube</name>
+    <description><![CDATA[<div dir="ltr">Supermarket.</div>]]></description>
+    <styleUrl>#style673</styleUrl>
+    <Point>
+      <coordinates>39.163054,21.548998,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>IKEA</name>
     <description><![CDATA[<div dir="ltr">P.O.Box 8054, Jeddah 21482 – Saudi Arabia<br>Phone: +966 2 6633000<br><br><br>Saturday to Thursday: 10:00 – 24:00<br>Friday: 16:00 – 24:00<br>Special opening hours in Ramadan and EID. 	<br><br>IKEA in Jeddah<br>P.O.Box 8054, Jeddah 21482 – Saudi Arabia<br>Phone: +966 2 6633000<br>E-mail: Infojed@ikea.com.saThis e-mail address is being protected from spam bots, you need JavaScript enabled to view it<br><br>Opening hours at normal days:<br>Saturday to Thursday: 10:00 – 24:00<br>Friday: 17:00 – 24:00<br>Special opening hours in Ramadan and EID. </div>]]></description>
     <styleUrl>#style679</styleUrl>
