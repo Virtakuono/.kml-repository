@@ -1254,6 +1254,14 @@
       <coordinates>37.947500,26.814167,0.000000</coordinates>
     </Point>
   </Placemark>
+  <Placemark>
+    <name>Dive Shops</name>
+    <description><![CDATA[<div dir="ltr">2 in Danube Building, One across parking lot.</div>]]></description>
+    <styleUrl>#style696</styleUrl>
+    <Point>
+      <coordinates>39.162289,21.548698,0.000000</coordinates>
+    </Point>
+  </Placemark>
 
 </Document>
 </kml>
