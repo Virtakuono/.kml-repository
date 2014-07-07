@@ -277,6 +277,23 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Stars Avenue Mall</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>39.12837,21.57296,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Coral Mall</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>39.162856,21.550218,0.000000</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
     <name>Red Sea Mall</name>
     <description><![CDATA[]]></description>
     <styleUrl>#style694</styleUrl>
