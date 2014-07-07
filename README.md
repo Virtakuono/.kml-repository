@@ -29,9 +29,9 @@ assumably not subject to copyright,
 geographical data has been copied from both of them rather
 ruthlessly. 
 Two maps especially worth mentioning are
-(Jeddah: Interested Locations)[https://maps.google.com/maps/ms?msid=203555040976874160945.0004cf9d6a73b19256e5f&msa=0&ll=20.694462,41.31958&spn=4.983057,8.448486&dg=feature]
+[Jeddah: Interested Locations](https://maps.google.com/maps/ms?msid=203555040976874160945.0004cf9d6a73b19256e5f&msa=0&ll=20.694462,41.31958&spn=4.983057,8.448486&dg=feature)
 and
-(Jeddah Shopping)[https://maps.google.com/maps/ms?ie=UTF8&msa=0&msid=114277812997999651227.0004863c2f62b04789ee3&ll=21.487734,39.203382&spn=0.009803,0.021007&t=h&z=16&iwloc=000486d78d6a0da7a66b9&dg=feature] by Terry King.
+[Jeddah Shopping](https://maps.google.com/maps/ms?ie=UTF8&msa=0&msid=114277812997999651227.0004863c2f62b04789ee3&ll=21.487734,39.203382&spn=0.009803,0.021007&t=h&z=16&iwloc=000486d78d6a0da7a66b9&dg=feature) by Terry King.
 The first one is a rather comprehensive list of items, but lacks
 version control. Anyone can edit and as there is no version control,
 any fat finger mistakes are nearly impossible to correct.
@@ -43,10 +43,10 @@ This map aims to fix the problems by
 
 In addition to the two maps mentioned above, this repository
 includes material from
-(Claire Sale)[https://maps.google.com/maps/ms?msid=216110785410091998621.0004a4de8ab547c2ca385&msa=0&ll=22.287002,39.112723&spn=0.001437,0.001851&dg=feature]
+[Claire Sale](https://maps.google.com/maps/ms?msid=216110785410091998621.0004a4de8ab547c2ca385&msa=0&ll=22.287002,39.112723&spn=0.001437,0.001851&dg=feature)
 and professor Raul Tempone.
 
-Some icons copied from Map Icons Collection by Nicolas Mollet
-[http://mapicons.nicolasmollet.com]
+Some icons copied from
+(Map Icons Collection by Nicolas Mollet)[http://mapicons.nicolasmollet.com]
 under CC BY SA 3.0 License
 
