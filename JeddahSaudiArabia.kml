@@ -257,6 +257,14 @@
   </Style>
 
   <Placemark>
+    <name>Pharmacy</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style700</styleUrl>
+    <Point>
+      <coordinates>39.113190,22.287613,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Passport Photo Studio</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style701</styleUrl>
