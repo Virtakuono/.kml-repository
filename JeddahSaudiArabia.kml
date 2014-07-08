@@ -1302,14 +1302,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Lebanese Restaurant</name>
-    <description><![CDATA[]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.087511,22.407345,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Shish tawook</name>
     <description><![CDATA[<div dir="ltr">delicious shish tawook, 4SAR each</div>]]></description>
     <styleUrl>#style667</styleUrl>
