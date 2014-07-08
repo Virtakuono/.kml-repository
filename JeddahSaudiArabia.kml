@@ -1310,6 +1310,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Old fish restaurant</name>
+    <description><![CDATA[<div dir="ltr">Pick your fish from a selection of choices and have them cook it for you.</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.116193,22.290094,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Rotisserie Chicken Carry-out</name>
     <description><![CDATA[<div dir="ltr">Rotisserie chicken. 22 sar for a whole chicken, rice and arabic bread.</div>]]></description>
     <styleUrl>#style667</styleUrl>

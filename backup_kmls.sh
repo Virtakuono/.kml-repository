@@ -11,7 +11,7 @@ echo ""
 
 mv JeddahInterestedLocations.kml JeddahInterestedLocations_old.kml
 
-wget -O JeddahInterestedLocations.kml "https://maps.google.com/maps/ms?dg=feature&ie=UTF8&authuser=0&msa=0&output=kml&msid=203555040976874160945.0004cf9d6a73b19256e5f"
+wget -q -O JeddahInterestedLocations.kml "https://maps.google.com/maps/ms?dg=feature&ie=UTF8&authuser=0&msa=0&output=kml&msid=203555040976874160945.0004cf9d6a73b19256e5f"
 
 echo ""
 echo "Done."
@@ -27,7 +27,7 @@ echo ""
 
 mv JeddahShopping.kml JeddahShopping_old.kml
 
-wget -O JeddahShopping.kml "https://maps.google.com/maps/ms?ie=UTF8&t=h&dg=feature&authuser=0&msa=0&output=kml&msid=203537519255214459478.0004863c2f62b04789ee3"
+wget -q -O JeddahShopping.kml "https://maps.google.com/maps/ms?ie=UTF8&t=h&dg=feature&authuser=0&msa=0&output=kml&msid=203537519255214459478.0004863c2f62b04789ee3"
 
 echo ""
 echo "Done."
@@ -43,7 +43,7 @@ echo ""
 
 mv Thuwal.kml Thuwal_old.kml
 
-wget -O Thuwal.kml "https://maps.google.com/maps/ms?hl=en&ie=UTF8&oe=UTF8&dg=feature&authuser=0&msa=0&output=kml&msid=216110785410091998621.0004a4de8ab547c2ca385"
+wget -q -O Thuwal.kml "https://maps.google.com/maps/ms?hl=en&ie=UTF8&oe=UTF8&dg=feature&authuser=0&msa=0&output=kml&msid=216110785410091998621.0004a4de8ab547c2ca385"
 
 echo ""
 echo "Done."
