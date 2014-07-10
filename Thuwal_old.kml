@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Istanbul resturant, Thuwal, Saudi Arabia</name>
+  <description><![CDATA[]]></description>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/phone.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/euro.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/restaurant.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/mechanic.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/fishing.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/mechanic.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/mechanic.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/mechanic.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/mechanic.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/hospitals.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/restaurant.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/campfire.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/phone.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/restaurant.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/dollar.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Hardware Store</name>
+    <description><![CDATA[<div dir="ltr"> Hardware, paint, electrical, hose, wood, plumbing</div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>39.166260,22.705256,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tailor</name>
+    <description><![CDATA[<div dir="ltr">Tailor. Get your thobe!</div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>39.112328,22.286188,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Shwarma Carry-out</name>
+    <description><![CDATA[<div dir="ltr">4sar for a shwarma. Delicious. Beef *(skip it) Chicken, (yep.) and Falafel for the vegetarians.</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>39.112209,22.286245,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Broast Chicken Carry-out</name>
+    <description><![CDATA[<div dir="ltr">Fried Chicken (BROAST) Get a 1/2 chicken plus french fries, garlic sauce and a few arabic breads for 11sar. Yes, you heard me...11sar, and it's to die for. Everything is fried fresh when you walk in.</div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>39.112083,22.286291,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Electronic Store and Mobiles</name>
+    <description><![CDATA[<div dir="ltr">Memory sticks, cell phones, etc. Best selection and prices that I've found.</div>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>39.112736,22.287321,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Grocery Store</name>
+    <description><![CDATA[<div dir="ltr">Good prices on veggies (you pay the seller directly for veggies, everything else do at the checkout) also get your cleaning supplies, some office supplies, household stuff here. <br><br>Try also their fresh baked bread.</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>39.112556,22.286587,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rotisserie Chicken Carry-out</name>
+    <description><![CDATA[<div dir="ltr">Rotisserie chicken. 22 sar for a whole chicken, rice and arabic bread.</div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>39.113503,22.287018,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fish Auction</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>39.112778,22.287548,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Passport Photo Studio</name>
+    <description><![CDATA[<div dir="ltr">Get your passport photos here!</div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>39.113266,22.286694,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Thuwal Coast Restaurant</name>
+    <description><![CDATA[<div dir="ltr">Very good sit down fish restaurant. Try the grilled homour with arabic rice.</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>36.903076,24.106647,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Corniche</name>
+    <description><![CDATA[<div dir="ltr">The corniche is now completed, and a really nice place to go for a stroll. Grab a pot of tea and shisha from one of the restaurants and watch the world go by.</div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>36.441650,23.926014,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Beach</name>
+    <description><![CDATA[<div dir="ltr">Go for a stroll along the Thuwal Beach. There is a nice walkway and lots of places to have a picnic.</div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>36.617432,24.206890,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Thuwal Post office</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>39.114834,22.289930,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Photo Studio</name>
+    <description><![CDATA[<div dir="ltr">another one</div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>39.112568,22.286854,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Broast - Fried Chicken</name>
+    <description><![CDATA[Really delicious Fried chicken and french-fries and cheap also. Worth trying and now buy it always<br>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>39.166260,22.786310,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chicken and Rice</name>
+    <description><![CDATA[<div dir="ltr">One of the best grilled chicken in Thuwal and very nice rice.</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>38.627930,22.806566,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Yemeni Resturant</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>39.113758,22.287275,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ATM</name>
+    <description><![CDATA[<div dir="ltr">ATM Teller Machine</div>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>39.114738,22.289682,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pakistani Restaurant </name>
+    <description><![CDATA[Great fresh-baked naan. &nbsp;]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>39.114506,22.288223,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Brick Oven Pizza</name>
+    <description><![CDATA[<div dir="ltr">Brick Oven Pizza.  Pretty good.  Mine was undercooked, so make sure he leaves it in there on the stones for a bit.  Some black spots on the bottom and crust are good.  12 sar for a small, 23 for a large pie.  It's fast.  My small pie was in and out in 10 minutes.</div>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>39.105747,22.289652,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Shish tawook</name>
+    <description><![CDATA[<div dir="ltr">delicious shish tawook, 4SAR each</div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>39.115719,22.291243,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Car mechanic</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>38.891602,22.705256,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>seafood</name>
+    <description><![CDATA[<div dir="ltr">Row of shops selling fresh seafood (not restaurants)</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>38.155518,22.603868,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Car wash</name>
+    <description><![CDATA[<div dir="ltr">SAR 20. They use high pressure hoses, cloth and lots of soap. </div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>39.115707,22.287516,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>auto parts</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>39.115826,22.287401,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>mechanic</name>
+    <description><![CDATA[<div dir="ltr">also sells engine oil, filters etc</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>39.115868,22.292561,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>hardware store</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>39.113754,22.290386,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pharmacy</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>39.113190,22.287613,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chicken</name>
+    <description><![CDATA[Grilled &amp; rotisserie, comes with huge plate of rice and salad.]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>39.113205,22.287312,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Propane tanks</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>37.353516,22.877439,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Corniche</name>
+    <description><![CDATA[<div dir="ltr">The corniche is now completed, and a really nice place to go for a stroll. Grab a pot of tea and shisha from one of the restaurants and watch the world go by.</div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>38.078613,23.099943,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mobile Shop</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>39.112926,22.287313,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Istanbul Resturaunt</name>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>38.320312,22.786310,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tahweel - Money Transfer </name>
+    <description><![CDATA[<div dir="ltr">Cheap Money Transfer (20 sar instead of 75 sar at samba) open in evenings/nights. Bring Iqama to setup account and get a card.</div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>36.760254,22.988737,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wahba Crater</name>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>41.137619,22.900066,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tahweel - Money Transfer </name>
+    <description><![CDATA[<div dir="ltr">Cheap Money Transfer (20 sar instead of 75 sar at samba) open in evenings/nights. Bring Iqama to setup account and get a card.</div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>37.727051,23.180763,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Shwarma Carry-out</name>
+    <description><![CDATA[<div dir="ltr">4sar for a shwarma. Delicious. Beef *(skip it) Chicken, (yep.) and Falafel for the vegetarians.</div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>39.112209,22.286245,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tailor</name>
+    <description><![CDATA[<div dir="ltr">Tailor. Get your thobe!</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>39.112328,22.286188,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
