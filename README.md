@@ -3,11 +3,22 @@
 Jeddah landmarks and points of interest
 =======================================
 
+Executive summary
+-----------------
+
 This is a map of interesting locations in and around Jeddah,
-Kingdom of Saudi Arabia. If you just want to look at the map,
+Kingdom of Saudi Arabia. If you just want to look at the map on a computer,
 see [here](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml).
 
-If you are interested in contributing and/or details, please read below:
+If you wish to view the map on an iPhone, you may do so by emailing
+[this file](https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml)
+to yourself on email and opening it using the google maps app.
+If you know a handier way of opening the map on iPhone or other smartphones,
+please let me know.
+
+Credits, how to contribute, how to modify, etc.
+-----------------------------------------------
+
 
 Essentially, this is an effort to bring back to life
 [this map](https://maps.google.com/maps/ms?ie=UTF8&t=h&hl=en&vps=1&jsv=178b&safe=on&oe=UTF8&msa=0&msid=109723124894778733708.0004726ebc11f578c532c&dg=feature)
