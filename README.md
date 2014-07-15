@@ -8,11 +8,15 @@ This is a map of interesting locations in and around Jeddah,
 Kingdom of Saudi Arabia. If you just want to look at the map on a computer,
 see [here](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml).
 
-If you wish to view the map on an iPhone, you may do so by emailing
-[this file](https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml)
-to yourself on email and opening it using the google maps app.
-If you know a handier way of opening the map on iPhone or other smartphones,
-please let me know.
+Unfortunately, if you are on a smartphone, the way to open this map
+is a bit more subtle. The following ways have been tested:
+  1. Open [this file](https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml)
+     using Apple Safari
+  2. Open the file with whatever method, email it to yourself and then from your email inbox, choose to open
+     the attachment using google maps app. Of course if you do not have google maps, you need to download it from the apple store.
+
+Opening the map on windows or android phones has not been tested, if you have one of those phones
+and would like to help, email juho.happola@iki.fi
 
 ## The longer version of the story
 
