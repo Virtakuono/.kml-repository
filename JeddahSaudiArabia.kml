@@ -276,10 +276,23 @@
       </Icon>
     </IconStyle>
   </Style>
+ <Style id="style705">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/bustour.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
 
 
-
-
+  <Placemark>
+    <name>Al Balad - KAUST bus dropoff</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style705</styleUrl>
+    <Point>
+      <coordinates>39.180842,21.484464,0.000000</coordinates>
+    </Point>
+  </Placemark>
   <Placemark>
     <name>Textile shop</name>
     <description><![CDATA[<div dir="ltr">There is a whole bunch of them in the nearby region. This one features a fairly good selection for men, linen, wool, cotton and mixed fabrics.</div>]]></description>
