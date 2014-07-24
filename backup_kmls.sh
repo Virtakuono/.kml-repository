@@ -5,6 +5,11 @@ echo "Downloading google docs sheet"
 echo "Backing up Jeddah - Interested locations..."
 
 wget -q -O JeddahPOIs.ods "https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/export?hl=en&exportFormat=ods" 
+wget -q -O JeddahPOIs.tsv "https://docs.google.com/spreadsheets/d/13qqhCD7TY4L73JiRa_fzEI0mHlJ-6kqqgrrckRzC33k/export?hl=en&exportFormat=tsv"
+wget -q -O JeddahPOIs_styles.tsv "https://docs.google.com/spreadsheets/d/13qqhCD7TY4L73JiRa_fzEI0mHlJ-6kqqgrrckRzC33k/export?hl=en&exportFormat=tsv&gid=45124074"
+
+
+echo "Downloading Jeddah: Interested locations..."
 
 mv JeddahInterestedLocations.kml JeddahInterestedLocations_old.kml
 
