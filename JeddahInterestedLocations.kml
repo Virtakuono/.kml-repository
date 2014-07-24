@@ -386,3 +386,1620 @@
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
       </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style111">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/restaurant.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/dollar.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style92">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/plane.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/grocerystore.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/convienancestore.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style108">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/convienancestore.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/convienancestore.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/convienancestore.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/grocerystore.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style97">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/swimming.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/restaurant.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style113">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/convienancestore.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/coffeehouse.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/coffeehouse.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/convienancestore.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style109">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/cycling.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style88">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/mechanic.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/shopping.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style103">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grocerystore.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/water.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/POI.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/ferry.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style93">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/POI.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/POI.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/POI.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style89">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/police.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style125">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/police.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/convienancestore.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/convienancestore.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/restaurant.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style114">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/restaurant.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style112">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/info.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/restaurant.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style127">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/restaurant.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style99">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/campground.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/convienancestore.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/convienancestore.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/convienancestore.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style123">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/shopping.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style85">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/shopping.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/police.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/restaurant.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style121">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/restaurant.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style98">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/restaurant.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/restaurant.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style122">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/restaurant.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style105">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/cabs.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style104">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/shopping.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style116">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style94">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style100">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style91">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style86">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>IMC - International Medical Center, Jeddah</name>
+    <Snippet>International Medical CenterPO Box: 2172Jeddah: 21451Phone: +966 2 650 9000Fax:</Snippet>
+    <description><![CDATA[<div dir="ltr">International Medical Center<br>PO Box: 2172<br>Jeddah: 21451<br><br>Phone: +966 2 650 9000<br>Fax: +966 2 653 5045<br>E-mail: imcinfo@imc.med.sa</div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>39.174286,21.513458,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sewing Machine Shops</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>39.186604,21.477751,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>HindaWeyah (Ribbon Souk)</name>
+    <Snippet>Thanks, Linda!</Snippet>
+    <description><![CDATA[<div dir="ltr">Thanks, Linda!</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>39.232178,21.442842,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>IKEA</name>
+    <Snippet>P.O.Box 8054, Jeddah 21482 – Saudi ArabiaPhone: +966 2 6633000Saturday to Thur</Snippet>
+    <description><![CDATA[<div dir="ltr">P.O.Box 8054, Jeddah 21482 – Saudi Arabia<br>Phone: +966 2 6633000<br>Saturday to Thursday: 10:00 – 24:00<br>Friday: 16:00 – 24:00<br>Special opening hours in Ramadan and EID. 	<br><br>E-mail: Infojed@ikea.com.sa <br><br><br>&nbsp;</div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>39.183769,21.555445,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SACO World Hardware</name>
+    <Snippet>The Really Big SACO Hardware store..</Snippet>
+    <description><![CDATA[<div dir="ltr">The Really Big SACO Hardware store..</div>]]></description>
+    <styleUrl>#style95</styleUrl>
+    <Point>
+      <coordinates>39.121971,21.661896,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SACO</name>
+    <Snippet>Hardware Storehttp://www.saco-ksa.com/</Snippet>
+    <description><![CDATA[<div dir="ltr">Hardware Store<br><a href="http://www.saco-ksa.com/" target="_blank">http://www.saco-ksa.com/</a></div>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>39.205528,21.562988,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Toy&#39;s R Us</name>
+    <Snippet>Store is in the Roshan Mall.  On the Mosaic globe roundabout.</Snippet>
+    <description><![CDATA[<div dir="ltr">Store is in the Roshan Mall.  On the Mosaic globe roundabout.</div>]]></description>
+    <styleUrl>#style102</styleUrl>
+    <Point>
+      <coordinates>39.108673,21.665236,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hyper Panda</name>
+    <Snippet>Hypermarket. Large grocery store with dry goods also. In the Roshan Mall</Snippet>
+    <description><![CDATA[<div dir="ltr">Hypermarket. Large grocery store with dry goods also. In the Roshan Mall</div>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>39.109013,21.664846,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Danube</name>
+    <Snippet>Hypermarket. Large grocery store with dry goods also.  In the Red Sea Mall.</Snippet>
+    <description><![CDATA[<div dir="ltr">Hypermarket. Large grocery store with dry goods also.  In the Red Sea Mall.</div>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>39.125748,21.748020,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jeddah International Markets</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style115</styleUrl>
+    <Point>
+      <coordinates>39.170551,21.558317,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Al-Muhaidib Hardware</name>
+    <Snippet>I found door chains here. Door lock, handles etc.</Snippet>
+    <description><![CDATA[<div dir="ltr">I found door chains here. Door lock, handles etc. </div>]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>39.178619,21.557838,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Computer Stores</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style118</styleUrl>
+    <Point>
+      <coordinates>39.153728,21.612471,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Emax Store 1 (electronics)</name>
+    <Snippet>Sitteen Street, Bawadi,Jeddah,Tel: +966 2 6977519, 6977517</Snippet>
+    <description><![CDATA[<div dir="ltr">Sitteen Street, Bawadi,<br>Jeddah,<br>Tel: +966 2 6977519, 6977517</div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>39.176861,21.590605,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Emax store 2 (electronics)</name>
+    <Snippet>Centrepoint Dome Dome - Amir Sultan Street,JeddahTel: +966 2 6394492</Snippet>
+    <description><![CDATA[<div dir="ltr">Centrepoint Dome <br>Dome - Amir Sultan Street,<br>Jeddah<br>Tel: +966 2 6394492</div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>39.141109,21.606686,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Computer Shops</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">Farther Down this street: Khalid Al Waleed St.</div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>39.185143,21.529419,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hyper Panda</name>
+    <Snippet>Hyper Market. Large grocery st</Snippet>
+    <description><![CDATA[<div dir="ltr">Hyper Market. Large grocery st</div>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>39.204132,21.563267,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Extra</name>
+    <Snippet>Electronics and home appliances store</Snippet>
+    <description><![CDATA[<div dir="ltr">Electronics and home appliances store</div>]]></description>
+    <styleUrl>#style96</styleUrl>
+    <Point>
+      <coordinates>39.143234,21.597956,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SITACO</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style106</styleUrl>
+    <Point>
+      <coordinates>39.164886,21.577953,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>APPLEBEE&#39;s</name>
+    <Snippet>Restaurant</Snippet>
+    <description><![CDATA[<div dir="ltr">Restaurant</div>]]></description>
+    <styleUrl>#style107</styleUrl>
+    <Point>
+      <coordinates>39.131584,21.646580,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Toyota Car Dealer</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>39.203960,21.633814,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Albilad Beach</name>
+    <Snippet>GPS: +21° 42&#39; 29.22&quot;, +39° 5&#39; 9.90&quot;</Snippet>
+    <description><![CDATA[GPS: +21° 42' 29.22", +39° 5' 9.90"<br>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>39.147720,21.693480,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fish restaurant</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style124</styleUrl>
+    <Point>
+      <coordinates>39.103958,21.718073,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Starbucks</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style101</styleUrl>
+    <Point>
+      <coordinates>39.145294,21.598234,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SABB Branch</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>39.142700,21.571289,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Good Seafood Restaurant</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>39.105740,21.588215,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Starbucks</name>
+    <Snippet>Inside Centrepoint Mall, Lower Level.</Snippet>
+    <description><![CDATA[<div dir="ltr">Inside Centrepoint Mall, Lower Level.</div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>39.141380,21.606575,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Check Point</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>39.120621,21.798895,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Red Sea Resort (Sheraton)</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style90</styleUrl>
+    <Point>
+      <coordinates>39.072361,21.735115,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jarir Bookstore</name>
+    <Snippet>on Sar[iy] Street.Showroom Timings: Sat-Thu 9am-2pm, 4.30pm-11pm; Fri 4.30pm-11p</Snippet>
+    <description><![CDATA[<div dir="ltr">on Sar[iy] Street.<br><br>Showroom Timings: Sat-Thu 9am-2pm, 4.30pm-11pm; Fri 4.30pm-11pm<br>Tel. No. +966 2 682-7666, Fax No.+966 2 698-1120 </div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>39.146542,21.575121,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jarir Bookstore</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">In &quot;JARIR MALL&quot;</div>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>39.133301,21.651047,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SACO: HARDWARE</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>39.165100,21.518284,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mega Mall</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>41.044922,20.735565,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Electrical Shops along this street</name>
+    <Snippet>(east - west)</Snippet>
+    <description><![CDATA[<div dir="ltr">(east - west)</div>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>39.178940,21.550774,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>I-Zone</name>
+    <Snippet>Apple shop.</Snippet>
+    <description><![CDATA[<div dir="ltr">Apple shop.</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>40.177002,21.294493,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hera International Mall</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>39.152954,21.615622,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>COMPUTER Shops: MANY (N)</name>
+    <Snippet>This is about the North end of the Computer Shops &amp;apos;Souk&amp;apos;.DETAILS? See:</Snippet>
+    <description><![CDATA[<div dir="ltr">This is about the North end of the Computer Shops 'Souk'.<br>DETAILS? See: <a href="http://redseainfo.info" target="_blank">http://redseainfo.info</a></div>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>39.185673,21.520290,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Computer Shops: MANY (S)</name>
+    <Snippet>This is about the South end of the Computer Stores strip. DETAILS? See: http://r</Snippet>
+    <description><![CDATA[<div dir="ltr">This is about the South end of the Computer Stores strip. DETAILS? See: <a href="http://redseainfo.info" target="_blank">http://redseainfo.info</a></div>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>39.186207,21.517082,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Electronic shops location Jeddah 22237, Saudi Arabia</name>
+    <Snippet>+21° 29&#39; 12.33&quot;, +39° 11&#39; 50.13&quot;</Snippet>
+    <description><![CDATA[+21° 29' 12.33", +39° 11' 50.13"<br>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>39.197258,21.486757,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>computer supplies,Baroom centre,6733 Fayd Ar Rida, Jeddah 23213</name>
+    <Snippet>+21° 30&#39; 46.30&quot;, +39° 10&#39; 21.21&quot;</Snippet>
+    <description><![CDATA[+21° 30' 46.30", +39° 10' 21.21"<br>]]></description>
+    <styleUrl>#style117</styleUrl>
+    <Point>
+      <coordinates>39.165230,21.547621,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>eMax (or ???)</name>
+    <Snippet>Consumer electronics, media. etc.</Snippet>
+    <description><![CDATA[<div dir="ltr">Consumer electronics, media. etc.</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>39.175873,21.595194,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mall of Arabia</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>39.153728,21.613867,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Red Sea Mall</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>39.109955,21.626793,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>KAUST</name>
+    <Snippet>King Abdullah University of Science Technology</Snippet>
+    <description><![CDATA[<div dir="ltr">King Abdullah University of Science Technology</div>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>39.105923,22.309109,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Check Point</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>40.275879,22.329752,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Palm Beach</name>
+    <Snippet>A private beach and accommodation facility.Parking is outside (road side car par</Snippet>
+    <description><![CDATA[<div dir="ltr">A private beach and accommodation facility.<br>Parking is outside (road side car park).<br>Yellow brick fence (wall) - Palm Beach written on this.<br>Entrance fee is &lt; 100 SR.</div>]]></description>
+    <styleUrl>#style119</styleUrl>
+    <Point>
+      <coordinates>39.075157,21.728962,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>La Plage Beach</name>
+    <Snippet>Nice beach; Nice diving; Nice food.Dive shop is under stocked, so be there early</Snippet>
+    <description><![CDATA[<div dir="ltr">Look for green gate door with Saudi National Symbol of swords and palms.</div><div dir="ltr"><br>&nbsp;</div><div dir="ltr">Nice beach; Nice diving; Nice food.<br><br>Dive shop is under stocked, so be there early if you need rental equipment.<br><br>They'll take the air tanks out to the setup area, and bring the empties back - bonus points.</div>]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>39.078369,21.682953,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dream Beach</name>
+    <Snippet>Diving is ok; Dive shop is good (nice rental equipment); The setup area was way</Snippet>
+    <description><![CDATA[<div dir="ltr">Diving is ok; Dive shop is good (nice rental equipment); The setup area was way too crowded; The setup area was muddy too - not nice.</div>]]></description>
+    <styleUrl>#style126</styleUrl>
+    <Point>
+      <coordinates>39.053650,21.759180,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Desert Sea Divers</name>
+    <Snippet>The Desert Sea Divers shop and marina. Depart here for boat trips.http://www.des</Snippet>
+    <description><![CDATA[<div dir="ltr">The Desert Sea Divers shop and marina. Depart here for boat trips.<br><a href="http://www.desertseadivers.com" target="_blank">http://www.desertseadivers.com</a></div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>39.107037,21.730322,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dream Divers</name>
+    <Snippet>Depart here for boat trips.</Snippet>
+    <description><![CDATA[<div dir="ltr">Depart here for boat trips.</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>39.123058,21.736643,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Al Lith Resort</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style110</styleUrl>
+    <Point>
+      <coordinates>40.246845,20.158010,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Checkpoint</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>39.255779,21.408072,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Riyadh Airport</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>46.703632,24.958281,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>KAUST Beach</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style87</styleUrl>
+    <Point>
+      <coordinates>39.090092,22.292665,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Intercontinental Beach</name>
+    <Snippet>[TBC]Desert Sea Divers</Snippet>
+    <description><![CDATA[<div dir="ltr">[TBC]<br><br>Desert Sea Divers</div>]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>39.082401,21.718679,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Park Hyatt Hotel</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style120</styleUrl>
+    <Point>
+      <coordinates>39.154675,21.514566,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Good Seafood Restaurant</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style111</styleUrl>
+    <Point>
+      <coordinates>39.105740,21.588215,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SABB Branch</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>39.142830,21.571169,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>JED - North Terminal</name>
+    <Snippet>All airlines other than Saudi Airlines (Saudia)</Snippet>
+    <description><![CDATA[<div dir="ltr">All airlines other than Saudi Airlines (Saudia)</div>]]></description>
+    <styleUrl>#style92</styleUrl>
+    <Point>
+      <coordinates>39.143665,21.687698,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>JED - South Terminal</name>
+    <Snippet>Saudi Airlines (Saudia) only</Snippet>
+    <description><![CDATA[<div dir="ltr">Saudi Airlines (Saudia) only</div>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>38.830147,21.698902,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Danube</name>
+    <Snippet>Hypermarket. Large grocery store with dry goods also.  In the Red Sea Mall.</Snippet>
+    <description><![CDATA[<div dir="ltr">Hypermarket. Large grocery store with dry goods also.  In the Red Sea Mall.</div>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>39.107895,21.630623,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Al-Muhaidib Hardware</name>
+    <Snippet>I found door chains here. Door lock, handles etc.</Snippet>
+    <description><![CDATA[<div dir="ltr">I found door chains here. Door lock, handles etc. </div>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>39.178661,21.557480,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Emax Store 1 (electronics)</name>
+    <Snippet>Sitteen Street, Bawadi,Jeddah,Tel: +966 2 6977519, 6977517</Snippet>
+    <description><![CDATA[<div dir="ltr">Sitteen Street, Bawadi,<br>Jeddah,<br>Tel: +966 2 6977519, 6977517</div>]]></description>
+    <styleUrl>#style108</styleUrl>
+    <Point>
+      <coordinates>39.177246,21.591043,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Emax store 2 (electronics)</name>
+    <Snippet>Centrepoint Dome Dome - Amir Sultan Street,JeddahTel: +966 2 6394492</Snippet>
+    <description><![CDATA[<div dir="ltr">Centrepoint Dome <br>Dome - Amir Sultan Street,<br>Jeddah<br>Tel: +966 2 6394492</div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>39.141109,21.606686,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lingo Computer Store</name>
+    <Snippet>Sells Apple products</Snippet>
+    <description><![CDATA[<div dir="ltr">Sells Apple products</div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>39.109730,21.665180,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hyper Panda</name>
+    <Snippet>Hyper Market. Large grocery st</Snippet>
+    <description><![CDATA[<div dir="ltr">Hyper Market. Large grocery st</div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>39.204132,21.563267,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Silver Sands Beach Club</name>
+    <Snippet>GPS: +21° 46&#39; 24.96&quot;, +39° 3&#39; 4.32&quot;Phone: 02 656 2632</Snippet>
+    <description><![CDATA[GPS: +21° 46' 24.96", +39° 3' 4.32"<br>Phone: <span style="font-family:Arial"><font face="Comic Sans MS, Arial, Helvetica"><font size="2">02 656 2632</font></font></span>]]></description>
+    <styleUrl>#style97</styleUrl>
+    <Point>
+      <coordinates>39.051201,21.773600,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fish restaurant</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>39.103958,21.718073,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Extra</name>
+    <Snippet>Electronics and home appliances store</Snippet>
+    <description><![CDATA[<div dir="ltr">Electronics and home appliances store</div>]]></description>
+    <styleUrl>#style113</styleUrl>
+    <Point>
+      <coordinates>39.143234,21.597956,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Starbucks</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>39.145294,21.598234,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Starbucks</name>
+    <Snippet>Inside Centrepoint Mall, Lower Level.</Snippet>
+    <description><![CDATA[<div dir="ltr">Inside Centrepoint Mall, Lower Level.</div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>39.143257,21.611872,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Toyota Car Dealer</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>39.203960,21.633814,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wheels</name>
+    <Snippet>The only specialised bike shop in Jeddah. Trak only. Phone: 698 1302.Note that t</Snippet>
+    <description><![CDATA[<div dir="ltr">Sari str, <br>Carries TREK - Sam Abalos (WHEELS) Tel:026981302 Cell:0508691557 (open 09:30-12:00 and 16:30-00:00 from a phone call)<br><br>Note that the roundabout the map shows West is here has been replaced with an overpass along Sari Street. To get to Wheels you need to approach from East and NOT go on the overpass.</div>]]></description>
+    <styleUrl>#style109</styleUrl>
+    <Point>
+      <coordinates>39.145294,21.575739,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Four Seasons</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>46.955566,24.739347,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Habitat hotel</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>39.156345,21.606924,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hilton Hotel</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>39.107208,21.604450,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Holiday Inn - Intercontinental</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>39.156162,21.515903,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Holiday Inn - Crowne Plaza (nearby)</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>39.156677,21.514896,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Holiday Inn Jeddah Al Salam</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>39.207977,21.484392,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Le Meridien</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>39.172180,21.558962,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Radisson Blu Royal Suites</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>39.189606,21.549538,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sultan</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>39.142090,21.608330,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avail Hotel and Suite</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>39.155102,21.612190,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sheraton Towers</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style88</styleUrl>
+    <Point>
+      <coordinates>46.918488,24.867748,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Marriott Jeddah</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>39.195236,21.531874,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>RADIO SHACK</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>39.169350,21.567417,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>THALIA MALL</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>39.148834,21.549059,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DANUBE SUPERMARKET</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style103</styleUrl>
+    <Point>
+      <coordinates>39.163170,21.549156,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DIVE SHOPS</name>
+    <Snippet>2 in Danube Building, One across parking lot.</Snippet>
+    <description><![CDATA[<div dir="ltr">2 in Danube Building, One across parking lot.</div>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>39.134674,21.657429,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>EXIT for SULTAN ST.</name>
+    <Snippet>To Jarir Mall, etc.</Snippet>
+    <description><![CDATA[<div dir="ltr">To Jarir Mall, etc.</div>]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>39.125233,21.670509,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BOAT DEALER</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>39.120686,21.607084,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>EXIT BACK FROM MALL OF ARABIA</name>
+    <Snippet>This is the U-Turn to get back on Madina Rd to KAUST from Mall of Arabia...</Snippet>
+    <description><![CDATA[<div dir="ltr">This is the U-Turn to get back on Madina Rd to KAUST from Mall of Arabia...</div>]]></description>
+    <styleUrl>#style93</styleUrl>
+    <Point>
+      <coordinates>39.147549,21.650887,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>THUWAL EXIT</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>39.125961,22.273132,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>KAUST EXIT: MAIN GATE</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>39.148041,22.307402,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>KAUST-VENDOR GATE</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style89</styleUrl>
+    <Point>
+      <coordinates>39.210205,22.324671,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>KAUST-THUWAL GATE</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style125</styleUrl>
+    <Point>
+      <coordinates>39.104286,22.298656,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Small Animal Souq</name>
+    <description><![CDATA[<div dir="ltr">Purchase goats, sheep, rabbits, pigeons, birds, and the odd exotic animals.  You can buy rabbit feed (25 kilo sacks) straw, hay, and other items needed to care for small animals.  Open in the evenings.</div>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>39.236126,21.325357,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Petromin Souq</name>
+    <description><![CDATA[<div dir="ltr">Petromin Souq, Large outdoor market selling everything under the sun.  <br><br>The Petromin Souq is not as far south as the Junk Souq, but don't go in a local taxi unless you are absolutely certain of its location.  It is a vast collection of units in open warehouses with textiles, furniture, luggage, household goods and clothing. Textiles for curtains and upholstery are an absolute bargain at truly incredible prices - SR10-15 per metre that would cost SR100+ back home.   Set aside a good couple of hours unless you know exactly what you are going for and where to find it.  The market doesn't open until 11am and then is open all day (apart from prayer times) until around 10pm. source : http://www.geocities.ws/jeddahinfo/thesouqs.htm</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>39.210419,21.412722,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sahareej Aden Yemini Resturaunt</name>
+    <description><![CDATA[<div dir="ltr">The best Yemeni restaurant I have been to in Jeddah. The food is incredible! -Sameed</div>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>39.199306,21.578571,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Koreana restaurant</name>
+    <description><![CDATA[<div dir="ltr">Restaurant is in what looks like residential area and may be difficult to find. Call 660-4769 if lost.<br></div>]]></description>
+    <styleUrl>#style114</styleUrl>
+    <Point>
+      <coordinates>39.165337,21.535366,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>United States Consulate</name>
+    <description><![CDATA[This is the entrance for the US Consulate for passports, visas, document notarization, etc. Park in the hospital parking lot and cross the street to get to the entrance.<br>]]></description>
+    <styleUrl>#style112</styleUrl>
+    <Point>
+      <coordinates>39.166039,21.525021,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Koreana restaurant</name>
+    <description><![CDATA[<div dir="ltr">Restaurant is in what looks like residential area and may be difficult to find. Call 660-4769 if lost.<br>&nbsp;</div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>39.165337,21.535366,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Asia Restaurant </name>
+    <description><![CDATA[<div dir="ltr">Thai Food - Recommended<br>See Review:<br>http://www.jeddahfood.com/?p=5548<br><br>02 6828525</div>]]></description>
+    <styleUrl>#style127</styleUrl>
+    <Point>
+      <coordinates>39.161476,21.580608,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Look for Tent Makers in this area</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style99</styleUrl>
+    <Point>
+      <coordinates>39.248657,21.583221,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fabric Souq</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>39.114075,21.725060,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Souq Al-Shatea </name>
+    <description><![CDATA[<div dir="ltr">A nice souq for housewares, cheap shoes, kitchen stuff, limited clothing.  Open Air, lots of space, good for just wandering.  Easy parking.</div>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>39.130123,21.586374,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bawadi Souq</name>
+    <description><![CDATA[<div dir="ltr">Huge semi-indoor souq.  Cheap clothing, luggage, etc.  </div>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>39.172482,21.592184,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Aziz Mall</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style123</styleUrl>
+    <Point>
+      <coordinates>39.199306,21.576677,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ali Reza Tower‏</name>
+    <description><![CDATA[Al Madinah Al Munawarah Rd, Al Sharafiyah, Jeddah 22234, Saudi Arabia<br>]]></description>
+    <styleUrl>#style85</styleUrl>
+    <Point>
+      <coordinates>39.182892,21.504980,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Balad Police Station</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>39.176704,21.501102,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rosewood Corniche</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>39.110470,21.576677,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Aseel Restaurant</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>39.142574,21.559362,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mélange</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style121</styleUrl>
+    <Point>
+      <coordinates>39.131241,21.668915,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mayrig restaurant</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style98</styleUrl>
+    <Point>
+      <coordinates>39.172989,21.543489,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Piatto (Etoile Center)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>39.127277,21.575054,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Margherita</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style122</styleUrl>
+    <Point>
+      <coordinates>39.142216,21.559500,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Motor Vehicle Periodic Inspection</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style105</styleUrl>
+    <Point>
+      <coordinates>39.194389,21.622923,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Effat University</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>39.210918,21.478472,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Roshan Mall</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style104</styleUrl>
+    <Point>
+      <coordinates>39.110130,21.665110,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hainan Restaurant</name>
+    <description><![CDATA[<div dir="ltr">Fantastic Chinese food. Team of Chinese and Malaysian chefs re-create simple dishes and all time favourites. </div>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>39.059143,21.512489,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Silver Sands Beach Club</name>
+    <description><![CDATA[GPS: +21° 46' 24.96", +39° 3' 4.32"<br>Phone: <span style="font-family:Arial"><font face="Comic Sans MS, Arial, Helvetica"><font size="2">02 656 2632</font></font></span>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>39.051201,21.773600,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jeddah International Markets</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>39.170723,21.558397,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>21.561271, 39.160767</name>
+    <styleUrl>#style116</styleUrl>
+    <Point>
+      <coordinates>39.160767,21.561272,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Silver Sands Beach Club</name>
+    <description><![CDATA[GPS: +21° 46' 24.96", +39° 3' 4.32"<br>Phone: <span style="font-family:Arial"><font face="Comic Sans MS, Arial, Helvetica"><font size="2">02 656 2632</font></font></span>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>39.051201,21.773600,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Silver Sands Beach Club</name>
+    <description><![CDATA[GPS: +21° 46' 24.96", +39° 3' 4.32"<br>Phone: <span style="font-family:Arial"><font face="Comic Sans MS, Arial, Helvetica"><font size="2">02 656 2632</font></font></span>]]></description>
+    <styleUrl>#style94</styleUrl>
+    <Point>
+      <coordinates>39.051418,21.773687,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Palm Beach</name>
+    <description><![CDATA[<div dir="ltr">A private beach and accommodation facility.<br>Parking is outside (road side car park).<br>Yellow brick fence (wall) - Palm Beach written on this.<br>Entrance fee is &lt; 100 SR.</div>]]></description>
+    <styleUrl>#style100</styleUrl>
+    <Point>
+      <coordinates>39.075157,21.728962,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>3422 Jabal At Tur, Mishrifah</name>
+    <description><![CDATA[Jeddah 23331<br>]]></description>
+    <styleUrl>#style91</styleUrl>
+    <Point>
+      <coordinates>39.187588,21.535206,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Afghan Souq</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style86</styleUrl>
+    <Point>
+      <coordinates>39.194637,21.477522,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
