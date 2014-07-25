@@ -28,7 +28,7 @@ class POI():
         self.desc = desc
 
     def __str__(self):
-        rv = '      <coordinates>%.7f,%.7f,%.7f<coordinates>\n'%(self.lon,self.lat,0.0)
+        rv = '      <coordinates>%.7f,%.7f,%.7f</coordinates>\n'%(self.lon,self.lat,0.0)
         rv = '    <Point>\n%s    </Point>\n'%(rv,)
         rv = '    <styleUrl>\#style%d</styleUrl>\n%s'%(self.type.id,rv)
         rv = '    <description><![CDATA[<div dir=\"ltr\">%s</div>]]></description>\n%s'%(cgi.escape(self.desc),rv)
@@ -109,8 +109,8 @@ def main():
     print('Done.')
     print('Generating kml file...')
     poiSet = POISet()
-    poiSet.writekml()
     os.system('cp ./JeddahPOIs.kml ./JeddahPOIs_old.kml')
+    poiSet.writekml()
     print('Done.')
     print('Difference between old and new kml file:')
     os.system('diff ./JeddahPOIs.kml ./JeddahPOIs_old.kml')
