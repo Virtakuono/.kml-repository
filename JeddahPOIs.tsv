@@ -1,1 +1,141 @@
-2	23	4
+Name	Description (optional)	Latitude	Longitude	Type	Type code	Comment
+Avail Hotel and Suite		21.6121900	30.1551020	Hotel	666	
+Four Seasons		24.7110580	46.6735570	Hotel	666	
+Habitat Hotel		21.6069150	39.1565700	Hotel	666	
+Hilton		21.6044500	39.1072080	Hotel	666	
+Holiday Inn - Intercontinental		21.5159030	39.1561620	Hotel	666	
+Holiday Inn Jeddah Al Salam		21.4843920	39.2079770	Hotel	666	
+Le Meridien		21.5589620	39.2079770	Hotel	666	
+Marriott Jeddah		21.5318740	39.1952360	Hotel	666	
+Park Hyatt Hotel		21.5133740	39.1549840	Hotel	666	
+Radisson Blu Royal Suites		21.5495380	39.1896060	Hotel	666	
+Rosewood Hotel		21.5763910	39.1103780	Hotel	666	
+Sheraton Towers		24.7274490	46.6651270	Hotel	666	
+Sultan		21.6083300	39.1420900	Hotel	666	
+19. Century Burger	A good local burger restaurant	21.6414706	39.1302160	Restaurant	667	
+Abo Yasser restaurant	African restaurant in an area with many other african restaurants	21.4777281	39.1899502	Restaurant	667	
+Alfairwz restaurant	A turkish restaurant	21.6093990	39.1305579	Restaurant	667	
+Applebee's	Restaurant	21.6465800	39.1315840	Restaurant	667	
+Aseil	A traditional saudi restaurant	21.5593291	39.1412087	Restaurant	667	
+Asia restaurant	Thai food, recommended. 012 6828525 	21.5806080	39.1614760	Restaurant	667	
+Broast chicken carry-out		22.2862910	39.1120830	Restaurant	667	
+Chicken	Grilled rotisserie, comes with a huge plate of rice and salad	22.2873120	39.1132050	Restaurant	667	
+Dar Al-Hekma University		21.4784720	39.2109180	Restaurant	667	
+Effat University		21.4784720	39.2109180	Restaurant	667	
+Fish restaurant		21.7180730	39.1039580	Restaurant	667	
+Goodies	A good food market type restaurant, large dessers/sweets selection. In Coral Mall.	21.5502480	39.1631320	Restaurant	667	
+Goodies	A good food market type restaurant, large dessers/sweets selection. In Stars Avenue Mall.	21.5729500	39.1273080	Restaurant	667	
+Koreana restaurant	In a residential area and thus hard to find. Call 660-4769 if lost.	21.5353660	39.0512010	Restaurant	667	
+Makkah restaurant	Indian restaurant in a traditional area	21.5014506	39.1906515	Restaurant	667	
+Mayrig restaurant		21.5434890	39.1729890	Restaurant	667	
+Old fish restaurant	Pick your fish from a selection of choices and have them cook it for you.	22.2900940	39.1161930	Restaurant	667	
+Pakistani restaurant	Greag fresh-baked naan.	22.2882230	39.1145060	Restaurant	667	
+Piatto (Etoile Center)		21.5750540	39.1272770	Restaurant	667	
+Reem Alwabadi	A middle eastern restaurant	21.5579117	39.1450330	Restaurant	667	
+Rotisserie chicken carry-out	Rotisserie chiken 22SAR for a whole chicken, rice and arabic bread	22.2870180	39.1135030	Restaurant	667	
+Sahareej Adan	Yemeni restaurant	21.6122717	39.1439582	Restaurant	667	
+Sahareej Aden Yemini Restaurant	The best Yemeni restaurant I have been to in Jeddah. The food is incredible! -Sameed	21.5785710	39.1993060	Restaurant	667	
+Sakura	A japanese restaurant	21.5168508	39.1558114	Restaurant	667	
+Seafood restaurant		21.5882150	39.1057400	Restaurant	667	
+Shish Tawook	Delicious Shish Tawook, 4SAR each	22.2912430	39.1161930	Restaurant	667	
+Shwarma Carry-out	4 SAR for a shwarma. Skip the beef, Chicken (delicious) and falafel for vegetarians	22.2862450	39.1122090	Restaurant	667	
+Spears	A brazilian restaurant	21.5156605	39.1559482	Restaurant	667	
+Texas Roadhouse	A steak house	21.5535830	39.1676410	Restaurant	667	
+The Butcher Shop & Grill	Steak and grill restaurant	21.5598458	39.1532162	Restaurant	667	
+Yemeni restaurant		22.2872750	39.1137580	Restaurant	667	
+KAUST: main gate		22.3203930	39.1383090	Checkpoint	668	
+KAUST: Thuwal gate		22.2986560	39.1042860	Checkpoint	668	
+KAUST: vendor gate		22.3034800	39.1223370	Checkpoint	668	
+Exit back of mall of arabia	This is the U-Turn to get back on Madina Rd to KAUST from Mall of Arabia...	21.6311610	39.1820110	Intersection	669	
+Exit for Sultan St.	To Jarir Mall etc.	21.6705090	39.1252330	Intersection	669	
+KAUST exit: main gate		22.2731320	39.1259610	Intersection	669	
+Thuwal exit		22.2731320	39.1480410	Intersection	669	
+JED - North Terminal	All airlines other than Saudia	21.6882170	39.1435170	Airport terminal	670	
+JED - South Terminal	Saudia flights	21.6678770	39.1435170	Airport terminal	670	
+Riyadh Airport		24.9582810	46.7036320	Airport terminal	670	
+Afghan souq		21.4775220	39.1946370	Souq	671	
+Alahdal souq		21.4531785	39.2163393	Souq	671	
+Albukhariah district	A place to buy carpets, a really small street but full with carpet shops among other things	21.4817093	39.1849682	Souq	671	
+Alderwazah market	This shop is specialised in traditional furniture and you can find a lot of shops around it that are selling nice accessories	21.5704613	39.1894340	Souq	671	
+Alsharq souq	One of the best marketplaces for fabrics, textiles & traditional women's clothes	21.5429830	39.1974470	Souq	671	
+Animal Market	Best time to visit is on Friday from 4:00-6:00 PM where you can find all kind of animals.	21.3807425	39.2245174	Souq	671	
+Corniche Commercial Center	Just go to the 4th or 5th floor and you will find the best accessories, perfumes & cosmetics shops	21.4855676	39.1835640	Souq	671	
+Hinda Weyah (Ribbon Souq)	Thanks, Linda	21.4759640	39.1833080	Souq	671	
+Khaimah market	Good market for traditional women's clothes	21.4737297	39.1972607	Souq	671	
+Look for tent makers in this area		21.5832210	39.2486570	Souq	671	
+Mahmoud Saeed souq	Excellent market for carpets and furniture	21.5717486	39.1819452	Souq	671	
+Rockets souq	Dont’t worry they are not selling rockets here it’s just a name ;). you can find here almost everything electronics, cloths, food, carpets,furniture, etc.	21.4120009	39.2081129	Souq	671	
+Suq Al Alawi, Al Balad District	Jeddah 22236, Saudi Arabia	21.4848440	39.1882670	Souq	671	
+Yamamah gold souq	Best place to buy gold and there are a lot of shops to buy fabrics and textiles	21.4869081	39.1964989	Souq	671	
+Starbucks		21.5982340	39.1452940	Coffeehouse	672	
+Starbucks		21.6065750	39.1413800	Coffeehouse	672	
+Danube		21.5489980	39.1630540	Supermarket	673	
+Danube	In Red sea mall, hypermarket.	21.6268830	39.1102560	Supermarket	673	
+Grocery store	Good prices on veggies, (you pay the seller directly for veggies, everything else is paid at the checkout), also get your cleaning supplies, office supplies, household stuff here.	22.2865870	39.1125560	Supermarket	673	
+Hyperpanda	In the Roshan mall, large grocery store with dry goods	21.6658040	39.1090320	Supermarket	673	
+Electronic store and mobiles		22.2873210	39.1127360	Electronics shop	674	
+Emax	Electronics, Sitteen Street, Bawadi,<br>Jeddah,<br>Tel: +966 2 6977519, 6977517	21.5906050	39.1768610	Electronics shop	674	
+Emax	Electronics, Centrepoint Dome <br>Dome - Amir Sultan Street,<br>Jeddah<br>Tel: +966 2 6394492	21.6066860	39.1411090	Electronics shop	674	
+Extra	Electronics and home appliances	21.5979560	39.1432340	Electronics shop	674	
+Hyperpanda	Hypermarket, a large grocery store	21.5632670	39.2041320	Electronics shop	674	
+Mobile shop		22.2873130	39.1129260	Electronics shop	674	
+Al Lith resort		20.1580100	40.2468450	Beach	675	
+Albilad Beach		21.7100890	39.0847510	Beach	675	
+Palm Beach	A privabe beach and accommodation facility.<br>Parking is outside.	21.7289620	39.0751570	Beach	675	
+Red Sea Resort (Sheraton)		21.7351150	39.0723610	Beach	675	
+Silver sands beach club		21.7736000	39.0512010	Beach	675	
+Al Muhaidib Hardware	found door chains here. Door lock, handles etc.	21.5574210	39.1787030	Hardware store	676	
+SACO	Hardware store http://saco-ksa.com/	21.5182478	39.1650090	Hardware store	676	
+SACO	Hardware store http://saco-ksa.com/	21.5634480	39.2049060	Hardware store	676	
+SACO	Jeddah main store. <br>Title SACO World Jeddah<br>Address Al Amir Sultan Street<br>Phone 02-6199967 Fax 02-6199558 <br>P.O Box 20358 - Jeddah 21455<br>Sat to Thur    08:00a.m / 12:00a.m<br>Fri      05:00p.m / 12:00a.m	21.6611770	39.1214680	Hardware store	676	
+SITACO		21.5779530	39.1648860	Hardware store	676	
+Jeddah International Markets		21.5583970	39.1707230	Cars	677	
+Toyota car dealer		21.6338140	39.2039600	Cars	677	
+Jarir bookstore	on Sar[iy] Street.<br><br>Showroom Timings: Sat-Thu 9am-2pm, 4.30pm-11pm; Fri 4.30pm-11pm<br>Tel. No. +966 2 682-7666, Fax No.+966 2 698-1120	21.5748160	39.1457750	Book store	678	
+Jarir bookstore	Prince Sultan street<br>Showroom timings: Sat-Thu 9am-12pm, 4.30pm-11pm; Fri 4.30pm-11pm<br>Tel. No. +966 2 420-2050, Fax No.+966 2 420-2060	21.6401960	39.1324010	Book store	678	
+IKEA	P.O.Box 8054, Jeddah 21482 – Saudi Arabia<br>Phone: +966 2 6633000<br>Saturday to Thursday: 10:00 – 24:00<br>Friday: 16:00 – 24:00<br>Special opening hours in Ramadan and EID	21.5571190	39.1832770	Furniture shop	679	
+Arabian vets		21.6024230	39.1424410	Veterinary	680	
+Eurovets	Vet clinick with Dr. Carlos	21.5516800	39.1636280	Veterinary	680	
+Happy Pets	Pet shop	21.6024440	39.1426440	Pet shop	681	
+Pet Oasis	Pet shop	21.5970270	39.1425740	Pet shop	681	
+Toys R Us	In Roshan Mall	21.6646670	39.1085590	Toys	682	
+IMC - International Medical Center Jeddah	PO Box: 2172<br>Jeddah: 21451<br><br>Phone: +966 2 650 9000<br>Fax: +966 2 653 5045<br>E-mail: imcinfo@imc.med.sa	21.5134580	39.1842860	Hospital	683	
+Balad police station		21.5011020	39.1767040	Police station	685	
+Mechanic	Also sells engine oil, filters, etc	22.2925610	39.1158680	Car repair	687	
+Motor vehicle periodic inspection		21.6232010	39.1943470	Car repair	687	
+SABB branch		21.5712890	39.1427000	Bank	688	
+SABB branch	Full services, includes a separate ladies section	22.4037450	39.0785300	Bank	688	
+Checkpoint		21.4080720	39.2557790	Police checkpoint	689	
+Checkpoint		21.7988950	39.1206210	Police checkpoint	689	
+US Consulate		21.5250210	39.1660390	Embassy, consulate	690	
+Wheels	Sari str, <br>Carries TREK - Sam Abalos (WHEELS) Tel:026981302 Cell:0508691557 (open 09:30-12:00 and 16:30-00:00 from a phone call)<br><br>Note that the roundabout the map shows West is here has been replaced with an overpass along Sari Street. To get to Wheels you need to approach from East and NOT go on the overpass.	21.5757390	39.1452940	Bike shop	691	
+Sewing machine shops		21.4777510	31.1123280	Sewing shop	692	
+Tailor		22.2861880	39.1123280	Sewing shop	692	
+Computer shops	Farther down the Kahlid Al Waleed Street	21.5294190	39.1851430	Computers	693	
+Computer shops		21.6124710	39.1537280	Computers	693	
+Computer shops, many (N)	This is about the north end of the computer store strip 	21.5202900	39.1097300	Computers	693	
+Computer shops, many (S)	This is about the south end of the computer store strip	21.5170820	39.1862070	Computers	693	
+Computer supplies	Baroom Centre, 6733 Fayd Ar Rida, Jeddah 23213	21.5128610	39.1725580	Computers	693	
+iZone		21.5687540	39.1432770	Computers	693	
+Lingo Computer Store	Sells Apple products	21.6651800	39.1097300	Computers	693	
+Aziz Mall		21.5766770	39.1101300	Mall	694	
+Coral Mall		21.5502180	39.1628560	Mall	694	
+Hera International Mall		21.6156220	39.1529540	Mall	694	
+Mall of Arabia		21.6326170	39.1557070	Mall	694	
+Red Sea Mall		21.6267930	39.1099550	Mall	694	
+Roshan Mall		21.6651100	39.1101300	Mall	694	
+Stars Avenue Mall		21.5729600	39.1283700	Mall	694	
+Thalia Mall		21.5490590	39.1488340	Mall	694	
+Boat dealer		21.6071180	39.1206780	Boat shop	695	
+Dive shops	2 in Danube building, one across parking lot	21.5486980	39.1622890	Scuba shop	696	
+Desert Sea Divers	Dive shop and marina. http://desertseadivers.com/	21.7303730	39.1069580	Scuba diving	697	
+Dream Divers	Departure point for boat trips	21.7366300	39.1230570	Scuba diving	697	
+Al Akhal Oasis		23.3109120	39.1371766	Natural site	698	
+Madain Saleh	Access here is restricted. See, for example http://kcomm.wikispaces.com/Day+Trips for info on how to get permits.]	26.8141670	37.9475000	Fortress, castle	699	
+Ruins of an Ottoman fortress	Big thanks for Claire Sale http://clairesale.com/adventures-in-the-desert-ottoman-castle-near-rabigh/	22.7396757	39.1371766	Fortress, castle	699	
+Pharmacy		22.2876130	39.1131900	Pharmacy	700	
+Pharmacy		22.2876130	39.1131900	Pharmacy	700	
+Passport photo studio		22.2866940	39.1132660	Photo shop	701	
+Passport photo studio		22.2868540	39.1125680	Photo shop	701	
+Car wash	SAR 20. They use high pressure hoses, cloth and lots of soap	22.2875160	39.1157070	Car wash	702	
+ATM		22.2896820	39.1147380	ATM	703	
