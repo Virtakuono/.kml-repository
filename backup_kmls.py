@@ -30,7 +30,7 @@ class POI():
     def __str__(self):
         rv = '      <coordinates>%.7f,%.7f,%.7f</coordinates>\n'%(self.lon,self.lat,0.0)
         rv = '    <Point>\n%s    </Point>\n'%(rv,)
-        rv = '    <styleUrl>\#style%d</styleUrl>\n%s'%(self.type.id,rv)
+        rv = '    <styleUrl>#style%d</styleUrl>\n%s'%(self.type.id,rv)
         rv = '    <description><![CDATA[<div dir=\"ltr\">%s</div>]]></description>\n%s'%(cgi.escape(self.desc),rv)
         rv = '    <name>%s</name>\n%s'%(cgi.escape(self.name),rv)
         rv = '  <Placemark>\n%s  </Placemark>\n'%(rv,)
