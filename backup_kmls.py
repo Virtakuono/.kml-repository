@@ -72,6 +72,11 @@ class POISet():
             line = line[line.find('\t')+1:]
             id  = int(line[:line.find('\t')])
             self.POIs.append(POI(name=name,desc=desc,lat=lat,lon=lon,type=self.styles[id]))
+        effstyles = []
+        for poi in self.POIs:
+            if poi.type not in effstyles:
+                effstyles.append(poi.type)
+        self.styles = effstyles
 
     def __str__(self,):
         rv = '<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n'
@@ -79,10 +84,8 @@ class POISet():
         rv += '<Document>\n'
         rv += '  <name>Points of Interest in and near Jeddah, Kingdom of Saudi Arabia</name>\n'
         rv += '  <description><![CDATA[See detailed info at https://github.com/Virtakuono/.kml-repository]]></description>\n'
-        effstyles = [POI.type for POI in self.POIs]
         for style in self.styles:
-            if style in effstyles:
-                rv += style.__str__()
+            rv += style.__str__()
         for POI in self.POIs:
             rv += POI.__str__()
         rv += '</Document>\n'

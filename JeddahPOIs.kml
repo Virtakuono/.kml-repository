@@ -3,13 +3,6 @@
 <Document>
   <name>Points of Interest in and near Jeddah, Kingdom of Saudi Arabia</name>
   <description><![CDATA[See detailed info at https://github.com/Virtakuono/.kml-repository]]></description>
-  <Style id="71">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/generic.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
   <Style id="666">
     <IconStyle>
       <Icon>
@@ -255,12 +248,19 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="71">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/generic.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Avail Hotel and Suite</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>\#style666</styleUrl>
     <Point>
-      <coordinates>30.1551020,21.6121900,0.0000000</coordinates>
+      <coordinates>39.1551020,21.6121900,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1140,7 +1140,7 @@
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>\#style692</styleUrl>
     <Point>
-      <coordinates>31.1123280,21.4777510,0.0000000</coordinates>
+      <coordinates>39.1866040,21.4777510,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
