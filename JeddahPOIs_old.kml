@@ -255,45 +255,8 @@
       </Icon>
     </IconStyle>
   </Style>
-<<<<<<< HEAD
- <Style id="style704">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/textiles.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
- <Style id="style705">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/bustour.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-
-
-  <Placemark>
-    <name>Al Balad - KAUST bus dropoff</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style705</styleUrl>
-    <Point>
-      <coordinates>39.180842,21.484464,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Textile shop</name>
-    <description><![CDATA[<div dir="ltr">There is a whole bunch of them in the nearby region. This one features a fairly good selection for men, linen, wool, cotton and mixed fabrics.</div>]]></description>
-    <styleUrl>#style704</styleUrl>
-    <Point>
-      <coordinates>39.184303,21.483328,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>ATM</name>
-=======
   <Placemark>
     <name>Avail Hotel and Suite</name>
->>>>>>> debug
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style666</styleUrl>
     <Point>
@@ -717,23 +680,9 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-    <name>Tailor</name>
-    <description><![CDATA[This place looks like a dump but they do make pretty good clothing items for men. The shirts tend to have bad quality interfacing, but the trousers have been of very good quality, considering the price of mere 55 SAR.]]></description>
-    <styleUrl>#style692</styleUrl>
-    <Point>
-      <coordinates>39.183121,21.482512,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>IMC - International Medical Center, Jeddah</name>
-    <description><![CDATA[<div dir="ltr">PO Box: 2172<br>Jeddah: 21451<br><br>Phone: +966 2 650 9000<br>Fax: +966 2 653 5045<br>E-mail: imcinfo@imc.med.sa</div>]]></description>
-    <styleUrl>#style683</styleUrl>
-=======
     <name>Riyadh Airport</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style670</styleUrl>
->>>>>>> debug
     <Point>
       <coordinates>46.7036320,24.9582810,0.0000000</coordinates>
     </Point>
@@ -1257,19 +1206,7 @@
     <Point>
       <coordinates>39.1097300,21.6651800,0.0000000</coordinates>
     </Point>
-<<<<<<< HEAD
-</Placemark>
-<Placemark>
-    <name>Brasa de Brazil</name>
-    <description><![CDATA[<div dir="ltr">A ridiculous selection of different kinds of meat. http://brasadebrazil.com/bah/ </div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.164932,21.519382,0.0000000</coordinates>
-    </Point>
-</Placemark>
-=======
   </Placemark>
->>>>>>> debug
   <Placemark>
     <name>Aziz Mall</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>

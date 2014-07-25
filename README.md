@@ -32,10 +32,29 @@ In case you want to edit to make improvements or correct errors,
 please fork this repositoryand make pull request. In case you are
 not willing to do this, you may read the instructions further for the
 links to other maps and make edits to those maps, that will, after review,
+<<<<<<< HEAD
 be included into this repository in a semi-automated manner. As a third
 option and last resort or in case of questions arise send an email
 to juho.happola@iki.fi.
 
+=======
+be included into this repository in a semi-automated manner.
+The repository also contains tools to automatically generate the relevant
+map files based on the contents of a [google spreadsheet](https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/edit#gid=0)
+that can be edited by anyone. 
+As a fourth
+option and last resort or in case of questions arise send an email
+to juho.happola@iki.fi.
+
+When editing the map please avoid the following common mistakes
+  1. Assuming everyone knows you. In compiling this map I have had to do some forensics, maps like this tend to be
+     copied from one source to another and statements like "This is the best yemeni restaurant I have been to" lose
+     meaning when nobody knows who "I" is. Please consider leaving an identifying notification, initials, email address or
+     a nickname.
+  2. Spelling. Nothing gets transferred to the master map without a brief review. Please make this review a bit easier by
+     avoiding excessive capitalisation, broken engrish and the like.
+
+>>>>>>> debug
 #### Editing the KML file
 
 Since the map essentially
