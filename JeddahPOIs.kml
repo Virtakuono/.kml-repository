@@ -879,7 +879,7 @@
   </Placemark>
   <Placemark>
     <name>Emax</name>
-    <description><![CDATA[<div dir="ltr">Electronics, Sitteen Street, Bawadi,&lt;br&gt;Jeddah,&lt;br&gt;Tel: +966 2 6977519, 6977517</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Electronics, Sitteen Street, Bawadi,Jeddah,Tel: +966 2 6977519, 6977517</div>]]></description>
     <styleUrl>#style674</styleUrl>
     <Point>
       <coordinates>39.1768610,21.5906050,0.0000000</coordinates>
@@ -887,7 +887,7 @@
   </Placemark>
   <Placemark>
     <name>Emax</name>
-    <description><![CDATA[<div dir="ltr">Electronics, Centrepoint Dome &lt;br&gt;Dome - Amir Sultan Street,&lt;br&gt;Jeddah&lt;br&gt;Tel: +966 2 6394492</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Electronics, Centrepoint Dome - Amir Sultan Street, Jeddah,Tel: +966 2 6394492</div>]]></description>
     <styleUrl>#style674</styleUrl>
     <Point>
       <coordinates>39.1411090,21.6066860,0.0000000</coordinates>
@@ -935,7 +935,7 @@
   </Placemark>
   <Placemark>
     <name>Palm Beach</name>
-    <description><![CDATA[<div dir="ltr">A privabe beach and accommodation facility.&lt;br&gt;Parking is outside.</div>]]></description>
+    <description><![CDATA[<div dir="ltr">A privabe beach and accommodation facility. Parking is outside.</div>]]></description>
     <styleUrl>#style675</styleUrl>
     <Point>
       <coordinates>39.0751570,21.7289620,0.0000000</coordinates>
@@ -983,7 +983,7 @@
   </Placemark>
   <Placemark>
     <name>SACO</name>
-    <description><![CDATA[<div dir="ltr">Jeddah main store. &lt;br&gt;Title SACO World Jeddah&lt;br&gt;Address Al Amir Sultan Street&lt;br&gt;Phone 02-6199967 Fax 02-6199558 &lt;br&gt;P.O Box 20358 - Jeddah 21455&lt;br&gt;Sat to Thur    08:00a.m / 12:00a.m&lt;br&gt;Fri      05:00p.m / 12:00a.m</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Jeddah main store. Address Al Amir Sultan Street, Phone 02-6199967 Fax 02-6199558, P.O Box 20358 - Jeddah 21455, Sat to Thur    08:00a.m / 12:00a.m, Fri      05:00p.m / 12:00a.m</div>]]></description>
     <styleUrl>#style676</styleUrl>
     <Point>
       <coordinates>39.1214680,21.6611770,0.0000000</coordinates>
@@ -1015,7 +1015,7 @@
   </Placemark>
   <Placemark>
     <name>Jarir bookstore</name>
-    <description><![CDATA[<div dir="ltr">on Sar[iy] Street.&lt;br&gt;&lt;br&gt;Showroom Timings: Sat-Thu 9am-2pm, 4.30pm-11pm; Fri 4.30pm-11pm&lt;br&gt;Tel. No. +966 2 682-7666, Fax No.+966 2 698-1120</div>]]></description>
+    <description><![CDATA[<div dir="ltr">on Sar[iy] Street. Showroom Timings: Sat-Thu 9am-2pm, 4.30pm-11pm; Fri 4.30pm-11pm Tel. No. +966 2 682-7666, Fax No.+966 2 698-1120</div>]]></description>
     <styleUrl>#style678</styleUrl>
     <Point>
       <coordinates>39.1457750,21.5748160,0.0000000</coordinates>
@@ -1023,7 +1023,7 @@
   </Placemark>
   <Placemark>
     <name>Jarir bookstore</name>
-    <description><![CDATA[<div dir="ltr">Prince Sultan street&lt;br&gt;Showroom timings: Sat-Thu 9am-12pm, 4.30pm-11pm; Fri 4.30pm-11pm&lt;br&gt;Tel. No. +966 2 420-2050, Fax No.+966 2 420-2060</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Prince Sultan street Showroom timings: Sat-Thu 9am-12pm, 4.30pm-11pm; Fri 4.30pm-11pm Tel. No. +966 2 420-2050, Fax No.+966 2 420-2060</div>]]></description>
     <styleUrl>#style678</styleUrl>
     <Point>
       <coordinates>39.1324010,21.6401960,0.0000000</coordinates>
@@ -1031,7 +1031,7 @@
   </Placemark>
   <Placemark>
     <name>IKEA</name>
-    <description><![CDATA[<div dir="ltr">P.O.Box 8054, Jeddah 21482 – Saudi Arabia&lt;br&gt;Phone: +966 2 6633000&lt;br&gt;Saturday to Thursday: 10:00 – 24:00&lt;br&gt;Friday: 16:00 – 24:00&lt;br&gt;Special opening hours in Ramadan and EID</div>]]></description>
+    <description><![CDATA[<div dir="ltr">P.O.Box 8054, Jeddah 21482 – Saudi Arabia Phone: +966 2 6633000&lt;br&gt;Saturday to Thursday: 10:00 – 24:00 Friday: 16:00 – 24:00 Special opening hours in Ramadan and EID</div>]]></description>
     <styleUrl>#style679</styleUrl>
     <Point>
       <coordinates>39.1832770,21.5571190,0.0000000</coordinates>
@@ -1079,7 +1079,7 @@
   </Placemark>
   <Placemark>
     <name>IMC - International Medical Center Jeddah</name>
-    <description><![CDATA[<div dir="ltr">PO Box: 2172&lt;br&gt;Jeddah: 21451&lt;br&gt;&lt;br&gt;Phone: +966 2 650 9000&lt;br&gt;Fax: +966 2 653 5045&lt;br&gt;E-mail: imcinfo@imc.med.sa</div>]]></description>
+    <description><![CDATA[<div dir="ltr">PO Box: 2172 Jeddah: 21451 Phone: +966 2 650 9000 Fax: +966 2 653 5045 E-mail: imcinfo@imc.med.sa</div>]]></description>
     <styleUrl>#style683</styleUrl>
     <Point>
       <coordinates>39.1842860,21.5134580,0.0000000</coordinates>
@@ -1151,7 +1151,7 @@
   </Placemark>
   <Placemark>
     <name>Wheels</name>
-    <description><![CDATA[<div dir="ltr">Sari str, &lt;br&gt;Carries TREK - Sam Abalos (WHEELS) Tel:026981302 Cell:0508691557 (open 09:30-12:00 and 16:30-00:00 from a phone call)&lt;br&gt;&lt;br&gt;Note that the roundabout the map shows West is here has been replaced with an overpass along Sari Street. To get to Wheels you need to approach from East and NOT go on the overpass.</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Sari str, Carries TREK - Sam Abalos (WHEELS) Tel:026981302 Cell:0508691557 (open 09:30-12:00 and 16:30-00:00 from a phone call)&lt;br&gt;&lt;br&gt;Note that the roundabout the map shows West is here has been replaced with an overpass along Sari Street. To get to Wheels you need to approach from East and NOT go on the overpass.</div>]]></description>
     <styleUrl>#style691</styleUrl>
     <Point>
       <coordinates>39.1452940,21.5757390,0.0000000</coordinates>
