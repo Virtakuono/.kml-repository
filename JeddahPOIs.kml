@@ -3,252 +3,252 @@
 <Document>
   <name>Points of Interest in and near Jeddah, Kingdom of Saudi Arabia</name>
   <description><![CDATA[See detailed info at https://github.com/Virtakuono/.kml-repository]]></description>
-  <Style id="666">
+  <Style id="style666">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/hotels_nostars.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="667">
+  <Style id="style667">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/restaurant_generic.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="668">
+  <Style id="style668">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/toll_station.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="669">
+  <Style id="style669">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/junction.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="670">
+  <Style id="style670">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/airport_terminal.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="671">
+  <Style id="style671">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/souq.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="672">
+  <Style id="style672">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/coffee.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="673">
+  <Style id="style673">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/supermarket.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="674">
+  <Style id="style674">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/electronics.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="675">
+  <Style id="style675">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/beach.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="676">
+  <Style id="style676">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/hardware.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="677">
+  <Style id="style677">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/car.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="678">
+  <Style id="style678">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/book.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="679">
+  <Style id="style679">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/furniture.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="680">
+  <Style id="style680">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/veterinary.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="681">
+  <Style id="style681">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/pets.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="682">
+  <Style id="style682">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/toys.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="683">
+  <Style id="style683">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/hospital-building.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="685">
+  <Style id="style685">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/police_station.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="687">
+  <Style id="style687">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/carrepair.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="688">
+  <Style id="style688">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/bank.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="689">
+  <Style id="style689">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/police_checkpoint.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="690">
+  <Style id="style690">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/embassy.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="691">
+  <Style id="style691">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/bicycle_shop.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="692">
+  <Style id="style692">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/sewingmachine.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="693">
+  <Style id="style693">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/computers.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="694">
+  <Style id="style694">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/mall.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="695">
+  <Style id="style695">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/boatshop.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="696">
+  <Style id="style696">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/scubashop.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="697">
+  <Style id="style697">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/scuba.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="698">
+  <Style id="style698">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/palm.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="699">
+  <Style id="style699">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/fortress.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="700">
+  <Style id="style700">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/pharmacy.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="701">
+  <Style id="style701">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/photo.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="702">
+  <Style id="style702">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/carwash.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="71">
+  <Style id="style71">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/generic.png</href>

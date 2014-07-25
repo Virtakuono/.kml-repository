@@ -15,7 +15,7 @@ class POIStyle():
         rv = '        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/%s</href>\n'%(self.icon,)
         rv = '      <Icon>\n%s      </Icon>\n'%(rv,)
         rv = '    <IconStyle>\n%s    </IconStyle>\n'%(rv,)
-        rv = '  <Style id=\"%d\">\n%s  </Style>\n'%(self.id,rv)
+        rv = '  <Style id=\"style%d\">\n%s  </Style>\n'%(self.id,rv)
         return rv
 
 class POI():
