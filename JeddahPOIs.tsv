@@ -49,8 +49,8 @@ KAUST: Thuwal gate		22.2986560	39.1042860	Checkpoint	668
 KAUST: vendor gate		22.3034800	39.1223370	Checkpoint	668	
 Exit back of mall of arabia	This is the U-Turn to get back on Madina Rd to KAUST from Mall of Arabia...	21.6311610	39.1820110	Intersection	669	
 Exit for Sultan St.	To Jarir Mall etc.	21.6705090	39.1252330	Intersection	669	
-KAUST exit: main gate		22.2731320	39.1259610	Intersection	669	
-Thuwal exit		22.2731320	39.1480410	Intersection	669	
+KAUST exit		22.3139720	39.1514630	Intersection	669	
+Thuwal exit		22.2731320	39.1259610	Intersection	669	
 JED - North Terminal	All airlines other than Saudia	21.6882170	39.1435170	Airport terminal	670	
 JED - South Terminal	Saudia flights	21.6678770	39.1435170	Airport terminal	670	
 Riyadh Airport		24.9582810	46.7036320	Airport terminal	670	
@@ -133,8 +133,9 @@ Dive shops	2 in Danube building, one across parking lot	21.5486980	39.1622890	Sc
 Desert Sea Divers	Dive shop and marina. http://desertseadivers.com/	21.7303730	39.1069580	Scuba diving	697	
 Dream Divers	Departure point for boat trips	21.7366300	39.1230570	Scuba diving	697	
 Al Akhal Oasis		23.3109120	39.1371766	Natural site	698	
+Wahba crater	The pin is at the white hut from which the trail down begins	22.9064970	41.1306820	Natural site	698	
 Madain Saleh	Access here is restricted. See, for example http://kcomm.wikispaces.com/Day+Trips for info on how to get permits.]	26.8141670	37.9475000	Fortress, castle	699	
-Ruins of an Ottoman fortress	Big thanks for Claire Sale http://clairesale.com/adventures-in-the-desert-ottoman-castle-near-rabigh/	22.7396757	39.1371766	Fortress, castle	699	
+Ruins of an Ottoman fortress	Big thanks for Claire Sale http://clairesale.com/adventures-in-the-desert-ottoman-castle-near-rabigh/ Rumour from Graig Wickham has it that this site is being fenced off as of 2014...	22.7396757	39.1371766	Fortress, castle	699	
 Pharmacy		22.2876130	39.1131900	Pharmacy	700	
 Pharmacy		22.2876130	39.1131900	Pharmacy	700	
 Passport photo studio		22.2866940	39.1132660	Photo shop	701	

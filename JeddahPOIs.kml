@@ -670,11 +670,11 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>KAUST exit: main gate</name>
+    <name>KAUST exit</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style669</styleUrl>
     <Point>
-      <coordinates>39.1259610,22.2731320,0.0000000</coordinates>
+      <coordinates>39.1514630,22.3139720,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -682,7 +682,7 @@
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style669</styleUrl>
     <Point>
-      <coordinates>39.1480410,22.2731320,0.0000000</coordinates>
+      <coordinates>39.1259610,22.2731320,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1342,6 +1342,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Wahba crater</name>
+    <description><![CDATA[<div dir="ltr">The pin is at the white hut from which the trail down begins</div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>41.1306820,22.9064970,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Madain Saleh</name>
     <description><![CDATA[<div dir="ltr">Access here is restricted. See, for example http://kcomm.wikispaces.com/Day+Trips for info on how to get permits.]</div>]]></description>
     <styleUrl>#style699</styleUrl>
@@ -1351,7 +1359,7 @@
   </Placemark>
   <Placemark>
     <name>Ruins of an Ottoman fortress</name>
-    <description><![CDATA[<div dir="ltr">Big thanks for Claire Sale http://clairesale.com/adventures-in-the-desert-ottoman-castle-near-rabigh/</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Big thanks for Claire Sale http://clairesale.com/adventures-in-the-desert-ottoman-castle-near-rabigh/ Rumour from Graig Wickham has it that this site is being fenced off as of 2014...</div>]]></description>
     <styleUrl>#style699</styleUrl>
     <Point>
       <coordinates>39.1371766,22.7396757,0.0000000</coordinates>
