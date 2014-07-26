@@ -14,7 +14,7 @@ in a browser and explore. To avoid extra clutter, there are small submaps of the
 [Thuwal](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Thuwal.kml),
 [Jeddah](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Jeddah.kml),
 [Abha](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Abha.kml),
-[Taif](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Taif.kml),
+[Taif](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Taif.kml).
 
 ### Smartphone, tablet, etc. users
 
