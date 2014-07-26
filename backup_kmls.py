@@ -45,7 +45,8 @@ class POISet():
         file.close()
         self.styles = [POIStyle(ID=foo) for foo in range(1,1501)]
         for line in lines:
-            line = line[:-1]
+            if line[-1] == '\n':
+                line = line[:-1]
             id = int(line[:line.find('\t')])
             line = line[line.find('\t')+1:]
             type = line[:line.find('\t')]
@@ -60,7 +61,8 @@ class POISet():
         lines = lines[1:]
         self.POIs = []
         for line in lines:
-            line = line[:-1]
+            if line[-1] == '\n':
+                line = line[:-1]
             name = line[:line.find('\t')]
             line = line[line.find('\t')+1:]
             desc = line[:line.find('\t')]
