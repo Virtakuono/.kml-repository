@@ -334,11 +334,27 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Best Western Orchid hotel</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>46.7186120,24.6851230,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Four Seasons</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style666</styleUrl>
     <Point>
       <coordinates>46.6735570,24.7110580,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Four Seasons</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>46.6738920,24.7110510,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -419,6 +435,22 @@
     <styleUrl>#style666</styleUrl>
     <Point>
       <coordinates>40.2677310,21.3644850,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Riyadh Marriott hotel</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>46.7131300,24.6867140,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rosewood Al Faisaliyah hotel</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>46.6849350,24.6895090,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -551,18 +583,18 @@
   </Placemark>
   <Placemark>
     <name>Goodies</name>
-    <description><![CDATA[<div dir="ltr">A good food market type restaurant, large dessers/sweets selection. In Coral Mall.</div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.1631320,21.5502480,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Goodies</name>
     <description><![CDATA[<div dir="ltr">A good food market type restaurant, large dessers/sweets selection. In Stars Avenue Mall.</div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1273080,21.5729500,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Goodies</name>
+    <description><![CDATA[<div dir="ltr">A good food market type restaurant, large dessers/sweets selection. In Coral Mall.</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.1631320,21.5502480,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -930,7 +962,7 @@
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style672</styleUrl>
     <Point>
-      <coordinates>39.1452940,21.5982340,0.0000000</coordinates>
+      <coordinates>39.1413800,21.6065750,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -938,15 +970,7 @@
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style672</styleUrl>
     <Point>
-      <coordinates>39.1413800,21.6065750,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Danube</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style673</styleUrl>
-    <Point>
-      <coordinates>39.1630540,21.5489980,0.0000000</coordinates>
+      <coordinates>39.1452940,21.5982340,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -955,6 +979,14 @@
     <styleUrl>#style673</styleUrl>
     <Point>
       <coordinates>39.1102560,21.6268830,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Danube</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style673</styleUrl>
+    <Point>
+      <coordinates>39.1630540,21.5489980,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -983,18 +1015,18 @@
   </Placemark>
   <Placemark>
     <name>Emax</name>
-    <description><![CDATA[<div dir="ltr">Electronics, Sitteen Street, Bawadi,Jeddah,Tel: +966 2 6977519, 6977517</div>]]></description>
-    <styleUrl>#style674</styleUrl>
-    <Point>
-      <coordinates>39.1768610,21.5906050,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Emax</name>
     <description><![CDATA[<div dir="ltr">Electronics, Centrepoint Dome - Amir Sultan Street, Jeddah,Tel: +966 2 6394492</div>]]></description>
     <styleUrl>#style674</styleUrl>
     <Point>
       <coordinates>39.1411090,21.6066860,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Emax</name>
+    <description><![CDATA[<div dir="ltr">Electronics, Sitteen Street, Bawadi,Jeddah,Tel: +966 2 6977519, 6977517</div>]]></description>
+    <styleUrl>#style674</styleUrl>
+    <Point>
+      <coordinates>39.1768610,21.5906050,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1071,6 +1103,14 @@
   </Placemark>
   <Placemark>
     <name>SACO</name>
+    <description><![CDATA[<div dir="ltr">Jeddah main store. Address Al Amir Sultan Street, Phone 02-6199967 Fax 02-6199558, P.O Box 20358 - Jeddah 21455, Sat to Thur    08:00a.m / 12:00a.m, Fri      05:00p.m / 12:00a.m</div>]]></description>
+    <styleUrl>#style676</styleUrl>
+    <Point>
+      <coordinates>39.1214680,21.6611770,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SACO</name>
     <description><![CDATA[<div dir="ltr">Hardware store http://saco-ksa.com/</div>]]></description>
     <styleUrl>#style676</styleUrl>
     <Point>
@@ -1083,14 +1123,6 @@
     <styleUrl>#style676</styleUrl>
     <Point>
       <coordinates>39.1650090,21.5182478,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>SACO</name>
-    <description><![CDATA[<div dir="ltr">Jeddah main store. Address Al Amir Sultan Street, Phone 02-6199967 Fax 02-6199558, P.O Box 20358 - Jeddah 21455, Sat to Thur    08:00a.m / 12:00a.m, Fri      05:00p.m / 12:00a.m</div>]]></description>
-    <styleUrl>#style676</styleUrl>
-    <Point>
-      <coordinates>39.1214680,21.6611770,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1119,18 +1151,18 @@
   </Placemark>
   <Placemark>
     <name>Jarir bookstore</name>
-    <description><![CDATA[<div dir="ltr">on Sar[iy] Street. Showroom Timings: Sat-Thu 9am-2pm, 4.30pm-11pm; Fri 4.30pm-11pm Tel. No. +966 2 682-7666, Fax No.+966 2 698-1120</div>]]></description>
-    <styleUrl>#style678</styleUrl>
-    <Point>
-      <coordinates>39.1457750,21.5748160,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Jarir bookstore</name>
     <description><![CDATA[<div dir="ltr">Prince Sultan street Showroom timings: Sat-Thu 9am-12pm, 4.30pm-11pm; Fri 4.30pm-11pm Tel. No. +966 2 420-2050, Fax No.+966 2 420-2060</div>]]></description>
     <styleUrl>#style678</styleUrl>
     <Point>
       <coordinates>39.1324010,21.6401960,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jarir bookstore</name>
+    <description><![CDATA[<div dir="ltr">on Sar[iy] Street. Showroom Timings: Sat-Thu 9am-2pm, 4.30pm-11pm; Fri 4.30pm-11pm Tel. No. +966 2 682-7666, Fax No.+966 2 698-1120</div>]]></description>
+    <styleUrl>#style678</styleUrl>
+    <Point>
+      <coordinates>39.1457750,21.5748160,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1215,14 +1247,6 @@
   </Placemark>
   <Placemark>
     <name>SABB branch</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style688</styleUrl>
-    <Point>
-      <coordinates>39.1427000,21.5712890,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>SABB branch</name>
     <description><![CDATA[<div dir="ltr">Full services, includes a separate ladies section</div>]]></description>
     <styleUrl>#style688</styleUrl>
     <Point>
@@ -1230,11 +1254,11 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Checkpoint</name>
+    <name>SABB branch</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style689</styleUrl>
+    <styleUrl>#style688</styleUrl>
     <Point>
-      <coordinates>39.2557790,21.4080720,0.0000000</coordinates>
+      <coordinates>39.1427000,21.5712890,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1243,6 +1267,14 @@
     <styleUrl>#style689</styleUrl>
     <Point>
       <coordinates>39.1206210,21.7988950,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Checkpoint</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style689</styleUrl>
+    <Point>
+      <coordinates>39.2557790,21.4080720,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1271,14 +1303,6 @@
   </Placemark>
   <Placemark>
     <name>Tailor</name>
-    <description><![CDATA[<div dir="ltr">The place looks like a dump but they make fair quality trousers for 55 SAR. They tend to overuse interfacing in shirts, tho.</div>]]></description>
-    <styleUrl>#style692</styleUrl>
-    <Point>
-      <coordinates>39.1831210,21.4825120,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Tailor</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style692</styleUrl>
     <Point>
@@ -1286,11 +1310,11 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Computer shops</name>
-    <description><![CDATA[<div dir="ltr">Farther down the Kahlid Al Waleed Street</div>]]></description>
-    <styleUrl>#style693</styleUrl>
+    <name>Tailor</name>
+    <description><![CDATA[<div dir="ltr">The place looks like a dump but they make fair quality trousers for 55 SAR. They tend to overuse interfacing in shirts, tho.</div>]]></description>
+    <styleUrl>#style692</styleUrl>
     <Point>
-      <coordinates>39.1851430,21.5294190,0.0000000</coordinates>
+      <coordinates>39.1831210,21.4825120,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1299,6 +1323,14 @@
     <styleUrl>#style693</styleUrl>
     <Point>
       <coordinates>39.1537280,21.6124710,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Computer shops</name>
+    <description><![CDATA[<div dir="ltr">Farther down the Kahlid Al Waleed Street</div>]]></description>
+    <styleUrl>#style693</styleUrl>
+    <Point>
+      <coordinates>39.1851430,21.5294190,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1578,7 +1610,7 @@
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style701</styleUrl>
     <Point>
-      <coordinates>39.1132660,22.2866940,0.0000000</coordinates>
+      <coordinates>39.1125680,22.2868540,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1586,7 +1618,7 @@
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style701</styleUrl>
     <Point>
-      <coordinates>39.1125680,22.2868540,0.0000000</coordinates>
+      <coordinates>39.1132660,22.2866940,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1634,7 +1666,7 @@
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style707</styleUrl>
     <Point>
-      <coordinates>40.3912050,21.2560770,0.0000000</coordinates>
+      <coordinates>40.3865700,21.2570570,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1642,7 +1674,7 @@
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style707</styleUrl>
     <Point>
-      <coordinates>40.3865700,21.2570570,0.0000000</coordinates>
+      <coordinates>40.3912050,21.2560770,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1651,22 +1683,6 @@
     <styleUrl>#style708</styleUrl>
     <Point>
       <coordinates>40.5121540,21.1294540,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Cable car</name>
-    <description><![CDATA[<div dir="ltr">Top station</div>]]></description>
-    <styleUrl>#style709</styleUrl>
-    <Point>
-      <coordinates>42.3589630,18.2944660,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Cable car</name>
-    <description><![CDATA[<div dir="ltr">Lower station</div>]]></description>
-    <styleUrl>#style709</styleUrl>
-    <Point>
-      <coordinates>42.3363610,18.2811430,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1683,6 +1699,22 @@
     <styleUrl>#style709</styleUrl>
     <Point>
       <coordinates>40.2293550,21.3562970,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cable car</name>
+    <description><![CDATA[<div dir="ltr">Top station</div>]]></description>
+    <styleUrl>#style709</styleUrl>
+    <Point>
+      <coordinates>42.3589630,18.2944660,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cable car</name>
+    <description><![CDATA[<div dir="ltr">Lower station</div>]]></description>
+    <styleUrl>#style709</styleUrl>
+    <Point>
+      <coordinates>42.3363610,18.2811430,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>

@@ -11,11 +11,43 @@
     </IconStyle>
   </Style>
   <Placemark>
+    <name>Best Western Orchid hotel</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>46.7186120,24.6851230,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Four Seasons</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style666</styleUrl>
     <Point>
       <coordinates>46.6735570,24.7110580,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Four Seasons</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>46.6738920,24.7110510,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Riyadh Marriott hotel</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>46.7131300,24.6867140,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rosewood Al Faisaliyah hotel</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>46.6849350,24.6895090,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
