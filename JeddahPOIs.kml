@@ -311,6 +311,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style712">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/museum_archeological.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Avail Hotel and Suite</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -1696,14 +1703,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Museum</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style710</styleUrl>
-    <Point>
-      <coordinates>42.7573320,18.2964320,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Remnants of old houses</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style710</styleUrl>
@@ -1733,6 +1732,14 @@
     <styleUrl>#style711</styleUrl>
     <Point>
       <coordinates>40.2303090,21.3559880,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museum</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style712</styleUrl>
+    <Point>
+      <coordinates>42.7573320,18.2964320,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>
