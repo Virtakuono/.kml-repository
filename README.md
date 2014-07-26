@@ -20,7 +20,7 @@ tested. If you are able (and you should be) to open the map on an android or
 windows phone or blackberry, please tell us how you did it: juho.happola@iki.fi
 For the time being, the Apple instructions are the only ones available:
 
-### Apple iOS
+#### Apple iOS
 
 The essential data is stored in a .kml file that can be opened in two ways.
   1. In browser. This is probably the simplest way. Experience says that the best
