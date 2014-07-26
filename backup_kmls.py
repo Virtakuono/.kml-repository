@@ -85,7 +85,7 @@ class POISet():
         rv += '<kml xmlns=\"http://earth.google.com/kml/2.2\">\n'
         rv += '<Document>\n'
         rv += '  <name>Points of Interest in and near Jeddah, Kingdom of Saudi Arabia</name>\n'
-        rv += '  <description><![CDATA[See detailed info at https://github.com/Virtakuono/.kml-repository]]></description>\n'
+        rv += '  <description><![CDATA[See detailed info, licensing and instructions on how to contribute yourself at https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest]]></description>\n'
         for style in self.styles:
             rv += style.__str__()
         for POI in self.POIs:
