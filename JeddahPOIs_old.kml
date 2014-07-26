@@ -269,6 +269,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style706">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/city.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Avail Hotel and Suite</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -1342,11 +1349,35 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Black volcano</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>39.9136230,25.7041090,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Historic Well</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>38.5534150,27.6347530,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Wahba crater</name>
     <description><![CDATA[<div dir="ltr">The pin is at the white hut from which the trail down begins</div>]]></description>
     <styleUrl>#style698</styleUrl>
     <Point>
       <coordinates>41.1306820,22.9064970,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>White volcano</name>
+    <description><![CDATA[<div dir="ltr">Thanks, Greg Wickham</div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>39.9356820,25.6607920,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1427,6 +1458,14 @@
     <styleUrl>#style705</styleUrl>
     <Point>
       <coordinates>39.1808420,21.4844640,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Al Bahah</name>
+    <description><![CDATA[<div dir="ltr">http://en.wikipedia.org/wiki/Al_Bahah</div>]]></description>
+    <styleUrl>#style706</styleUrl>
+    <Point>
+      <coordinates>41.4500000,20.0000000,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>

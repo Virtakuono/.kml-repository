@@ -1365,6 +1365,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Mastorah Dunes</name>
+    <description><![CDATA[<div dir="ltr">Thanks, Greg Wickham</div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>38.8017940,23.6885470,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Wahba crater</name>
     <description><![CDATA[<div dir="ltr">The pin is at the white hut from which the trail down begins</div>]]></description>
     <styleUrl>#style698</styleUrl>
