@@ -262,10 +262,10 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style71">
+  <Style id="style705">
     <IconStyle>
       <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/generic.png</href>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/bustour.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -490,7 +490,7 @@
     <description><![CDATA[<div dir="ltr">In a residential area and thus hard to find. Call 660-4769 if lost.</div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
-      <coordinates>39.0512010,21.5353660,0.0000000</coordinates>
+      <coordinates>39.1653370,21.5353660,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1202,7 +1202,7 @@
     <description><![CDATA[<div dir="ltr">This is about the north end of the computer store strip </div>]]></description>
     <styleUrl>#style693</styleUrl>
     <Point>
-      <coordinates>39.1097300,21.5202900,0.0000000</coordinates>
+      <coordinates>39.1856730,21.5202900,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1416,7 +1416,7 @@
   <Placemark>
     <name>Al Balad: KAUST bus dropoff</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style71</styleUrl>
+    <styleUrl>#style705</styleUrl>
     <Point>
       <coordinates>39.1808420,21.4844640,0.0000000</coordinates>
     </Point>
