@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Submap of JeddahPOIs: Abha</name>
+  <description><![CDATA[See detailed info, licensing and instructions on how to contribute yourself at https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest]]></description>
+  <Style id="style670">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/airport_terminal.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style671">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/souq.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style698">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/palm.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style710">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/house.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style712">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/museum_archeological.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Abha airport</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style670</styleUrl>
+    <Point>
+      <coordinates>42.6577070,18.2342340,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tuesday market</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style671</styleUrl>
+    <Point>
+      <coordinates>42.4964330,18.2146850,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>National Asir Park</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>42.4945110,18.2007920,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Near the highest point</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>42.3612290,18.2914710,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Abhu palace hotel</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style710</styleUrl>
+    <Point>
+      <coordinates>42.4964330,18.2099110,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Shada palace</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style710</styleUrl>
+    <Point>
+      <coordinates>42.5006600,18.2165990,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museum</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style712</styleUrl>
+    <Point>
+      <coordinates>42.7573320,18.2964320,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

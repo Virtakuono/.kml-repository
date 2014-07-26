@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Submap of JeddahPOIs: Riyadh</name>
+  <description><![CDATA[See detailed info, licensing and instructions on how to contribute yourself at https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest]]></description>
+  <Style id="style666">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/hotel_nostars.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Four Seasons</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>46.6735570,24.7110580,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sheraton Towers</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>46.6651270,24.7274490,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

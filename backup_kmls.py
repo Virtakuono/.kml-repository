@@ -108,13 +108,13 @@ class POISet_rectangle(POISet):
         self.name = name
         self.desc = desc
         self.POIs = []
-        for POI in mastermap:
+        for POI in mastermap.POIs:
             if POI.lat > minlat:
                 if POI.lat < maxlat:
                     if POI.lon < maxlon:
                         if POI.lon> minlon:
                             self.POIs.append(POI)
-        self.styles = [style for style in mstermap.styles]
+        self.styles = [style for style in mastermap.styles]
         effstyles = []
         for poi in self.POIs:
             if poi.type not in effstyles:
@@ -142,6 +142,18 @@ def main():
     print('Done.')
     print('Difference between old and new kml file:')
     os.system('diff ./JeddahPOIs.kml ./JeddahPOIs_old.kml')
+
+    print('Generating submaps...')
+
+    smcs = (('Thuwal',(22.2,22.3,39.1,39.2)),('Jeddah',(21.35,21.72,39.05,39.32)),('Taif',(21.16,21.5,40.17,40.61)),('Abha',(18.01,18.32,42.36,42.8)),('Riyadh',(24.5,24.94,46.36,47.0)))
+
+    for foo in smcs:
+        smName = 'Submap of JeddahPOIs: %s'%(foo[0],)
+        smDesc = poiSet.desc
+        smFilename = 'submap_%s.kml'%(foo[0])
+        smObject = POISet_rectangle(mastermap=poiSet,minlat=foo[1][0],maxlat=foo[1][1],minlon=foo[1][2],maxlon=foo[1][3],name=smName,desc=smDesc)
+        smObject.writekml(fn = smFilename)
+    print('Done.')
     
     trackedMaps = [trackedMap('Jeddah: Interested locations','https://maps.google.com/maps/ms?dg=feature&ie=UTF8&authuser=0&msa=0&output=kml&msid=203555040976874160945.0004cf9d6a73b19256e5f','JeddahInterestedLocations')]
     trackedMaps += [trackedMap('Jeddah Shopping','https://maps.google.com/maps/ms?ie=UTF8&t=h&dg=feature&authuser=0&msa=0&output=kml&msid=203537519255214459478.0004863c2f62b04789ee3','JeddahShopping')]
