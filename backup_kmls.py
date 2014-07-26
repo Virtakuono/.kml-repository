@@ -38,8 +38,11 @@ class POI():
 
 class POISet():
     
-    def __init__(self,name='JeddahPOIs'):
-        filename = '%s_styles.tsv'%(name,)
+    def __init__(self,name='Points of Interest in and near Jeddah, Kingdom of Saudi Arabia',desc='See detailed info, licensing and instructions on how to contribute yourself at https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest',filename='JeddahPOIs'):
+        self.name = name
+        self.desc = desc
+        self.filename = filename
+        filename = '%s_styles.tsv'%(self.filename,)
         file = open(filename)
         lines = file.readlines()
         file.close()
@@ -47,14 +50,14 @@ class POISet():
         for line in lines:
             if line[-1] == '\n':
                 line = line[:-1]
-            id = int(line[:line.find('\t')])
+                id = int(line[:line.find('\t')])
             line = line[line.find('\t')+1:]
             type = line[:line.find('\t')]
             line = line[line.find('\t')+1:]
             filename = line
             style = POIStyle(ID=id,icon=filename,type=type)
             self.styles[style.id] = style
-        filename = '%s.tsv'%(name,)
+        filename = '%s.tsv'%(self.filename,)
         file = open(filename)
         lines = file.readlines()
         file.close()
@@ -84,8 +87,8 @@ class POISet():
         rv = '<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n'
         rv += '<kml xmlns=\"http://earth.google.com/kml/2.2\">\n'
         rv += '<Document>\n'
-        rv += '  <name>Points of Interest in and near Jeddah, Kingdom of Saudi Arabia</name>\n'
-        rv += '  <description><![CDATA[See detailed info, licensing and instructions on how to contribute yourself at https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest]]></description>\n'
+        rv += '  <name>%s</name>\n'%(self.name,)
+        rv += '  <description><![CDATA[%s]]></description>\n'%(self.desc,)
         for style in self.styles:
             rv += style.__str__()
         for POI in self.POIs:
@@ -98,6 +101,26 @@ class POISet():
         file = open(fn,'w')
         file.writelines(self.__str__())
         file.close()
+
+class POISet_rectangle(POISet):
+
+    def __init__(self,name='A submap',mastermap=POISet(),minlat=-90.0,maxlat=90.0,minlon=-180.0,maxlon=180.0,desc=''):
+        self.name = name
+        self.desc = desc
+        self.POIs = []
+        for POI in mastermap:
+            if POI.lat > minlat:
+                if POI.lat < maxlat:
+                    if POI.lon < maxlon:
+                        if POI.lon> minlon:
+                            self.POIs.append(POI)
+        self.styles = [style for style in mstermap.styles]
+        effstyles = []
+        for poi in self.POIs:
+            if poi.type not in effstyles:
+                effstyles.append(poi.type)
+        self.styles = effstyles
+        
 
 class trackedMap():
     
