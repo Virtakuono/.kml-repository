@@ -5,18 +5,33 @@
 ## Executive summary
 
 This is a map of interesting locations in and around Jeddah,
-Kingdom of Saudi Arabia. If you just want to look at the map on a computer,
-see [here](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml).
+mainly aimed to be used and edited by the KAUST community,
+although anyone is warmly welcomed to help out.
 
-Unfortunately, if you are on a smartphone, the way to open this map
-is a bit more subtle. The following ways have been tested:
-  1. Open [this file](https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml)
-     using Apple Safari
-  2. Open the file with whatever method, email it to yourself and then from your email inbox, choose to open
-     the attachment using google maps app. Of course if you do not have google maps, you need to download it from the apple store.
+### Desktop users
+Open [the map](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml)
+in a browser and explore.
 
-Opening the map on windows or android phones has not been tested, if you have one of those phones
-and would like to help, email juho.happola@iki.fi
+### Smartphone, tablet, etc. users
+
+Unfortunately, opening the map on a smartphone or a tablet is a bit more subtle
+and depends on which device is being used. So far only apple devices have been
+tested. If you are able (and you should be) to open the map on an android or
+windows phone or blackberry, please tell us how you did it: juho.happola@iki.fi
+For the time being, the Apple instructions are the only ones available:
+
+## Apple iOS
+
+The essential data is stored in a .kml file that can be opened in two ways.
+  1. In browser. This is probably the simplest way. Experience says that the best
+     browser to view this map is using Safari. Open [this page](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml)
+     in Safari and enjoy. If you open it in Google Chrome, the browser will try to launch Google Maps App with devastating results.
+  2. In an app such as Google Earth. This is the less simple way. First of all you have to have the app installed. Secondly
+     you need to open [this file](https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml)
+     using that app. Unfortunately, if you click the link on a mobile device, you will likely have a bunch of code shown to you.
+     The way around this is to download the file to a computer and to send it to yourself as an email attachment.
+     Then, read your email using your mobile device and open the attachment. You should be offered a choice of apps to open it with,
+     go for Google Earth.
 
 ## The longer version of the story
 
