@@ -318,6 +318,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style713">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/village.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Avail Hotel and Suite</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -1615,14 +1622,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Rural village</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style706</styleUrl>
-    <Point>
-      <coordinates>42.2732810,18.2120610,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Historic mosque</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style707</styleUrl>
@@ -1740,6 +1739,14 @@
     <styleUrl>#style712</styleUrl>
     <Point>
       <coordinates>42.7573320,18.2964320,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rural village</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style713</styleUrl>
+    <Point>
+      <coordinates>42.2732810,18.2120610,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>
