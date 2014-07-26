@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Ta&#39;if</name>
+  <description><![CDATA[]]></description>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lodging.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/camera.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/camera.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/camera.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/camera.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/dollar.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/camera.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/camera.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/camera.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/camera.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/camera.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/camera.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/camera.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/camera.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/snack_bar.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Intercontinental</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>40.461575,21.371344,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ramada</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>40.267731,21.364485,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cable Car</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>40.267578,21.364655,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cable Car</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>40.229355,21.356297,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Waterpark</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>40.230309,21.355988,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>View to Makkah</name>
+    <description><![CDATA[<div dir="ltr">Also, valley in which two different types of Juniper meet.</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>40.285110,21.320232,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Remnants of old houses</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>40.294212,21.351954,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mall</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>40.418724,21.287825,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Shubra Palace</name>
+    <description><![CDATA[<div dir="ltr">Historic house that is now a museum.<br>Only open Sat - Wed.</div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>40.414951,21.286280,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ruins of Turkish Fort</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>40.594311,21.512663,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Historic House</name>
+    <description><![CDATA[<div dir="ltr">Not looked after ...</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>40.399426,21.268967,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Historic House</name>
+    <description><![CDATA[<div dir="ltr">Private (maybe open for inspection).</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>40.405396,21.269827,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Summer Resort.</name>
+    <description><![CDATA[<div dir="ltr">Higher elevation than Ta'if.</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>40.315273,21.080696,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Alsamlagui Ancient Dam</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>40.512154,21.129454,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Historic Mosque</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>40.386570,21.257057,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Historic Mosque</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>40.391205,21.256077,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Restaurant</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>40.422997,21.287325,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
