@@ -702,6 +702,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Shada Indian Restaurant</name>
+    <description><![CDATA[<div dir="ltr">Favoured by locals</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.2105400,21.5540400,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Shish Tawook</name>
     <description><![CDATA[<div dir="ltr">Delicious Shish Tawook, 4SAR each</div>]]></description>
     <styleUrl>#style667</styleUrl>
