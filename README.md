@@ -100,8 +100,8 @@ This map aims to fix the problems by
 
 In addition to the two maps mentioned above, this repository
 includes material from
-[Claire Sale](https://maps.google.com/maps/ms?msid=216110785410091998621.0004a4de8ab547c2ca385&msa=0&ll=22.287002,39.112723&spn=0.001437,0.001851&dg=feature)
-and professor Raul Tempone.
+[Claire Sale](https://maps.google.com/maps/ms?msid=216110785410091998621.0004a4de8ab547c2ca385&msa=0&ll=22.287002,39.112723&spn=0.001437,0.001851&dg=feature),
+Greg Wickham and professor Raul Tempone.
 
 ### License
 
