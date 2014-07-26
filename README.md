@@ -10,7 +10,11 @@ although anyone is warmly welcomed to help out.
 
 ### Desktop users
 Open [the map](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml)
-in a browser and explore.
+in a browser and explore. To avoid extra clutter, there are small submaps of the following regions
+[Thuwal](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Thuwal.kml),
+[Jeddah](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Jeddah.kml),
+[Abha](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Abha.kml),
+[Taif](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Taif.kml),
 
 ### Smartphone, tablet, etc. users
 
