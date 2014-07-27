@@ -645,6 +645,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Palm Garden restaurant</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>21.5645390,39.1118610,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Piatto (Etoile Center)</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style667</styleUrl>
