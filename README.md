@@ -37,6 +37,11 @@ The essential data is stored in a .kml file that can be opened in two ways.
      Then, read your email using your mobile device and open the attachment. You should be offered a choice of apps to open it with,
      go for Google Earth.
 
+#### Windows phone
+
+Open [this link](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml)
+to view the map.
+
 ## The longer version of the story
 
 ### What is this?
@@ -106,6 +111,7 @@ In addition to the two maps mentioned above, this repository
 includes material from
 [Claire Sale](https://maps.google.com/maps/ms?msid=216110785410091998621.0004a4de8ab547c2ca385&msa=0&ll=22.287002,39.112723&spn=0.001437,0.001851&dg=feature),
 Greg Wickham and professor Raul Tempone.
+Thank you for helpful comments and corrections from Luca Passone and Idris Aija.
 
 ### License
 
