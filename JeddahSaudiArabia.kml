@@ -325,6 +325,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style714">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/moderntower.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Avail Hotel and Suite</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -1795,6 +1802,14 @@
     <styleUrl>#style713</styleUrl>
     <Point>
       <coordinates>42.2732810,18.2120610,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Queen's building</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style714</styleUrl>
+    <Point>
+      <coordinates>21.4845580,39.1840530,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>
