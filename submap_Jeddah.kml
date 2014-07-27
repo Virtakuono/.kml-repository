@@ -1046,11 +1046,27 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Dive shops</name>
-    <description><![CDATA[<div dir="ltr">2 in Danube building, one across parking lot</div>]]></description>
+    <name>Blue reef divers</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style696</styleUrl>
     <Point>
-      <coordinates>39.1622890,21.5486980,0.0000000</coordinates>
+      <coordinates>39.1634262,21.5488831,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Red Sea divers</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style696</styleUrl>
+    <Point>
+      <coordinates>39.1632579,21.5494170,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Arab circumnavigator</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style696</styleUrl>
+    <Point>
+      <coordinates>39.1632581,21.5494171,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
