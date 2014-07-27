@@ -340,6 +340,14 @@
     </IconStyle>
   </Style>
   <Placemark>
+    <name>Abhu palace hotel</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>42.4964330,18.2099110,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Avail Hotel and Suite</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style666</styleUrl>
@@ -1761,14 +1769,6 @@
     <styleUrl>#style709</styleUrl>
     <Point>
       <coordinates>42.3363610,18.2811430,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Abhu palace hotel</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style710</styleUrl>
-    <Point>
-      <coordinates>42.4964330,18.2099110,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>

@@ -3,6 +3,13 @@
 <Document>
   <name>Submap of JeddahPOIs: Abha</name>
   <description><![CDATA[See detailed info, licensing and instructions on how to contribute yourself at https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest]]></description>
+  <Style id="style666">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/hotel_nostars.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Style id="style670">
     <IconStyle>
       <Icon>
@@ -39,6 +46,14 @@
     </IconStyle>
   </Style>
   <Placemark>
+    <name>Abhu palace hotel</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>42.4964330,18.2099110,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Abha airport</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style670</styleUrl>
@@ -68,14 +83,6 @@
     <styleUrl>#style698</styleUrl>
     <Point>
       <coordinates>42.3612290,18.2914710,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Abhu palace hotel</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style710</styleUrl>
-    <Point>
-      <coordinates>42.4964330,18.2099110,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
