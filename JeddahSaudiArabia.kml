@@ -332,6 +332,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style715">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/motorbike.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Avail Hotel and Suite</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -1833,7 +1840,15 @@
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style714</styleUrl>
     <Point>
-      <coordinates>21.4845580,39.1840530,0.0000000</coordinates>
+      <coordinates>39.1840530,21.4845580,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Suzuki dealership</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style715</styleUrl>
+    <Point>
+      <coordinates>39.1764942,21.5876501,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>
