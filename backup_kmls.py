@@ -36,6 +36,17 @@ class POI():
         rv = '  <Placemark>\n%s  </Placemark>\n'%(rv,)
         return rv
 
+    def lmxstr(self):
+        rv = '  <lm:landmark>\n'
+        rv += '    <lm:name>%s</lm:name>\n'%(cgi.escape(self.name),)
+        rv += '    <lm:coordinates>\n'
+        rv += '      <lm:latitude>%.6f</lm:latitude>\n'%(self.lat,)
+        rv += '      <lm:longitude>%.6f</lm:longitude>\n'%(self.lon,)
+        rv += '      <lm:altitude>0.0</lm:altitude>\n'
+        rv += '    </lm:coordinates>\n'
+        rv += '  </lm:landmark>\n'
+        return rv
+
 class POISet():
     
     def __init__(self,name='Points of Interest in and near Jeddah, Kingdom of Saudi Arabia',desc='See detailed info, licensing and instructions on how to contribute yourself at https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest',filename='JeddahPOIs'):
@@ -97,9 +108,26 @@ class POISet():
         rv += '</kml>\n'
         return rv
 
+    def lmxstr(self,):
+        rv = '<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n'
+        rv += '<lm:lmx xmlns:lm=\"http://www.nokia.com/schemas/location/landmarks/1/0\">\n'
+        rv += ' <lm:landmarkCollection>\n'
+        rv += ' <lm:name>%s</lm:name>\n'%(self.name,)
+        rv += ' <lm:description>%s</lm:description>\n'%(self.desc)
+        for POI in self.POIs:
+            rv += POI.lmxstr()
+        rv += ' </lm:landmarkCollection>\n'
+        rv += '</lm:lmx>\n'
+        return rv
+
     def writekml(self,fn='JeddahPOIs.kml'):
         file = open(fn,'w')
         file.writelines(self.__str__())
+        file.close()
+
+    def writelmx(self,fn='JeddahPOIs.lmx'):
+        file = open(fn,'w')
+        file.writelines([self.lmxstr(),])
         file.close()
 
 class POISet_rectangle(POISet):
@@ -135,10 +163,12 @@ def main():
     os.system('wget -q -O JeddahPOIs.tsv \"https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/export?hl=en&exportFormat=tsv\"')
     os.system('wget -q -O JeddahPOIs_styles.tsv \"https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/export?hl=en&exportFormat=tsv&gid=1132721881\"')
     print('Done.')
-    print('Generating kml file...')
+    print('Generating kml and lmx files...')
     poiSet = POISet()
     os.system('cp ./JeddahPOIs.kml ./JeddahPOIs_old.kml')
+    os.system('cp ./JeddahPOIs.lmx ./JeddahPois_old.lmx')
     poiSet.writekml()
+    poiSet.writelmx()
     print('Done.')
     print('Difference between old and new kml file:')
     os.system('diff ./JeddahPOIs.kml ./JeddahPOIs_old.kml')
