@@ -39,8 +39,10 @@ The essential data is stored in a .kml file that can be opened in two ways.
 
 #### Windows phone
 
-Open [this link](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml)
-to view the map.
+  1. Open [this link](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml)
+     to view the map.
+  2. You may also download the [coordinates in the Nokia landmark exchange format](https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahPOIs.lmx)
+     (experimental).
 
 ## The longer version of the story
 
