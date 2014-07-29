@@ -24,7 +24,7 @@ and depends on which device and browser is being used and what apps have been in
 So far only Apple/Windows devices have been tested.
 If you are able (and you should be) to open the map on an android or
 or blackberry or whatever gizmo, please tell us how you did it: juho.happola@iki.fi
-For the time being, the Apple instructions are the only ones available:
+For the time being, the Apple and WP instructions are the only ones available:
 
 #### Apple iOS
 
@@ -73,6 +73,13 @@ to this
 to know the location of your point of interest
 and add it to the sheet with a descriptive name and,
 if possible, further instructions.
+
+Unfortunately, getting the coordinates of your current whereabouts
+*in a readable and useful format* might sometimes be a hassle. On iOS
+one may use the
+[Coordinates app](https://itunes.apple.com/us/app/coordinates-calculate-convert/id494286614?mt=8)
+it allows to copy your current location onto pasteboard or to
+send it in an email.
 
 The data will not be automatically transferred to the map,
 this is known feature to avoid erroneous edits.
