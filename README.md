@@ -92,6 +92,14 @@ When editing the map please avoid the following common mistakes
      a nickname.
   2. Spelling. Nothing gets transferred to the master map without a brief review. Please make this review a bit easier by
      avoiding excessive capitalisation, broken engrish and the like.
+  3. Removing Points of Interest: Removing old and outdated info is as important (if not more important) as adding new ones.
+     When one removes a line from the spreadsheet, it is often hard to distinguish whether this was
+     an erroneous edit, vandalism or something that should be published. Thus, if you feel that there
+     is a POI that should not be there, please go to the [spreadsheet](https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/edit#gid=0)
+     and write into the description section of the relevant POI something like:
+     "This shop has been closed since May 2013" or "I was there, I did not see a camel souq",
+     if possible, along with your initials, contact information or a nickname. Alternatively,
+     send an email to complain.
 
 Should you want to contribute code, icons, or add new types of
 points of interest, I recommend you fork the repository, do your changes
