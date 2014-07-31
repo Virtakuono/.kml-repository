@@ -1828,6 +1828,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Dhi Ain, archaeological village</name>
+    <description><![CDATA[<div dir="ltr">Also known as "Marble Village", thanks to Greg</div>]]></description>
+    <styleUrl>#style713</styleUrl>
+    <Point>
+      <coordinates>44.4418700,19.9279600,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Rural village</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style713</styleUrl>
