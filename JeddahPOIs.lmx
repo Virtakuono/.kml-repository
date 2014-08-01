@@ -1404,6 +1404,22 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Dam and a reservoir</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.821441</lm:latitude>
+      <lm:longitude>39.376327</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Dam and a reservoir</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.796756</lm:latitude>
+      <lm:longitude>39.283353</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Cable car</lm:name>
     <lm:coordinates>
       <lm:latitude>21.364655</lm:latitude>
