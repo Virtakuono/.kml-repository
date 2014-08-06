@@ -47,6 +47,9 @@ class POI():
         rv += '  </lm:landmark>\n'
         return rv
 
+    def mdstr(self):
+        return '###%s\n\n%s\n[osm](http://www.openstreetmap.org/?lat=%.7f&lon=%.7f)\n\n'
+
 class POISet():
     
     def __init__(self,name='Points of Interest in and near Jeddah, Kingdom of Saudi Arabia',desc='See detailed info, licensing and instructions on how to contribute yourself at https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest',filename='JeddahPOIs'):
