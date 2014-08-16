@@ -1396,6 +1396,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>An Bint Dam</lm:name>
+    <lm:coordinates>
+      <lm:latitude>25.484889</lm:latitude>
+      <lm:longitude>39.362797</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Alsamlagui ancient dam</lm:name>
     <lm:coordinates>
       <lm:latitude>21.129454</lm:latitude>
