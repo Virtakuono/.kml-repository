@@ -1556,6 +1556,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Elephant rock</name>
+    <description><![CDATA[<div dir="ltr">Thanks, Greg Wickham</div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>37.9799389,26.6896611,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Historic Well</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style698</styleUrl>
