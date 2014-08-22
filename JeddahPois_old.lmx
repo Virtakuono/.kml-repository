@@ -1220,6 +1220,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Elephant rock</lm:name>
+    <lm:coordinates>
+      <lm:latitude>26.689661</lm:latitude>
+      <lm:longitude>37.979939</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Historic Well</lm:name>
     <lm:coordinates>
       <lm:latitude>27.634753</lm:latitude>
