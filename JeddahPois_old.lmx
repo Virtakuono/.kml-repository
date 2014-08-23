@@ -1404,6 +1404,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Juffali mosque</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.492287</lm:latitude>
+      <lm:longitude>39.185717</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>An Bint Dam</lm:name>
     <lm:coordinates>
       <lm:latitude>25.484889</lm:latitude>

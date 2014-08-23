@@ -1740,6 +1740,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Juffali mosque</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style707</styleUrl>
+    <Point>
+      <coordinates>39.1857170,21.4922870,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>An Bint Dam</name>
     <description><![CDATA[<div dir="ltr">Thanks, Greg Wickham</div>]]></description>
     <styleUrl>#style708</styleUrl>
