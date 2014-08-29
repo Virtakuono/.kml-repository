@@ -8,21 +8,32 @@ class POIStyle():
 
     def __init__(self,ID=684,icon='generic',type='N/A'):
         self.id = ID
-        self.type = type
+        self.ttype = type
         self.icon = '%s.png'%(icon,)
 
+    def iconUrl(self):
+        return 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/%s'%(self.icon,)
+
     def __str__(self):
-        rv = '        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/%s</href>\n'%(self.icon,)
+        rv = '        <href>%s</href>\n'%(self.iconUrl(),)
         rv = '      <Icon>\n%s      </Icon>\n'%(rv,)
         rv = '    <IconStyle>\n%s    </IconStyle>\n'%(rv,)
         rv = '  <Style id=\"style%d\">\n%s  </Style>\n'%(self.id,rv)
+        return rv
+
+    def osmIconType(self):
+        return 'iconType%d'%(self.id,)
+
+    def osmhtmlstr(self):
+        th = lambda i: 'iconType%d'%(i,)
+        rv = '   var %s = L.icon({\n   iconUrl: \'%s\',\n   iconSize: [32,37],\n   iconAnchor: [16,37],\n   popupAnchor: [0,-20]\n   });\n'%(self.osmIconType(),self.iconUrl())
         return rv
 
 class POI():
 
     def __init__(self,name='POI',desc='N/A',lat=0.0,lon=0.0,type=POIStyle()):
         self.name = name
-        self.type = type
+        self.ttype = type
         self.lat = lat
         self.lon = lon
         self.desc = desc
@@ -30,7 +41,7 @@ class POI():
     def __str__(self):
         rv = '      <coordinates>%.7f,%.7f,%.7f</coordinates>\n'%(self.lon,self.lat,0.0)
         rv = '    <Point>\n%s    </Point>\n'%(rv,)
-        rv = '    <styleUrl>#style%d</styleUrl>\n%s'%(self.type.id,rv)
+        rv = '    <styleUrl>#style%d</styleUrl>\n%s'%(self.ttype.id,rv)
         rv = '    <description><![CDATA[<div dir=\"ltr\">%s</div>]]></description>\n%s'%(cgi.escape(self.desc),rv)
         rv = '    <name>%s</name>\n%s'%(cgi.escape(self.name),rv)
         rv = '  <Placemark>\n%s  </Placemark>\n'%(rv,)
@@ -47,11 +58,18 @@ class POI():
         rv += '  </lm:landmark>\n'
         return rv
 
+    def osmhtmlstr(self):
+        rv = '   L.marker([%.7f, %.7f],{icon: %s}).addTo(map).bindPopup(\"<b>%s</b><br />%s<br />Coordinates: (%.7f, %.7f)\");\n'%(self.lat,self.lon,self.ttype.osmIconType(),self.name,self.desc,self.lat,self.lon)
+        return rv
+
     def mdstr(self):
         return '###%s\n\n%s\n[osm](http://www.openstreetmap.org/?lat=%.7f&lon=%.7f)\n\n'
 
 class POISet():
     
+    def centerPoint(self):
+        return (sum([POI.lat for POI in self.POIs])/float(len(self.POIs)), sum([POI.lon for POI in self.POIs])/float(len(self.POIs)))
+
     def __init__(self,name='Points of Interest in and near Jeddah, Kingdom of Saudi Arabia',desc='See detailed info, licensing and instructions on how to contribute yourself at https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest',filename='JeddahPOIs'):
         self.name = name
         self.desc = desc
@@ -93,8 +111,8 @@ class POISet():
             self.POIs.append(POI(name=name,desc=desc,lat=lat,lon=lon,type=self.styles[id]))
         effstyles = []
         for poi in self.POIs:
-            if poi.type not in effstyles:
-                effstyles.append(poi.type)
+            if poi.ttype not in effstyles:
+                effstyles.append(poi.ttype)
         self.styles = effstyles
 
     def __str__(self,):
@@ -109,6 +127,41 @@ class POISet():
             rv += POI.__str__()
         rv += '</Document>\n'
         rv += '</kml>\n'
+        return rv
+
+    def osmhtmlstr(self,):
+        rv = '<!DOCTYPE html>\n'
+        rv += '<html>\n'
+        rv += '<head>\n'
+        rv += '  <title>%s</title>\n'%(self.name)
+        rv += '  <meta charset=\"utf-8\" />\n'
+        rv += '  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n'
+        rv += '  <link href=\"http://leafletjs.com/atom.xml\" type=\"application/atom+xml\" rel=\"alternate\" title=\"Leaflet Dev Blog Atom Feed\" />\n'
+        rv += '  <link rel=\"stylesheet\" href=\"http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css\" />\n'
+        rv += '  <script src=\"http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js\"></script>\n'
+        rv += '  <script>\n'
+        rv += '   MB_ATTR = \'Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, \' +\n'
+        rv += '    \'<a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, \' +\n'
+        rv += '    \'Imagery &copy; <a href=\"http://mapbox.com\">Mapbox</a>\';\n'
+        rv += '   MB_URL = \'http://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png\';\n'
+        rv += '   OSM_URL = \'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png\';\n'
+        rv += '   OSM_ATTRIB = \'&copy; <a href=\"http://openstreetmap.org/copyright\">OpenStreetMap</a> contributors\';\n'
+        rv += '  </script>\n'
+        rv += '</head>\n'
+        rv += '<body>\n'
+        rv += '  <div class=\"container\">\n'
+        rv += '  <div id=\"map\" class=\"map\" style=\"height: %dpx\"></div>\n'%(580,)
+        rv += '  <script>\n'
+        rv += '   var map = L.map(\'map\').setView([%.7f, %.7f], %d);\n'%(self.centerPoint()[0],self.centerPoint()[1],6)
+        for style in self.styles:
+            rv += style.osmhtmlstr()
+        for poi in self.POIs:
+            rv += poi.osmhtmlstr()
+        rv += '   L.tileLayer(MB_URL, {attribution: MB_ATTR, id: \'examples.map-i86knfo3\'}).addTo(map);\n'
+        rv += '  </script>\n'
+        rv += '  </div>\n'
+        rv += '</body>\n'
+        rv += '</html>\n'
         return rv
 
     def lmxstr(self,):
@@ -133,6 +186,11 @@ class POISet():
         file.writelines([self.lmxstr(),])
         file.close()
 
+    def writeosmhtml(self,fn='JeddahPois.htm'):
+        file = open(fn,'w')
+        file.writelines([self.osmhtmlstr(),])
+        file.close()
+
 class POISet_rectangle(POISet):
 
     def __init__(self,name='A submap',mastermap=POISet(),minlat=-90.0,maxlat=90.0,minlon=-180.0,maxlon=180.0,desc=''):
@@ -148,8 +206,8 @@ class POISet_rectangle(POISet):
         self.styles = [style for style in mastermap.styles]
         effstyles = []
         for poi in self.POIs:
-            if poi.type not in effstyles:
-                effstyles.append(poi.type)
+            if poi.ttype not in effstyles:
+                effstyles.append(poi.ttype)
         self.styles = effstyles
         
 
@@ -172,6 +230,7 @@ def main():
     os.system('cp ./JeddahPOIs.lmx ./JeddahPois_old.lmx')
     poiSet.writekml()
     poiSet.writelmx()
+    poiSet.writeosmhtml()
     print('Done.')
     print('Difference between old and new kml file:')
     os.system('diff ./JeddahPOIs.kml ./JeddahPOIs_old.kml')

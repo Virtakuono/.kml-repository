@@ -316,7 +316,15 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Pakistani restaurant</lm:name>
+    <lm:name>Pakistani restaurant mk 1</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.291531</lm:latitude>
+      <lm:longitude>39.117857</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Pakistani restaurant mk 2</lm:name>
     <lm:coordinates>
       <lm:latitude>22.288223</lm:latitude>
       <lm:longitude>39.114506</lm:longitude>

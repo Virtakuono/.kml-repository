@@ -652,8 +652,16 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Pakistani restaurant</name>
-    <description><![CDATA[<div dir="ltr">Greag fresh-baked naan.</div>]]></description>
+    <name>Pakistani restaurant mk 1</name>
+    <description><![CDATA[<div dir="ltr">Good curry and fresh-baked naan. </div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.1178570,22.2915310,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pakistani restaurant mk 2</name>
+    <description><![CDATA[<div dir="ltr">Great fresh-baked naan.</div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1145060,22.2882230,0.0000000</coordinates>
@@ -917,7 +925,7 @@
   </Placemark>
   <Placemark>
     <name>Animal Market</name>
-    <description><![CDATA[<div dir="ltr">Best time to visit is on Friday from 4:00-6:00 PM where you can find all kind of animals.</div>]]></description>
+    <description><![CDATA[<div dir="ltr">An interesting article on the animal souq. Open after Asr prayer on Fridays. http://www.saudigazette.com.sa/index.cfm?method=home.regcon&amp;contentid=20130105148141</div>]]></description>
     <styleUrl>#style671</styleUrl>
     <Point>
       <coordinates>39.2245174,21.3807425,0.0000000</coordinates>
@@ -1869,7 +1877,7 @@
   </Placemark>
   <Placemark>
     <name>Dhi Ain, archaeological village</name>
-    <description><![CDATA[<div dir="ltr">Also known as "Marble Village", thanks to Greg</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Also known as Marble Village, thanks to Greg</div>]]></description>
     <styleUrl>#style713</styleUrl>
     <Point>
       <coordinates>41.4424889,19.9306139,0.0000000</coordinates>
