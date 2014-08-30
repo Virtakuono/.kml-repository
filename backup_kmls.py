@@ -68,6 +68,28 @@ class POI():
         rv += '  </lm:landmark>\n'
         return rv
 
+    def htmlCoords(self):
+        latC = 'N'
+        lonC = 'E'
+        if self.lat < 0.0:
+            latC = 'S'
+        if self.lon < 0.0:
+            lonC = 'W'
+        return '%.8f &deg; %s, %.8f &deg; %s'%(abs(self.lat),latC,abs(self.lon),lonC)
+
+    def osmhtmlliststr(self,num):
+        if not num:
+            rv = '   %s'%(self,name)
+        else:
+            rv = '   %d. %s'%(num,self.name,)
+        if self.desc:
+            rv += ' - %s - \n'%(self.desc,)
+        else:
+            rv += ' - \n'
+        rv += '   %s - '%(self.htmlCoords()) 
+        rv += '   <a href=\"%s\">OSM</a>, <a href=\"%s\">Google maps</a>, <a href=\"%s\">Bing</a><br />\n'%(self.osmUrl(),self.gmapUrl(),self.bingUrl())
+        return rv
+
     def osmhtmlstr(self):
         rv = '   L.marker([%.7f, %.7f],{icon: %s}).addTo(map).bindPopup(\"<b>%s</b><br />%s<br />Coordinates: (%.7f, %.7f)<br /><a href=\\"%s\\">OSM</a>, <a href=\\"%s\\">Google Maps</a>, <a href=\\"%s\\">Bing</a>\");\n'%(self.lat,self.lon,self.ttype.osmIconType(),self.name,self.desc,self.lat,self.lon,self.osmUrl(),self.gmapUrl(),self.bingUrl())
         return rv
@@ -169,6 +191,15 @@ class POISet():
             rv += poi.osmhtmlstr()
         rv += '   L.tileLayer(MB_URL, {attribution: MB_ATTR, id: \'examples.map-i86knfo3\'}).addTo(map);\n'
         rv += '  </script>\n'
+        rv += '  <h2 id="main-head">%s</h2>\n'%('Points of interest in and near Jeddah, KSA',)
+        rv += '  <br />\n'
+        rv += '  For more details and istructions to contribute, see <a href=\"https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest\">the main page on github</a>\n'
+        rv += '  <br />'
+        rv += '  <h3 id="list">List of POIs</h3>\n'
+        ordinal = 1
+        for poi in self.POIs:
+            rv += poi.osmhtmlliststr(ordinal)
+            ordinal += 1
         rv += '  </div>\n'
         rv += '</body>\n'
         rv += '</html>\n'

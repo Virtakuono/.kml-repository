@@ -10,7 +10,8 @@ although anyone is warmly welcomed to have a sneak peek
 and to contribute as well.
 
 ### Desktop users
-Open [the map](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml)
+Open [the map](http://htmlpreview.github.io/?https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahPOIs.htm)
+or a kml overlay on [google maps](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml)
 in a browser and explore. To avoid extra clutter, there are small submaps of the following regions
 [Thuwal](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Thuwal.kml),
 [Jeddah](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Jeddah.kml),

@@ -828,7 +828,7 @@
   </Placemark>
   <Placemark>
     <name>IKEA</name>
-    <description><![CDATA[<div dir="ltr">P.O.Box 8054, Jeddah 21482 – Saudi Arabia Phone: +966 2 6633000&lt;br&gt;Saturday to Thursday: 10:00 – 24:00 Friday: 16:00 – 24:00 Special opening hours in Ramadan and EID</div>]]></description>
+    <description><![CDATA[<div dir="ltr">P.O.Box 8054, Jeddah 21482 – Saudi Arabia Phone: +966 2 6633000 Saturday to Thursday: 10:00 – 24:00 Friday: 16:00 – 24:00 Special opening hours in Ramadan and EID</div>]]></description>
     <styleUrl>#style679</styleUrl>
     <Point>
       <coordinates>39.1832770,21.5571190,0.0000000</coordinates>
@@ -924,7 +924,7 @@
   </Placemark>
   <Placemark>
     <name>Wheels</name>
-    <description><![CDATA[<div dir="ltr">Sari str, Carries TREK - Sam Abalos (WHEELS) Tel:026981302 Cell:0508691557 (open 09:30-12:00 and 16:30-00:00 from a phone call)&lt;br&gt;&lt;br&gt;Note that the roundabout the map shows West is here has been replaced with an overpass along Sari Street. To get to Wheels you need to approach from East and NOT go on the overpass.</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Sari str, Carries TREK - Sam Abalos (WHEELS) Tel:026981302 Cell:0508691557 (open 09:30-12:00 and 16:30-00:00 from a phone call) overpass along Sari Street. To get to Wheels you need to approach from East and NOT go on the overpass.</div>]]></description>
     <styleUrl>#style691</styleUrl>
     <Point>
       <coordinates>39.1452940,21.5757390,0.0000000</coordinates>
