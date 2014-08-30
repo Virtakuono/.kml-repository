@@ -1332,14 +1332,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Pharmacy</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.287613</lm:latitude>
-      <lm:longitude>39.113190</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Passport photo studio</lm:name>
     <lm:coordinates>
       <lm:latitude>22.286854</lm:latitude>
