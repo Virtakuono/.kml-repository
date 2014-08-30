@@ -3,6 +3,7 @@
 import sys
 import os
 import cgi
+import urllib2
 
 class POIStyle():
 
@@ -38,6 +39,15 @@ class POI():
         self.lon = lon
         self.desc = desc
 
+    def osmUrl(self):
+        return 'http://www.openstreetmap.org/?mlat=%.7f&mlon=%.7f&zoom=12&layers=M'%(self.lat,self.lon)
+
+    def gmapUrl(self):
+        return 'http://maps.google.com/maps?q=%7f,%.7f'%(self.lat,self.lon)
+
+    def bingUrl(self):
+        return 'http://www.bing.com/maps/?v=2&cp=%.8f~%.8f&lvl=16&dir=0&sty=c&sp=point.%.8f_%.8f_%s'%(self.lat,self.lon,self.lat,self.lon,urllib2.quote(self.name))
+
     def __str__(self):
         rv = '      <coordinates>%.7f,%.7f,%.7f</coordinates>\n'%(self.lon,self.lat,0.0)
         rv = '    <Point>\n%s    </Point>\n'%(rv,)
@@ -59,7 +69,7 @@ class POI():
         return rv
 
     def osmhtmlstr(self):
-        rv = '   L.marker([%.7f, %.7f],{icon: %s}).addTo(map).bindPopup(\"<b>%s</b><br />%s<br />Coordinates: (%.7f, %.7f)\");\n'%(self.lat,self.lon,self.ttype.osmIconType(),self.name,self.desc,self.lat,self.lon)
+        rv = '   L.marker([%.7f, %.7f],{icon: %s}).addTo(map).bindPopup(\"<b>%s</b><br />%s<br />Coordinates: (%.7f, %.7f)<br /><a href=\\"%s\\">OSM</a>, <a href=\\"%s\\">Google Maps</a>, <a href=\\"%s\\">Bing</a>\");\n'%(self.lat,self.lon,self.ttype.osmIconType(),self.name,self.desc,self.lat,self.lon,self.osmUrl(),self.gmapUrl(),self.bingUrl())
         return rv
 
     def mdstr(self):
