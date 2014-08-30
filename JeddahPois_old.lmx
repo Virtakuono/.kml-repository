@@ -4,6 +4,494 @@
  <lm:name>Points of Interest in and near Jeddah, Kingdom of Saudi Arabia</lm:name>
  <lm:description>See detailed info, licensing and instructions on how to contribute yourself at https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest</lm:description>
   <lm:landmark>
+    <lm:name>Abha airport</lm:name>
+    <lm:coordinates>
+      <lm:latitude>18.234234</lm:latitude>
+      <lm:longitude>42.657707</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>JED - North Terminal</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.688217</lm:latitude>
+      <lm:longitude>39.143517</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>JED - South Terminal</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.667877</lm:latitude>
+      <lm:longitude>39.143517</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Riyadh Airport</lm:name>
+    <lm:coordinates>
+      <lm:latitude>24.958281</lm:latitude>
+      <lm:longitude>46.703632</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>ATM</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.289682</lm:latitude>
+      <lm:longitude>39.114738</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>SABB branch</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.403745</lm:latitude>
+      <lm:longitude>39.078530</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>SABB branch</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.571289</lm:latitude>
+      <lm:longitude>39.142700</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Al Lith resort</lm:name>
+    <lm:coordinates>
+      <lm:latitude>20.158010</lm:latitude>
+      <lm:longitude>40.246845</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Albilad Beach</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.710089</lm:latitude>
+      <lm:longitude>39.084751</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Palm Beach</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.728962</lm:latitude>
+      <lm:longitude>39.075157</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Red Sea Resort (Sheraton)</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.735115</lm:latitude>
+      <lm:longitude>39.072361</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Silver sands beach club</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.773600</lm:latitude>
+      <lm:longitude>39.051201</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Wheels</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.575739</lm:latitude>
+      <lm:longitude>39.145294</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Boat dealer</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.607118</lm:latitude>
+      <lm:longitude>39.120678</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Jarir bookstore</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.640196</lm:latitude>
+      <lm:longitude>39.132401</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Jarir bookstore</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.574816</lm:latitude>
+      <lm:longitude>39.145775</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Al Balad: KAUST bus dropoff</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.484464</lm:latitude>
+      <lm:longitude>39.180842</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Cable car</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.364655</lm:latitude>
+      <lm:longitude>40.267578</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Cable car</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.356297</lm:latitude>
+      <lm:longitude>40.229355</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Cable car</lm:name>
+    <lm:coordinates>
+      <lm:latitude>18.294466</lm:latitude>
+      <lm:longitude>42.358963</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Cable car</lm:name>
+    <lm:coordinates>
+      <lm:latitude>18.281143</lm:latitude>
+      <lm:longitude>42.336361</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Mechanic</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.292561</lm:latitude>
+      <lm:longitude>39.115868</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Motor vehicle periodic inspection</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.623201</lm:latitude>
+      <lm:longitude>39.194347</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Car wash</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.287516</lm:latitude>
+      <lm:longitude>39.115707</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Jeddah International Markets</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.558397</lm:latitude>
+      <lm:longitude>39.170723</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Toyota car dealer</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.633814</lm:latitude>
+      <lm:longitude>39.203960</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>KAUST: main gate</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.320393</lm:latitude>
+      <lm:longitude>39.138309</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>KAUST: Thuwal gate</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.298656</lm:latitude>
+      <lm:longitude>39.104286</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>KAUST: vendor gate</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.303480</lm:latitude>
+      <lm:longitude>39.122337</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Al Bahah</lm:name>
+    <lm:coordinates>
+      <lm:latitude>20.000000</lm:latitude>
+      <lm:longitude>41.450000</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Starbucks</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.606575</lm:latitude>
+      <lm:longitude>39.141380</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Starbucks</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.598234</lm:latitude>
+      <lm:longitude>39.145294</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Computer shops</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.612471</lm:latitude>
+      <lm:longitude>39.153728</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Computer shops</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.529419</lm:latitude>
+      <lm:longitude>39.185143</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Computer shops, many (N)</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.520290</lm:latitude>
+      <lm:longitude>39.185673</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Computer shops, many (S)</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.517082</lm:latitude>
+      <lm:longitude>39.186207</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Computer supplies</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.512861</lm:latitude>
+      <lm:longitude>39.172558</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>iZone</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.568754</lm:latitude>
+      <lm:longitude>39.143277</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Lingo Computer Store</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.665180</lm:latitude>
+      <lm:longitude>39.109730</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Alsamlagui ancient dam</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.129454</lm:latitude>
+      <lm:longitude>40.512154</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>An Bint Dam</lm:name>
+    <lm:coordinates>
+      <lm:latitude>25.484889</lm:latitude>
+      <lm:longitude>39.362797</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Dam and a reservoir</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.821441</lm:latitude>
+      <lm:longitude>39.376327</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Dam and a reservoir</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.796756</lm:latitude>
+      <lm:longitude>39.283353</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Electronic store and mobiles</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.287321</lm:latitude>
+      <lm:longitude>39.112736</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Emax</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.606686</lm:latitude>
+      <lm:longitude>39.141109</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Emax</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.590605</lm:latitude>
+      <lm:longitude>39.176861</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Extra</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.597956</lm:latitude>
+      <lm:longitude>39.143234</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Hyperpanda</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.563267</lm:latitude>
+      <lm:longitude>39.204132</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Mobile shop</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.287313</lm:latitude>
+      <lm:longitude>39.112926</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>US Consulate</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.525021</lm:latitude>
+      <lm:longitude>39.166039</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Madain Saleh</lm:name>
+    <lm:coordinates>
+      <lm:latitude>26.814167</lm:latitude>
+      <lm:longitude>37.947500</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Ruins of a turkish fort</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.512663</lm:latitude>
+      <lm:longitude>40.594311</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Ruins of an Ottoman fortress</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.739676</lm:latitude>
+      <lm:longitude>39.137177</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>IKEA</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.557119</lm:latitude>
+      <lm:longitude>39.183277</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Al Muhaidib Hardware</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.557421</lm:latitude>
+      <lm:longitude>39.178703</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>SACO</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.661177</lm:latitude>
+      <lm:longitude>39.121468</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>SACO</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.563448</lm:latitude>
+      <lm:longitude>39.204906</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>SACO</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.518248</lm:latitude>
+      <lm:longitude>39.165009</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>SITACO</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.577953</lm:latitude>
+      <lm:longitude>39.164886</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Eve's Grave</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.491356</lm:latitude>
+      <lm:longitude>39.190275</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>IMC - International Medical Center Jeddah</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.513458</lm:latitude>
+      <lm:longitude>39.184286</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Abhu palace hotel</lm:name>
     <lm:coordinates>
       <lm:latitude>18.209911</lm:latitude>
@@ -168,6 +656,350 @@
     <lm:coordinates>
       <lm:latitude>21.080696</lm:latitude>
       <lm:longitude>40.315273</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Historic house</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.269827</lm:latitude>
+      <lm:longitude>40.405396</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Historic house</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.268967</lm:latitude>
+      <lm:longitude>40.399426</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Remnants of old houses</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.351954</lm:latitude>
+      <lm:longitude>40.294212</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Shada palace</lm:name>
+    <lm:coordinates>
+      <lm:latitude>18.216599</lm:latitude>
+      <lm:longitude>42.500660</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Shubra palace</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.286280</lm:latitude>
+      <lm:longitude>40.414951</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Exit back of mall of arabia</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.631161</lm:latitude>
+      <lm:longitude>39.182011</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Exit for Sultan St.</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.670509</lm:latitude>
+      <lm:longitude>39.125233</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>KAUST exit</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.313972</lm:latitude>
+      <lm:longitude>39.151463</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Thuwal exit</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.273132</lm:latitude>
+      <lm:longitude>39.125961</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Aziz Mall</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.576677</lm:latitude>
+      <lm:longitude>39.110130</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Coral Mall</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.550218</lm:latitude>
+      <lm:longitude>39.162856</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Hera International Mall</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.615622</lm:latitude>
+      <lm:longitude>39.152954</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Mall</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.287825</lm:latitude>
+      <lm:longitude>40.418724</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Mall of Arabia</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.632617</lm:latitude>
+      <lm:longitude>39.155707</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Red Sea Mall</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.626793</lm:latitude>
+      <lm:longitude>39.109955</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Roshan Mall</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.665110</lm:latitude>
+      <lm:longitude>39.110130</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Stars Avenue Mall</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.572960</lm:latitude>
+      <lm:longitude>39.128370</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Thalia Mall</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.549059</lm:latitude>
+      <lm:longitude>39.148834</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Historic mosque</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.257057</lm:latitude>
+      <lm:longitude>40.386570</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Historic mosque</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.256077</lm:latitude>
+      <lm:longitude>40.391205</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Juffali mosque</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.492287</lm:latitude>
+      <lm:longitude>39.185717</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Suzuki dealership</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.587650</lm:latitude>
+      <lm:longitude>39.176494</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Museum</lm:name>
+    <lm:coordinates>
+      <lm:latitude>18.296432</lm:latitude>
+      <lm:longitude>42.757332</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>A mysterious hole in the ground</lm:name>
+    <lm:coordinates>
+      <lm:latitude>26.558339</lm:latitude>
+      <lm:longitude>47.172122</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Al Akhal Oasis</lm:name>
+    <lm:coordinates>
+      <lm:latitude>23.310800</lm:latitude>
+      <lm:longitude>39.848892</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Black volcano</lm:name>
+    <lm:coordinates>
+      <lm:latitude>25.704109</lm:latitude>
+      <lm:longitude>39.913623</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Elephant rock</lm:name>
+    <lm:coordinates>
+      <lm:latitude>26.689661</lm:latitude>
+      <lm:longitude>37.979939</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Historic Well</lm:name>
+    <lm:coordinates>
+      <lm:latitude>27.634753</lm:latitude>
+      <lm:longitude>38.553415</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Mastorah Dunes</lm:name>
+    <lm:coordinates>
+      <lm:latitude>23.688547</lm:latitude>
+      <lm:longitude>38.801794</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>National Asir Park</lm:name>
+    <lm:coordinates>
+      <lm:latitude>18.200792</lm:latitude>
+      <lm:longitude>42.494511</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Near the highest point</lm:name>
+    <lm:coordinates>
+      <lm:latitude>18.291471</lm:latitude>
+      <lm:longitude>42.361229</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Top of cliff</lm:name>
+    <lm:coordinates>
+      <lm:latitude>18.038635</lm:latitude>
+      <lm:longitude>42.872013</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>View to Makkah</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.320232</lm:latitude>
+      <lm:longitude>40.285110</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Wahba crater</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.906497</lm:latitude>
+      <lm:longitude>41.130682</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>White volcano</lm:name>
+    <lm:coordinates>
+      <lm:latitude>25.660792</lm:latitude>
+      <lm:longitude>39.935682</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Happy Pets</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.602444</lm:latitude>
+      <lm:longitude>39.142644</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Pet Oasis</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.597027</lm:latitude>
+      <lm:longitude>39.142574</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Pharmacy</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.287613</lm:latitude>
+      <lm:longitude>39.113190</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Passport photo studio</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.286854</lm:latitude>
+      <lm:longitude>39.112568</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Passport photo studio</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.286694</lm:latitude>
+      <lm:longitude>39.113266</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Checkpoint</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.798895</lm:latitude>
+      <lm:longitude>39.120621</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Checkpoint</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.408072</lm:latitude>
+      <lm:longitude>39.255779</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Balad police station</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.501102</lm:latitude>
+      <lm:longitude>39.176704</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -460,90 +1292,66 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>KAUST: main gate</lm:name>
+    <lm:name>Desert Sea Divers</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.320393</lm:latitude>
-      <lm:longitude>39.138309</lm:longitude>
+      <lm:latitude>21.730373</lm:latitude>
+      <lm:longitude>39.106958</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>KAUST: Thuwal gate</lm:name>
+    <lm:name>Dream Divers</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.298656</lm:latitude>
-      <lm:longitude>39.104286</lm:longitude>
+      <lm:latitude>21.736630</lm:latitude>
+      <lm:longitude>39.123057</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>KAUST: vendor gate</lm:name>
+    <lm:name>Blue reef divers</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.303480</lm:latitude>
-      <lm:longitude>39.122337</lm:longitude>
+      <lm:latitude>21.548883</lm:latitude>
+      <lm:longitude>39.163426</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Exit back of mall of arabia</lm:name>
+    <lm:name>Red Sea divers</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.631161</lm:latitude>
-      <lm:longitude>39.182011</lm:longitude>
+      <lm:latitude>21.549417</lm:latitude>
+      <lm:longitude>39.163258</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Exit for Sultan St.</lm:name>
+    <lm:name>The Arab circumnavigator</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.670509</lm:latitude>
-      <lm:longitude>39.125233</lm:longitude>
+      <lm:latitude>21.548708</lm:latitude>
+      <lm:longitude>39.161987</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>KAUST exit</lm:name>
+    <lm:name>Sewing machine shops</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.313972</lm:latitude>
-      <lm:longitude>39.151463</lm:longitude>
+      <lm:latitude>21.477751</lm:latitude>
+      <lm:longitude>39.186604</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Thuwal exit</lm:name>
+    <lm:name>Tailor</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.273132</lm:latitude>
-      <lm:longitude>39.125961</lm:longitude>
+      <lm:latitude>22.286188</lm:latitude>
+      <lm:longitude>39.112328</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Abha airport</lm:name>
+    <lm:name>Tailor</lm:name>
     <lm:coordinates>
-      <lm:latitude>18.234234</lm:latitude>
-      <lm:longitude>42.657707</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>JED - North Terminal</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.688217</lm:latitude>
-      <lm:longitude>39.143517</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>JED - South Terminal</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.667877</lm:latitude>
-      <lm:longitude>39.143517</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Riyadh Airport</lm:name>
-    <lm:coordinates>
-      <lm:latitude>24.958281</lm:latitude>
-      <lm:longitude>46.703632</lm:longitude>
+      <lm:latitude>21.482512</lm:latitude>
+      <lm:longitude>39.183121</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -668,22 +1476,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Starbucks</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.606575</lm:latitude>
-      <lm:longitude>39.141380</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Starbucks</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.598234</lm:latitude>
-      <lm:longitude>39.145294</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Danube</lm:name>
     <lm:coordinates>
       <lm:latitude>21.626883</lm:latitude>
@@ -716,170 +1508,26 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Electronic store and mobiles</lm:name>
+    <lm:name>Textile shop</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.287321</lm:latitude>
-      <lm:longitude>39.112736</lm:longitude>
+      <lm:latitude>21.483328</lm:latitude>
+      <lm:longitude>39.184303</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Emax</lm:name>
+    <lm:name>Queen's building</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.606686</lm:latitude>
-      <lm:longitude>39.141109</lm:longitude>
+      <lm:latitude>21.484558</lm:latitude>
+      <lm:longitude>39.184053</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Emax</lm:name>
+    <lm:name>Toys R Us</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.590605</lm:latitude>
-      <lm:longitude>39.176861</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Extra</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.597956</lm:latitude>
-      <lm:longitude>39.143234</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Hyperpanda</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.563267</lm:latitude>
-      <lm:longitude>39.204132</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Mobile shop</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.287313</lm:latitude>
-      <lm:longitude>39.112926</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Al Lith resort</lm:name>
-    <lm:coordinates>
-      <lm:latitude>20.158010</lm:latitude>
-      <lm:longitude>40.246845</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Albilad Beach</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.710089</lm:latitude>
-      <lm:longitude>39.084751</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Palm Beach</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.728962</lm:latitude>
-      <lm:longitude>39.075157</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Red Sea Resort (Sheraton)</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.735115</lm:latitude>
-      <lm:longitude>39.072361</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Silver sands beach club</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.773600</lm:latitude>
-      <lm:longitude>39.051201</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Al Muhaidib Hardware</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.557421</lm:latitude>
-      <lm:longitude>39.178703</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>SACO</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.661177</lm:latitude>
-      <lm:longitude>39.121468</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>SACO</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.563448</lm:latitude>
-      <lm:longitude>39.204906</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>SACO</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.518248</lm:latitude>
-      <lm:longitude>39.165009</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>SITACO</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.577953</lm:latitude>
-      <lm:longitude>39.164886</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Jeddah International Markets</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.558397</lm:latitude>
-      <lm:longitude>39.170723</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Toyota car dealer</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.633814</lm:latitude>
-      <lm:longitude>39.203960</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Jarir bookstore</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.640196</lm:latitude>
-      <lm:longitude>39.132401</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Jarir bookstore</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.574816</lm:latitude>
-      <lm:longitude>39.145775</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>IKEA</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.557119</lm:latitude>
-      <lm:longitude>39.183277</lm:longitude>
+      <lm:latitude>21.664667</lm:latitude>
+      <lm:longitude>39.108559</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -900,638 +1548,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Happy Pets</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.602444</lm:latitude>
-      <lm:longitude>39.142644</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Pet Oasis</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.597027</lm:latitude>
-      <lm:longitude>39.142574</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Toys R Us</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.664667</lm:latitude>
-      <lm:longitude>39.108559</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>IMC - International Medical Center Jeddah</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.513458</lm:latitude>
-      <lm:longitude>39.184286</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Balad police station</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.501102</lm:latitude>
-      <lm:longitude>39.176704</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Mechanic</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.292561</lm:latitude>
-      <lm:longitude>39.115868</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Motor vehicle periodic inspection</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.623201</lm:latitude>
-      <lm:longitude>39.194347</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>SABB branch</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.403745</lm:latitude>
-      <lm:longitude>39.078530</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>SABB branch</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.571289</lm:latitude>
-      <lm:longitude>39.142700</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Checkpoint</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.798895</lm:latitude>
-      <lm:longitude>39.120621</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Checkpoint</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.408072</lm:latitude>
-      <lm:longitude>39.255779</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>US Consulate</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.525021</lm:latitude>
-      <lm:longitude>39.166039</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Wheels</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.575739</lm:latitude>
-      <lm:longitude>39.145294</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Sewing machine shops</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.477751</lm:latitude>
-      <lm:longitude>39.186604</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Tailor</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.286188</lm:latitude>
-      <lm:longitude>39.112328</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Tailor</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.482512</lm:latitude>
-      <lm:longitude>39.183121</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Computer shops</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.612471</lm:latitude>
-      <lm:longitude>39.153728</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Computer shops</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.529419</lm:latitude>
-      <lm:longitude>39.185143</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Computer shops, many (N)</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.520290</lm:latitude>
-      <lm:longitude>39.185673</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Computer shops, many (S)</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.517082</lm:latitude>
-      <lm:longitude>39.186207</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Computer supplies</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.512861</lm:latitude>
-      <lm:longitude>39.172558</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>iZone</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.568754</lm:latitude>
-      <lm:longitude>39.143277</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Lingo Computer Store</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.665180</lm:latitude>
-      <lm:longitude>39.109730</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Aziz Mall</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.576677</lm:latitude>
-      <lm:longitude>39.110130</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Coral Mall</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.550218</lm:latitude>
-      <lm:longitude>39.162856</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Hera International Mall</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.615622</lm:latitude>
-      <lm:longitude>39.152954</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Mall</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.287825</lm:latitude>
-      <lm:longitude>40.418724</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Mall of Arabia</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.632617</lm:latitude>
-      <lm:longitude>39.155707</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Red Sea Mall</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.626793</lm:latitude>
-      <lm:longitude>39.109955</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Roshan Mall</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.665110</lm:latitude>
-      <lm:longitude>39.110130</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Stars Avenue Mall</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.572960</lm:latitude>
-      <lm:longitude>39.128370</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Thalia Mall</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.549059</lm:latitude>
-      <lm:longitude>39.148834</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Boat dealer</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.607118</lm:latitude>
-      <lm:longitude>39.120678</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Blue reef divers</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.548883</lm:latitude>
-      <lm:longitude>39.163426</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Red Sea divers</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.549417</lm:latitude>
-      <lm:longitude>39.163258</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>The Arab circumnavigator</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.548708</lm:latitude>
-      <lm:longitude>39.161987</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Desert Sea Divers</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.730373</lm:latitude>
-      <lm:longitude>39.106958</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Dream Divers</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.736630</lm:latitude>
-      <lm:longitude>39.123057</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>A mysterious hole in the ground</lm:name>
-    <lm:coordinates>
-      <lm:latitude>26.558339</lm:latitude>
-      <lm:longitude>47.172122</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Al Akhal Oasis</lm:name>
-    <lm:coordinates>
-      <lm:latitude>23.310800</lm:latitude>
-      <lm:longitude>39.848892</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Black volcano</lm:name>
-    <lm:coordinates>
-      <lm:latitude>25.704109</lm:latitude>
-      <lm:longitude>39.913623</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Elephant rock</lm:name>
-    <lm:coordinates>
-      <lm:latitude>26.689661</lm:latitude>
-      <lm:longitude>37.979939</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Historic Well</lm:name>
-    <lm:coordinates>
-      <lm:latitude>27.634753</lm:latitude>
-      <lm:longitude>38.553415</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Mastorah Dunes</lm:name>
-    <lm:coordinates>
-      <lm:latitude>23.688547</lm:latitude>
-      <lm:longitude>38.801794</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>National Asir Park</lm:name>
-    <lm:coordinates>
-      <lm:latitude>18.200792</lm:latitude>
-      <lm:longitude>42.494511</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Near the highest point</lm:name>
-    <lm:coordinates>
-      <lm:latitude>18.291471</lm:latitude>
-      <lm:longitude>42.361229</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Top of cliff</lm:name>
-    <lm:coordinates>
-      <lm:latitude>18.038635</lm:latitude>
-      <lm:longitude>42.872013</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>View to Makkah</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.320232</lm:latitude>
-      <lm:longitude>40.285110</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Wahba crater</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.906497</lm:latitude>
-      <lm:longitude>41.130682</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>White volcano</lm:name>
-    <lm:coordinates>
-      <lm:latitude>25.660792</lm:latitude>
-      <lm:longitude>39.935682</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Madain Saleh</lm:name>
-    <lm:coordinates>
-      <lm:latitude>26.814167</lm:latitude>
-      <lm:longitude>37.947500</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Ruins of a turkish fort</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.512663</lm:latitude>
-      <lm:longitude>40.594311</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Ruins of an Ottoman fortress</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.739676</lm:latitude>
-      <lm:longitude>39.137177</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Pharmacy</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.287613</lm:latitude>
-      <lm:longitude>39.113190</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Passport photo studio</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.286854</lm:latitude>
-      <lm:longitude>39.112568</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Passport photo studio</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.286694</lm:latitude>
-      <lm:longitude>39.113266</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Car wash</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.287516</lm:latitude>
-      <lm:longitude>39.115707</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>ATM</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.289682</lm:latitude>
-      <lm:longitude>39.114738</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Textile shop</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.483328</lm:latitude>
-      <lm:longitude>39.184303</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Al Balad: KAUST bus dropoff</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.484464</lm:latitude>
-      <lm:longitude>39.180842</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Al Bahah</lm:name>
-    <lm:coordinates>
-      <lm:latitude>20.000000</lm:latitude>
-      <lm:longitude>41.450000</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Historic mosque</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.257057</lm:latitude>
-      <lm:longitude>40.386570</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Historic mosque</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.256077</lm:latitude>
-      <lm:longitude>40.391205</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Juffali mosque</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.492287</lm:latitude>
-      <lm:longitude>39.185717</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>An Bint Dam</lm:name>
-    <lm:coordinates>
-      <lm:latitude>25.484889</lm:latitude>
-      <lm:longitude>39.362797</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Alsamlagui ancient dam</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.129454</lm:latitude>
-      <lm:longitude>40.512154</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Dam and a reservoir</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.821441</lm:latitude>
-      <lm:longitude>39.376327</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Dam and a reservoir</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.796756</lm:latitude>
-      <lm:longitude>39.283353</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Cable car</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.364655</lm:latitude>
-      <lm:longitude>40.267578</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Cable car</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.356297</lm:latitude>
-      <lm:longitude>40.229355</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Cable car</lm:name>
-    <lm:coordinates>
-      <lm:latitude>18.294466</lm:latitude>
-      <lm:longitude>42.358963</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Cable car</lm:name>
-    <lm:coordinates>
-      <lm:latitude>18.281143</lm:latitude>
-      <lm:longitude>42.336361</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Historic house</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.269827</lm:latitude>
-      <lm:longitude>40.405396</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Historic house</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.268967</lm:latitude>
-      <lm:longitude>40.399426</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Remnants of old houses</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.351954</lm:latitude>
-      <lm:longitude>40.294212</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Shada palace</lm:name>
-    <lm:coordinates>
-      <lm:latitude>18.216599</lm:latitude>
-      <lm:longitude>42.500660</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Shubra palace</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.286280</lm:latitude>
-      <lm:longitude>40.414951</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Water park</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.355988</lm:latitude>
-      <lm:longitude>40.230309</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Museum</lm:name>
-    <lm:coordinates>
-      <lm:latitude>18.296432</lm:latitude>
-      <lm:longitude>42.757332</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Dhi Ain, archaeological village</lm:name>
     <lm:coordinates>
       <lm:latitude>19.930614</lm:latitude>
@@ -1548,26 +1564,10 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Queen's building</lm:name>
+    <lm:name>Water park</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.484558</lm:latitude>
-      <lm:longitude>39.184053</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Suzuki dealership</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.587650</lm:latitude>
-      <lm:longitude>39.176494</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Eve's Grave</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.491356</lm:latitude>
-      <lm:longitude>39.190275</lm:longitude>
+      <lm:latitude>21.355988</lm:latitude>
+      <lm:longitude>40.230309</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>

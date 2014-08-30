@@ -3,24 +3,10 @@
 <Document>
   <name>Submap of JeddahPOIs: Thuwal</name>
   <description><![CDATA[See detailed info, licensing and instructions on how to contribute yourself at https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest]]></description>
-  <Style id="style703">
+  <Style id="style667">
     <IconStyle>
       <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/atm.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style687">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/carrepair.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style702">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/carwash.png</href>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/restaurant_generic.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -31,6 +17,20 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style669">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/junction.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style673">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/supermarket.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Style id="style674">
     <IconStyle>
       <Icon>
@@ -38,10 +38,17 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style669">
+  <Style id="style687">
     <IconStyle>
       <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/junction.png</href>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/carrepair.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style692">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/sewingmachine.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -59,107 +66,20 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style667">
+  <Style id="style702">
     <IconStyle>
       <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/restaurant_generic.png</href>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/carwash.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style692">
+  <Style id="style703">
     <IconStyle>
       <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/sewingmachine.png</href>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/atm.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style673">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/supermarket.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Placemark>
-    <name>ATM</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style703</styleUrl>
-    <Point>
-      <coordinates>39.1147380,22.2896820,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Mechanic</name>
-    <description><![CDATA[<div dir="ltr">Also sells engine oil, filters, etc</div>]]></description>
-    <styleUrl>#style687</styleUrl>
-    <Point>
-      <coordinates>39.1158680,22.2925610,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Car wash</name>
-    <description><![CDATA[<div dir="ltr">SAR 20. They use high pressure hoses, cloth and lots of soap</div>]]></description>
-    <styleUrl>#style702</styleUrl>
-    <Point>
-      <coordinates>39.1157070,22.2875160,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>KAUST: Thuwal gate</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style668</styleUrl>
-    <Point>
-      <coordinates>39.1042860,22.2986560,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Electronic store and mobiles</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style674</styleUrl>
-    <Point>
-      <coordinates>39.1127360,22.2873210,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Mobile shop</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style674</styleUrl>
-    <Point>
-      <coordinates>39.1129260,22.2873130,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Thuwal exit</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style669</styleUrl>
-    <Point>
-      <coordinates>39.1259610,22.2731320,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Pharmacy</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style700</styleUrl>
-    <Point>
-      <coordinates>39.1131900,22.2876130,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Passport photo studio</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style701</styleUrl>
-    <Point>
-      <coordinates>39.1125680,22.2868540,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Passport photo studio</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style701</styleUrl>
-    <Point>
-      <coordinates>39.1132660,22.2866940,0.0000000</coordinates>
-    </Point>
-  </Placemark>
   <Placemark>
     <name>Broast chicken carry-out</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -233,11 +153,19 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Tailor</name>
+    <name>KAUST: Thuwal gate</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style692</styleUrl>
+    <styleUrl>#style668</styleUrl>
     <Point>
-      <coordinates>39.1123280,22.2861880,0.0000000</coordinates>
+      <coordinates>39.1042860,22.2986560,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Thuwal exit</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style669</styleUrl>
+    <Point>
+      <coordinates>39.1259610,22.2731320,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -246,6 +174,78 @@
     <styleUrl>#style673</styleUrl>
     <Point>
       <coordinates>39.1125560,22.2865870,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Electronic store and mobiles</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style674</styleUrl>
+    <Point>
+      <coordinates>39.1127360,22.2873210,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mobile shop</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style674</styleUrl>
+    <Point>
+      <coordinates>39.1129260,22.2873130,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mechanic</name>
+    <description><![CDATA[<div dir="ltr">Also sells engine oil, filters, etc</div>]]></description>
+    <styleUrl>#style687</styleUrl>
+    <Point>
+      <coordinates>39.1158680,22.2925610,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tailor</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style692</styleUrl>
+    <Point>
+      <coordinates>39.1123280,22.2861880,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pharmacy</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style700</styleUrl>
+    <Point>
+      <coordinates>39.1131900,22.2876130,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Passport photo studio</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style701</styleUrl>
+    <Point>
+      <coordinates>39.1125680,22.2868540,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Passport photo studio</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style701</styleUrl>
+    <Point>
+      <coordinates>39.1132660,22.2866940,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Car wash</name>
+    <description><![CDATA[<div dir="ltr">SAR 20. They use high pressure hoses, cloth and lots of soap</div>]]></description>
+    <styleUrl>#style702</styleUrl>
+    <Point>
+      <coordinates>39.1157070,22.2875160,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ATM</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style703</styleUrl>
+    <Point>
+      <coordinates>39.1147380,22.2896820,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>

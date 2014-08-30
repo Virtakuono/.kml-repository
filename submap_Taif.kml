@@ -3,45 +3,10 @@
 <Document>
   <name>Submap of JeddahPOIs: Taif</name>
   <description><![CDATA[See detailed info, licensing and instructions on how to contribute yourself at https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest]]></description>
-  <Style id="style709">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/cablecar.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
   <Style id="style666">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/hotel_nostars.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style710">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/house.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style694">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/mall.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style707">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/mosque.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style698">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/palm.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -52,6 +17,41 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style694">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/mall.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style698">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/palm.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style707">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/mosque.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style709">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/cablecar.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style710">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/house.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Style id="style711">
     <IconStyle>
       <Icon>
@@ -59,22 +59,6 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Placemark>
-    <name>Cable car</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style709</styleUrl>
-    <Point>
-      <coordinates>40.2675780,21.3646550,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Cable car</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style709</styleUrl>
-    <Point>
-      <coordinates>40.2293550,21.3562970,0.0000000</coordinates>
-    </Point>
-  </Placemark>
   <Placemark>
     <name>Intercontinental</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -89,6 +73,62 @@
     <styleUrl>#style666</styleUrl>
     <Point>
       <coordinates>40.2677310,21.3644850,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Restaurant</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>40.4229970,21.2873250,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mall</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>40.4187240,21.2878250,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>View to Makkah</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>40.2851100,21.3202320,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Historic mosque</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style707</styleUrl>
+    <Point>
+      <coordinates>40.3865700,21.2570570,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Historic mosque</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style707</styleUrl>
+    <Point>
+      <coordinates>40.3912050,21.2560770,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cable car</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style709</styleUrl>
+    <Point>
+      <coordinates>40.2675780,21.3646550,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cable car</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style709</styleUrl>
+    <Point>
+      <coordinates>40.2293550,21.3562970,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -121,46 +161,6 @@
     <styleUrl>#style710</styleUrl>
     <Point>
       <coordinates>40.4149510,21.2862800,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Mall</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style694</styleUrl>
-    <Point>
-      <coordinates>40.4187240,21.2878250,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Historic mosque</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style707</styleUrl>
-    <Point>
-      <coordinates>40.3865700,21.2570570,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Historic mosque</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style707</styleUrl>
-    <Point>
-      <coordinates>40.3912050,21.2560770,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>View to Makkah</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style698</styleUrl>
-    <Point>
-      <coordinates>40.2851100,21.3202320,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Restaurant</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>40.4229970,21.2873250,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
