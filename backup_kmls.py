@@ -193,7 +193,7 @@ class POISet():
         rv += '  </script>\n'
         rv += '  <h2 id="main-head">%s</h2>\n'%('Points of interest in and near Jeddah, KSA',)
         rv += '  <br />\n'
-        rv += '  For more details and istructions to contribute, see <a href=\"https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest\">the main page on github</a>\n'
+        rv += '  For more details and istructions to contribute, see <a href=\"https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest\", target="_blank">the main page on github</a>\n'
         rv += '  <br />'
         rv += '  <h3 id="list">List of POIs</h3>\n'
         ordinal = 1
