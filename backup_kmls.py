@@ -193,7 +193,7 @@ class POISet():
         rv += '  </script>\n'
         rv += '  <h2 id="main-head">%s</h2>\n'%('Points of interest in and near Jeddah, KSA',)
         rv += '  <br />\n'
-        rv += '  For more details and istructions to contribute, see <a href=\"https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest\", target="_blank">the project on github</a>\n'
+        rv += '  For some reason I am unable to link to the main project page that has instructions for contributing and additional instructions. If you wish access to that, go visit https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest, shile I figure out why linking to the aforementioned page does not work.\n'
         rv += '  <br />'
         rv += '  <h3 id="list">List of POIs</h3>\n'
         ordinal = 1
