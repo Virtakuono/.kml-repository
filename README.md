@@ -27,7 +27,7 @@ If you are able (and you should be) to open the map on an android or
 or blackberry or whatever gizmo, please tell us how you did it: juho.happola@iki.fi
 For the time being, the Apple and WP instructions are the only ones available:
 
-#### Apple iOS
+#### Apple iOS (iPhones and iPads and other iThings)
 
 The essential data is stored in a .kml file that can be opened in two ways.
   1. In browser. This is probably the simplest way. Experience says that the best
@@ -74,6 +74,11 @@ to this
 to know the location of your point of interest
 and add it to the sheet with a descriptive name and,
 if possible, further instructions.
+Just copy a row of data and paste it at the end of the spreadsheet
+making a duplicate. Then edit the newly-created duplicate, entering
+correct coordinates and other data.
+
+#### Getting the coordinates
 
 Unfortunately, getting the coordinates of your current whereabouts
 *in a readable and useful format* might sometimes be a hassle. On iOS
@@ -81,6 +86,15 @@ one may use the
 [Coordinates app](https://itunes.apple.com/us/app/coordinates-calculate-convert/id494286614?mt=8)
 it allows to copy your current location onto pasteboard or to
 send it in an email.
+
+If you know a place that you would like to add, and can locate it on a map,
+go to [http://openstreetmap.org/](open street map), locate the point you
+want the coordinates for on the map and zoom in as close as you can.
+On the address bar you see two numbers, that give the coordinates
+of the centrepoint of the map. The first one is latitude and the latter is
+longitude.
+
+#### Do remember
 
 The data will not be automatically transferred to the map,
 this is known feature to avoid erroneous edits.
@@ -101,6 +115,11 @@ When editing the map please avoid the following common mistakes
      "This shop has been closed since May 2013" or "I was there, I did not see a camel souq",
      if possible, along with your initials, contact information or a nickname. Alternatively,
      send an email to complain.
+  4. Coordinate systems. 
+     If you have coordinates in degrees, minutes and seconds, please go to 
+     the [spreadsheet](https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/edit#gid=0)
+     on the tab called coordinate transformation and enter the
+     archaic coordinates to transform them into more modern ones.
 
 Should you want to contribute code, icons, or add new types of
 points of interest, I recommend you fork the repository, do your changes
