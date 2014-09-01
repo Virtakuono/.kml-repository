@@ -476,3 +476,25 @@
 	background: #fff;
 	border: 1px solid #666;
 	}
+
+# add for coloring
+
+/* unvisited link */
+a:link {
+    color: #E77121;
+}
+
+/* visited link */
+a:visited {
+    color: #2E8D96;
+}
+
+/* mouse over link */
+a:hover {
+    color: #F6B71F;
+}
+
+/* selected link */
+a:active {
+    color: #F6B71F;
+}
