@@ -79,15 +79,15 @@ class POI():
 
     def osmhtmlliststr(self,num):
         if not num:
-            rv = '   %s'%(self,name)
+            rv = '   <p>%s'%(self,name)
         else:
-            rv = '   %d. %s'%(num,self.name,)
+            rv = '   <p>%d. %s'%(num,self.name,)
         if self.desc:
             rv += ' - %s - \n'%(self.desc,)
         else:
             rv += ' - \n'
         rv += '   %s - '%(self.htmlCoords()) 
-        rv += '   <a href=\"%s\">OSM</a>, <a href=\"%s\">Google maps</a>, <a href=\"%s\">Bing</a><br />\n'%(self.osmUrl(),self.gmapUrl(),self.bingUrl())
+        rv += '   <a href=\"%s\">OSM</a>, <a href=\"%s\">Google maps</a>, <a href=\"%s\">Bing</a></p>\n'%(self.osmUrl(),self.gmapUrl(),self.bingUrl())
         return rv
 
     def osmhtmlstr(self):
@@ -192,9 +192,9 @@ class POISet():
         rv += '   L.tileLayer(MB_URL, {attribution: MB_ATTR, id: \'examples.map-i86knfo3\'}).addTo(map);\n'
         rv += '  </script>\n'
         rv += '  <h2 id="main-head">%s</h2>\n'%('Points of interest in and near Jeddah, KSA',)
-        rv += '  <br />\n'
-        rv += '  For some reason I am unable to link to the main project page that has instructions for contributing and additional instructions. If you wish access to that, go visit https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest, while I figure out why linking to the aforementioned page does not work. <a href=\"https://rawgit.com/Virtakuono/.kml-repository/master/redir.htm\"></a>\n'
-        rv += '  <br />'
+        #rv += '  <br />\n'
+        rv += '  <p>For credits, instructions to contributing etc. see <a href=\"https://rawgit.com/Virtakuono/.kml-repository/master/redir.htm\">the project page on github</a>. Data sourced from <a href=\"https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/edit#gid=0\">google spreadsheets</a>.</p>\n'
+        #rv += '  <br />'
         rv += '  <h3 id="list">List of POIs</h3>\n'
         ordinal = 1
         for poi in self.POIs:
