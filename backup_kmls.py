@@ -170,6 +170,7 @@ class POISet():
         rv += '  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n'
         rv += '  <link href=\"http://leafletjs.com/atom.xml\" type=\"application/atom+xml\" rel=\"alternate\" title=\"Leaflet Dev Blog Atom Feed\" />\n'
         rv += '  <link rel=\"stylesheet\" href=\"https://rawgit.com/Virtakuono/.kml-repository/master/leaflet-0.7.3/leaflet.css\" />\n'
+        rv += '  <link rel=\"stylesheet\" href=\"https://rawgit.com/Virtakuono/.kml-repository/master/screen.css\" />'
         rv += '  <script src=\"https://rawgit.com/Virtakuono/.kml-repository/master/leaflet-0.7.3/leaflet.js\"></script>\n'
         rv += '  <script>\n'
         rv += '   MB_ATTR = \'Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, \' +\n'
