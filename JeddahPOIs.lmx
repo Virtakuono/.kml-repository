@@ -1579,5 +1579,13 @@
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
+  <lm:landmark>
+    <lm:name>Jeddah Fish market</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.497720</lm:latitude>
+      <lm:longitude>39.165520</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
  </lm:landmarkCollection>
 </lm:lmx>

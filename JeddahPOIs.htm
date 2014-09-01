@@ -20,7 +20,7 @@
   <div class="container">
   <div id="map" class="map" style="height: 580px"></div>
   <script>
-   var map = L.map('map').setView([21.7569395, 39.7893191], 6);
+   var map = L.map('map').setView([21.7556303, 39.7861686], 6);
    var iconType666 = L.icon({
    iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/hotel_nostars.png',
    iconSize: [32,37],
@@ -315,6 +315,12 @@
    iconAnchor: [16,37],
    popupAnchor: [0,-20]
    });
+   var iconType717 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/fish_trade.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
    L.marker([18.2099110, 42.4964330],{icon: iconType666}).addTo(map).bindPopup("<b>Abhu palace hotel</b><br /><br />Coordinates: (18.2099110, 42.4964330)<br /><a href=\"http://www.openstreetmap.org/?mlat=18.2099110&mlon=42.4964330&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=18.209911,42.4964330\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=18.20991100~42.49643300&lvl=16&dir=0&sty=c&sp=point.18.20991100_42.49643300_Abhu%20palace%20hotel\">Bing</a>");
    L.marker([21.6121900, 39.1551020],{icon: iconType666}).addTo(map).bindPopup("<b>Avail Hotel and Suite</b><br /><br />Coordinates: (21.6121900, 39.1551020)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6121900&mlon=39.1551020&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.612190,39.1551020\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.61219000~39.15510200&lvl=16&dir=0&sty=c&sp=point.21.61219000_39.15510200_Avail%20Hotel%20and%20Suite\">Bing</a>");
    L.marker([24.6851230, 46.7186120],{icon: iconType666}).addTo(map).bindPopup("<b>Best Western Orchid hotel</b><br /><br />Coordinates: (24.6851230, 46.7186120)<br /><a href=\"http://www.openstreetmap.org/?mlat=24.6851230&mlon=46.7186120&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=24.685123,46.7186120\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=24.68512300~46.71861200&lvl=16&dir=0&sty=c&sp=point.24.68512300_46.71861200_Best%20Western%20Orchid%20hotel\">Bing</a>");
@@ -512,6 +518,7 @@
    L.marker([21.4845580, 39.1840530],{icon: iconType714}).addTo(map).bindPopup("<b>Queen's building</b><br /><br />Coordinates: (21.4845580, 39.1840530)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4845580&mlon=39.1840530&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.484558,39.1840530\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.48455800~39.18405300&lvl=16&dir=0&sty=c&sp=point.21.48455800_39.18405300_Queen%27s%20building\">Bing</a>");
    L.marker([21.5876501, 39.1764942],{icon: iconType715}).addTo(map).bindPopup("<b>Suzuki dealership</b><br /><br />Coordinates: (21.5876501, 39.1764942)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5876501&mlon=39.1764942&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.587650,39.1764942\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.58765010~39.17649420&lvl=16&dir=0&sty=c&sp=point.21.58765010_39.17649420_Suzuki%20dealership\">Bing</a>");
    L.marker([21.4913556, 39.1902750],{icon: iconType716}).addTo(map).bindPopup("<b>Eve's Grave</b><br /><br />Coordinates: (21.4913556, 39.1902750)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4913556&mlon=39.1902750&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.491356,39.1902750\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.49135560~39.19027500&lvl=16&dir=0&sty=c&sp=point.21.49135560_39.19027500_Eve%27s%20Grave\">Bing</a>");
+   L.marker([21.4977200, 39.1655200],{icon: iconType717}).addTo(map).bindPopup("<b>Jeddah Fish market</b><br />Daily hassle over the morning's catch<br />Coordinates: (21.4977200, 39.1655200)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4977200&mlon=39.1655200&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.497720,39.1655200\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.49772000~39.16552000&lvl=16&dir=0&sty=c&sp=point.21.49772000_39.16552000_Jeddah%20Fish%20market\">Bing</a>");
    L.tileLayer(MB_URL, {attribution: MB_ATTR, id: 'examples.map-i86knfo3'}).addTo(map);
   </script>
   <h2 id="main-head">Points of interest in and near Jeddah, KSA</h2>
@@ -911,6 +918,8 @@
    21.58765010 &deg; N, 39.17649420 &deg; E -    <a href="http://www.openstreetmap.org/?mlat=21.5876501&mlon=39.1764942&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=21.587650,39.1764942">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=21.58765010~39.17649420&lvl=16&dir=0&sty=c&sp=point.21.58765010_39.17649420_Suzuki%20dealership">Bing</a></p>
    <p>197. Eve's Grave - 
    21.49135560 &deg; N, 39.19027500 &deg; E -    <a href="http://www.openstreetmap.org/?mlat=21.4913556&mlon=39.1902750&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=21.491356,39.1902750">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=21.49135560~39.19027500&lvl=16&dir=0&sty=c&sp=point.21.49135560_39.19027500_Eve%27s%20Grave">Bing</a></p>
+   <p>198. Jeddah Fish market - Daily hassle over the morning's catch - 
+   21.49772000 &deg; N, 39.16552000 &deg; E -    <a href="http://www.openstreetmap.org/?mlat=21.4977200&mlon=39.1655200&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=21.497720,39.1655200">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=21.49772000~39.16552000&lvl=16&dir=0&sty=c&sp=point.21.49772000_39.16552000_Jeddah%20Fish%20market">Bing</a></p>
   </div>
 </body>
 </html>
