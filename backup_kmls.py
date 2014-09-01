@@ -227,7 +227,7 @@ class POISet():
         file.writelines([self.lmxstr(),])
         file.close()
 
-    def writeosmhtml(self,fn='JeddahPois.htm'):
+    def writeosmhtml(self,fn='JeddahPOIs.htm'):
         file = open(fn,'w')
         file.writelines([self.osmhtmlstr(),])
         file.close()
