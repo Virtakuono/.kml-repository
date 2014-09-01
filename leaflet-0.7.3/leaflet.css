@@ -477,11 +477,11 @@
 	border: 1px solid #666;
 	}
 
-# add for coloring
+/* add for color */
 
 /* unvisited link */
 a:link {
-    color: #E77121;
+    color: #2E8D96;
 }
 
 /* visited link */
