@@ -444,6 +444,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Thai Thai Restaurant</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.609700</lm:latitude>
+      <lm:longitude>39.141650</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>The Butcher Shop &amp; Grill</lm:name>
     <lm:coordinates>
       <lm:latitude>21.559846</lm:latitude>

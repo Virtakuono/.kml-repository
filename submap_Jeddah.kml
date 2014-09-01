@@ -530,6 +530,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Thai Thai Restaurant</name>
+    <description><![CDATA[<div dir="ltr">Yummy, up scale Thai food! </div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.1416500,21.6097000,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>The Butcher Shop &amp; Grill</name>
     <description><![CDATA[<div dir="ltr">Steak and grill restaurant</div>]]></description>
     <styleUrl>#style667</styleUrl>
