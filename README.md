@@ -122,18 +122,6 @@ Should you want to contribute code, icons, or add new types of
 points of interest, I recommend you fork the repository, do your changes
 and make a pull request.
 
-#### Editing the KML file
-
-Since the map essentially
-relies on the github server to host the 
-data contained in [a static .kml file](https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml),
-that contains the essential information of the map, note that
-any changes need to be pushed to the server before they are
-public. For debugging purposes you may
-  1. view your edited .kml file locally in, for example, google earth
-  2. put your kml file online somewhere (eg. Dropbox public folder) and modify the [gmail url](https://maps.google.com/?q=https://put.the.address.to.your.kml.file/here.kml) accordingly
-  3. make changes while testing on a different branch than the master.
-
 ### (Partial) List of contents
 
   * [backup_kmls.py](https://github.com/Virtakuono/.kml-repository/blob/master/backup_kmls.py)
@@ -207,10 +195,9 @@ same purpose as this map and credit to most of the contents in
 this map belongs to the people who have initiated and maintained
 those maps.
 Many of those maps appear to have
-been copied from the same source and as they are
-assumably not subject to copyright, 
-geographical data has been copied from both of them rather
-ruthlessly. 
+been copied from the same source. The material
+has been screened as well as possible and the relevant bits
+included in the new map.
 Two maps especially worth mentioning are
 [Jeddah: Interested Locations](https://maps.google.com/maps/ms?msid=203555040976874160945.0004cf9d6a73b19256e5f&msa=0&ll=20.694462,41.31958&spn=4.983057,8.448486&dg=feature)
 and
@@ -228,7 +215,7 @@ In addition to the two maps mentioned above, this repository
 includes material from
 [Claire Sale](https://maps.google.com/maps/ms?msid=216110785410091998621.0004a4de8ab547c2ca385&msa=0&ll=22.287002,39.112723&spn=0.001437,0.001851&dg=feature),
 Greg Wickham and professor Raul Tempone.
-Thank you for helpful comments and corrections from Luca Passone and Idris Aija.
+Thank you for helpful comments and corrections from Idris Aija, Grace Gruendler and Luca Passone.
 
 ### License
 
@@ -237,5 +224,7 @@ Icons are copied from
 under [CC BY SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/)
 the few shell scripts in this repository may be redistributed under the same
 license, unless otherwise noted in the respective files.
+In addition, the open street map overlays use leaflet library by Vladimir Agafonkin
+and CloudMade. Leaflet is subject to its [own license](https://github.com/Leaflet/Leaflet/blob/master/LICENSE)
 
 
