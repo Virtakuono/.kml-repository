@@ -194,7 +194,7 @@ class POISet():
         rv += '  </script>\n'
         rv += '  <h2 id="main-head">%s</h2>\n'%('Points of interest in and near Jeddah, KSA',)
         #rv += '  <br />\n'
-        rv += '  <p>For credits, instructions to contributing etc. see <a href=\"https://rawgit.com/Virtakuono/.kml-repository/master/redir.htm\">the project page on github</a>. Data sourced from <a href=\"https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/edit#gid=0\">google spreadsheets</a>.</p>\n'
+        rv += '  <p>For credits, instructions to contributing etc. see <a href=\"https://rawgit.com/Virtakuono/.kml-repository/master/redir.htm\">the project page on github</a>. Data sourced from <a href=\"https://rawgit.com/Virtakuono/.kml-repository/master/redir2.htm\">google spreadsheets</a>.</p>\n'
         #rv += '  <br />'
         rv += '  <h3 id="list">List of POIs</h3>\n'
         ordinal = 1
