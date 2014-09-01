@@ -88,11 +88,8 @@ it allows to copy your current location onto pasteboard or to
 send it in an email.
 
 If you know a place that you would like to add, and can locate it on a map,
-go to [http://openstreetmap.org/](open street map), locate the point you
-want the coordinates for on the map and zoom in as close as you can.
-On the address bar you see two numbers, that give the coordinates
-of the centrepoint of the map. The first one is latitude and the latter is
-longitude.
+go to [here](https://rawgit.com/Virtakuono/.kml-repository/master/coordfinder.htm), 
+zoom in close enough and click on the point whose coordinates you want to see.
 
 #### Do remember
 
