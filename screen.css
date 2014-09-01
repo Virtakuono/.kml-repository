@@ -47,6 +47,26 @@ h4 {
 	color: #777;
 	}
 
+.container code, .container pre code {
+	font-family: "Consolas", "Menlo", "Lucida Console", "Courier New", monospace;
+	}
+.container pre code {
+	padding: 10px 15px;
+	border: 1px solid #ccc;
+	background: white;
+	color: #444;
+
+	box-shadow: 0 0 15px #ddd;
+
+	border-radius: 5px;
+	}
+
+p, ul, ol, table {
+	font-size: 13px;
+}
+
+
+
 /* add for color */
 
 /* unvisited link */
