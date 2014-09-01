@@ -169,8 +169,8 @@ class POISet():
         rv += '  <meta charset=\"utf-8\" />\n'
         rv += '  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n'
         rv += '  <link href=\"http://leafletjs.com/atom.xml\" type=\"application/atom+xml\" rel=\"alternate\" title=\"Leaflet Dev Blog Atom Feed\" />\n'
-        rv += '  <link rel=\"stylesheet\" href=\"http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css\" />\n'
-        rv += '  <script src=\"http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js\"></script>\n'
+        rv += '  <link rel=\"stylesheet\" href=\"https://rawgit.com/Virtakuono/.kml-repository/master/leaflet-0.7.3/leaflet.css\" />\n'
+        rv += '  <script src=\"https://rawgit.com/Virtakuono/.kml-repository/master/leaflet-0.7.3/leaflet.js\"></script>\n'
         rv += '  <script>\n'
         rv += '   MB_ATTR = \'Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, \' +\n'
         rv += '    \'<a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, \' +\n'
@@ -193,7 +193,7 @@ class POISet():
         rv += '  </script>\n'
         rv += '  <h2 id="main-head">%s</h2>\n'%('Points of interest in and near Jeddah, KSA',)
         rv += '  <br />\n'
-        rv += '  For some reason I am unable to link to the main project page that has instructions for contributing and additional instructions. If you wish access to that, go visit https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest, while I figure out why linking to the aforementioned page does not work.\n'
+        rv += '  For some reason I am unable to link to the main project page that has instructions for contributing and additional instructions. If you wish access to that, go visit https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest, while I figure out why linking to the aforementioned page does not work. <a href=\"https://rawgit.com/Virtakuono/.kml-repository/master/redir.htm\"></a>\n'
         rv += '  <br />'
         rv += '  <h3 id="list">List of POIs</h3>\n'
         ordinal = 1
