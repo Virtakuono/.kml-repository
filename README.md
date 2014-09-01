@@ -10,13 +10,16 @@ although anyone is warmly welcomed to have a sneak peek
 and to contribute as well.
 
 ### Desktop users
-Open [the map](http://htmlpreview.github.io/?https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahPOIs.htm)
-or a kml overlay on [google maps](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml)
+Open 
+<a href="http://htmlpreview.github.io/?https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahPOIs.htm" target="_blank">the map</a>
+or a kml overlay on 
+<a href="https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml" target="_blank">google maps</a>
 in a browser and explore. To avoid extra clutter, there are small submaps of the following regions
-[Thuwal](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Thuwal.kml),
-[Jeddah](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Jeddah.kml),
-[Abha](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Abha.kml),
-[Taif](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Taif.kml).
+<a href="https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Thuwal.kml" target="_blank">Thuwal</a>,
+<a href="https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Jeddah.kml" target="_blank">Jeddah</a>,
+<a href="https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Abha.kml" target="_blank">Abha</a> and
+<a href="https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Taif.kml" target="_blank">Taif</a>.
+
 
 ### Smartphone, tablet, etc. users
 
@@ -31,11 +34,13 @@ For the time being, the Apple and WP instructions are the only ones available:
 
 The essential data is stored in a .kml file that can be opened in two ways.
   1. In browser. This is probably the simplest way. Experience says that the best
-     browser to view this map is using Safari. Open [this page](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml)
+     browser to view this map is using Safari. Open
+     <a href="https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml" target="_blank">this map</a>
      in Safari and enjoy. If you open it in Google Chrome and you have Google Maps app installed,
      the browser will try to launch Google Maps App with devastating results.
   2. In an app such as Google Earth. This is the less simple way. First of all you have to have the app installed. Secondly
-     you need to open [this file](https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml)
+     you need to open 
+     <a href="https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml" target="_blank">this file</a>
      using that app. Unfortunately, if you click the link on a mobile device, you will likely have a bunch of code shown to you.
      The way around this is to download the file to a computer and to send it to yourself as an email attachment.
      Then, read your email using your mobile device and open the attachment. You should be offered a choice of apps to open it with,
@@ -43,9 +48,11 @@ The essential data is stored in a .kml file that can be opened in two ways.
 
 #### Windows phone
 
-  1. Open [this link](https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml)
+  1. Open 
+     <a href ="https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml" target="_blank">this link</a>
      to view the map.
-  2. You may also download the [coordinates in the Nokia landmark exchange format](https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahPOIs.lmx)
+  2. You may also download the
+     <a href="https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahPOIs.lmx" target="_blank">coordinates in Nokia lmx format </a>
      (In testing).
 
 ## Longer readme
@@ -53,7 +60,7 @@ The essential data is stored in a .kml file that can be opened in two ways.
 ### What is this?
 
 Essentially, this is an effort to bring back to life
-[this map](https://maps.google.com/maps/ms?ie=UTF8&t=h&hl=en&vps=1&jsv=178b&safe=on&oe=UTF8&msa=0&msid=109723124894778733708.0004726ebc11f578c532c&dg=feature)
+<a href="https://maps.google.com/maps/ms?ie=UTF8&t=h&hl=en&vps=1&jsv=178b&safe=on&oe=UTF8&msa=0&msid=109723124894778733708.0004726ebc11f578c532c&dg=feature" target="_blank">this map</a>
 that has been left unedited for almost three years at the time of writing.
 Later on other maps and other people have contributed to the contents
 of this map overlay file and associated database. The goals are
@@ -70,7 +77,8 @@ of this map overlay file and associated database. The goals are
 In order to add a new point of interest to the list,
 no tech skills are needed. You only need to have access
 to this 
-[google spreadsheet](https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/edit#gid=0),
+<a href="https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/edit#gid=0" target="_blank">
+google spreadsheet</a>
 to know the location of your point of interest
 and add it to the sheet with a descriptive name and,
 if possible, further instructions.
@@ -83,12 +91,15 @@ correct coordinates and other data.
 Unfortunately, getting the coordinates of your current whereabouts
 *in a readable and useful format* might sometimes be a hassle. On iOS
 one may use the
-[Coordinates app](https://itunes.apple.com/us/app/coordinates-calculate-convert/id494286614?mt=8)
-it allows to copy your current location onto pasteboard or to
+<a href="https://itunes.apple.com/us/app/coordinates-calculate-convert/id494286614?mt=8" target="_blank">
+coordinates app,
+</a>
+that allows to copy your current location onto pasteboard or to
 send it in an email.
 
 If you know a place that you would like to add, and can locate it on a map,
-go to [here](https://rawgit.com/Virtakuono/.kml-repository/master/coordfinder.htm), 
+go to
+<a href="https://rawgit.com/Virtakuono/.kml-repository/master/coordfinder.htm" target="_blank">here</a>,
 zoom in close enough and click on the point whose coordinates you want to see.
 
 #### Do remember
@@ -107,15 +118,14 @@ When editing the map please avoid the following common mistakes
   3. Removing Points of Interest: Removing old and outdated info is as important (if not more important) as adding new ones.
      When one removes a line from the spreadsheet, it is often hard to distinguish whether this was
      an erroneous edit, vandalism or something that should be published. Thus, if you feel that there
-     is a POI that should not be there, please go to the [spreadsheet](https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/edit#gid=0)
+     is a POI that should not be there, please go to the spreadsheet
      and write into the description section of the relevant POI something like:
      "This shop has been closed since May 2013" or "I was there, I did not see a camel souq",
      if possible, along with your initials, contact information or a nickname. Alternatively,
      send an email to complain.
   4. Coordinate systems. 
      If you have coordinates in degrees, minutes and seconds, please go to 
-     the [spreadsheet](https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/edit#gid=0)
-     on the tab called coordinate transformation and enter the
+     the coordinate transformation tab on the spreadsheet and enter the
      archaic coordinates to transform them into more modern ones.
 
 Should you want to contribute code, icons, or add new types of
