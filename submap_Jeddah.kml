@@ -220,13 +220,6 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style712">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/museum_archeological.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
   <Style id="style714">
     <IconStyle>
       <Icon>
@@ -238,6 +231,13 @@
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/motorbike.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style716">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/cemetary.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -1138,14 +1138,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Eve's Grave</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style712</styleUrl>
-    <Point>
-      <coordinates>39.1902750,21.4913556,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Queen's building</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style714</styleUrl>
@@ -1159,6 +1151,14 @@
     <styleUrl>#style715</styleUrl>
     <Point>
       <coordinates>39.1764942,21.5876501,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Eve's Grave</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style716</styleUrl>
+    <Point>
+      <coordinates>39.1902750,21.4913556,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>

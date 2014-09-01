@@ -1532,14 +1532,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Eve's Grave</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.491356</lm:latitude>
-      <lm:longitude>39.190275</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Museum</lm:name>
     <lm:coordinates>
       <lm:latitude>18.296432</lm:latitude>
@@ -1576,6 +1568,14 @@
     <lm:coordinates>
       <lm:latitude>21.587650</lm:latitude>
       <lm:longitude>39.176494</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Eve's Grave</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.491356</lm:latitude>
+      <lm:longitude>39.190275</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
