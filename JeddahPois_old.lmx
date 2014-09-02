@@ -468,6 +468,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Yummy Yummy</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.608372</lm:latitude>
+      <lm:longitude>39.129469</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>KAUST: main gate</lm:name>
     <lm:coordinates>
       <lm:latitude>22.320393</lm:latitude>

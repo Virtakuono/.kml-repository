@@ -353,6 +353,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Al Dawar restaurant</name>
+    <description><![CDATA[<div dir="ltr">Egyptian cuisine, in Red Sea mall</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.1119300,21.6268500,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Alfairwz restaurant</name>
     <description><![CDATA[<div dir="ltr">A turkish restaurant</div>]]></description>
     <styleUrl>#style667</styleUrl>
