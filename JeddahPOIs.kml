@@ -818,6 +818,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Yummy Yummy</name>
+    <description><![CDATA[<div dir="ltr">Casual dining asian, thanks to Alaa Samer Oraif for the reference</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.1294690,21.6083720,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>KAUST: main gate</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style668</styleUrl>
