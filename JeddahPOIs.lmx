@@ -1244,14 +1244,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Black volcano</lm:name>
-    <lm:coordinates>
-      <lm:latitude>25.704109</lm:latitude>
-      <lm:longitude>39.913623</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Elephant rock</lm:name>
     <lm:coordinates>
       <lm:latitude>26.689661</lm:latitude>
@@ -1280,46 +1272,6 @@
     <lm:coordinates>
       <lm:latitude>18.200792</lm:latitude>
       <lm:longitude>42.494511</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Near the highest point</lm:name>
-    <lm:coordinates>
-      <lm:latitude>18.291471</lm:latitude>
-      <lm:longitude>42.361229</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Top of cliff</lm:name>
-    <lm:coordinates>
-      <lm:latitude>18.038635</lm:latitude>
-      <lm:longitude>42.872013</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>View to Makkah</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.320232</lm:latitude>
-      <lm:longitude>40.285110</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Wahba crater</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.906497</lm:latitude>
-      <lm:longitude>41.130682</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>White volcano</lm:name>
-    <lm:coordinates>
-      <lm:latitude>25.660792</lm:latitude>
-      <lm:longitude>39.935682</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1600,6 +1552,54 @@
     <lm:coordinates>
       <lm:latitude>21.488090</lm:latitude>
       <lm:longitude>39.173710</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Black volcano</lm:name>
+    <lm:coordinates>
+      <lm:latitude>25.704109</lm:latitude>
+      <lm:longitude>39.913623</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Wahba crater</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.906497</lm:latitude>
+      <lm:longitude>41.130682</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>White volcano</lm:name>
+    <lm:coordinates>
+      <lm:latitude>25.660792</lm:latitude>
+      <lm:longitude>39.935682</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Near the highest point</lm:name>
+    <lm:coordinates>
+      <lm:latitude>18.291471</lm:latitude>
+      <lm:longitude>42.361229</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Top of cliff</lm:name>
+    <lm:coordinates>
+      <lm:latitude>18.038635</lm:latitude>
+      <lm:longitude>42.872013</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>View to Makkah</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.320232</lm:latitude>
+      <lm:longitude>40.285110</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>

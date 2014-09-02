@@ -353,6 +353,27 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style719">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/volcano.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style720">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/mountains.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style721">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/beautifulview.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Abhu palace hotel</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -1594,14 +1615,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Black volcano</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style698</styleUrl>
-    <Point>
-      <coordinates>39.9136230,25.7041090,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Elephant rock</name>
     <description><![CDATA[<div dir="ltr">Thanks, Greg Wickham</div>]]></description>
     <styleUrl>#style698</styleUrl>
@@ -1631,46 +1644,6 @@
     <styleUrl>#style698</styleUrl>
     <Point>
       <coordinates>42.4945110,18.2007920,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Near the highest point</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style698</styleUrl>
-    <Point>
-      <coordinates>42.3612290,18.2914710,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Top of cliff</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style698</styleUrl>
-    <Point>
-      <coordinates>42.8720130,18.0386350,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>View to Makkah</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style698</styleUrl>
-    <Point>
-      <coordinates>40.2851100,21.3202320,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Wahba crater</name>
-    <description><![CDATA[<div dir="ltr">The pin is at the white hut from which the trail down begins</div>]]></description>
-    <styleUrl>#style698</styleUrl>
-    <Point>
-      <coordinates>41.1306820,22.9064970,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>White volcano</name>
-    <description><![CDATA[<div dir="ltr">Thanks, Greg Wickham</div>]]></description>
-    <styleUrl>#style698</styleUrl>
-    <Point>
-      <coordinates>39.9356820,25.6607920,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1951,6 +1924,54 @@
     <styleUrl>#style717</styleUrl>
     <Point>
       <coordinates>39.1737100,21.4880900,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Black volcano</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style719</styleUrl>
+    <Point>
+      <coordinates>39.9136230,25.7041090,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wahba crater</name>
+    <description><![CDATA[<div dir="ltr">The pin is at the white hut from which the trail down begins</div>]]></description>
+    <styleUrl>#style719</styleUrl>
+    <Point>
+      <coordinates>41.1306820,22.9064970,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>White volcano</name>
+    <description><![CDATA[<div dir="ltr">Thanks, Greg Wickham</div>]]></description>
+    <styleUrl>#style719</styleUrl>
+    <Point>
+      <coordinates>39.9356820,25.6607920,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Near the highest point</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style720</styleUrl>
+    <Point>
+      <coordinates>42.3612290,18.2914710,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Top of cliff</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style720</styleUrl>
+    <Point>
+      <coordinates>42.8720130,18.0386350,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>View to Makkah</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style721</styleUrl>
+    <Point>
+      <coordinates>40.2851100,21.3202320,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>

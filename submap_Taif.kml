@@ -24,13 +24,6 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style698">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/palm.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
   <Style id="style707">
     <IconStyle>
       <Icon>
@@ -56,6 +49,13 @@
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/waterpark.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style721">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/beautifulview.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -89,14 +89,6 @@
     <styleUrl>#style694</styleUrl>
     <Point>
       <coordinates>40.4187240,21.2878250,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>View to Makkah</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style698</styleUrl>
-    <Point>
-      <coordinates>40.2851100,21.3202320,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -169,6 +161,14 @@
     <styleUrl>#style711</styleUrl>
     <Point>
       <coordinates>40.2303090,21.3559880,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>View to Makkah</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style721</styleUrl>
+    <Point>
+      <coordinates>40.2851100,21.3202320,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>

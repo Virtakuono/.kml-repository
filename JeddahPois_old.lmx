@@ -188,6 +188,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Al Dawar restaurant</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.626850</lm:latitude>
+      <lm:longitude>39.111930</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Alfairwz restaurant</lm:name>
     <lm:coordinates>
       <lm:latitude>21.609399</lm:latitude>
