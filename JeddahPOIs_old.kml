@@ -342,7 +342,14 @@
   <Style id="style716">
     <IconStyle>
       <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/cemetary.png</href>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/tomb.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style717">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/fish_trade.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -1920,6 +1927,14 @@
     <styleUrl>#style716</styleUrl>
     <Point>
       <coordinates>39.1902750,21.4913556,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jeddah Fish market</name>
+    <description><![CDATA[<div dir="ltr">Daily hassle over the morning's catch</div>]]></description>
+    <styleUrl>#style717</styleUrl>
+    <Point>
+      <coordinates>39.1655200,21.4977200,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>

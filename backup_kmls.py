@@ -4,6 +4,7 @@ import sys
 import os
 import cgi
 import urllib2
+import datetime
 
 class POIStyle():
 
@@ -201,6 +202,8 @@ class POISet():
         for poi in self.POIs:
             rv += poi.osmhtmlliststr(ordinal)
             ordinal += 1
+        nI = datetime.datetime.now()
+        rv += '  <p>Page generated %d.%d.%d %d.%d.%d</p>\n'%(nI.day,nI.month,nI.year,nI.hour,nI.minute,nI.second)
         rv += '  </div>\n'
         rv += '</body>\n'
         rv += '</html>\n'
