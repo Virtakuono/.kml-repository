@@ -339,13 +339,6 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style716">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/tomb.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
   <Style id="style717">
     <IconStyle>
       <Icon>
@@ -371,6 +364,20 @@
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/beautifulview.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style722">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/memorial.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style730">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/waterwell.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -1623,14 +1630,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Historic Well</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style698</styleUrl>
-    <Point>
-      <coordinates>38.5534150,27.6347530,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Mastorah Dunes</name>
     <description><![CDATA[<div dir="ltr">Thanks, Greg Wickham</div>]]></description>
     <styleUrl>#style698</styleUrl>
@@ -1911,14 +1910,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Eve's Grave</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style716</styleUrl>
-    <Point>
-      <coordinates>39.1902750,21.4913556,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Jeddah Fish market</name>
     <description><![CDATA[<div dir="ltr">Daily hassle over the morning's catch</div>]]></description>
     <styleUrl>#style717</styleUrl>
@@ -1972,6 +1963,22 @@
     <styleUrl>#style721</styleUrl>
     <Point>
       <coordinates>40.2851100,21.3202320,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Eve's Grave</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style722</styleUrl>
+    <Point>
+      <coordinates>39.1902750,21.4913556,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Historic Well</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style730</styleUrl>
+    <Point>
+      <coordinates>38.5534150,27.6347530,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>

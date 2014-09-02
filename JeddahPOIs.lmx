@@ -1252,14 +1252,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Historic Well</lm:name>
-    <lm:coordinates>
-      <lm:latitude>27.634753</lm:latitude>
-      <lm:longitude>38.553415</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Mastorah Dunes</lm:name>
     <lm:coordinates>
       <lm:latitude>23.688547</lm:latitude>
@@ -1540,14 +1532,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Eve's Grave</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.491356</lm:latitude>
-      <lm:longitude>39.190275</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Jeddah Fish market</lm:name>
     <lm:coordinates>
       <lm:latitude>21.488090</lm:latitude>
@@ -1600,6 +1584,22 @@
     <lm:coordinates>
       <lm:latitude>21.320232</lm:latitude>
       <lm:longitude>40.285110</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Eve's Grave</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.491356</lm:latitude>
+      <lm:longitude>39.190275</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Historic Well</lm:name>
+    <lm:coordinates>
+      <lm:latitude>27.634753</lm:latitude>
+      <lm:longitude>38.553415</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
