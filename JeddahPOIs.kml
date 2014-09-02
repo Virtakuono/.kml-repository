@@ -413,6 +413,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Crowne Plaza</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style666</styleUrl>
+    <Point>
+      <coordinates>39.1558800,21.5174900,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Four Seasons</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style666</styleUrl>

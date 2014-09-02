@@ -28,6 +28,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Crowne Plaza</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.517490</lm:latitude>
+      <lm:longitude>39.155880</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Four Seasons</lm:name>
     <lm:coordinates>
       <lm:latitude>24.711058</lm:latitude>

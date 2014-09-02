@@ -1252,14 +1252,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Mastorah Dunes</lm:name>
-    <lm:coordinates>
-      <lm:latitude>23.688547</lm:latitude>
-      <lm:longitude>38.801794</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>National Asir Park</lm:name>
     <lm:coordinates>
       <lm:latitude>18.200792</lm:latitude>
@@ -1600,6 +1592,14 @@
     <lm:coordinates>
       <lm:latitude>27.634753</lm:latitude>
       <lm:longitude>38.553415</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Mastorah Dunes</lm:name>
+    <lm:coordinates>
+      <lm:latitude>23.688547</lm:latitude>
+      <lm:longitude>38.801794</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
