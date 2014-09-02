@@ -1325,6 +1325,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>DFSH - Dr. Soliman Fakeeh Hospital</name>
+    <description><![CDATA[<div dir="ltr">012 6655000</div>]]></description>
+    <styleUrl>#style683</styleUrl>
+    <Point>
+      <coordinates>39.1677800,21.5257100,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>IMC - International Medical Center Jeddah</name>
     <description><![CDATA[<div dir="ltr">PO Box: 2172 Jeddah: 21451 Phone: +966 2 650 9000 Fax: +966 2 653 5045 E-mail: imcinfo@imc.med.sa</div>]]></description>
     <styleUrl>#style683</styleUrl>
