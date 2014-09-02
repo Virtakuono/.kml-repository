@@ -38,14 +38,6 @@
   <lm:landmark>
     <lm:name>Four Seasons</lm:name>
     <lm:coordinates>
-      <lm:latitude>24.711058</lm:latitude>
-      <lm:longitude>46.673557</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Four Seasons</lm:name>
-    <lm:coordinates>
       <lm:latitude>24.711051</lm:latitude>
       <lm:longitude>46.673892</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
@@ -384,14 +376,6 @@
     <lm:coordinates>
       <lm:latitude>22.287018</lm:latitude>
       <lm:longitude>39.113503</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Sahareej Adan</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.612272</lm:latitude>
-      <lm:longitude>39.143958</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -958,8 +942,8 @@
   <lm:landmark>
     <lm:name>IMC - International Medical Center Jeddah</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.513458</lm:latitude>
-      <lm:longitude>39.184286</lm:longitude>
+      <lm:latitude>21.513480</lm:latitude>
+      <lm:longitude>39.174060</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>

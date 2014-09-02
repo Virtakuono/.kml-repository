@@ -497,14 +497,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Sahareej Adan</name>
-    <description><![CDATA[<div dir="ltr">Yemeni restaurant</div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.1439582,21.6122717,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Sahareej Aden Yemini Restaurant</name>
     <description><![CDATA[<div dir="ltr">The best Yemeni restaurant I have been to in Jeddah. The food is incredible! -Sameed</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -925,7 +917,7 @@
     <description><![CDATA[<div dir="ltr">PO Box: 2172 Jeddah: 21451 Phone: +966 2 650 9000 Fax: +966 2 653 5045 E-mail: imcinfo@imc.med.sa</div>]]></description>
     <styleUrl>#style683</styleUrl>
     <Point>
-      <coordinates>39.1842860,21.5134580,0.0000000</coordinates>
+      <coordinates>39.1740600,21.5134800,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
