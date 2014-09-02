@@ -5,6 +5,7 @@ import os
 import cgi
 import urllib2
 import datetime
+import time
 
 class POIStyle():
 
@@ -100,6 +101,15 @@ class POI():
 
 class POISet():
     
+
+    def nowString(self,):
+        # we want something like '2007-10-18 14:00+0100'
+        mytz="%+4.4d" % (time.timezone / -(60*60) * 100) # time.timezone counts westwards!
+        dt  = datetime.datetime.now()
+        dts = dt.strftime('%Y-%m-%d %H:%M')  # %Z (timezone) would be empty
+        nowstring="%s%s" % (dts,mytz)
+        return nowstring
+
     def centerPoint(self):
         return (sum([POI.lat for POI in self.POIs])/float(len(self.POIs)), sum([POI.lon for POI in self.POIs])/float(len(self.POIs)))
 
@@ -203,7 +213,7 @@ class POISet():
             rv += poi.osmhtmlliststr(ordinal)
             ordinal += 1
         nI = datetime.datetime.now()
-        rv += '  <p>Page generated %d.%d.%d %d.%d.%d</p>\n'%(nI.day,nI.month,nI.year,nI.hour,nI.minute,nI.second)
+        rv += '  <p>Page generated on %s</p>\n'%(self.nowString(),)
         rv += '  </div>\n'
         rv += '</body>\n'
         rv += '</html>\n'
