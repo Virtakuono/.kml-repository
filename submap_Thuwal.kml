@@ -81,6 +81,14 @@
     </IconStyle>
   </Style>
   <Placemark>
+    <name>Al Noor Hotelrestorent</name>
+    <description><![CDATA[<div dir="ltr">Yes, this is how they spell their name. Naan and curry for dirt cheap. Selection of three currys and a pile of naan costed 20 SAR - Juho</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.1178100,22.2914100,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Broast chicken carry-out</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style667</styleUrl>
