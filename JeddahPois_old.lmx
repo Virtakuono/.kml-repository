@@ -196,6 +196,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Al Noor Hotelrestorent</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.291410</lm:latitude>
+      <lm:longitude>39.117810</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Alfairwz restaurant</lm:name>
     <lm:coordinates>
       <lm:latitude>21.609399</lm:latitude>
