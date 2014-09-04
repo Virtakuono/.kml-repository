@@ -1028,6 +1028,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Jeddah International Markets</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style671</styleUrl>
+    <Point>
+      <coordinates>39.1707230,21.5583970,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Khaimah market</name>
     <description><![CDATA[<div dir="ltr">Good market for traditional women's clothes</div>]]></description>
     <styleUrl>#style671</styleUrl>
@@ -1257,14 +1265,6 @@
     <styleUrl>#style676</styleUrl>
     <Point>
       <coordinates>39.1648860,21.5779530,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Jeddah International Markets</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style677</styleUrl>
-    <Point>
-      <coordinates>39.1707230,21.5583970,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>

@@ -1611,5 +1611,13 @@
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
+  <lm:landmark>
+    <lm:name>Driving license bureau</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.734975</lm:latitude>
+      <lm:longitude>39.069286</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
  </lm:landmarkCollection>
 </lm:lmx>
