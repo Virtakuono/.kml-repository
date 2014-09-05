@@ -636,6 +636,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Jeddah International Markets</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.558397</lm:latitude>
+      <lm:longitude>39.170723</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Khaimah market</lm:name>
     <lm:coordinates>
       <lm:latitude>21.473730</lm:latitude>
@@ -864,14 +872,6 @@
     <lm:coordinates>
       <lm:latitude>21.577953</lm:latitude>
       <lm:longitude>39.164886</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Jeddah International Markets</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.558397</lm:latitude>
-      <lm:longitude>39.170723</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>

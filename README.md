@@ -11,7 +11,7 @@ and to contribute as well.
 
 ### Desktop users
 Open 
-<a href="http://htmlpreview.github.io/?https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahPOIs.htm" target="_blank">the map</a>
+<a href="https://rawgit.com/Virtakuono/.kml-repository/master/JeddahPOIs.htm" target="_blank">the map</a>
 or a kml overlay on 
 <a href="https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml" target="_blank">google maps</a>
 in a browser and explore. To avoid extra clutter, there are small submaps of the following regions
@@ -74,33 +74,25 @@ of this map overlay file and associated database. The goals are
 
 ### How to contribute?
 
-In order to add a new point of interest to the list,
-no tech skills are needed. You only need to have access
-to this 
-<a href="https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/edit#gid=0" target="_blank">
-google spreadsheet</a>
-to know the location of your point of interest
-and add it to the sheet with a descriptive name and,
-if possible, further instructions.
-Just copy a row of data and paste it at the end of the spreadsheet
-making a duplicate. Then edit the newly-created duplicate, entering
-correct coordinates and other data.
+There are a few ways you can do to contribute:
 
-#### Getting the coordinates
-
-Unfortunately, getting the coordinates of your current whereabouts
-*in a readable and useful format* might sometimes be a hassle. On iOS
-one may use the
-<a href="https://itunes.apple.com/us/app/coordinates-calculate-convert/id494286614?mt=8" target="_blank">
-coordinates app,
-</a>
-that allows to copy your current location onto pasteboard or to
-send it in an email.
-
-If you know a place that you would like to add, and can locate it on a map,
-go to
-<a href="https://rawgit.com/Virtakuono/.kml-repository/master/coordfinder.htm" target="_blank">here</a>,
-zoom in close enough and click on the point whose coordinates you want to see.
+1. Add a new point of interest: go to
+   <a href="https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/edit#gid=0" target="_blank">
+   the google spreadsheet
+   </a>, copy a row of data and make a duplicate of it.
+   You will need to know the coordinates of the point you are adding.
+   To this end, you can use
+   <a href="https://itunes.apple.com/us/app/coordinates-calculate-convert/id494286614?mt=8" target="_blank">
+   coordinates app
+   </a>,
+   locate the coordinates on
+   <a href="https://rawgit.com/Virtakuono/.kml-repository/master/coordfinder.htm" target="_blank">this map</a>,
+   or use some other method that suits you.
+2. If you have a photo taken on a camera phone at a location you would like to add,
+   send it to juho.happola@iki.fi, please send the photo with the poorest quality settings,
+   all that is needed is the coordinates that most smartphones record into the photo automatically.
+   Include a description of the location and other information as you deem fit. Also notify
+   if you do not want to be credited for your contribution.
 
 #### Do remember
 
