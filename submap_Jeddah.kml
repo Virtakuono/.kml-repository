@@ -1097,6 +1097,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Serafi Mall</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>39.1850240,21.5604560,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Stars Avenue Mall</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style694</styleUrl>
