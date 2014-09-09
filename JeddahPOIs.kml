@@ -828,6 +828,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Sushi Yoshi</name>
+    <description><![CDATA[<div dir="ltr">Name says it all, thanks, Greg Wickham</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.1338889,21.7699778,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Spears</name>
     <description><![CDATA[<div dir="ltr">A brazilian restaurant</div>]]></description>
     <styleUrl>#style667</styleUrl>

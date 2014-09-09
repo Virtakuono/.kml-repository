@@ -436,6 +436,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Sushi Yoshi</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.769978</lm:latitude>
+      <lm:longitude>39.133889</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Spears</lm:name>
     <lm:coordinates>
       <lm:latitude>21.515660</lm:latitude>
