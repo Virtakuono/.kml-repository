@@ -101,7 +101,6 @@ class POI():
 
 class POISet():
     
-
     def nowString(self,):
         # we want something like '2007-10-18 14:00+0100'
         mytz="%+4.4d" % (time.timezone / -(60*60) * 100) # time.timezone counts westwards!
@@ -194,7 +193,7 @@ class POISet():
         rv += '</head>\n'
         rv += '<body>\n'
         rv += '  <div class=\"container\">\n'
-        rv += '  <div id=\"map\" class=\"map\" style=\"height: %dpx\"></div>\n'%(580,)
+        rv += '  <div id=\"map\" class=\"map\" style=\"height: %dem\"></div>\n'%(35,)
         rv += '  <script>\n'
         rv += '   var map = L.map(\'map\').setView([%.7f, %.7f], %d);\n'%(self.centerPoint()[0],self.centerPoint()[1],6)
         for style in self.styles:
