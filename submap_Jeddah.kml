@@ -1240,6 +1240,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Bicycle monument</name>
+    <description><![CDATA[<div dir="ltr">In the roundabout</div>]]></description>
+    <styleUrl>#style724</styleUrl>
+    <Point>
+      <coordinates>39.1873389,21.5865833,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Flying carpet monument</name>
     <description><![CDATA[<div dir="ltr">In the roundabout</div>]]></description>
     <styleUrl>#style724</styleUrl>
