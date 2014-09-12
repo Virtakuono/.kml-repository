@@ -388,6 +388,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Pizza Hut</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.401822</lm:latitude>
+      <lm:longitude>39.081081</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Reem Alwabadi</lm:name>
     <lm:coordinates>
       <lm:latitude>21.557912</lm:latitude>
@@ -456,6 +464,14 @@
     <lm:coordinates>
       <lm:latitude>22.286245</lm:latitude>
       <lm:longitude>39.112209</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Subway</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.402217</lm:latitude>
+      <lm:longitude>39.081272</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -774,8 +790,24 @@
   <lm:landmark>
     <lm:name>Hyperpanda</lm:name>
     <lm:coordinates>
+      <lm:latitude>22.469564</lm:latitude>
+      <lm:longitude>39.169492</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Hyperpanda</lm:name>
+    <lm:coordinates>
       <lm:latitude>21.665804</lm:latitude>
       <lm:longitude>39.109032</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Meed</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.402436</lm:latitude>
+      <lm:longitude>39.081486</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1328,6 +1360,14 @@
     <lm:coordinates>
       <lm:latitude>22.739676</lm:latitude>
       <lm:longitude>39.137177</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Al Wazir Pharmacy</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.402483</lm:latitude>
+      <lm:longitude>39.081592</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>

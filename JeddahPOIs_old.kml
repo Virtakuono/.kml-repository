@@ -780,6 +780,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Pizza Hut</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.0810806,22.4018222,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Reem Alwabadi</name>
     <description><![CDATA[<div dir="ltr">A middle eastern restaurant</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -849,6 +857,14 @@
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1122090,22.2862450,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Subway</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.0812722,22.4022167,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1165,10 +1181,26 @@
   </Placemark>
   <Placemark>
     <name>Hyperpanda</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style673</styleUrl>
+    <Point>
+      <coordinates>39.1694917,22.4695639,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hyperpanda</name>
     <description><![CDATA[<div dir="ltr">In the Roshan mall, large grocery store with dry goods</div>]]></description>
     <styleUrl>#style673</styleUrl>
     <Point>
       <coordinates>39.1090320,21.6658040,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Meed</name>
+    <description><![CDATA[<div dir="ltr">Convenience store 24/7</div>]]></description>
+    <styleUrl>#style673</styleUrl>
+    <Point>
+      <coordinates>39.0814861,22.4024361,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1721,6 +1753,14 @@
     <styleUrl>#style699</styleUrl>
     <Point>
       <coordinates>39.1371766,22.7396757,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Al Wazir Pharmacy</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style700</styleUrl>
+    <Point>
+      <coordinates>39.0815916,22.4024833,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
