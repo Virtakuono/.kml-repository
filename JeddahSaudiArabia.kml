@@ -1196,10 +1196,10 @@
   </Placemark>
   <Placemark>
     <name>Hyperpanda</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">KAEC branch</div>]]></description>
     <styleUrl>#style673</styleUrl>
     <Point>
-      <coordinates>39.1694917,22.4695639,0.0000000</coordinates>
+      <coordinates>39.1002900,22.4483700,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
