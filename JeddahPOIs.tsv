@@ -28,6 +28,8 @@ Alfairwz restaurant	A turkish restaurant	21.6093990	39.1305579	Restaurant	667
 Applebee's	Restaurant	21.6465800	39.1315840	Restaurant	667	
 Aseil	A traditional saudi restaurant	21.5594890	39.1425230	Restaurant	667	
 Asia restaurant	Thai food, recommended. 012 6828525 	21.5806080	39.1614760	Restaurant	667	
+Baskin Robbins		22.4044639	39.0762278	Restaurant	667	
+Bhar	Lebanese cuisine, patio on the beach	22.4053417	39.0764500	Restaurant	667	
 Brasa de Brazil	Brasilian style barbeque. Meat buffet with a very large variety of different meats to try out.	21.5193840	39.1649320	Restaurant	667	
 Broast chicken carry-out		22.2862910	39.1120830	Restaurant	667	
 Chicken	Grilled rotisserie, comes with a huge plate of rice and salad	22.2873120	39.1132050	Restaurant	667	
@@ -37,6 +39,7 @@ Fish restaurant		21.7180730	39.1039580	Restaurant	667
 Goodies	A good food market type restaurant, large dessers/sweets selection. In Stars Avenue Mall.	21.5729500	39.1273080	Restaurant	667	
 Goodies	A good food market type restaurant, large dessers/sweets selection. In Coral Mall.	21.5502480	39.1631320	Restaurant	667	
 Koreana restaurant	In a residential area and thus hard to find. Call 660-4769 if lost.	21.5353660	39.1653370	Restaurant	667	
+Linas	Pasta, sandwiches, patio on the beach	22.4049139	39.0763444	Restaurant	667	
 Makkah restaurant	Indian restaurant in a traditional area	21.5014506	39.1906515	Restaurant	667	
 Mayrig restaurant		21.5434890	39.1729890	Restaurant	667	
 Old fish restaurant	Pick your fish from a selection of choices and have them cook it for you.	22.2900940	39.1161930	Restaurant	667	
@@ -44,6 +47,7 @@ Pakistani restaurant mk 1	Good curry and fresh-baked naan. 	22.2915310	39.117857
 Pakistani restaurant mk 2	Great fresh-baked naan.	22.2882230	39.1145060	Restaurant	667	
 Palm Garden restaurant		21.5645390	39.1118610	Restaurant	667	
 Piatto (Etoile Center)		21.5750540	39.1272770	Restaurant	667	
+Pizza Hut		22.4018222	39.0810806	Restaurant	667	
 Reem Alwabadi	A middle eastern restaurant	21.5579117	39.1450330	Restaurant	667	
 Restaurant		21.2873250	40.4229970	Restaurant	667	
 Rotisserie chicken carry-out	Rotisserie chiken 22SAR for a whole chicken, rice and arabic bread	22.2870180	39.1135030	Restaurant	667	
@@ -53,6 +57,7 @@ Seafood restaurant		21.5882150	39.1057400	Restaurant	667
 Shada Indian Restaurant	Favoured by locals	21.5540400	39.2105400	Restaurant	667	
 Shish Tawook	Delicious Shish Tawook, 4SAR each	22.2912430	39.1161930	Restaurant	667	
 Shwarma Carry-out	4 SAR for a shwarma. Skip the beef, Chicken (delicious) and falafel for vegetarians	22.2862450	39.1122090	Restaurant	667	
+Subway		22.4022167	39.0812722	Restaurant	667	
 Sushi Yoshi	Name says it all, thanks, Greg Wickham	21.7699778	39.1338889	Restaurant	667	
 Spears	A brazilian restaurant	21.5156605	39.1559482	Restaurant	667	
 Texas Roadhouse	A steak house	21.5535830	39.1676410	Restaurant	667	
@@ -92,7 +97,9 @@ Starbucks		21.5982340	39.1452940	Coffeehouse	672
 Danube	In Red sea mall, hypermarket.	21.6268830	39.1102560	Supermarket	673	
 Danube		21.5489980	39.1630540	Supermarket	673	
 Grocery store	Good prices on veggies, (you pay the seller directly for veggies, everything else is paid at the checkout), also get your cleaning supplies, office supplies, household stuff here.	22.2865870	39.1125560	Supermarket	673	
+Hyperpanda		22.4695639	39.1694917	Supermarket	673	
 Hyperpanda	In the Roshan mall, large grocery store with dry goods	21.6658040	39.1090320	Supermarket	673	
+Meed	Convenience store 24/7	22.4024361	39.0814861	Supermarket	673	
 Electronic store and mobiles		22.2873210	39.1127360	Electronics shop	674	
 Emax	Electronics, Centrepoint Dome - Amir Sultan Street, Jeddah,Tel: +966 2 6394492	21.6066860	39.1411090	Electronics shop	674	
 Emax	Electronics, Sitteen Street, Bawadi,Jeddah,Tel: +966 2 6977519, 6977517	21.5906050	39.1768610	Electronics shop	674	
@@ -162,6 +169,7 @@ National Asir Park		18.2007920	42.4945110	Natural site	698
 Madain Saleh	Access here is restricted. See, for example http://kcomm.wikispaces.com/Day+Trips for info on how to get permits.]	26.8141670	37.9475000	Fortress, castle	699	
 Ruins of a turkish fort		21.5126630	40.5943110	Fortress, castle	699	
 Ruins of an Ottoman fortress	Big thanks for Claire Sale http://clairesale.com/adventures-in-the-desert-ottoman-castle-near-rabigh/ Rumour from Graig Wickham has it that this site is being fenced off as of 2014...	22.7396757	39.1371766	Fortress, castle	699	
+Al Wazir Pharmacy		22.4024833	39.0815916	Pharmacy	700	
 Pharmacy		22.2876130	39.1131900	Pharmacy	700	
 Passport photo studio		22.2868540	39.1125680	Photo shop	701	
 Passport photo studio		22.2866940	39.1132660	Photo shop	701	

@@ -628,6 +628,22 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Baskin Robbins</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.0762278,22.4044639,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bhar</name>
+    <description><![CDATA[<div dir="ltr">Lebanese cuisine, patio on the beach</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.0764500,22.4053417,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Brasa de Brazil</name>
     <description><![CDATA[<div dir="ltr">Brasilian style barbeque. Meat buffet with a very large variety of different meats to try out.</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -697,6 +713,14 @@
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1653370,21.5353660,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Linas</name>
+    <description><![CDATA[<div dir="ltr">Pasta, sandwiches, patio on the beach</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.0763444,22.4049139,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -825,6 +849,14 @@
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1122090,22.2862450,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sushi Yoshi</name>
+    <description><![CDATA[<div dir="ltr">Name says it all, thanks, Greg Wickham</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.1338889,21.7699778,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>

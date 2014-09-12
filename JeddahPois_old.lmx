@@ -236,6 +236,22 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Baskin Robbins</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.404464</lm:latitude>
+      <lm:longitude>39.076228</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Bhar</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.405342</lm:latitude>
+      <lm:longitude>39.076450</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Brasa de Brazil</lm:name>
     <lm:coordinates>
       <lm:latitude>21.519384</lm:latitude>
@@ -304,6 +320,14 @@
     <lm:coordinates>
       <lm:latitude>21.535366</lm:latitude>
       <lm:longitude>39.165337</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Linas</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.404914</lm:latitude>
+      <lm:longitude>39.076344</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -432,6 +456,14 @@
     <lm:coordinates>
       <lm:latitude>22.286245</lm:latitude>
       <lm:longitude>39.112209</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Sushi Yoshi</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.769978</lm:latitude>
+      <lm:longitude>39.133889</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>

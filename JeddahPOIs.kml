@@ -628,6 +628,22 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Baskin Robbins</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.0762278,22.4044639,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bhar</name>
+    <description><![CDATA[<div dir="ltr">Lebanese cuisine, patio on the beach</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.0764500,22.4053417,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Brasa de Brazil</name>
     <description><![CDATA[<div dir="ltr">Brasilian style barbeque. Meat buffet with a very large variety of different meats to try out.</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -700,6 +716,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Linas</name>
+    <description><![CDATA[<div dir="ltr">Pasta, sandwiches, patio on the beach</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.0763444,22.4049139,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Makkah restaurant</name>
     <description><![CDATA[<div dir="ltr">Indian restaurant in a traditional area</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -753,6 +777,14 @@
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1272770,21.5750540,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pizza Hut</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.0810806,22.4018222,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -825,6 +857,14 @@
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1122090,22.2862450,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Subway</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.0812722,22.4022167,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1141,10 +1181,26 @@
   </Placemark>
   <Placemark>
     <name>Hyperpanda</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style673</styleUrl>
+    <Point>
+      <coordinates>39.1694917,22.4695639,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hyperpanda</name>
     <description><![CDATA[<div dir="ltr">In the Roshan mall, large grocery store with dry goods</div>]]></description>
     <styleUrl>#style673</styleUrl>
     <Point>
       <coordinates>39.1090320,21.6658040,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Meed</name>
+    <description><![CDATA[<div dir="ltr">Convenience store 24/7</div>]]></description>
+    <styleUrl>#style673</styleUrl>
+    <Point>
+      <coordinates>39.0814861,22.4024361,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1697,6 +1753,14 @@
     <styleUrl>#style699</styleUrl>
     <Point>
       <coordinates>39.1371766,22.7396757,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Al Wazir Pharmacy</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style700</styleUrl>
+    <Point>
+      <coordinates>39.0815916,22.4024833,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
