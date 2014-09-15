@@ -1755,5 +1755,21 @@
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
+  <lm:landmark>
+    <lm:name>Jirsan Cave</lm:name>
+    <lm:coordinates>
+      <lm:latitude>25.588830</lm:latitude>
+      <lm:longitude>39.756780</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Hibashi Cave</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.145030</lm:latitude>
+      <lm:longitude>42.134370</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
  </lm:landmarkCollection>
 </lm:lmx>
