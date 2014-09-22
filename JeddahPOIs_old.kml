@@ -402,6 +402,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style728">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/cave.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Abhu palace hotel</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -1900,7 +1907,7 @@
   </Placemark>
   <Placemark>
     <name>Dam and a reservoir</name>
-    <description><![CDATA[<div dir="ltr">Thanks to May Roberts and Alex Kattan</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Thanks to May Roberts and Alex Kattan, view of the reservoir http://www.panoramio.com/photo/111720456</div>]]></description>
     <styleUrl>#style708</styleUrl>
     <Point>
       <coordinates>39.2833530,22.7967560,0.0000000</coordinates>
@@ -2152,6 +2159,22 @@
     <styleUrl>#style732</styleUrl>
     <Point>
       <coordinates>39.0692861,22.7349750,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jirsan Cave</name>
+    <description><![CDATA[<div dir="ltr">Thanks, Aya Rae</div>]]></description>
+    <styleUrl>#style728</styleUrl>
+    <Point>
+      <coordinates>39.7567800,25.5888300,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hibashi Cave</name>
+    <description><![CDATA[<div dir="ltr">Thanks, Aya Rae</div>]]></description>
+    <styleUrl>#style728</styleUrl>
+    <Point>
+      <coordinates>42.1343700,21.1450300,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>
