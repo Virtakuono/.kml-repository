@@ -6,6 +6,7 @@ import cgi
 import urllib2
 import datetime
 import time
+import mgrs
 
 class POIStyle():
 
@@ -80,6 +81,7 @@ class POI():
         return '%.8f &deg; %s, %.8f &deg; %s'%(abs(self.lat),latC,abs(self.lon),lonC)
 
     def osmhtmlliststr(self,num):
+        m = mgrs.MGRS()
         if not num:
             rv = '   <p>%s'%(self,name)
         else:
@@ -88,7 +90,7 @@ class POI():
             rv += ' - %s - \n'%(self.desc,)
         else:
             rv += ' - \n'
-        rv += '   %s - '%(self.htmlCoords()) 
+        rv += '   %s - %s -'%(self.htmlCoords(),m.toMGRS(self.lat,self.lon)) 
         rv += '   <a href=\"%s\">OSM</a>, <a href=\"%s\">Google maps</a>, <a href=\"%s\">Bing</a></p>\n'%(self.osmUrl(),self.gmapUrl(),self.bingUrl())
         return rv
 
