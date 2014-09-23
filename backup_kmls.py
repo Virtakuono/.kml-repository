@@ -187,8 +187,7 @@ class POISet():
         rv += '  <script>\n'
         rv += '   MB_ATTR = \'Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, \' +\n'
         rv += '    \'<a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, \' +\n'
-        rv += '    \'Imagery &copy; <a href=\"http://mapbox.com\">Mapbox</a>\';\n'
-        rv += '   MB_URL = \'http://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png\';\n'
+        rv += '    \'Imagery &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a>\';\n'
         rv += '   OSM_URL = \'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png\';\n'
         rv += '   OSM_ATTRIB = \'&copy; <a href=\"http://openstreetmap.org/copyright\">OpenStreetMap</a> contributors\';\n'
         rv += '  </script>\n'
@@ -202,7 +201,7 @@ class POISet():
             rv += style.osmhtmlstr()
         for poi in self.POIs:
             rv += poi.osmhtmlstr()
-        rv += '   L.tileLayer(MB_URL, {attribution: MB_ATTR, id: \'examples.map-i86knfo3\'}).addTo(map);\n'
+        rv += '   L.tileLayer(OSM_URL, {attribution: MB_ATTR, id: \'examples.map-i86knfo3\'}).addTo(map);\n'
         rv += '  </script>\n'
         rv += '  <h2 id="main-head">%s</h2>\n'%('Points of interest in and near Jeddah, KSA',)
         #rv += '  <br />\n'
