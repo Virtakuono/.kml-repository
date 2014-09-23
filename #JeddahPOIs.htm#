@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Points of Interest in and near Jeddah, Kingdom of Saudi Arabia</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="http://leafletjs.com/atom.xml" type="application/atom+xml" rel="alternate" title="Leaflet Dev Blog Atom Feed" />
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+  <script>
+   MB_ATTR = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+    '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+    'Imagery &copy; <a href="http://mapbox.com">Mapbox</a>';
+   MB_URL = 'http://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png';
+   OSM_URL = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+   OSM_ATTRIB = '&copy; <a href="http://openstreetmap.org/copyright">OpenStreetMap</a> contributors';
+  </script>
+</head>
+<body>
+  <div class="container">
+  <div id="map" class="map" style="height: 580px"></div>
+  <script>
+   var map = L.map('map').setView([21.7617546, 39.7922061], 6);
+   var iconType666 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/hotel_nostars.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType667 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/restaurant_generic.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType668 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/toll_station.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType669 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/junction.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType670 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/airport_terminal.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType671 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/souq.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType672 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/coffee.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType673 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/supermarket.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType674 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/electronics.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType675 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/beach.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType676 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/hardware.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType677 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/car.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType678 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/book.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType679 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/furniture.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType680 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/veterinary.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType681 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/pets.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType682 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/toys.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType683 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/hospital-building.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType685 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/police_station.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType687 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/carrepair.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType688 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/bank.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType689 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/police_checkpoint.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType690 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/embassy.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType691 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/bicycle_shop.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType692 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/sewingmachine.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType693 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/computers.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType694 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/mall.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType695 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/boatshop.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType696 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/scubashop.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType697 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/scuba.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType698 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/palm.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType699 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/fortress.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType700 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/pharmacy.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType701 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/photo.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType702 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/carwash.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType703 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/atm.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType704 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/textiles.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType705 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/bustour.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType706 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/city.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType707 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/mosque.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType708 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/dam.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType709 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/cablecar.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType710 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/house.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType711 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/waterpark.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType712 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/museum_archeological.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType713 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/village.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType714 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/moderntower.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   var iconType715 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/motorbike.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+   L.marker([18.2099110, 42.4964330],{icon: iconType666}).addTo(map).bindPopup("<b>Abhu palace hotel</b><br /><a href=\"http://www.hs.fi/\"></a><br />Coordinates: (18.2099110, 42.4964330)");
+   L.marker([21.6121900, 39.1551020],{icon: iconType666}).addTo(map).bindPopup("<b>Avail Hotel and Suite</b><br /><br />Coordinates: (21.6121900, 39.1551020)");
+   L.marker([24.6851230, 46.7186120],{icon: iconType666}).addTo(map).bindPopup("<b>Best Western Orchid hotel</b><br /><br />Coordinates: (24.6851230, 46.7186120)");
+   L.marker([24.7110580, 46.6735570],{icon: iconType666}).addTo(map).bindPopup("<b>Four Seasons</b><br /><br />Coordinates: (24.7110580, 46.6735570)");
+   L.marker([24.7110510, 46.6738920],{icon: iconType666}).addTo(map).bindPopup("<b>Four Seasons</b><br /><br />Coordinates: (24.7110510, 46.6738920)");
+   L.marker([21.6069150, 39.1565700],{icon: iconType666}).addTo(map).bindPopup("<b>Habitat Hotel</b><br /><br />Coordinates: (21.6069150, 39.1565700)");
+   L.marker([21.6044500, 39.1072080],{icon: iconType666}).addTo(map).bindPopup("<b>Hilton</b><br /><br />Coordinates: (21.6044500, 39.1072080)");
+   L.marker([21.5159030, 39.1561620],{icon: iconType666}).addTo(map).bindPopup("<b>Holiday Inn - Intercontinental</b><br /><br />Coordinates: (21.5159030, 39.1561620)");
+   L.marker([21.4843920, 39.2079770],{icon: iconType666}).addTo(map).bindPopup("<b>Holiday Inn Jeddah Al Salam</b><br /><br />Coordinates: (21.4843920, 39.2079770)");
+   L.marker([21.3713440, 40.4615750],{icon: iconType666}).addTo(map).bindPopup("<b>Intercontinental</b><br /><br />Coordinates: (21.3713440, 40.4615750)");
+   L.marker([21.5589620, 39.2079770],{icon: iconType666}).addTo(map).bindPopup("<b>Le Meridien</b><br /><br />Coordinates: (21.5589620, 39.2079770)");
+   L.marker([21.5318740, 39.1952360],{icon: iconType666}).addTo(map).bindPopup("<b>Marriott Jeddah</b><br /><br />Coordinates: (21.5318740, 39.1952360)");
+   L.marker([21.5133740, 39.1549840],{icon: iconType666}).addTo(map).bindPopup("<b>Park Hyatt Hotel</b><br /><br />Coordinates: (21.5133740, 39.1549840)");
+   L.marker([21.5495380, 39.1896060],{icon: iconType666}).addTo(map).bindPopup("<b>Radisson Blu Royal Suites</b><br /><br />Coordinates: (21.5495380, 39.1896060)");
+   L.marker([21.3644850, 40.2677310],{icon: iconType666}).addTo(map).bindPopup("<b>Ramada</b><br /><br />Coordinates: (21.3644850, 40.2677310)");
+   L.marker([24.6867140, 46.7131300],{icon: iconType666}).addTo(map).bindPopup("<b>Riyadh Marriott hotel</b><br /><br />Coordinates: (24.6867140, 46.7131300)");
+   L.marker([24.6895090, 46.6849350],{icon: iconType666}).addTo(map).bindPopup("<b>Rosewood Al Faisaliyah hotel</b><br /><br />Coordinates: (24.6895090, 46.6849350)");
+   L.marker([21.5763910, 39.1103780],{icon: iconType666}).addTo(map).bindPopup("<b>Rosewood Hotel</b><br /><br />Coordinates: (21.5763910, 39.1103780)");
+   L.marker([24.7274490, 46.6651270],{icon: iconType666}).addTo(map).bindPopup("<b>Sheraton Towers</b><br /><br />Coordinates: (24.7274490, 46.6651270)");
+   L.marker([21.6083300, 39.1420900],{icon: iconType666}).addTo(map).bindPopup("<b>Sultan</b><br /><br />Coordinates: (21.6083300, 39.1420900)");
+   L.marker([21.0806960, 40.3152730],{icon: iconType666}).addTo(map).bindPopup("<b>Summer resort</b><br />Higher elevation than Ta'if<br />Coordinates: (21.0806960, 40.3152730)");
+   L.marker([21.6414706, 39.1302160],{icon: iconType667}).addTo(map).bindPopup("<b>19. Century Burger</b><br />A good local burger restaurant<br />Coordinates: (21.6414706, 39.1302160)");
+   L.marker([21.4777281, 39.1899502],{icon: iconType667}).addTo(map).bindPopup("<b>Abo Yasser restaurant</b><br />African restaurant in an area with many other african restaurants<br />Coordinates: (21.4777281, 39.1899502)");
+   L.marker([21.6093990, 39.1305579],{icon: iconType667}).addTo(map).bindPopup("<b>Alfairwz restaurant</b><br />A turkish restaurant<br />Coordinates: (21.6093990, 39.1305579)");
+   L.marker([21.6465800, 39.1315840],{icon: iconType667}).addTo(map).bindPopup("<b>Applebee's</b><br />Restaurant<br />Coordinates: (21.6465800, 39.1315840)");
+   L.marker([21.5594890, 39.1425230],{icon: iconType667}).addTo(map).bindPopup("<b>Aseil</b><br />A traditional saudi restaurant<br />Coordinates: (21.5594890, 39.1425230)");
+   L.marker([21.5806080, 39.1614760],{icon: iconType667}).addTo(map).bindPopup("<b>Asia restaurant</b><br />Thai food, recommended. 012 6828525 <br />Coordinates: (21.5806080, 39.1614760)");
+   L.marker([21.5193840, 39.1649320],{icon: iconType667}).addTo(map).bindPopup("<b>Brasa de Brazil</b><br />Brasilian style barbeque. Meat buffet with a very large variety of different meats to try out.<br />Coordinates: (21.5193840, 39.1649320)");
+   L.marker([22.2862910, 39.1120830],{icon: iconType667}).addTo(map).bindPopup("<b>Broast chicken carry-out</b><br /><br />Coordinates: (22.2862910, 39.1120830)");
+   L.marker([22.2873120, 39.1132050],{icon: iconType667}).addTo(map).bindPopup("<b>Chicken</b><br />Grilled rotisserie, comes with a huge plate of rice and salad<br />Coordinates: (22.2873120, 39.1132050)");
+   L.marker([21.4784720, 39.2109180],{icon: iconType667}).addTo(map).bindPopup("<b>Dar Al-Hekma University</b><br /><br />Coordinates: (21.4784720, 39.2109180)");
+   L.marker([21.4784720, 39.2109180],{icon: iconType667}).addTo(map).bindPopup("<b>Effat University</b><br /><br />Coordinates: (21.4784720, 39.2109180)");
+   L.marker([21.7180730, 39.1039580],{icon: iconType667}).addTo(map).bindPopup("<b>Fish restaurant</b><br /><br />Coordinates: (21.7180730, 39.1039580)");
+   L.marker([21.5729500, 39.1273080],{icon: iconType667}).addTo(map).bindPopup("<b>Goodies</b><br />A good food market type restaurant, large dessers/sweets selection. In Stars Avenue Mall.<br />Coordinates: (21.5729500, 39.1273080)");
+   L.marker([21.5502480, 39.1631320],{icon: iconType667}).addTo(map).bindPopup("<b>Goodies</b><br />A good food market type restaurant, large dessers/sweets selection. In Coral Mall.<br />Coordinates: (21.5502480, 39.1631320)");
+   L.marker([21.5353660, 39.1653370],{icon: iconType667}).addTo(map).bindPopup("<b>Koreana restaurant</b><br />In a residential area and thus hard to find. Call 660-4769 if lost.<br />Coordinates: (21.5353660, 39.1653370)");
+   L.marker([21.5014506, 39.1906515],{icon: iconType667}).addTo(map).bindPopup("<b>Makkah restaurant</b><br />Indian restaurant in a traditional area<br />Coordinates: (21.5014506, 39.1906515)");
+   L.marker([21.5434890, 39.1729890],{icon: iconType667}).addTo(map).bindPopup("<b>Mayrig restaurant</b><br /><br />Coordinates: (21.5434890, 39.1729890)");
+   L.marker([22.2900940, 39.1161930],{icon: iconType667}).addTo(map).bindPopup("<b>Old fish restaurant</b><br />Pick your fish from a selection of choices and have them cook it for you.<br />Coordinates: (22.2900940, 39.1161930)");
+   L.marker([22.2915310, 39.1178570],{icon: iconType667}).addTo(map).bindPopup("<b>Pakistani restaurant mk 1</b><br />Good curry and fresh-baked naan. <br />Coordinates: (22.2915310, 39.1178570)");
+   L.marker([22.2882230, 39.1145060],{icon: iconType667}).addTo(map).bindPopup("<b>Pakistani restaurant mk 2</b><br />Great fresh-baked naan.<br />Coordinates: (22.2882230, 39.1145060)");
+   L.marker([21.5645390, 39.1118610],{icon: iconType667}).addTo(map).bindPopup("<b>Palm Garden restaurant</b><br /><br />Coordinates: (21.5645390, 39.1118610)");
+   L.marker([21.5750540, 39.1272770],{icon: iconType667}).addTo(map).bindPopup("<b>Piatto (Etoile Center)</b><br /><br />Coordinates: (21.5750540, 39.1272770)");
+   L.marker([21.5579117, 39.1450330],{icon: iconType667}).addTo(map).bindPopup("<b>Reem Alwabadi</b><br />A middle eastern restaurant<br />Coordinates: (21.5579117, 39.1450330)");
+   L.marker([21.2873250, 40.4229970],{icon: iconType667}).addTo(map).bindPopup("<b>Restaurant</b><br /><br />Coordinates: (21.2873250, 40.4229970)");
+   L.marker([22.2870180, 39.1135030],{icon: iconType667}).addTo(map).bindPopup("<b>Rotisserie chicken carry-out</b><br />Rotisserie chiken 22SAR for a whole chicken, rice and arabic bread<br />Coordinates: (22.2870180, 39.1135030)");
+   L.marker([21.6122717, 39.1439582],{icon: iconType667}).addTo(map).bindPopup("<b>Sahareej Adan</b><br />Yemeni restaurant<br />Coordinates: (21.6122717, 39.1439582)");
+   L.marker([21.5785710, 39.1993060],{icon: iconType667}).addTo(map).bindPopup("<b>Sahareej Aden Yemini Restaurant</b><br />The best Yemeni restaurant I have been to in Jeddah. The food is incredible! -Sameed<br />Coordinates: (21.5785710, 39.1993060)");
+   L.marker([21.5168508, 39.1558114],{icon: iconType667}).addTo(map).bindPopup("<b>Sakura</b><br />A japanese restaurant<br />Coordinates: (21.5168508, 39.1558114)");
+   L.marker([21.5882150, 39.1057400],{icon: iconType667}).addTo(map).bindPopup("<b>Seafood restaurant</b><br /><br />Coordinates: (21.5882150, 39.1057400)");
+   L.marker([21.5540400, 39.2105400],{icon: iconType667}).addTo(map).bindPopup("<b>Shada Indian Restaurant</b><br />Favoured by locals<br />Coordinates: (21.5540400, 39.2105400)");
+   L.marker([22.2912430, 39.1161930],{icon: iconType667}).addTo(map).bindPopup("<b>Shish Tawook</b><br />Delicious Shish Tawook, 4SAR each<br />Coordinates: (22.2912430, 39.1161930)");
+   L.marker([22.2862450, 39.1122090],{icon: iconType667}).addTo(map).bindPopup("<b>Shwarma Carry-out</b><br />4 SAR for a shwarma. Skip the beef, Chicken (delicious) and falafel for vegetarians<br />Coordinates: (22.2862450, 39.1122090)");
+   L.marker([21.5156605, 39.1559482],{icon: iconType667}).addTo(map).bindPopup("<b>Spears</b><br />A brazilian restaurant<br />Coordinates: (21.5156605, 39.1559482)");
+   L.marker([21.5535830, 39.1676410],{icon: iconType667}).addTo(map).bindPopup("<b>Texas Roadhouse</b><br />A steak house<br />Coordinates: (21.5535830, 39.1676410)");
+   L.marker([21.5598458, 39.1532162],{icon: iconType667}).addTo(map).bindPopup("<b>The Butcher Shop & Grill</b><br />Steak and grill restaurant<br />Coordinates: (21.5598458, 39.1532162)");
+   L.marker([22.2872750, 39.1137580],{icon: iconType667}).addTo(map).bindPopup("<b>Yemeni restaurant</b><br /><br />Coordinates: (22.2872750, 39.1137580)");
+   L.marker([22.3203930, 39.1383090],{icon: iconType668}).addTo(map).bindPopup("<b>KAUST: main gate</b><br /><br />Coordinates: (22.3203930, 39.1383090)");
+   L.marker([22.2986560, 39.1042860],{icon: iconType668}).addTo(map).bindPopup("<b>KAUST: Thuwal gate</b><br /><br />Coordinates: (22.2986560, 39.1042860)");
+   L.marker([22.3034800, 39.1223370],{icon: iconType668}).addTo(map).bindPopup("<b>KAUST: vendor gate</b><br /><br />Coordinates: (22.3034800, 39.1223370)");
+   L.marker([21.6311610, 39.1820110],{icon: iconType669}).addTo(map).bindPopup("<b>Exit back of mall of arabia</b><br />This is the U-Turn to get back on Madina Rd to KAUST from Mall of Arabia...<br />Coordinates: (21.6311610, 39.1820110)");
+   L.marker([21.6705090, 39.1252330],{icon: iconType669}).addTo(map).bindPopup("<b>Exit for Sultan St.</b><br />To Jarir Mall etc.<br />Coordinates: (21.6705090, 39.1252330)");
+   L.marker([22.3139720, 39.1514630],{icon: iconType669}).addTo(map).bindPopup("<b>KAUST exit</b><br /><br />Coordinates: (22.3139720, 39.1514630)");
+   L.marker([22.2731320, 39.1259610],{icon: iconType669}).addTo(map).bindPopup("<b>Thuwal exit</b><br /><br />Coordinates: (22.2731320, 39.1259610)");
+   L.marker([18.2342340, 42.6577070],{icon: iconType670}).addTo(map).bindPopup("<b>Abha airport</b><br /><br />Coordinates: (18.2342340, 42.6577070)");
+   L.marker([21.6882170, 39.1435170],{icon: iconType670}).addTo(map).bindPopup("<b>JED - North Terminal</b><br />All airlines other than Saudia<br />Coordinates: (21.6882170, 39.1435170)");
+   L.marker([21.6678770, 39.1435170],{icon: iconType670}).addTo(map).bindPopup("<b>JED - South Terminal</b><br />Saudia flights<br />Coordinates: (21.6678770, 39.1435170)");
+   L.marker([24.9582810, 46.7036320],{icon: iconType670}).addTo(map).bindPopup("<b>Riyadh Airport</b><br /><br />Coordinates: (24.9582810, 46.7036320)");
+   L.marker([21.4775220, 39.1946370],{icon: iconType671}).addTo(map).bindPopup("<b>Afghan souq</b><br /><br />Coordinates: (21.4775220, 39.1946370)");
+   L.marker([21.4531785, 39.2163393],{icon: iconType671}).addTo(map).bindPopup("<b>Alahdal souq</b><br /><br />Coordinates: (21.4531785, 39.2163393)");
+   L.marker([21.4817093, 39.1849682],{icon: iconType671}).addTo(map).bindPopup("<b>Albukhariah district</b><br />A place to buy carpets, a really small street but full with carpet shops among other things<br />Coordinates: (21.4817093, 39.1849682)");
+   L.marker([21.5704613, 39.1894340],{icon: iconType671}).addTo(map).bindPopup("<b>Alderwazah market</b><br />This shop is specialised in traditional furniture and you can find a lot of shops around it that are selling nice accessories<br />Coordinates: (21.5704613, 39.1894340)");
+   L.marker([21.5429830, 39.1974470],{icon: iconType671}).addTo(map).bindPopup("<b>Alsharq souq</b><br />One of the best marketplaces for fabrics, textiles & traditional women's clothes<br />Coordinates: (21.5429830, 39.1974470)");
+   L.marker([21.3807425, 39.2245174],{icon: iconType671}).addTo(map).bindPopup("<b>Animal Market</b><br />An interesting article on the animal souq. Open after Asr prayer on Fridays. http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentid=20130105148141<br />Coordinates: (21.3807425, 39.2245174)");
+   L.marker([21.4855676, 39.1835640],{icon: iconType671}).addTo(map).bindPopup("<b>Corniche Commercial Center</b><br />Just go to the 4th or 5th floor and you will find the best accessories, perfumes & cosmetics shops<br />Coordinates: (21.4855676, 39.1835640)");
+   L.marker([21.4759640, 39.1833080],{icon: iconType671}).addTo(map).bindPopup("<b>Hinda Weyah (Ribbon Souq)</b><br />Thanks, Linda<br />Coordinates: (21.4759640, 39.1833080)");
+   L.marker([21.4737297, 39.1972607],{icon: iconType671}).addTo(map).bindPopup("<b>Khaimah market</b><br />Good market for traditional women's clothes<br />Coordinates: (21.4737297, 39.1972607)");
+   L.marker([21.5832210, 39.2486570],{icon: iconType671}).addTo(map).bindPopup("<b>Look for tent makers in this area</b><br /><br />Coordinates: (21.5832210, 39.2486570)");
+   L.marker([21.5717486, 39.1819452],{icon: iconType671}).addTo(map).bindPopup("<b>Mahmoud Saeed souq</b><br />Excellent market for carpets and furniture<br />Coordinates: (21.5717486, 39.1819452)");
+   L.marker([21.4120009, 39.2081129],{icon: iconType671}).addTo(map).bindPopup("<b>Rockets souq</b><br />Dontœôòùt worry they are not selling rockets here itœôòùs just a name ;). you can find here almost everything electronics, cloths, food, carpets,furniture, etc.<br />Coordinates: (21.4120009, 39.2081129)");
+   L.marker([21.4848440, 39.1882670],{icon: iconType671}).addTo(map).bindPopup("<b>Suq Al Alawi, Al Balad District</b><br />Jeddah 22236, Saudi Arabia<br />Coordinates: (21.4848440, 39.1882670)");
+   L.marker([18.2146850, 42.4964330],{icon: iconType671}).addTo(map).bindPopup("<b>Tuesday market</b><br /><br />Coordinates: (18.2146850, 42.4964330)");
+   L.marker([21.4869081, 39.1964989],{icon: iconType671}).addTo(map).bindPopup("<b>Yamamah gold souq</b><br />Best place to buy gold and there are a lot of shops to buy fabrics and textiles<br />Coordinates: (21.4869081, 39.1964989)");
+   L.marker([21.6065750, 39.1413800],{icon: iconType672}).addTo(map).bindPopup("<b>Starbucks</b><br /><br />Coordinates: (21.6065750, 39.1413800)");
+   L.marker([21.5982340, 39.1452940],{icon: iconType672}).addTo(map).bindPopup("<b>Starbucks</b><br /><br />Coordinates: (21.5982340, 39.1452940)");
+   L.marker([21.6268830, 39.1102560],{icon: iconType673}).addTo(map).bindPopup("<b>Danube</b><br />In Red sea mall, hypermarket.<br />Coordinates: (21.6268830, 39.1102560)");
+   L.marker([21.5489980, 39.1630540],{icon: iconType673}).addTo(map).bindPopup("<b>Danube</b><br /><br />Coordinates: (21.5489980, 39.1630540)");
+   L.marker([22.2865870, 39.1125560],{icon: iconType673}).addTo(map).bindPopup("<b>Grocery store</b><br />Good prices on veggies, (you pay the seller directly for veggies, everything else is paid at the checkout), also get your cleaning supplies, office supplies, household stuff here.<br />Coordinates: (22.2865870, 39.112556   L.marker([21.6658040, 39.1090320],{icon: iconType673}).addTo(map).bindPopup("<b>Hyperpanda</b><br />In the Roshan mall, large grocery store with dry goods<br />Coordinates: (21.6658040, 39.1090320)");
+   L.marker([22.2873210, 39.1127360],{icon: iconType674}).addTo(map).bindPopup("<b>Electronic store and mobiles</b><br /><br />Coordinates: (22.2873210, 39.1127360)");
+   L.marker([21.6066860, 39.1411090],{icon: iconType674}).addTo(map).bindPopup("<b>Emax</b><br />Electronics, Centrepoint Dome - Amir Sultan Street, Jeddah,Tel: +966 2 6394492<br />Coordinates: (21.6066860, 39.1411090)");
+   L.marker([21.5906050, 39.1768610],{icon: iconType674}).addTo(map).bindPopup("<b>Emax</b><br />Electronics, Sitteen Street, Bawadi,Jeddah,Tel: +966 2 6977519, 6977517<br />Coordinates: (21.5906050, 39.1768610)");
+   L.marker([21.5979560, 39.1432340],{icon: iconType674}).addTo(map).bindPopup("<b>Extra</b><br />Electronics and home appliances<br />Coordinates: (21.5979560, 39.1432340)");
+   L.marker([21.5632670, 39.2041320],{icon: iconType674}).addTo(map).bindPopup("<b>Hyperpanda</b><br />Hypermarket, a large grocery store<br />Coordinates: (21.5632670, 39.2041320)");
+   L.marker([22.2873130, 39.1129260],{icon: iconType674}).addTo(map).bindPopup("<b>Mobile shop</b><br /><br />Coordinates: (22.2873130, 39.1129260)");
+   L.marker([20.1580100, 40.2468450],{icon: iconType675}).addTo(map).bindPopup("<b>Al Lith resort</b><br /><br />Coordinates: (20.1580100, 40.2468450)");
+   L.marker([21.7100890, 39.0847510],{icon: iconType675}).addTo(map).bindPopup("<b>Albilad Beach</b><br /><br />Coordinates: (21.7100890, 39.0847510)");
+   L.marker([21.7289620, 39.0751570],{icon: iconType675}).addTo(map).bindPopup("<b>Palm Beach</b><br />A privabe beach and accommodation facility. Parking is outside.<br />Coordinates: (21.7289620, 39.0751570)");
+   L.marker([21.7351150, 39.0723610],{icon: iconType675}).addTo(map).bindPopup("<b>Red Sea Resort (Sheraton)</b><br /><br />Coordinates: (21.7351150, 39.0723610)");
+   L.marker([21.7736000, 39.0512010],{icon: iconType675}).addTo(map).bindPopup("<b>Silver sands beach club</b><br /><br />Coordinates: (21.7736000, 39.0512010)");
+   L.marker([21.5574210, 39.1787030],{icon: iconType676}).addTo(map).bindPopup("<b>Al Muhaidib Hardware</b><br />found door chains here. Door lock, handles etc.<br />Coordinates: (21.5574210, 39.1787030)");
+   L.marker([21.6611770, 39.1214680],{icon: iconType676}).addTo(map).bindPopup("<b>SACO</b><br />Jeddah main store. Address Al Amir Sultan Street, Phone 02-6199967 Fax 02-6199558, P.O Box 20358 - Jeddah 21455, Sat to Thur    08:00a.m / 12:00a.m, Fri      05:00p.m / 12:00a.m<br />Coordinates: (21.6611770, 39.1214680)");
+   L.marker([21.5634480, 39.2049060],{icon: iconType676}).addTo(map).bindPopup("<b>SACO</b><br />Hardware store http://saco-ksa.com/<br />Coordinates: (21.5634480, 39.2049060)");
+   L.marker([21.5182478, 39.1650090],{icon: iconType676}).addTo(map).bindPopup("<b>SACO</b><br />Hardware store http://saco-ksa.com/<br />Coordinates: (21.5182478, 39.1650090)");
+   L.marker([21.5779530, 39.1648860],{icon: iconType676}).addTo(map).bindPopup("<b>SITACO</b><br /><br />Coordinates: (21.5779530, 39.1648860)");
+   L.marker([21.5583970, 39.1707230],{icon: iconType677}).addTo(map).bindPopup("<b>Jeddah International Markets</b><br /><br />Coordinates: (21.5583970, 39.1707230)");
+   L.marker([21.6338140, 39.2039600],{icon: iconType677}).addTo(map).bindPopup("<b>Toyota car dealer</b><br /><br />Coordinates: (21.6338140, 39.2039600)");
+   L.marker([21.6401960, 39.1324010],{icon: iconType678}).addTo(map).bindPopup("<b>Jarir bookstore</b><br />Prince Sultan street Showroom timings: Sat-Thu 9am-12pm, 4.30pm-11pm; Fri 4.30pm-11pm Tel. No. +966 2 420-2050, Fax No.+966 2 420-2060<br />Coordinates: (21.6401960, 39.1324010)");
+   L.marker([21.5748160, 39.1457750],{icon: iconType678}).addTo(map).bindPopup("<b>Jarir bookstore</b><br />on Sar[iy] Street. Showroom Timings: Sat-Thu 9am-2pm, 4.30pm-11pm; Fri 4.30pm-11pm Tel. No. +966 2 682-7666, Fax No.+966 2 698-1120<br />Coordinates: (21.5748160, 39.1457750)");
+   L.marker([21.5571190, 39.1832770],{icon: iconType679}).addTo(map).bindPopup("<b>IKEA</b><br />P.O.Box 8054, Jeddah 21482 œôòó Saudi Arabia Phone: +966 2 6633000<br>Saturday to Thursday: 10:00 œôòó 24:00 Friday: 16:00 œôòó 24:00 Special opening hours in Ramadan and EID<br />Coordinates: (21.5571190, 39.1832770)");
+   L.marker([21.6024230, 39.1424410],{icon: iconType680}).addTo(map).bindPopup("<b>Arabian vets</b><br /><br />Coordinates: (21.6024230, 39.1424410)");
+   L.marker([21.5516800, 39.1636280],{icon: iconType680}).addTo(map).bindPopup("<b>Eurovets</b><br />Vet clinick with Dr. Carlos<br />Coordinates: (21.5516800, 39.1636280)");
+   L.marker([21.6024440, 39.1426440],{icon: iconType681}).addTo(map).bindPopup("<b>Happy Pets</b><br />Pet shop<br />Coordinates: (21.6024440, 39.1426440)");
+   L.marker([21.5970270, 39.1425740],{icon: iconType681}).addTo(map).bindPopup("<b>Pet Oasis</b><br />Pet shop<br />Coordinates: (21.5970270, 39.1425740)");
+   L.marker([21.6646670, 39.1085590],{icon: iconType682}).addTo(map).bindPopup("<b>Toys R Us</b><br />In Roshan Mall<br />Coordinates: (21.6646670, 39.1085590)");
+   L.marker([21.5134580, 39.1842860],{icon: iconType683}).addTo(map).bindPopup("<b>IMC - International Medical Center Jeddah</b><br />PO Box: 2172 Jeddah: 21451 Phone: +966 2 650 9000 Fax: +966 2 653 5045 E-mail: imcinfo@imc.med.sa<br />Coordinates: (21.5134580, 39.1842860)");
+   L.marker([21.5011020, 39.1767040],{icon: iconType685}).addTo(map).bindPopup("<b>Balad police station</b><br /><br />Coordinates: (21.5011020, 39.1767040)");
+   L.marker([22.2925610, 39.1158680],{icon: iconType687}).addTo(map).bindPopup("<b>Mechanic</b><br />Also sells engine oil, filters, etc<br />Coordinates: (22.2925610, 39.1158680)");
+   L.marker([21.6232010, 39.1943470],{icon: iconType687}).addTo(map).bindPopup("<b>Motor vehicle periodic inspection</b><br /><br />Coordinates: (21.6232010, 39.1943470)");
+   L.marker([22.4037450, 39.0785300],{icon: iconType688}).addTo(map).bindPopup("<b>SABB branch</b><br />Full services, includes a separate ladies section<br />Coordinates: (22.4037450, 39.0785300)");
+   L.marker([21.5712890, 39.1427000],{icon: iconType688}).addTo(map).bindPopup("<b>SABB branch</b><br /><br />Coordinates: (21.5712890, 39.1427000)");
+   L.marker([21.7988950, 39.1206210],{icon: iconType689}).addTo(map).bindPopup("<b>Checkpoint</b><br /><br />Coordinates: (21.7988950, 39.1206210)");
+   L.marker([21.4080720, 39.2557790],{icon: iconType689}).addTo(map).bindPopup("<b>Checkpoint</b><br /><br />Coordinates: (21.4080720, 39.2557790)");
+   L.marker([21.5250210, 39.1660390],{icon: iconType690}).addTo(map).bindPopup("<b>US Consulate</b><br /><br />Coordinates: (21.5250210, 39.1660390)");
+   L.marker([21.5757390, 39.1452940],{icon: iconType691}).addTo(map).bindPopup("<b>Wheels</b><br />Sari str, Carries TREK - Sam Abalos (WHEELS) Tel:026981302 Cell:0508691557 (open 09:30-12:00 and 16:30-00:00 from a phone call)<br><br>Note that the roundabout the map shows West is here has been replaced with an overpass along Sari Street. To get to Wheels you need to approach from East and NOT go on the overpass.<br />Coordinates: (21.5757390, 39.1452940)");
+   L.marker([21.4777510, 39.1866040],{icon: iconType692}).addTo(map).bindPopup("<b>Sewing machine shops</b><br /><br />Coordinates: (21.4777510, 39.1866040)");
+   L.marker([22.2861880, 39.1123280],{icon: iconType692}).addTo(map).bindPopup("<b>Tailor</b><br /><br />Coordinates: (22.2861880, 39.1123280)");
+   L.marker([21.4825120, 39.1831210],{icon: iconType692}).addTo(map).bindPopup("<b>Tailor</b><br />The place looks like a dump but they make fair quality trousers for 55 SAR. They tend to overuse interfacing in shirts, tho.<br />Coordinates: (21.4825120, 39.1831210)");
+   L.marker([21.6124710, 39.1537280],{icon: iconType693}).addTo(map).bindPopup("<b>Computer shops</b><br /><br />Coordinates: (21.6124710, 39.1537280)");
+   L.marker([21.5294190, 39.1851430],{icon: iconType693}).addTo(map).bindPopup("<b>Computer shops</b><br />Farther down the Kahlid Al Waleed Street<br />Coordinates: (21.5294190, 39.1851430)");
+   L.marker([21.5202900, 39.1856730],{icon: iconType693}).addTo(map).bindPopup("<b>Computer shops, many (N)</b><br />This is about the north end of the computer store strip <br />Coordinates: (21.5202900, 39.1856730)");
+   L.marker([21.5170820, 39.1862070],{icon: iconType693}).addTo(map).bindPopup("<b>Computer shops, many (S)</b><br />This is about the south end of the computer store strip<br />Coordinates: (21.5170820, 39.1862070)");
+   L.marker([21.5128610, 39.1725580],{icon: iconType693}).addTo(map).bindPopup("<b>Computer supplies</b><br />Baroom Centre, 6733 Fayd Ar Rida, Jeddah 23213<br />Coordinates: (21.5128610, 39.1725580)");
+   L.marker([21.5687540, 39.1432770],{icon: iconType693}).addTo(map).bindPopup("<b>iZone</b><br /><br />Coordinates: (21.5687540, 39.1432770)");
+   L.marker([21.6651800, 39.1097300],{icon: iconType693}).addTo(map).bindPopup("<b>Lingo Computer Store</b><br />Sells Apple products<br />Coordinates: (21.6651800, 39.1097300)");
+   L.marker([21.5766770, 39.1101300],{icon: iconType694}).addTo(map).bindPopup("<b>Aziz Mall</b><br /><br />Coordinates: (21.5766770, 39.1101300)");
+   L.marker([21.5502180, 39.1628560],{icon: iconType694}).addTo(map).bindPopup("<b>Coral Mall</b><br /><br />Coordinates: (21.5502180, 39.1628560)");
+   L.marker([21.6156220, 39.1529540],{icon: iconType694}).addTo(map).bindPopup("<b>Hera International Mall</b><br /><br />Coordinates: (21.6156220, 39.1529540)");
+   L.marker([21.2878250, 40.4187240],{icon: iconType694}).addTo(map).bindPopup("<b>Mall</b><br /><br />Coordinates: (21.2878250, 40.4187240)");
+   L.marker([21.6326170, 39.1557070],{icon: iconType694}).addTo(map).bindPopup("<b>Mall of Arabia</b><br /><br />Coordinates: (21.6326170, 39.1557070)");
+   L.marker([21.6267930, 39.1099550],{icon: iconType694}).addTo(map).bindPopup("<b>Red Sea Mall</b><br /><br />Coordinates: (21.6267930, 39.1099550)");
+   L.marker([21.6651100, 39.1101300],{icon: iconType694}).addTo(map).bindPopup("<b>Roshan Mall</b><br /><br />Coordinates: (21.6651100, 39.1101300)");
+   L.marker([21.5729600, 39.1283700],{icon: iconType694}).addTo(map).bindPopup("<b>Stars Avenue Mall</b><br /><br />Coordinates: (21.5729600, 39.1283700)");
+   L.marker([21.5490590, 39.1488340],{icon: iconType694}).addTo(map).bindPopup("<b>Thalia Mall</b><br /><br />Coordinates: (21.5490590, 39.1488340)");
+   L.marker([21.6071180, 39.1206780],{icon: iconType695}).addTo(map).bindPopup("<b>Boat dealer</b><br /><br />Coordinates: (21.6071180, 39.1206780)");
+   L.marker([21.5488831, 39.1634262],{icon: iconType696}).addTo(map).bindPopup("<b>Blue reef divers</b><br /><br />Coordinates: (21.5488831, 39.1634262)");
+   L.marker([21.5494170, 39.1632579],{icon: iconType696}).addTo(map).bindPopup("<b>Red Sea divers</b><br /><br />Coordinates: (21.5494170, 39.1632579)");
+   L.marker([21.5487079, 39.1619871],{icon: iconType696}).addTo(map).bindPopup("<b>The Arab circumnavigator</b><br /><br />Coordinates: (21.5487079, 39.1619871)");
+   L.marker([21.7303730, 39.1069580],{icon: iconType697}).addTo(map).bindPopup("<b>Desert Sea Divers</b><br />Dive shop and marina. http://desertseadivers.com/<br />Coordinates: (21.7303730, 39.1069580)");
+   L.marker([21.7366300, 39.1230570],{icon: iconType697}).addTo(map).bindPopup("<b>Dream Divers</b><br />Departure point for boat trips<br />Coordinates: (21.7366300, 39.1230570)");
+   L.marker([26.5583389, 47.1721222],{icon: iconType698}).addTo(map).bindPopup("<b>A mysterious hole in the ground</b><br />Information on this peculiar looking structure is scarce. http://crazymoor.wordpress.com/2007/11/25/an-underground-oasis-in-saudi-arabia/<br />Coordinates: (26.5583389, 47.1721222)");
+   L.marker([23.3108000, 39.8488917],{icon: iconType698}).addTo(map).bindPopup("<b>Al Akhal Oasis</b><br /><br />Coordinates: (23.3108000, 39.8488917)");
+   L.marker([25.7041090, 39.9136230],{icon: iconType698}).addTo(map).bindPopup("<b>Black volcano</b><br /><br />Coordinates: (25.7041090, 39.9136230)");
+   L.marker([26.6896611, 37.9799389],{icon: iconType698}).addTo(map).bindPopup("<b>Elephant rock</b><br />Thanks, Greg Wickham<br />Coordinates: (26.6896611, 37.9799389)");
+   L.marker([27.6347530, 38.5534150],{icon: iconType698}).addTo(map).bindPopup("<b>Historic Well</b><br /><br />Coordinates: (27.6347530, 38.5534150)");
+   L.marker([23.6885470, 38.8017940],{icon: iconType698}).addTo(map).bindPopup("<b>Mastorah Dunes</b><br />Thanks, Greg Wickham<br />Coordinates: (23.6885470, 38.8017940)");
+   L.marker([18.2007920, 42.4945110],{icon: iconType698}).addTo(map).bindPopup("<b>National Asir Park</b><br /><br />Coordinates: (18.2007920, 42.4945110)");
+   L.marker([18.2914710, 42.3612290],{icon: iconType698}).addTo(map).bindPopup("<b>Near the highest point</b><br /><br />Coordinates: (18.2914710, 42.3612290)");
+   L.marker([18.0386350, 42.8720130],{icon: iconType698}).addTo(map).bindPopup("<b>Top of cliff</b><br /><br />Coordinates: (18.0386350, 42.8720130)");
+   L.marker([21.3202320, 40.2851100],{icon: iconType698}).addTo(map).bindPopup("<b>View to Makkah</b><br /><br />Coordinates: (21.3202320, 40.2851100)");
+   L.marker([22.9064970, 41.1306820],{icon: iconType698}).addTo(map).bindPopup("<b>Wahba crater</b><br />The pin is at the white hut from which the trail down begins<br />Coordinates: (22.9064970, 41.1306820)");
+   L.marker([25.6607920, 39.9356820],{icon: iconType698}).addTo(map).bindPopup("<b>White volcano</b><br />Thanks, Greg Wickham<br />Coordinates: (25.6607920, 39.9356820)");
+   L.marker([26.8141670, 37.9475000],{icon: iconType699}).addTo(map).bindPopup("<b>Madain Saleh</b><br />Access here is restricted. See, for example http://kcomm.wikispaces.com/Day+Trips for info on how to get permits.]<br />Coordinates: (26.8141670, 37.9475000)");
+   L.marker([21.5126630, 40.5943110],{icon: iconType699}).addTo(map).bindPopup("<b>Ruins of a turkish fort</b><br /><br />Coordinates: (21.5126630, 40.5943110)");
+   L.marker([22.7396757, 39.1371766],{icon: iconType699}).addTo(map).bindPopup("<b>Ruins of an Ottoman fortress</b><br />Big thanks for Claire Sale http://clairesale.com/adventures-in-the-desert-ottoman-castle-near-rabigh/ Rumour from Graig Wickham has it that this site is being fenced off as of 2014...<br />Coordinates: (22.7396757, 39.1371766)");
+   L.marker([22.2876130, 39.1131900],{icon: iconType700}).addTo(map).bindPopup("<b>Pharmacy</b><br /><br />Coordinates: (22.2876130, 39.1131900)");
+   L.marker([22.2876130, 39.1131900],{icon: iconType700}).addTo(map).bindPopup("<b>Pharmacy</b><br /><br />Coordinates: (22.2876130, 39.1131900)");
+   L.marker([22.2868540, 39.1125680],{icon: iconType701}).addTo(map).bindPopup("<b>Passport photo studio</b><br /><br />Coordinates: (22.2868540, 39.1125680)");
+   L.marker([22.2866940, 39.1132660],{icon: iconType701}).addTo(map).bindPopup("<b>Passport photo studio</b><br /><br />Coordinates: (22.2866940, 39.1132660)");
+   L.marker([22.2875160, 39.1157070],{icon: iconType702}).addTo(map).bindPopup("<b>Car wash</b><br />SAR 20. They use high pressure hoses, cloth and lots of soap<br />Coordinates: (22.2875160, 39.1157070)");
+   L.marker([22.2896820, 39.1147380],{icon: iconType703}).addTo(map).bindPopup("<b>ATM</b><br /><br />Coordinates: (22.2896820, 39.1147380)");
+   L.marker([21.4833280, 39.1843030],{icon: iconType704}).addTo(map).bindPopup("<b>Textile shop</b><br />There is a whole bunch of them in the nearby area<br />Coordinates: (21.4833280, 39.1843030)");
+   L.marker([21.4844640, 39.1808420],{icon: iconType705}).addTo(map).bindPopup("<b>Al Balad: KAUST bus dropoff</b><br /><br />Coordinates: (21.4844640, 39.1808420)");
+   L.marker([20.0000000, 41.4500000],{icon: iconType706}).addTo(map).bindPopup("<b>Al Bahah</b><br />http://en.wikipedia.org/wiki/Al_Bahah<br />Coordinates: (20.0000000, 41.4500000)");
+   L.marker([21.2570570, 40.3865700],{icon: iconType707}).addTo(map).bindPopup("<b>Historic mosque</b><br /><br />Coordinates: (21.2570570, 40.3865700)");
+   L.marker([21.2560770, 40.3912050],{icon: iconType707}).addTo(map).bindPopup("<b>Historic mosque</b><br /><br />Coordinates: (21.2560770, 40.3912050)");
+   L.marker([21.4922870, 39.1857170],{icon: iconType707}).addTo(map).bindPopup("<b>Juffali mosque</b><br /><br />Coordinates: (21.4922870, 39.1857170)");
+   L.marker([25.4848889, 39.3627972],{icon: iconType708}).addTo(map).bindPopup("<b>An Bint Dam</b><br />Thanks, Greg Wickham<br />Coordinates: (25.4848889, 39.3627972)");
+   L.marker([21.1294540, 40.5121540],{icon: iconType708}).addTo(map).bindPopup("<b>Alsamlagui ancient dam</b><br /><br />Coordinates: (21.1294540, 40.5121540)");
+   L.marker([22.8214410, 39.3763270],{icon: iconType708}).addTo(map).bindPopup("<b>Dam and a reservoir</b><br />Thanks to May Roberts and Alex Kattan<br />Coordinates: (22.8214410, 39.3763270)");
+   L.marker([22.7967560, 39.2833530],{icon: iconType708}).addTo(map).bindPopup("<b>Dam and a reservoir</b><br />Thanks to May Roberts and Alex Kattan<br />Coordinates: (22.7967560, 39.2833530)");
+   L.marker([21.3646550, 40.2675780],{icon: iconType709}).addTo(map).bindPopup("<b>Cable car</b><br /><br />Coordinates: (21.3646550, 40.2675780)");
+   L.marker([21.3562970, 40.2293550],{icon: iconType709}).addTo(map).bindPopup("<b>Cable car</b><br /><br />Coordinates: (21.3562970, 40.2293550)");
+   L.marker([18.2944660, 42.3589630],{icon: iconType709}).addTo(map).bindPopup("<b>Cable car</b><br />Top station<br />Coordinates: (18.2944660, 42.3589630)");
+   L.marker([18.2811430, 42.3363610],{icon: iconType709}).addTo(map).bindPopup("<b>Cable car</b><br />Lower station<br />Coordinates: (18.2811430, 42.3363610)");
+   L.marker([21.2698270, 40.4053960],{icon: iconType710}).addTo(map).bindPopup("<b>Historic house</b><br />Private<br />Coordinates: (21.2698270, 40.4053960)");
+   L.marker([21.2689670, 40.3994260],{icon: iconType710}).addTo(map).bindPopup("<b>Historic house</b><br />Not looked after<br />Coordinates: (21.2689670, 40.3994260)");
+   L.marker([21.3519540, 40.2942120],{icon: iconType710}).addTo(map).bindPopup("<b>Remnants of old houses</b><br /><br />Coordinates: (21.3519540, 40.2942120)");
+   L.marker([18.2165990, 42.5006600],{icon: iconType710}).addTo(map).bindPopup("<b>Shada palace</b><br /><br />Coordinates: (18.2165990, 42.5006600)");
+   L.marker([21.2862800, 40.4149510],{icon: iconType710}).addTo(map).bindPopup("<b>Shubra palace</b><br />Historic house that is now a museum. Only open in sat-wed.<br />Coordinates: (21.2862800, 40.4149510)");
+   L.marker([21.3559880, 40.2303090],{icon: iconType711}).addTo(map).bindPopup("<b>Water park</b><br /><br />Coordinates: (21.3559880, 40.2303090)");
+   L.marker([18.2964320, 42.7573320],{icon: iconType712}).addTo(map).bindPopup("<b>Museum</b><br /><br />Coordinates: (18.2964320, 42.7573320)");
+   L.marker([19.9306139, 41.4424889],{icon: iconType713}).addTo(map).bindPopup("<b>Dhi Ain, archaeological village</b><br />Also known as Marble Village, thanks to Greg<br />Coordinates: (19.9306139, 41.4424889)");
+   L.marker([18.2120610, 42.2732810],{icon: iconType713}).addTo(map).bindPopup("<b>Rural village</b><br /><br />Coordinates: (18.2120610, 42.2732810)");
+   L.marker([21.4845580, 39.1840530],{icon: iconType714}).addTo(map).bindPopup("<b>Queen's building</b><br /><br />Coordinates: (21.4845580, 39.1840530)");
+   L.marker([21.5876501, 39.1764942],{icon: iconType715}).addTo(map).bindPopup("<b>Suzuki dealership</b><br /><br />Coordinates: (21.5876501, 39.1764942)");
+   L.tileLayer(MB_URL, {attribution: MB_ATTR, id: 'examples.map-i86knfo3'}).addTo(map);
+  </script>
+  </div>
+</body>
+</html>

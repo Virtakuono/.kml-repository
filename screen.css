@@ -1,0 +1,90 @@
+h1 {
+	margin-bottom: 0;
+	}
+h1 a {
+	display: block;
+	height: 0;
+	padding-top: 73px;
+	width: 220px;
+	overflow: hidden;
+	margin-left: -10px;
+	margin-bottom: 8px;
+	text-decoration: none;
+
+	-webkit-transition: 0.8s all;
+
+	}
+
+h2 {
+	font-size: 1.8em;
+	margin-top: 20px;
+	margin-bottom: 16px;
+	font-weight: bold;
+	padding: 4px 12px 3px;
+	margin-left: 0;
+	margin-right: 0;
+	background: #edeeef;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+
+	color: white;
+
+	background-color: #e77121;
+	border-radius: 5px;
+
+	text-shadow: 0 -1px 1px rgba(0,0,0,0.35);
+	}
+
+h3 {
+	margin-top: 1.5em;
+	}
+
+h4 {
+	margin-bottom: 0.5em;
+	line-height: inherit;
+	font-size: 1.1em;
+	font-weight: bold;
+	color: #777;
+	}
+
+.container code, .container pre code {
+	font-family: "Consolas", "Menlo", "Lucida Console", "Courier New", monospace;
+	}
+.container pre code {
+	padding: 10px 15px;
+	border: 1px solid #ccc;
+	background: white;
+	color: #444;
+
+	box-shadow: 0 0 15px #ddd;
+
+	border-radius: 5px;
+	}
+
+p, ul, ol, table {
+	font-size: 13px;
+}
+
+
+
+/* add for color */
+
+/* unvisited link */
+a:link {
+    color: #2E8D96;
+}
+
+/* visited link */
+a:visited {
+    color: #2E8D96;
+}
+
+/* mouse over link */
+a:hover {
+    color: #F6B71F;
+}
+
+/* selected link */
+a:active {
+    color: #F6B71F;
+}

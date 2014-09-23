@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Abha, October 21-22, 2010</name>
+  <description><![CDATA[]]></description>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Shada Palace</name>
+    <description><![CDATA[<div style="font-size:11px;min-height:240px;min-width:440px">   <div style="width:260px;float:left">     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Date:</td></td>         <td>21/10/2010 11:05 am</td></td>       </tr></tr>     </tbody></tbody></table>     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Latitude:</td></td>         <td>18.216599º N</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Longitude:</td></td>         <td>42.500661º E</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Altitude:</td></td>         <td>2,288 m</td></td>       </tr></tr>     </tbody></tbody></table>   </div>   <div style="width:160px;float:right">     <p>21/10/2010 11:05 am</p></p>   </div> </div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>42.500660,18.216599,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Abhu Palace Hotel</name>
+    <description><![CDATA[<div style="font-size:11px;min-height:240px;min-width:440px">   <div style="width:260px;float:left">     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Date:</td></td>         <td>21/10/2010  9:11 am</td></td>       </tr></tr>     </tbody></tbody></table>     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Latitude:</td></td>         <td>18.209911º N</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Longitude:</td></td>         <td>42.482827º E</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Altitude:</td></td>         <td>2,271 m</td></td>       </tr></tr>     </tbody></tbody></table>   </div>   <div style="width:160px;float:right">     <p>21/10/2010  9:11 am</p></p>   </div> </div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>42.482826,18.209911,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tuesday Market</name>
+    <description><![CDATA[<div style="font-size:11px;min-height:240px;min-width:440px">   <div style="width:260px;float:left">     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Date:</td></td>         <td>21/10/2010  9:54 am</td></td>       </tr></tr>     </tbody></tbody></table>     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Latitude:</td></td>         <td>18.214685º N</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Longitude:</td></td>         <td>42.496432º E</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Altitude:</td></td>         <td>2,218 m</td></td>       </tr></tr>     </tbody></tbody></table>   </div>   <div style="width:160px;float:right">     <p>21/10/2010  9:54 am</p></p><p></p></p>   </div> </div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>42.496433,18.214685,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>National Asir Park</name>
+    <description><![CDATA[<div style="font-size:11px;min-height:240px;min-width:440px">   <div style="width:260px;float:left">     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Date:</td></td>         <td>21/10/2010 12:31 pm</td></td>       </tr></tr>     </tbody></tbody></table>     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Latitude:</td></td>         <td>18.200793º N</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Longitude:</td></td>         <td>42.494509º E</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Altitude:</td></td>         <td>2,350 m</td></td>       </tr></tr>     </tbody></tbody></table>   </div>   <div style="width:160px;float:right">     <p>21/10/2010 12:31 pm</p></p>   </div> </div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>42.494511,18.200792,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Top of Cliff</name>
+    <description><![CDATA[<div style="font-size:11px;min-height:240px;min-width:440px">   <div style="width:260px;float:left">     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Date:</td></td>         <td>21/10/2010  4:20 pm</td></td>       </tr></tr>     </tbody></tbody></table>     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Latitude:</td></td>         <td>18.038636º N</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Longitude:</td></td>         <td>42.872013º E</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Altitude:</td></td>         <td>2,371 m</td></td>       </tr></tr>     </tbody></tbody></table>   </div>   <div style="width:160px;float:right">     <p>21/10/2010  4:20 pm</p></p>   </div> </div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>42.872013,18.038635,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museum</name>
+    <description><![CDATA[<div style="font-size:11px;min-height:240px;min-width:440px">   <div style="width:260px;float:left">     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Date:</td></td>         <td>21/10/2010  9:44 pm</td></td>       </tr></tr>     </tbody></tbody></table>     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Latitude:</td></td>         <td>18.296432º N</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Longitude:</td></td>         <td>42.757330º E</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Altitude:</td></td>         <td>2,282 m</td></td>       </tr></tr>     </tbody></tbody></table>   </div>   <div style="width:160px;float:right">     <p>21/10/2010  9:44 pm</p></p>   </div> </div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>42.757332,18.296432,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rural Village</name>
+    <description><![CDATA[<div style="font-size:11px;min-height:240px;min-width:440px">   <div style="width:260px;float:left">     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Date:</td></td>         <td>22/10/2010  1:44 pm</td></td>       </tr></tr>     </tbody></tbody></table>     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Latitude:</td></td>         <td>18.212061º N</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Longitude:</td></td>         <td>42.273283º E</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Altitude:</td></td>         <td>1,062 m</td></td>       </tr></tr>     </tbody></tbody></table>   </div>   <div style="width:160px;float:right">     <p>22/10/2010  1:44 pm</p></p>   </div> </div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>42.273281,18.212061,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cable Car Lower</name>
+    <description><![CDATA[<div style="font-size:11px;min-height:240px;min-width:440px">   <div style="width:260px;float:left">     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Date:</td></td>         <td>22/10/2010  3:47 pm</td></td>       </tr></tr>     </tbody></tbody></table>     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Latitude:</td></td>         <td>18.281143º N</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Longitude:</td></td>         <td>42.336360º E</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Altitude:</td></td>         <td>1,695 m</td></td>       </tr></tr>     </tbody></tbody></table>   </div>   <div style="width:160px;float:right">     <p>22/10/2010  3:47 pm</p></p>   </div> </div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>42.336361,18.281143,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cable Car Top</name>
+    <description><![CDATA[<div style="font-size:11px;min-height:240px;min-width:440px">   <div style="width:260px;float:left">     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Date:</td></td>         <td>22/10/2010  4:24 pm</td></td>       </tr></tr>     </tbody></tbody></table>     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Latitude:</td></td>         <td>18.294466º N</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Longitude:</td></td>         <td>42.358963º E</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Altitude:</td></td>         <td>2,861 m</td></td>       </tr></tr>     </tbody></tbody></table>   </div>   <div style="width:160px;float:right">     <p>22/10/2010  4:24 pm</p></p>   </div> </div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>42.358963,18.294466,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Abha Airport</name>
+    <description><![CDATA[<div style="font-size:11px;min-height:240px;min-width:440px">   <div style="width:260px;float:left">     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Date:</td></td>         <td>22/10/2010  6:27 pm</td></td>       </tr></tr>     </tbody></tbody></table>     <table style="width:100%;margin:8px 0pt" border="0">       <tbody><tr>         <td style="font-weight:bold;width:90px">Latitude:</td></td>         <td>18.234233º N</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Longitude:</td></td>         <td>42.657706º E</td></td>       </tr></tr>       <tr>         <td style="font-weight:bold;width:90px">Altitude:</td></td>         <td>2,108 m</td></td>       </tr></tr>     </tbody></tbody></table>   </div>   <div style="width:160px;float:right">     <p>22/10/2010  6:27 pm</p></p>   </div> </div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>42.657707,18.234234,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Near the Highest Point</name>
+    <description><![CDATA[2862M<br><br>+18° 17' 29.30", +42° 21' 40.42"<br>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>42.361229,18.291471,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
