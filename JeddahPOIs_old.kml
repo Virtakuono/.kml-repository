@@ -374,13 +374,6 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style724">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/statue-2.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
   <Style id="style730">
     <IconStyle>
       <Icon>
@@ -399,13 +392,6 @@
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/car_orange.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style728">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/cave.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -794,14 +780,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Pizza Hut</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.0810806,22.4018222,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Reem Alwabadi</name>
     <description><![CDATA[<div dir="ltr">A middle eastern restaurant</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -866,14 +844,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Shwarma Booth</name>
-    <description><![CDATA[<div dir="ltr">4 SAR for a shwarma, 3 SAR for falafel</div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.1828417,21.4857917,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Shwarma Carry-out</name>
     <description><![CDATA[<div dir="ltr">4 SAR for a shwarma. Skip the beef, Chicken (delicious) and falafel for vegetarians</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -882,27 +852,19 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Spears</name>
-    <description><![CDATA[<div dir="ltr">A brazilian restaurant</div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.1559482,21.5156605,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Subway</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.0812722,22.4022167,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Sushi Yoshi</name>
     <description><![CDATA[<div dir="ltr">Name says it all, thanks, Greg Wickham</div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1338889,21.7699778,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Spears</name>
+    <description><![CDATA[<div dir="ltr">A brazilian restaurant</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.1559482,21.5156605,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1203,26 +1165,10 @@
   </Placemark>
   <Placemark>
     <name>Hyperpanda</name>
-    <description><![CDATA[<div dir="ltr">KAEC branch</div>]]></description>
-    <styleUrl>#style673</styleUrl>
-    <Point>
-      <coordinates>39.1002900,22.4483700,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Hyperpanda</name>
     <description><![CDATA[<div dir="ltr">In the Roshan mall, large grocery store with dry goods</div>]]></description>
     <styleUrl>#style673</styleUrl>
     <Point>
       <coordinates>39.1090320,21.6658040,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Meed</name>
-    <description><![CDATA[<div dir="ltr">Convenience store 24/7</div>]]></description>
-    <styleUrl>#style673</styleUrl>
-    <Point>
-      <coordinates>39.0814861,22.4024361,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1271,14 +1217,6 @@
     <styleUrl>#style674</styleUrl>
     <Point>
       <coordinates>39.1129260,22.2873130,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>World of Smartphones</name>
-    <description><![CDATA[<div dir="ltr">Offers repair for all sorts of smartphones, smartphones02@gmail.com, 0508240615</div>]]></description>
-    <styleUrl>#style674</styleUrl>
-    <Point>
-      <coordinates>39.1642611,21.6230639,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1786,14 +1724,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Al Wazir Pharmacy</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style700</styleUrl>
-    <Point>
-      <coordinates>39.0815916,22.4024833,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Pharmacy</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style700</styleUrl>
@@ -1819,7 +1749,7 @@
   </Placemark>
   <Placemark>
     <name>Car wash</name>
-    <description><![CDATA[<div dir="ltr">SAR 20. They use high pressure hoses, cloth and lots of soap. I tried to haggle for a car wash but after I came back, the car was still unwashed. Perhaps someone with good command of arabic will have more luck. -Juho</div>]]></description>
+    <description><![CDATA[<div dir="ltr">SAR 20. They use high pressure hoses, cloth and lots of soap</div>]]></description>
     <styleUrl>#style702</styleUrl>
     <Point>
       <coordinates>39.1157070,22.2875160,0.0000000</coordinates>
@@ -1907,7 +1837,7 @@
   </Placemark>
   <Placemark>
     <name>Dam and a reservoir</name>
-    <description><![CDATA[<div dir="ltr">Thanks to May Roberts and Alex Kattan, view of the reservoir http://www.panoramio.com/photo/111720456</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Thanks to May Roberts and Alex Kattan</div>]]></description>
     <styleUrl>#style708</styleUrl>
     <Point>
       <coordinates>39.2833530,22.7967560,0.0000000</coordinates>
@@ -2098,46 +2028,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Bicycle monument</name>
-    <description><![CDATA[<div dir="ltr">In the roundabout</div>]]></description>
-    <styleUrl>#style724</styleUrl>
-    <Point>
-      <coordinates>39.1835250,21.5683833,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Compass monument</name>
-    <description><![CDATA[<div dir="ltr">In the roundabout</div>]]></description>
-    <styleUrl>#style724</styleUrl>
-    <Point>
-      <coordinates>39.1873389,21.5865833,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Flying carpet monument</name>
-    <description><![CDATA[<div dir="ltr">In the roundabout</div>]]></description>
-    <styleUrl>#style724</styleUrl>
-    <Point>
-      <coordinates>39.1094583,21.6232306,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Fountain monument</name>
-    <description><![CDATA[<div dir="ltr">In the roundabout</div>]]></description>
-    <styleUrl>#style724</styleUrl>
-    <Point>
-      <coordinates>39.1868944,21.4901750,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Pinball monument</name>
-    <description><![CDATA[<div dir="ltr">In the roundabout</div>]]></description>
-    <styleUrl>#style724</styleUrl>
-    <Point>
-      <coordinates>39.1769139,21.5849056,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Historic Well</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style730</styleUrl>
@@ -2159,22 +2049,6 @@
     <styleUrl>#style732</styleUrl>
     <Point>
       <coordinates>39.0692861,22.7349750,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Jirsan Cave</name>
-    <description><![CDATA[<div dir="ltr">Thanks, Aya Rae</div>]]></description>
-    <styleUrl>#style728</styleUrl>
-    <Point>
-      <coordinates>39.7567800,25.5888300,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Hibashi Cave</name>
-    <description><![CDATA[<div dir="ltr">Thanks, Aya Rae</div>]]></description>
-    <styleUrl>#style728</styleUrl>
-    <Point>
-      <coordinates>42.1343700,21.1450300,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>

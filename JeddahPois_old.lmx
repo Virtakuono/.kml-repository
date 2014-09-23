@@ -388,14 +388,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Pizza Hut</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.401822</lm:latitude>
-      <lm:longitude>39.081081</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Reem Alwabadi</lm:name>
     <lm:coordinates>
       <lm:latitude>21.557912</lm:latitude>
@@ -460,14 +452,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Shwarma Booth</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.485792</lm:latitude>
-      <lm:longitude>39.182842</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Shwarma Carry-out</lm:name>
     <lm:coordinates>
       <lm:latitude>22.286245</lm:latitude>
@@ -476,26 +460,18 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Spears</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.515660</lm:latitude>
-      <lm:longitude>39.155948</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Subway</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.402217</lm:latitude>
-      <lm:longitude>39.081272</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Sushi Yoshi</lm:name>
     <lm:coordinates>
       <lm:latitude>21.769978</lm:latitude>
       <lm:longitude>39.133889</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Spears</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.515660</lm:latitude>
+      <lm:longitude>39.155948</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -798,24 +774,8 @@
   <lm:landmark>
     <lm:name>Hyperpanda</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.448370</lm:latitude>
-      <lm:longitude>39.100290</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Hyperpanda</lm:name>
-    <lm:coordinates>
       <lm:latitude>21.665804</lm:latitude>
       <lm:longitude>39.109032</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Meed</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.402436</lm:latitude>
-      <lm:longitude>39.081486</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -864,14 +824,6 @@
     <lm:coordinates>
       <lm:latitude>22.287313</lm:latitude>
       <lm:longitude>39.112926</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>World of Smartphones</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.623064</lm:latitude>
-      <lm:longitude>39.164261</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1380,14 +1332,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Al Wazir Pharmacy</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.402483</lm:latitude>
-      <lm:longitude>39.081592</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Pharmacy</lm:name>
     <lm:coordinates>
       <lm:latitude>22.287613</lm:latitude>
@@ -1692,46 +1636,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Bicycle monument</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.568383</lm:latitude>
-      <lm:longitude>39.183525</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Compass monument</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.586583</lm:latitude>
-      <lm:longitude>39.187339</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Flying carpet monument</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.623231</lm:latitude>
-      <lm:longitude>39.109458</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Fountain monument</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.490175</lm:latitude>
-      <lm:longitude>39.186894</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Pinball monument</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.584906</lm:latitude>
-      <lm:longitude>39.176914</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Historic Well</lm:name>
     <lm:coordinates>
       <lm:latitude>27.634753</lm:latitude>
@@ -1752,22 +1656,6 @@
     <lm:coordinates>
       <lm:latitude>22.734975</lm:latitude>
       <lm:longitude>39.069286</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Jirsan Cave</lm:name>
-    <lm:coordinates>
-      <lm:latitude>25.588830</lm:latitude>
-      <lm:longitude>39.756780</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Hibashi Cave</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.145030</lm:latitude>
-      <lm:longitude>42.134370</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
