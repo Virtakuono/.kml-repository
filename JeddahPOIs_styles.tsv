@@ -47,26 +47,6 @@
 712	Museum	museum_archeological
 713	Village, hamlet	village
 714	Tower building, skyscraper	moderntower
-<<<<<<< HEAD
-715	Bike shop	motorbike
-716	N/A	generic
-717	N/A	generic
-718	N/A	generic
-719	N/A	generic
-720	N/A	generic
-721	N/A	generic
-722	N/A	generic
-723	N/A	generic
-724	N/A	generic
-725	N/A	generic
-726	N/A	generic
-727	N/A	generic
-728	N/A	generic
-729	N/A	generic
-730	N/A	generic
-731	N/A	generic
-732	N/A	generic
-=======
 715	Motorbike shop	motorbike
 716	Cemetery	tomb
 717	Fish market	fish_trade
@@ -85,7 +65,6 @@
 730	Well	waterwell
 731	Sand dunes	desert-3
 732	Driving license	car_orange
->>>>>>> master
 733	N/A	generic
 734	N/A	generic
 735	N/A	generic

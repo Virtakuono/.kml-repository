@@ -2,11 +2,7 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
   <name>Points of Interest in and near Jeddah, Kingdom of Saudi Arabia</name>
-<<<<<<< HEAD
-  <description><![CDATA[See detailed info at https://github.com/Virtakuono/.kml-repository]]></description>
-=======
   <description><![CDATA[See detailed info, licensing and instructions on how to contribute yourself at https://github.com/Virtakuono/.kml-repository#jeddah-landmarks-and-points-of-interest]]></description>
->>>>>>> master
   <Style id="style666">
     <IconStyle>
       <Icon>
@@ -336,12 +332,6 @@
       </Icon>
     </IconStyle>
   </Style>
-<<<<<<< HEAD
-  <Style id="style72">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/generic.png</href>
-=======
   <Style id="style715">
     <IconStyle>
       <Icon>
@@ -416,7 +406,6 @@
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/cave.png</href>
->>>>>>> master
       </Icon>
     </IconStyle>
   </Style>
@@ -445,19 +434,11 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-    <name>Four Seasons</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style666</styleUrl>
-    <Point>
-      <coordinates>46.6735570,24.7110580,0.0000000</coordinates>
-=======
     <name>Crowne Plaza</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style666</styleUrl>
     <Point>
       <coordinates>39.1558800,21.5174900,0.0000000</coordinates>
->>>>>>> master
     </Point>
   </Placemark>
   <Placemark>
@@ -613,8 +594,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-=======
     <name>Al Dawar restaurant</name>
     <description><![CDATA[<div dir="ltr">Egyptian cuisine, in Red Sea mall</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -631,7 +610,6 @@
     </Point>
   </Placemark>
   <Placemark>
->>>>>>> master
     <name>Alfairwz restaurant</name>
     <description><![CDATA[<div dir="ltr">A turkish restaurant</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -652,11 +630,7 @@
     <description><![CDATA[<div dir="ltr">A traditional saudi restaurant</div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
-<<<<<<< HEAD
-      <coordinates>39.1412087,21.5593291,0.0000000</coordinates>
-=======
       <coordinates>39.1425230,21.5594890,0.0000000</coordinates>
->>>>>>> master
     </Point>
   </Placemark>
   <Placemark>
@@ -668,8 +642,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-=======
     <name>Baskin Robbins</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -686,7 +658,6 @@
     </Point>
   </Placemark>
   <Placemark>
->>>>>>> master
     <name>Brasa de Brazil</name>
     <description><![CDATA[<div dir="ltr">Brasilian style barbeque. Meat buffet with a very large variety of different meats to try out.</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -759,8 +730,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-=======
     <name>Linas</name>
     <description><![CDATA[<div dir="ltr">Pasta, sandwiches, patio on the beach</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -769,7 +738,6 @@
     </Point>
   </Placemark>
   <Placemark>
->>>>>>> master
     <name>Makkah restaurant</name>
     <description><![CDATA[<div dir="ltr">Indian restaurant in a traditional area</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -794,10 +762,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-    <name>Pakistani restaurant</name>
-    <description><![CDATA[<div dir="ltr">Greag fresh-baked naan.</div>]]></description>
-=======
     <name>Pakistani restaurant mk 1</name>
     <description><![CDATA[<div dir="ltr">Good curry and fresh-baked naan. </div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -808,7 +772,6 @@
   <Placemark>
     <name>Pakistani restaurant mk 2</name>
     <description><![CDATA[<div dir="ltr">Great fresh-baked naan.</div>]]></description>
->>>>>>> master
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1145060,22.2882230,0.0000000</coordinates>
@@ -831,8 +794,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-=======
     <name>Pizza Hut</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -841,7 +802,6 @@
     </Point>
   </Placemark>
   <Placemark>
->>>>>>> master
     <name>Reem Alwabadi</name>
     <description><![CDATA[<div dir="ltr">A middle eastern restaurant</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -866,17 +826,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-    <name>Sahareej Adan</name>
-    <description><![CDATA[<div dir="ltr">Yemeni restaurant</div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.1439582,21.6122717,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-=======
->>>>>>> master
     <name>Sahareej Aden Yemini Restaurant</name>
     <description><![CDATA[<div dir="ltr">The best Yemeni restaurant I have been to in Jeddah. The food is incredible! -Sameed</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -917,8 +866,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-=======
     <name>Shwarma Booth</name>
     <description><![CDATA[<div dir="ltr">4 SAR for a shwarma, 3 SAR for falafel</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -927,7 +874,6 @@
     </Point>
   </Placemark>
   <Placemark>
->>>>>>> master
     <name>Shwarma Carry-out</name>
     <description><![CDATA[<div dir="ltr">4 SAR for a shwarma. Skip the beef, Chicken (delicious) and falafel for vegetarians</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -944,8 +890,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-=======
     <name>Subway</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -962,7 +906,6 @@
     </Point>
   </Placemark>
   <Placemark>
->>>>>>> master
     <name>Texas Roadhouse</name>
     <description><![CDATA[<div dir="ltr">A steak house</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -971,8 +914,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-=======
     <name>Thai Thai Restaurant</name>
     <description><![CDATA[<div dir="ltr">Yummy, up scale Thai food! </div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -981,7 +922,6 @@
     </Point>
   </Placemark>
   <Placemark>
->>>>>>> master
     <name>The Butcher Shop &amp; Grill</name>
     <description><![CDATA[<div dir="ltr">Steak and grill restaurant</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -998,8 +938,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-=======
     <name>Yummy Yummy</name>
     <description><![CDATA[<div dir="ltr">Casual dining asian, thanks to Alaa Samer Oraif for the reference</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -1008,7 +946,6 @@
     </Point>
   </Placemark>
   <Placemark>
->>>>>>> master
     <name>KAUST: main gate</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style668</styleUrl>
@@ -1085,11 +1022,7 @@
     <description><![CDATA[<div dir="ltr">Saudia flights</div>]]></description>
     <styleUrl>#style670</styleUrl>
     <Point>
-<<<<<<< HEAD
-      <coordinates>39.1435170,21.6678770,0.0000000</coordinates>
-=======
       <coordinates>39.1501900,21.6707680,0.0000000</coordinates>
->>>>>>> master
     </Point>
   </Placemark>
   <Placemark>
@@ -1142,17 +1075,10 @@
   </Placemark>
   <Placemark>
     <name>Animal Market</name>
-<<<<<<< HEAD
-    <description><![CDATA[<div dir="ltr">Best time to visit is on Friday from 4:00-6:00 PM where you can find all kind of animals.</div>]]></description>
-    <styleUrl>#style671</styleUrl>
-    <Point>
-      <coordinates>39.2245174,21.3807425,0.0000000</coordinates>
-=======
     <description><![CDATA[<div dir="ltr">An interesting article on the animal souq. Open after Asr prayer on Fridays. http://www.saudigazette.com.sa/index.cfm?method=home.regcon&amp;contentid=20130105148141</div>]]></description>
     <styleUrl>#style671</styleUrl>
     <Point>
       <coordinates>39.2225860,21.3775890,0.0000000</coordinates>
->>>>>>> master
     </Point>
   </Placemark>
   <Placemark>
@@ -1172,8 +1098,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-=======
     <name>Jeddah International Markets</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style671</styleUrl>
@@ -1182,7 +1106,6 @@
     </Point>
   </Placemark>
   <Placemark>
->>>>>>> master
     <name>Khaimah market</name>
     <description><![CDATA[<div dir="ltr">Good market for traditional women's clothes</div>]]></description>
     <styleUrl>#style671</styleUrl>
@@ -1280,8 +1203,6 @@
   </Placemark>
   <Placemark>
     <name>Hyperpanda</name>
-<<<<<<< HEAD
-=======
     <description><![CDATA[<div dir="ltr">KAEC branch</div>]]></description>
     <styleUrl>#style673</styleUrl>
     <Point>
@@ -1290,7 +1211,6 @@
   </Placemark>
   <Placemark>
     <name>Hyperpanda</name>
->>>>>>> master
     <description><![CDATA[<div dir="ltr">In the Roshan mall, large grocery store with dry goods</div>]]></description>
     <styleUrl>#style673</styleUrl>
     <Point>
@@ -1298,8 +1218,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-=======
     <name>Meed</name>
     <description><![CDATA[<div dir="ltr">Convenience store 24/7</div>]]></description>
     <styleUrl>#style673</styleUrl>
@@ -1308,7 +1226,6 @@
     </Point>
   </Placemark>
   <Placemark>
->>>>>>> master
     <name>Electronic store and mobiles</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style674</styleUrl>
@@ -1357,8 +1274,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-=======
     <name>World of Smartphones</name>
     <description><![CDATA[<div dir="ltr">Offers repair for all sorts of smartphones, smartphones02@gmail.com, 0508240615</div>]]></description>
     <styleUrl>#style674</styleUrl>
@@ -1367,7 +1282,6 @@
     </Point>
   </Placemark>
   <Placemark>
->>>>>>> master
     <name>Al Lith resort</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style675</styleUrl>
@@ -1448,17 +1362,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-    <name>Jeddah International Markets</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style677</styleUrl>
-    <Point>
-      <coordinates>39.1707230,21.5583970,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-=======
->>>>>>> master
     <name>Toyota car dealer</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style677</styleUrl>
@@ -1484,11 +1387,7 @@
   </Placemark>
   <Placemark>
     <name>IKEA</name>
-<<<<<<< HEAD
-    <description><![CDATA[<div dir="ltr">P.O.Box 8054, Jeddah 21482 – Saudi Arabia Phone: +966 2 6633000&lt;br&gt;Saturday to Thursday: 10:00 – 24:00 Friday: 16:00 – 24:00 Special opening hours in Ramadan and EID</div>]]></description>
-=======
     <description><![CDATA[<div dir="ltr">P.O.Box 8054, Jeddah 21482 – Saudi Arabia Phone: +966 2 6633000 Saturday to Thursday: 10:00 – 24:00 Friday: 16:00 – 24:00 Special opening hours in Ramadan and EID</div>]]></description>
->>>>>>> master
     <styleUrl>#style679</styleUrl>
     <Point>
       <coordinates>39.1832770,21.5571190,0.0000000</coordinates>
@@ -1535,8 +1434,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-=======
     <name>DFSH - Dr. Soliman Fakeeh Hospital</name>
     <description><![CDATA[<div dir="ltr">012 6655000</div>]]></description>
     <styleUrl>#style683</styleUrl>
@@ -1545,16 +1442,11 @@
     </Point>
   </Placemark>
   <Placemark>
->>>>>>> master
     <name>IMC - International Medical Center Jeddah</name>
     <description><![CDATA[<div dir="ltr">PO Box: 2172 Jeddah: 21451 Phone: +966 2 650 9000 Fax: +966 2 653 5045 E-mail: imcinfo@imc.med.sa</div>]]></description>
     <styleUrl>#style683</styleUrl>
     <Point>
-<<<<<<< HEAD
-      <coordinates>39.1842860,21.5134580,0.0000000</coordinates>
-=======
       <coordinates>39.1740600,21.5134800,0.0000000</coordinates>
->>>>>>> master
     </Point>
   </Placemark>
   <Placemark>
@@ -1623,11 +1515,7 @@
   </Placemark>
   <Placemark>
     <name>Wheels</name>
-<<<<<<< HEAD
-    <description><![CDATA[<div dir="ltr">Sari str, Carries TREK - Sam Abalos (WHEELS) Tel:026981302 Cell:0508691557 (open 09:30-12:00 and 16:30-00:00 from a phone call)&lt;br&gt;&lt;br&gt;Note that the roundabout the map shows West is here has been replaced with an overpass along Sari Street. To get to Wheels you need to approach from East and NOT go on the overpass.</div>]]></description>
-=======
     <description><![CDATA[<div dir="ltr">Sari str, Carries TREK - Sam Abalos (WHEELS) Tel:026981302 Cell:0508691557 (open 09:30-12:00 and 16:30-00:00 from a phone call) overpass along Sari Street. To get to Wheels you need to approach from East and NOT go on the overpass.</div>]]></description>
->>>>>>> master
     <styleUrl>#style691</styleUrl>
     <Point>
       <coordinates>39.1452940,21.5757390,0.0000000</coordinates>
@@ -1770,8 +1658,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-=======
     <name>Serafi Mall</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style694</styleUrl>
@@ -1780,7 +1666,6 @@
     </Point>
   </Placemark>
   <Placemark>
->>>>>>> master
     <name>Stars Avenue Mall</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style694</styleUrl>
@@ -1861,35 +1746,11 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-    <name>Black volcano</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style698</styleUrl>
-    <Point>
-      <coordinates>39.9136230,25.7041090,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Historic Well</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style698</styleUrl>
-    <Point>
-      <coordinates>38.5534150,27.6347530,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Mastorah Dunes</name>
-    <description><![CDATA[<div dir="ltr">Thanks, Greg Wickham</div>]]></description>
-    <styleUrl>#style698</styleUrl>
-    <Point>
-      <coordinates>38.8017940,23.6885470,0.0000000</coordinates>
-=======
     <name>Elephant rock</name>
     <description><![CDATA[<div dir="ltr">Thanks, Greg Wickham</div>]]></description>
     <styleUrl>#style698</styleUrl>
     <Point>
       <coordinates>37.9799389,26.6896611,0.0000000</coordinates>
->>>>>>> master
     </Point>
   </Placemark>
   <Placemark>
@@ -1901,49 +1762,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-    <name>Near the highest point</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style698</styleUrl>
-    <Point>
-      <coordinates>42.3612290,18.2914710,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Top of cliff</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style698</styleUrl>
-    <Point>
-      <coordinates>42.8720130,18.0386350,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>View to Makkah</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style698</styleUrl>
-    <Point>
-      <coordinates>40.2851100,21.3202320,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Wahba crater</name>
-    <description><![CDATA[<div dir="ltr">The pin is at the white hut from which the trail down begins</div>]]></description>
-    <styleUrl>#style698</styleUrl>
-    <Point>
-      <coordinates>41.1306820,22.9064970,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>White volcano</name>
-    <description><![CDATA[<div dir="ltr">Thanks, Greg Wickham</div>]]></description>
-    <styleUrl>#style698</styleUrl>
-    <Point>
-      <coordinates>39.9356820,25.6607920,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-=======
->>>>>>> master
     <name>Madain Saleh</name>
     <description><![CDATA[<div dir="ltr">Access here is restricted. See, for example http://kcomm.wikispaces.com/Day+Trips for info on how to get permits.]</div>]]></description>
     <styleUrl>#style699</styleUrl>
@@ -1968,19 +1786,11 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-    <name>Pharmacy</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style700</styleUrl>
-    <Point>
-      <coordinates>39.1131900,22.2876130,0.0000000</coordinates>
-=======
     <name>Al Wazir Pharmacy</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style700</styleUrl>
     <Point>
       <coordinates>39.0815916,22.4024833,0.0000000</coordinates>
->>>>>>> master
     </Point>
   </Placemark>
   <Placemark>
@@ -2009,11 +1819,7 @@
   </Placemark>
   <Placemark>
     <name>Car wash</name>
-<<<<<<< HEAD
-    <description><![CDATA[<div dir="ltr">SAR 20. They use high pressure hoses, cloth and lots of soap</div>]]></description>
-=======
     <description><![CDATA[<div dir="ltr">SAR 20. They use high pressure hoses, cloth and lots of soap. I tried to haggle for a car wash but after I came back, the car was still unwashed. Perhaps someone with good command of arabic will have more luck. -Juho</div>]]></description>
->>>>>>> master
     <styleUrl>#style702</styleUrl>
     <Point>
       <coordinates>39.1157070,22.2875160,0.0000000</coordinates>
@@ -2068,8 +1874,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-=======
     <name>Juffali mosque</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style707</styleUrl>
@@ -2078,7 +1882,6 @@
     </Point>
   </Placemark>
   <Placemark>
->>>>>>> master
     <name>Alsamlagui ancient dam</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style708</styleUrl>
@@ -2087,8 +1890,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-=======
     <name>An Bint Dam</name>
     <description><![CDATA[<div dir="ltr">Thanks, Greg Wickham</div>]]></description>
     <styleUrl>#style708</styleUrl>
@@ -2113,7 +1914,6 @@
     </Point>
   </Placemark>
   <Placemark>
->>>>>>> master
     <name>Cable car</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style709</styleUrl>
@@ -2202,8 +2002,6 @@
     </Point>
   </Placemark>
   <Placemark>
-<<<<<<< HEAD
-=======
     <name>Dhi Ain, archaeological village</name>
     <description><![CDATA[<div dir="ltr">Also known as Marble Village, thanks to Greg</div>]]></description>
     <styleUrl>#style713</styleUrl>
@@ -2212,7 +2010,6 @@
     </Point>
   </Placemark>
   <Placemark>
->>>>>>> master
     <name>Rural village</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style713</styleUrl>
@@ -2231,17 +2028,11 @@
   <Placemark>
     <name>Suzuki dealership</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
-<<<<<<< HEAD
-    <styleUrl>#style72</styleUrl>
-=======
     <styleUrl>#style715</styleUrl>
->>>>>>> master
     <Point>
       <coordinates>39.1764942,21.5876501,0.0000000</coordinates>
     </Point>
   </Placemark>
-<<<<<<< HEAD
-=======
   <Placemark>
     <name>Jeddah Fish market</name>
     <description><![CDATA[<div dir="ltr">Daily hassle over the morning's catch</div>]]></description>
@@ -2386,6 +2177,5 @@
       <coordinates>42.1343700,21.1450300,0.0000000</coordinates>
     </Point>
   </Placemark>
->>>>>>> master
 </Document>
 </kml>

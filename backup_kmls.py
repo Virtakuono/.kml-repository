@@ -3,25 +3,15 @@
 import sys
 import os
 import cgi
-<<<<<<< HEAD
-=======
 import urllib2
 import datetime
 import time
 import mgrs
->>>>>>> master
 
 class POIStyle():
 
     def __init__(self,ID=684,icon='generic',type='N/A'):
         self.id = ID
-<<<<<<< HEAD
-        self.type = type
-        self.icon = '%s.png'%(icon,)
-
-    def __str__(self):
-        rv = '        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/%s</href>\n'%(self.icon,)
-=======
         self.ttype = type
         self.icon = '%s.png'%(icon,)
 
@@ -30,14 +20,11 @@ class POIStyle():
 
     def __str__(self):
         rv = '        <href>%s</href>\n'%(self.iconUrl(),)
->>>>>>> master
         rv = '      <Icon>\n%s      </Icon>\n'%(rv,)
         rv = '    <IconStyle>\n%s    </IconStyle>\n'%(rv,)
         rv = '  <Style id=\"style%d\">\n%s  </Style>\n'%(self.id,rv)
         return rv
 
-<<<<<<< HEAD
-=======
     def osmIconType(self):
         return 'iconType%d'%(self.id,)
 
@@ -46,26 +33,15 @@ class POIStyle():
         rv = '   var %s = L.icon({\n   iconUrl: \'%s\',\n   iconSize: [32,37],\n   iconAnchor: [16,37],\n   popupAnchor: [0,-20]\n   });\n'%(self.osmIconType(),self.iconUrl())
         return rv
 
->>>>>>> master
 class POI():
 
     def __init__(self,name='POI',desc='N/A',lat=0.0,lon=0.0,type=POIStyle()):
         self.name = name
-<<<<<<< HEAD
-        self.type = type
-=======
         self.ttype = type
->>>>>>> master
         self.lat = lat
         self.lon = lon
         self.desc = desc
 
-<<<<<<< HEAD
-    def __str__(self):
-        rv = '      <coordinates>%.7f,%.7f,%.7f</coordinates>\n'%(self.lon,self.lat,0.0)
-        rv = '    <Point>\n%s    </Point>\n'%(rv,)
-        rv = '    <styleUrl>#style%d</styleUrl>\n%s'%(self.type.id,rv)
-=======
     def osmUrl(self):
         return 'http://www.openstreetmap.org/?mlat=%.7f&mlon=%.7f&zoom=12&layers=M'%(self.lat,self.lon)
 
@@ -79,18 +55,11 @@ class POI():
         rv = '      <coordinates>%.7f,%.7f,%.7f</coordinates>\n'%(self.lon,self.lat,0.0)
         rv = '    <Point>\n%s    </Point>\n'%(rv,)
         rv = '    <styleUrl>#style%d</styleUrl>\n%s'%(self.ttype.id,rv)
->>>>>>> master
         rv = '    <description><![CDATA[<div dir=\"ltr\">%s</div>]]></description>\n%s'%(cgi.escape(self.desc),rv)
         rv = '    <name>%s</name>\n%s'%(cgi.escape(self.name),rv)
         rv = '  <Placemark>\n%s  </Placemark>\n'%(rv,)
         return rv
 
-<<<<<<< HEAD
-class POISet():
-    
-    def __init__(self,name='JeddahPOIs'):
-        filename = '%s_styles.tsv'%(name,)
-=======
     def lmxstr(self):
         rv = '  <lm:landmark>\n'
         rv += '    <lm:name>%s</lm:name>\n'%(cgi.escape(self.name),)
@@ -150,43 +119,29 @@ class POISet():
         self.desc = desc
         self.filename = filename
         filename = '%s_styles.tsv'%(self.filename,)
->>>>>>> master
         file = open(filename)
         lines = file.readlines()
         file.close()
         self.styles = [POIStyle(ID=foo) for foo in range(1,1501)]
         for line in lines:
-<<<<<<< HEAD
-            line = line[:-1]
-            id = int(line[:line.find('\t')])
-=======
             if line[-1] == '\n':
                 line = line[:-1]
                 id = int(line[:line.find('\t')])
->>>>>>> master
             line = line[line.find('\t')+1:]
             type = line[:line.find('\t')]
             line = line[line.find('\t')+1:]
             filename = line
             style = POIStyle(ID=id,icon=filename,type=type)
             self.styles[style.id] = style
-<<<<<<< HEAD
-        filename = '%s.tsv'%(name,)
-=======
         filename = '%s.tsv'%(self.filename,)
->>>>>>> master
         file = open(filename)
         lines = file.readlines()
         file.close()
         lines = lines[1:]
         self.POIs = []
         for line in lines:
-<<<<<<< HEAD
-            line = line[:-1]
-=======
             if line[-1] == '\n':
                 line = line[:-1]
->>>>>>> master
             name = line[:line.find('\t')]
             line = line[line.find('\t')+1:]
             desc = line[:line.find('\t')]
@@ -200,26 +155,16 @@ class POISet():
             self.POIs.append(POI(name=name,desc=desc,lat=lat,lon=lon,type=self.styles[id]))
         effstyles = []
         for poi in self.POIs:
-<<<<<<< HEAD
-            if poi.type not in effstyles:
-                effstyles.append(poi.type)
-=======
             if poi.ttype not in effstyles:
                 effstyles.append(poi.ttype)
->>>>>>> master
         self.styles = effstyles
 
     def __str__(self,):
         rv = '<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n'
         rv += '<kml xmlns=\"http://earth.google.com/kml/2.2\">\n'
         rv += '<Document>\n'
-<<<<<<< HEAD
-        rv += '  <name>Points of Interest in and near Jeddah, Kingdom of Saudi Arabia</name>\n'
-        rv += '  <description><![CDATA[See detailed info at https://github.com/Virtakuono/.kml-repository]]></description>\n'
-=======
         rv += '  <name>%s</name>\n'%(self.name,)
         rv += '  <description><![CDATA[%s]]></description>\n'%(self.desc,)
->>>>>>> master
         for style in self.styles:
             rv += style.__str__()
         for POI in self.POIs:
@@ -228,8 +173,6 @@ class POISet():
         rv += '</kml>\n'
         return rv
 
-<<<<<<< HEAD
-=======
     def osmhtmlstr(self,):
         rv = '<!DOCTYPE html>\n'
         rv += '<html>\n'
@@ -289,14 +232,11 @@ class POISet():
         rv += '</lm:lmx>\n'
         return rv
 
->>>>>>> master
     def writekml(self,fn='JeddahPOIs.kml'):
         file = open(fn,'w')
         file.writelines(self.__str__())
         file.close()
 
-<<<<<<< HEAD
-=======
     def writelmx(self,fn='JeddahPOIs.lmx'):
         file = open(fn,'w')
         file.writelines([self.lmxstr(),])
@@ -327,7 +267,6 @@ class POISet_rectangle(POISet):
         self.styles = effstyles
         
 
->>>>>>> master
 class trackedMap():
     
     def __init__(self,name,url,filename):
@@ -341,15 +280,6 @@ def main():
     os.system('wget -q -O JeddahPOIs.tsv \"https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/export?hl=en&exportFormat=tsv\"')
     os.system('wget -q -O JeddahPOIs_styles.tsv \"https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/export?hl=en&exportFormat=tsv&gid=1132721881\"')
     print('Done.')
-<<<<<<< HEAD
-    print('Generating kml file...')
-    poiSet = POISet()
-    os.system('cp ./JeddahPOIs.kml ./JeddahPOIs_old.kml')
-    poiSet.writekml()
-    print('Done.')
-    print('Difference between old and new kml file:')
-    os.system('diff ./JeddahPOIs.kml ./JeddahPOIs_old.kml')
-=======
     print('Generating kml and lmx files...')
     poiSet = POISet()
     os.system('cp ./JeddahPOIs.kml ./JeddahPOIs_old.kml')
@@ -372,7 +302,6 @@ def main():
         smObject = POISet_rectangle(mastermap=poiSet,minlat=foo[1][0],maxlat=foo[1][1],minlon=foo[1][2],maxlon=foo[1][3],name=smName,desc=smDesc)
         smObject.writekml(fn = smFilename)
     print('Done.')
->>>>>>> master
     
     trackedMaps = [trackedMap('Jeddah: Interested locations','https://maps.google.com/maps/ms?dg=feature&ie=UTF8&authuser=0&msa=0&output=kml&msid=203555040976874160945.0004cf9d6a73b19256e5f','JeddahInterestedLocations')]
     trackedMaps += [trackedMap('Jeddah Shopping','https://maps.google.com/maps/ms?ie=UTF8&t=h&dg=feature&authuser=0&msa=0&output=kml&msid=203537519255214459478.0004863c2f62b04789ee3','JeddahShopping')]
