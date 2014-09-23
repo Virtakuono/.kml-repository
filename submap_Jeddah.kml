@@ -248,6 +248,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style724">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/statue-2.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Avail Hotel and Suite</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -529,6 +536,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Shwarma Booth</name>
+    <description><![CDATA[<div dir="ltr">4 SAR for a shwarma, 3 SAR for falafel</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.1828417,21.4857917,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Spears</name>
     <description><![CDATA[<div dir="ltr">A brazilian restaurant</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -790,6 +805,14 @@
     <styleUrl>#style674</styleUrl>
     <Point>
       <coordinates>39.2041320,21.5632670,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>World of Smartphones</name>
+    <description><![CDATA[<div dir="ltr">Offers repair for all sorts of smartphones, smartphones02@gmail.com, 0508240615</div>]]></description>
+    <styleUrl>#style674</styleUrl>
+    <Point>
+      <coordinates>39.1642611,21.6230639,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1206,6 +1229,46 @@
     <styleUrl>#style722</styleUrl>
     <Point>
       <coordinates>39.1902750,21.4913556,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bicycle monument</name>
+    <description><![CDATA[<div dir="ltr">In the roundabout</div>]]></description>
+    <styleUrl>#style724</styleUrl>
+    <Point>
+      <coordinates>39.1835250,21.5683833,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Compass monument</name>
+    <description><![CDATA[<div dir="ltr">In the roundabout</div>]]></description>
+    <styleUrl>#style724</styleUrl>
+    <Point>
+      <coordinates>39.1873389,21.5865833,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Flying carpet monument</name>
+    <description><![CDATA[<div dir="ltr">In the roundabout</div>]]></description>
+    <styleUrl>#style724</styleUrl>
+    <Point>
+      <coordinates>39.1094583,21.6232306,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fountain monument</name>
+    <description><![CDATA[<div dir="ltr">In the roundabout</div>]]></description>
+    <styleUrl>#style724</styleUrl>
+    <Point>
+      <coordinates>39.1868944,21.4901750,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pinball monument</name>
+    <description><![CDATA[<div dir="ltr">In the roundabout</div>]]></description>
+    <styleUrl>#style724</styleUrl>
+    <Point>
+      <coordinates>39.1769139,21.5849056,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>
