@@ -1084,6 +1084,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Western Union</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.618003</lm:latitude>
+      <lm:longitude>39.178313</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Checkpoint</lm:name>
     <lm:coordinates>
       <lm:latitude>21.798895</lm:latitude>

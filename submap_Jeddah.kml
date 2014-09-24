@@ -976,6 +976,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Western Union</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style688</styleUrl>
+    <Point>
+      <coordinates>39.1783132,21.6180032,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Checkpoint</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style689</styleUrl>
