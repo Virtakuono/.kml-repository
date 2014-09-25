@@ -96,6 +96,7 @@ class POI():
 
     def osmhtmlstr(self):
         rv = '   L.marker([%.7f, %.7f],{icon: %s}).addTo(map).bindPopup(\"<b>%s</b><br />%s<br />Coordinates: (%.7f, %.7f)<br /><a href=\\"%s\\">OSM</a>, <a href=\\"%s\\">Google Maps</a>, <a href=\\"%s\\">Bing</a>\");\n'%(self.lat,self.lon,self.ttype.osmIconType(),self.name,self.desc,self.lat,self.lon,self.osmUrl(),self.gmapUrl(),self.bingUrl())
+        rv = '   L.marker([%.7f, %.7f],{icon: %s}).bindPopup(\"<b>%s</b><br />%s<br />Coordinates: (%.7f, %.7f)<br /><a href=\\"%s\\">OSM</a>, <a href=\\"%s\\">Google Maps</a>, <a href=\\"%s\\">Bing</a>\").addTo(poilist);\n'%(self.lat,self.lon,self.ttype.osmIconType(),self.name,self.desc,self.lat,self.lon,self.osmUrl(),self.gmapUrl(),self.bingUrl())
         return rv
 
     def mdstr(self):
@@ -174,6 +175,37 @@ class POISet():
         return rv
 
     def osmhtmlstr(self,):
+
+        layers = []
+
+        p = {}
+        p['id'] = 'OSM'
+        p['name'] = 'OpenStreetMap: Mapnik'
+        p['attr'] = 'Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, '
+        p['attr'] += '<a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>,'
+        p['attr'] += 'Imagery &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a>'
+        p['url'] = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
+        layers.append(p)
+
+        p2 = {}
+        p2['id'] = 'OSM2'
+        p2['name'] = 'OpenStreetMap: Hydda'
+        p2['attr'] = 'Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, '
+        p2['attr'] += '<a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>,'
+        p2['attr'] += 'Imagery &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap Sweden</a>'
+        p2['url'] = 'http://{s}.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png'
+        layers.append(p2)
+
+        p3 = {}
+        p3['id'] = 'OCM'
+        p3['name'] = 'OpenCycleMap: ThunderForest'
+        p3['attr'] = 'Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, '
+        p3['attr'] += '<a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>,'
+        p3['attr'] += 'Imagery &copy; <a href=\"http://opencyclemap.org\">OpenCycleMap</a>'
+        p3['url'] = 'http://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png'
+        layers.append(p3)
+
+
         rv = '<!DOCTYPE html>\n'
         rv += '<html>\n'
         rv += '<head>\n'
@@ -184,24 +216,51 @@ class POISet():
         rv += '  <link rel=\"stylesheet\" href=\"https://rawgit.com/Virtakuono/.kml-repository/master/leaflet-0.7.3/leaflet.css\" />\n'
         rv += '  <link rel=\"stylesheet\" href=\"https://rawgit.com/Virtakuono/.kml-repository/master/screen.css\" />'
         rv += '  <script src=\"https://rawgit.com/Virtakuono/.kml-repository/master/leaflet-0.7.3/leaflet.js\"></script>\n'
-        rv += '  <script>\n'
-        rv += '   MB_ATTR = \'Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, \' +\n'
-        rv += '    \'<a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, \' +\n'
-        rv += '    \'Imagery &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a>\';\n'
-        rv += '   OSM_URL = \'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png\';\n'
-        rv += '   OSM_ATTRIB = \'&copy; <a href=\"http://openstreetmap.org/copyright\">OpenStreetMap</a> contributors\';\n'
-        rv += '  </script>\n'
         rv += '</head>\n'
         rv += '<body>\n'
         rv += '  <div class=\"container\">\n'
         rv += '  <div id=\"map\" class=\"map\" style=\"height: %dem\"></div>\n'%(35,)
         rv += '  <script>\n'
-        rv += '   var map = L.map(\'map\').setView([%.7f, %.7f], %d);\n'%(self.centerPoint()[0],self.centerPoint()[1],6)
+        counter = 1
+        rv += '   var poilist = new L.layerGroup();\n'
         for style in self.styles:
             rv += style.osmhtmlstr()
+            rv += '\n'
+            
+        rv += '\n\n\n'
+
         for poi in self.POIs:
             rv += poi.osmhtmlstr()
-        rv += '   L.tileLayer(OSM_URL, {attribution: MB_ATTR, id: \'examples.map-i86knfo3\'}).addTo(map);\n'
+            rv += '\n'
+            counter += 1
+
+        rv += '\n\n\n'
+
+        for foo in layers:
+            rv += '   var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\'});\n'%(foo['id'],foo['url'],foo['id'],foo['attr'])
+        layerList = '[%s, %s]'%(layers[0]['id'],'poilist')
+        
+        mapStr = '   var map = L.map(\'map\', {\n'
+        mapStr += '       center: [%f, %f],\n'%(self.centerPoint()[0],self.centerPoint()[1])
+        mapStr += '       zoom: %d,\n'%(6,)
+        mapStr += '       layers: %s'%(layerList,)
+        mapStr += '   });\n\n'
+        
+
+
+        rv += mapStr
+
+        baseMapStr = '   var baseMaps = {\n'
+        for foo in layers:
+            baseMapStr += '     \"%s\": %s,\n'%(foo['name'],foo['id'])
+        baseMapStr = '%s\n'%(baseMapStr[:-2])
+        baseMapStr += '     };\n\n'
+        
+
+        rv += baseMapStr
+
+        rv += '   var overlayMaps = {\n          \"POIs\": poilist\n          };\n\n'
+        rv += '   L.control.layers(baseMaps,overlayMaps).addTo(map);\n\n\n'
         rv += '  </script>\n'
         rv += '  <h2 id="main-head">%s</h2>\n'%('Points of interest in and near Jeddah, KSA',)
         rv += '  <p>For credits, instructions to contributing etc. see <a href=\"https://rawgit.com/Virtakuono/.kml-repository/master/redir.htm\" target=\"_blank\">the project page on github</a>. Data based on contributions made through <a href=\"https://rawgit.com/Virtakuono/.kml-repository/master/redir2.htm\" target=\"_blank\">google spreadsheets</a>. If the map above refuses to load, try reloading or <a href=\"https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml\" target=\"_blank\">google maps</a>.</p>\n'
@@ -210,6 +269,7 @@ class POISet():
         for poi in self.POIs:
             rv += poi.osmhtmlliststr(ordinal)
             ordinal += 1
+            rv += '\n'
         nI = datetime.datetime.now()
         rv += '  <p>Page generated on %s</p>\n'%(self.nowString(),)
         rv += '  </div>\n'
