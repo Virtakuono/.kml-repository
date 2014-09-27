@@ -222,15 +222,17 @@ class POISet():
         layers.append(p4)
 
         p5 = copy.deepcopy(p4)
-        p5['id'] = 'Here Satellite'
+        p5['id'] = 'HEREE'
+        p5['name'] = 'HERE Satellite'
         p5['url'] = 'http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/satellite.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}'
-        p5['code'] = 'var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\', subdomains: \'1234\', mapID: \'newest\', app_id: \'%s\', app_code: \'%s\', base: \'base\', minZoom: 0, maxZoom: 20});\n\n'%(p5['id'],p5['url'],p5['id'],p5['attr'],p5['appid'],p5['appcode'])
+        p5['code'] = 'var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\', subdomains: \'1234\', mapID: \'newest\', app_id: \'%s\', app_code: \'%s\', base: \'aerial\', minZoom: 0, maxZoom: 20});\n\n'%(p5['id'],p5['url'],p5['id'],p5['attr'],p5['appid'],p5['appcode'])
         layers.append(p5)
 
         p6 = copy.deepcopy(p5)
-        p5['id'] = 'Here Hybrid'
-        p5['url'] = 'http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}'
-        p5['code'] = 'var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\', subdomains: \'1234\', mapID: \'newest\', app_id: \'%s\', app_code: \'%s\', base: \'base\', minZoom: 0, maxZoom: 20});\n\n'%(p6['id'],p6['url'],p6['id'],p6['attr'],p6['appid'],p6['appcode'])
+        p6['id'] = 'HEREF'
+        p6['name'] = 'HERE Hybrid'
+        p6['url'] = 'http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}'
+        p6['code'] = 'var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\', subdomains: \'1234\', mapID: \'newest\', app_id: \'%s\', app_code: \'%s\', base: \'aerial\', minZoom: 0, maxZoom: 20});\n\n'%(p6['id'],p6['url'],p6['id'],p6['attr'],p6['appid'],p6['appcode'])
         layers.append(p6)
 
 
