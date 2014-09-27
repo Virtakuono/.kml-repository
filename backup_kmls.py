@@ -210,6 +210,17 @@ class POISet():
         p3['code'] = codefun(p3)
         layers.append(p3)
 
+
+        p4 = {}
+        p4['id'] = 'HERED'
+        p4['name'] = 'HERE Street map'
+        p4['attr'] = 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>'
+        p4['appid'] = 'NsbBYO9x9J3Ur21k1j8j'
+        p4['appcode'] = 'p4GtVh8OBdi4zgGXw6RXCQ'
+        p4['url'] =  'http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/normal.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}'
+        p4['code'] = 'var %s = L.tilelayer(\'%s\', {id: \'%s\', attribution: \'%s\', subdomains: \'1234\', mapID: \'newest\', app_id: \'%s\', app_code: \'%s\', base: \'base\', minZoom: 0, maxZoom: 20});\n\n'%(p4['id'],p4['url'],p4['id'],p4['attr'],p4['appid'],p4['appcode'])
+        layers.append(p4)
+
         print(layers)
 
         rv = '<!DOCTYPE html>\n'
