@@ -246,7 +246,7 @@ class POISet():
         rv += '  <link rel=\"stylesheet\" href=\"https://rawgit.com/Virtakuono/.kml-repository/master/leaflet-0.7.3/leaflet.css\" />\n'
         rv += '  <link rel=\"stylesheet\" href=\"https://rawgit.com/Virtakuono/.kml-repository/master/screen.css\" />\n'
         rv += '  <script src=\"https://rawgit.com/Virtakuono/.kml-repository/master/leaflet-0.7.3/leaflet.js\"></script>\n'
-        rv += '  <script src=\"https://rawgit.com/Virtakuono/.kml-repository/providers/leaflet-0.7.3/providers/leaflet-providers.js\"></script>\n'
+        rv += '  <script src=\"https://rawgit.com/Virtakuono/.kml-repository/master/leaflet-0.7.3/providers/leaflet-providers.js\"></script>\n'
         rv += '</head>\n'
         rv += '<body>\n'
         rv += '  <div class=\"container\">\n'
