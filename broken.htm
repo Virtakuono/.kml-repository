@@ -7,8 +7,8 @@
   <link href="http://leafletjs.com/atom.xml" type="application/atom+xml" rel="alternate" title="Leaflet Dev Blog Atom Feed" />
   <link rel="stylesheet" href="https://rawgit.com/Virtakuono/.kml-repository/master/leaflet-0.7.3/leaflet.css" />
   <link rel="stylesheet" href="https://rawgit.com/Virtakuono/.kml-repository/master/screen.css" />
-  <script src="https://rawgit.com/Virtakuono/.kml-repository/providers/leaflet-0.7.3/providers/leaflet-providers.js"></script>
   <script src="https://rawgit.com/Virtakuono/.kml-repository/master/leaflet-0.7.3/leaflet.js"></script>
+  <script src="https://rawgit.com/Virtakuono/.kml-repository/providers/leaflet-0.7.3/providers/leaflet-providers.js"></script>
 </head>
 <body>
   <div class="container">
@@ -869,12 +869,13 @@
    L.marker([21.1450300, 42.1343700],{icon: iconType728}).bindPopup("<b>Hibashi Cave</b><br />Thanks, Aya Rae<br />Coordinates: (21.1450300, 42.1343700)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.1450300&mlon=42.1343700&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.145030,42.1343700\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.14503000~42.13437000&lvl=16&dir=0&sty=c&sp=point.21.14503000_42.13437000_Hibashi%20Cave\">Bing</a>").addTo(poilist);
 
 
-   var OSM = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {id: 'OSM', attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>,Imagery &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>'});
-   var OSM2 = L.tileLayer('http://{s}.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png', {id: 'OSM2', attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>,Imagery &copy; <a href="http://openstreetmap.org">OpenStreetMap Sweden</a>'});
-   var OCM = L.tileLayer('http://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png', {id: 'OCM', attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>,Imagery &copy; <a href="http://opencyclemap.org">OpenCycleMap</a>'});
 
 
    var OSM = L.tilelayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {id: 'OSM', attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>,Imagery &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>'});
+
+   var OSM2 = L.tilelayer('http://{s}.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png', {id: 'OSM2', attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>,Imagery &copy; <a href="http://openstreetmap.org">OpenStreetMap Sweden</a>'});
+
+   var OCM = L.tilelayer('http://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png', {id: 'OCM', attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>,Imagery &copy; <a href="http://opencyclemap.org">OpenCycleMap</a>'});
 
    var map = L.map('map', {
        center: [21.777041, 39.697425],
@@ -1564,7 +1565,7 @@
    <p>222. Hibashi Cave - Thanks, Aya Rae - 
    21.14503000 &deg; N, 42.13437000 &deg; E - 38QKJ0237540885 -   <a href="http://www.openstreetmap.org/?mlat=21.1450300&mlon=42.1343700&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=21.145030,42.1343700">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=21.14503000~42.13437000&lvl=16&dir=0&sty=c&sp=point.21.14503000_42.13437000_Hibashi%20Cave">Bing</a></p>
 
-  <p>Page generated on 2014-09-27 16:39+0300</p>
+  <p>Page generated on 2014-09-27 16:59+0300</p>
   </div>
 </body>
 </html>
