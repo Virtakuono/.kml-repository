@@ -7,6 +7,7 @@ import urllib2
 import datetime
 import time
 import mgrs
+import copy
 
 class POIStyle():
 
@@ -210,7 +211,6 @@ class POISet():
         p3['code'] = codefun(p3)
         layers.append(p3)
 
-
         p4 = {}
         p4['id'] = 'HERED'
         p4['name'] = 'HERE Street map'
@@ -221,7 +221,18 @@ class POISet():
         p4['code'] = 'var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\', subdomains: \'1234\', mapID: \'newest\', app_id: \'%s\', app_code: \'%s\', base: \'base\', minZoom: 0, maxZoom: 20});\n\n'%(p4['id'],p4['url'],p4['id'],p4['attr'],p4['appid'],p4['appcode'])
         layers.append(p4)
 
-        print(layers)
+        p5 = copy.deepcopy(p4)
+        p5['id'] = 'Here Satellite'
+        p5['url'] = 'http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/satellite.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}'
+        p5['code'] = 'var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\', subdomains: \'1234\', mapID: \'newest\', app_id: \'%s\', app_code: \'%s\', base: \'base\', minZoom: 0, maxZoom: 20});\n\n'%(p5['id'],p5['url'],p5['id'],p5['attr'],p5['appid'],p5['appcode'])
+        layers.append(p5)
+
+        p6 = copy.deepcopy(p5)
+        p5['id'] = 'Here Hybrid'
+        p5['url'] = 'http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}'
+        p5['code'] = 'var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\', subdomains: \'1234\', mapID: \'newest\', app_id: \'%s\', app_code: \'%s\', base: \'base\', minZoom: 0, maxZoom: 20});\n\n'%(p6['id'],p6['url'],p6['id'],p6['attr'],p6['appid'],p6['appcode'])
+        layers.append(p6)
+
 
         rv = '<!DOCTYPE html>\n'
         rv += '<html>\n'
@@ -255,7 +266,6 @@ class POISet():
         rv += '\n\n\n'
 
         for foo in layers:
-            print(foo['code'])
             rv += '   %s'%(foo['code'],)
         layerList = '[%s, %s]'%(layers[0]['id'],'poilist')
         

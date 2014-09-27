@@ -879,6 +879,10 @@
 
    var HERED = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/normal.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HERED', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'base', minZoom: 0, maxZoom: 20});
 
+   var Here Satellite = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/satellite.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'Here Satellite', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'base', minZoom: 0, maxZoom: 20});
+
+   var Here Satellite = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/satellite.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'Here Satellite', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'base', minZoom: 0, maxZoom: 20});
+
    var map = L.map('map', {
        center: [21.777041, 39.697425],
        zoom: 6,
@@ -888,7 +892,9 @@
      "OpenStreetMap: Mapnik": OSM,
      "OpenStreetMap: Hydda": OSM2,
      "OpenCycleMap: ThunderForest": OCM,
-     "HERE Street map": HERED
+     "HERE Street map": HERED,
+     "HERE Street map": Here Hybrid,
+     "HERE Street map": Here Satellite
      };
 
    var overlayMaps = {
@@ -1568,7 +1574,7 @@
    <p>222. Hibashi Cave - Thanks, Aya Rae - 
    21.14503000 &deg; N, 42.13437000 &deg; E - 38QKJ0237540885 -   <a href="http://www.openstreetmap.org/?mlat=21.1450300&mlon=42.1343700&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=21.145030,42.1343700">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=21.14503000~42.13437000&lvl=16&dir=0&sty=c&sp=point.21.14503000_42.13437000_Hibashi%20Cave">Bing</a></p>
 
-  <p>Page generated on 2014-09-27 18:04+0300</p>
+  <p>Page generated on 2014-09-27 18:18+0300</p>
   </div>
 </body>
 </html>
