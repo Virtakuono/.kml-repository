@@ -7,6 +7,7 @@ import urllib2
 import datetime
 import time
 import mgrs
+import copy
 
 class POIStyle():
 
@@ -178,6 +179,8 @@ class POISet():
 
         layers = []
 
+        codefun = lambda foo:  'var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\'});\n\n'%(foo['id'],foo['url'],foo['id'],foo['attr'])
+
         p = {}
         p['id'] = 'OSM'
         p['name'] = 'OpenStreetMap: Mapnik'
@@ -185,6 +188,7 @@ class POISet():
         p['attr'] += '<a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>,'
         p['attr'] += 'Imagery &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a>'
         p['url'] = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
+        p['code'] = codefun(p)
         layers.append(p)
 
         p2 = {}
@@ -194,6 +198,7 @@ class POISet():
         p2['attr'] += '<a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>,'
         p2['attr'] += 'Imagery &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap Sweden</a>'
         p2['url'] = 'http://{s}.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png'
+        p2['code'] = codefun(p2)
         layers.append(p2)
 
         p3 = {}
@@ -203,7 +208,32 @@ class POISet():
         p3['attr'] += '<a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>,'
         p3['attr'] += 'Imagery &copy; <a href=\"http://opencyclemap.org\">OpenCycleMap</a>'
         p3['url'] = 'http://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png'
+        p3['code'] = codefun(p3)
         layers.append(p3)
+
+        p4 = {}
+        p4['id'] = 'HERED'
+        p4['name'] = 'HERE Street map'
+        p4['attr'] = 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>'
+        p4['appid'] = 'NsbBYO9x9J3Ur21k1j8j'
+        p4['appcode'] = 'p4GtVh8OBdi4zgGXw6RXCQ'
+        p4['url'] =  'http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/normal.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}'
+        p4['code'] = 'var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\', subdomains: \'1234\', mapID: \'newest\', app_id: \'%s\', app_code: \'%s\', base: \'base\', minZoom: 0, maxZoom: 20});\n\n'%(p4['id'],p4['url'],p4['id'],p4['attr'],p4['appid'],p4['appcode'])
+        layers.append(p4)
+
+        p5 = copy.deepcopy(p4)
+        p5['id'] = 'HEREE'
+        p5['name'] = 'HERE Satellite'
+        p5['url'] = 'http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/satellite.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}'
+        p5['code'] = 'var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\', subdomains: \'1234\', mapID: \'newest\', app_id: \'%s\', app_code: \'%s\', base: \'aerial\', minZoom: 0, maxZoom: 20});\n\n'%(p5['id'],p5['url'],p5['id'],p5['attr'],p5['appid'],p5['appcode'])
+        layers.append(p5)
+
+        p6 = copy.deepcopy(p5)
+        p6['id'] = 'HEREF'
+        p6['name'] = 'HERE Hybrid'
+        p6['url'] = 'http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}'
+        p6['code'] = 'var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\', subdomains: \'1234\', mapID: \'newest\', app_id: \'%s\', app_code: \'%s\', base: \'aerial\', minZoom: 0, maxZoom: 20});\n\n'%(p6['id'],p6['url'],p6['id'],p6['attr'],p6['appid'],p6['appcode'])
+        layers.append(p6)
 
 
         rv = '<!DOCTYPE html>\n'
@@ -214,8 +244,9 @@ class POISet():
         rv += '  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n'
         rv += '  <link href=\"http://leafletjs.com/atom.xml\" type=\"application/atom+xml\" rel=\"alternate\" title=\"Leaflet Dev Blog Atom Feed\" />\n'
         rv += '  <link rel=\"stylesheet\" href=\"https://rawgit.com/Virtakuono/.kml-repository/master/leaflet-0.7.3/leaflet.css\" />\n'
-        rv += '  <link rel=\"stylesheet\" href=\"https://rawgit.com/Virtakuono/.kml-repository/master/screen.css\" />'
+        rv += '  <link rel=\"stylesheet\" href=\"https://rawgit.com/Virtakuono/.kml-repository/master/screen.css\" />\n'
         rv += '  <script src=\"https://rawgit.com/Virtakuono/.kml-repository/master/leaflet-0.7.3/leaflet.js\"></script>\n'
+        rv += '  <script src=\"https://rawgit.com/Virtakuono/.kml-repository/providers/leaflet-0.7.3/providers/leaflet-providers.js\"></script>\n'
         rv += '</head>\n'
         rv += '<body>\n'
         rv += '  <div class=\"container\">\n'
@@ -237,7 +268,7 @@ class POISet():
         rv += '\n\n\n'
 
         for foo in layers:
-            rv += '   var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\'});\n'%(foo['id'],foo['url'],foo['id'],foo['attr'])
+            rv += '   %s'%(foo['code'],)
         layerList = '[%s, %s]'%(layers[0]['id'],'poilist')
         
         mapStr = '   var map = L.map(\'map\', {\n'
@@ -245,8 +276,6 @@ class POISet():
         mapStr += '       zoom: %d,\n'%(6,)
         mapStr += '       layers: %s'%(layerList,)
         mapStr += '   });\n\n'
-        
-
 
         rv += mapStr
 
