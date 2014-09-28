@@ -182,6 +182,16 @@ class POISet():
         codefun = lambda foo:  'var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\'});\n\n'%(foo['id'],foo['url'],foo['id'],foo['attr'])
 
         p = {}
+        p0 = {}
+        
+        p0['id'] = 'MBOX'
+        p0['attr'] = 'Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, '
+        p0['attr'] += '<a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>,'
+        p0['attr'] += 'Imagery &copy; <a href=\"https://www.mapbox.com\">MapBox</a>'
+        p0['code'] = 'var %s = L.tileLayer.provider(\'MapBox.virtakuono.jj242jjb\');\n\n'%(p0['id'])
+        p0['name'] = 'MapBox'
+        layers.append(p0)
+
         p['id'] = 'OSM'
         p['name'] = 'OpenStreetMap: Mapnik'
         p['attr'] = 'Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, '
