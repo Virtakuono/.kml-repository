@@ -226,7 +226,8 @@ Icons are copied from
 under [CC BY SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/)
 the few shell scripts in this repository may be redistributed under the same
 license, unless otherwise noted in the respective files.
-In addition, the open street map overlays use leaflet library by Vladimir Agafonkin
-and CloudMade. Leaflet is subject to its [own license](https://github.com/Leaflet/Leaflet/blob/master/LICENSE)
+In addition, the open street map overlays use [leaflet library](http://leafletjs.com/) by Vladimir Agafonkin
+and CloudMade and [providers plugin](https://github.com/leaflet-extras/leaflet-providers).
+Leaflet is subject to its [own license](https://github.com/Leaflet/Leaflet/blob/master/LICENSE)
 
 
