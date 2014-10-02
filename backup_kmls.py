@@ -201,6 +201,16 @@ class POISet():
         p['code'] = codefun(p)
         layers.append(p)
 
+        ph = {}
+        ph['id'] = 'OSMHOT'
+        ph['name'] = 'OpenStreetMap: HOT'
+        ph['attr'] = 'Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, '
+        ph['attr'] += '<a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>,'
+        ph['attr'] += 'Imagery &copy; <a href=\"http://openstreetmap.org\">Humanitarian OpenStreetMap Team</a>'
+        ph['url'] = 'http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png'
+        ph['code'] = codefun(ph)
+        layers.append(ph)
+
         p2 = {}
         p2['id'] = 'OSM2'
         p2['name'] = 'OpenStreetMap: Hydda'
