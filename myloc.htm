@@ -909,7 +909,7 @@
    function onLocationFound(e) {
    var radius = e.accuracy / 2;
 
-   L.circle(e.latlng, radius).addTo(map);
+   L.circle(e.latlng, radius, {color: '#80766F', fillColor: '#80766F', fillOpacity: 0.2}).addTo(map);
    }
 
    function onLocationError(e) {
