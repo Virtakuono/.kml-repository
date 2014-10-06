@@ -310,6 +310,18 @@ class POISet():
 
         rv += '   var overlayMaps = {\n          \"POIs\": poilist\n          };\n\n'
         rv += '   L.control.layers(baseMaps,overlayMaps).addTo(map);\n\n\n'
+
+        rv += '   var popup = L.popup();\n\n'
+
+        rv += '   function onMapClick(e) {\n'
+        rv += '     popup\n'
+        rv += '     .setLatLng(e.latlng)\n'
+        rv += '     .setContent("Something interesting here?<br /><a href=\\"mailto:juho.happola@iki.fi?subject=POI hint&body=Hi, I wanted to let everyone know about something interesting at ("+e.latlng.lat+","+e.latlng.lng+"):\\">Let us know<a />." )\n'
+        rv += '     .openOn(map);\n'
+        rv += '     }\n\n'
+        rv += '   map.on(\'click\', onMapClick);\n'
+        
+
         rv += '  </script>\n'
         rv += '  <h2 id="main-head">%s</h2>\n'%('Points of interest in and near Jeddah, KSA',)
         rv += '  <p>For credits, instructions to contributing etc. see <a href=\"https://rawgit.com/Virtakuono/.kml-repository/master/redir.htm\" target=\"_blank\">the project page on github</a>. Data based on contributions made through <a href=\"https://rawgit.com/Virtakuono/.kml-repository/master/redir2.htm\" target=\"_blank\">google spreadsheets</a>. If the map above refuses to load, try reloading or <a href=\"https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml\" target=\"_blank\">google maps</a>.</p>\n'

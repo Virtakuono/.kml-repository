@@ -910,6 +910,16 @@
    L.control.layers(baseMaps,overlayMaps).addTo(map);
 
 
+   var popup = L.popup();
+
+   function onMapClick(e) {
+     popup
+     .setLatLng(e.latlng)
+     .setContent("Something interesting here?<br /><a href=\"mailto:juho.happola@iki.fi?subject=POI hint&body=Hi, I wanted to let everyone know about something interesting at ("+e.latlng.lat+","+e.latlng.lng+"):\">Let us know<a />." )
+     .openOn(map);
+     }
+
+   map.on('click', onMapClick);
   </script>
   <h2 id="main-head">Points of interest in and near Jeddah, KSA</h2>
   <p>For credits, instructions to contributing etc. see <a href="https://rawgit.com/Virtakuono/.kml-repository/master/redir.htm" target="_blank">the project page on github</a>. Data based on contributions made through <a href="https://rawgit.com/Virtakuono/.kml-repository/master/redir2.htm" target="_blank">google spreadsheets</a>. If the map above refuses to load, try reloading or <a href="https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml" target="_blank">google maps</a>.</p>
@@ -1580,7 +1590,7 @@
    <p>222. Hibashi Cave - Thanks, Aya Rae - 
    21.14503000 &deg; N, 42.13437000 &deg; E - 38QKJ0237540885 -   <a href="http://www.openstreetmap.org/?mlat=21.1450300&mlon=42.1343700&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=21.145030,42.1343700">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=21.14503000~42.13437000&lvl=16&dir=0&sty=c&sp=point.21.14503000_42.13437000_Hibashi%20Cave">Bing</a></p>
 
-  <p>Page generated on 2014-10-02 10:54+0300</p>
+  <p>Page generated on 2014-10-06 12:06+0300</p>
   </div>
 </body>
 </html>
