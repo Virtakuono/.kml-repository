@@ -81,7 +81,7 @@ Other complaints and corrections can be emailed to
 
 The data will not be automatically transferred to the map,
 this is known feature to avoid erroneous edits.
-To speed up the editorial process send an email to juho.happola@iki.fi. 
+To speed up the editorial process send us an email.
 
 When editing the map please avoid the following common mistakes
   1. Assuming everyone knows you. In compiling this map I have had to do some forensics, maps like this tend to be
@@ -182,7 +182,7 @@ those maps.
 Many of those maps appear to have
 been copied from the same source. The material
 has been screened as well as possible and the relevant bits
-included in the new map.
+included after careful review in the new map.
 Two maps especially worth mentioning are
 [Jeddah: Interested Locations](https://maps.google.com/maps/ms?msid=203555040976874160945.0004cf9d6a73b19256e5f&msa=0&ll=20.694462,41.31958&spn=4.983057,8.448486&dg=feature)
 and
