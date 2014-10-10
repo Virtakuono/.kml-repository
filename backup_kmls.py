@@ -175,6 +175,139 @@ class POISet():
         rv += '</kml>\n'
         return rv
 
+    def osmscript(self,):
+
+        layers = []
+
+        codefun = lambda foo:  'var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\'});\n\n'%(foo['id'],foo['url'],foo['id'],foo['attr'])
+
+        p = {}
+        p0 = {}
+
+        p0['id'] = 'MBOX'
+        p0['attr'] = 'Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, '
+        p0['attr'] += '<a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>,'
+        p0['attr'] += 'Imagery &copy; <a href=\"https://www.mapbox.com\">MapBox</a>'
+        p0['code'] = 'var %s = L.tileLayer.provider(\'MapBox.virtakuono.jj242jjb\');\n\n'%(p0['id'])
+        p0['name'] = 'MapBox'
+        layers.append(p0)
+
+        p['id'] = 'OSM'
+        p['name'] = 'OpenStreetMap: Mapnik'
+        p['attr'] = 'Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, '
+        p['attr'] += '<a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>,'
+        p['attr'] += 'Imagery &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a>'
+        p['url'] = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
+        p['code'] = codefun(p)
+        layers.append(p)
+
+        ph = {}
+        ph['id'] = 'OSMHOT'
+        ph['name'] = 'OpenStreetMap: HOT'
+        ph['attr'] = 'Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, '
+        ph['attr'] += '<a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>,'
+        ph['attr'] += 'Imagery &copy; <a href=\"http://openstreetmap.org\">Humanitarian OpenStreetMap Team</a>'
+        ph['url'] = 'http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png'
+        ph['code'] = codefun(ph)
+        layers.append(ph)
+
+        p2 = {}
+        p2['id'] = 'OSM2'
+        p2['name'] = 'OpenStreetMap: Hydda'
+        p2['attr'] = 'Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, '
+        p2['attr'] += '<a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>,'
+        p2['attr'] += 'Imagery &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap Sweden</a>'
+        p2['url'] = 'http://{s}.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png'
+        p2['code'] = codefun(p2)
+        layers.append(p2)
+
+        p3 = {}
+        p3['id'] = 'OCM'
+        p3['name'] = 'OpenCycleMap: ThunderForest'
+        p3['attr'] = 'Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, '
+        p3['attr'] += '<a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>,'
+        p3['attr'] += 'Imagery &copy; <a href=\"http://opencyclemap.org\">OpenCycleMap</a>'
+        p3['url'] = 'http://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png'
+        p3['code'] = codefun(p3)
+        layers.append(p3)
+
+        p4 = {}
+        p4['id'] = 'HERED'
+        p4['name'] = 'HERE Street map'
+        p4['attr'] = 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>'
+        p4['appid'] = 'NsbBYO9x9J3Ur21k1j8j'
+        p4['appcode'] = 'p4GtVh8OBdi4zgGXw6RXCQ'
+        p4['url'] =  'http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/normal.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}'
+        p4['code'] = 'var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\', subdomains: \'1234\', mapID: \'newest\', app_id: \'%s\', app_code: \'%s\', base: \'base\', minZoom: 0, maxZoom: 20});\n\n'%(p4['id'],p4['url'],p4['id'],p4['attr'],p4['appid'],p4['appcode'])
+        layers.append(p4)
+
+        p5 = copy.deepcopy(p4)
+        p5['id'] = 'HEREE'
+        p5['name'] = 'HERE Satellite'
+        p5['url'] = 'http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/satellite.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}'
+        p5['code'] = 'var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\', subdomains: \'1234\', mapID: \'newest\', app_id: \'%s\', app_code: \'%s\', base: \'aerial\', minZoom: 0, maxZoom: 20});\n\n'%(p5['id'],p5['url'],p5['id'],p5['attr'],p5['appid'],p5['appcode'])
+        layers.append(p5)
+
+        p6 = copy.deepcopy(p5)
+        p6['id'] = 'HEREF'
+        p6['name'] = 'HERE Hybrid'
+        p6['url'] = 'http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}'
+        p6['code'] = 'var %s = L.tileLayer(\'%s\', {id: \'%s\', attribution: \'%s\', subdomains: \'1234\', mapID: \'newest\', app_id: \'%s\', app_code: \'%s\', base: \'aerial\', minZoom: 0, maxZoom: 20});\n\n'%(p6['id'],p6['url'],p6['id'],p6['attr'],p6['appid'],p6['appcode'])
+        layers.append(p6)
+
+        counter = 1
+        rv = '   var poilist = new L.layerGroup();\n'
+        for style in self.styles:
+            rv += style.osmhtmlstr()
+            rv += '\n'
+
+        rv += '\n\n\n'
+
+        for poi in self.POIs:
+            rv += poi.osmhtmlstr()
+            rv += '\n'
+            counter += 1
+
+        rv += '\n\n\n'
+
+        for foo in layers:
+            rv += '   %s'%(foo['code'],)
+        layerList = '[%s, %s]'%(layers[0]['id'],'poilist')
+
+        mapStr = '   var map = L.map(\'map\', {\n'
+        mapStr += '       center: [%f, %f],\n'%(self.centerPoint()[0],self.centerPoint()[1])
+        mapStr += '       zoom: %d,\n'%(6,)
+        mapStr += '       layers: %s'%(layerList,)
+        mapStr += '   });\n\n'
+
+        rv += mapStr
+
+        baseMapStr = '   var baseMaps = {\n'
+        for foo in layers:
+            baseMapStr += '     \"%s\": %s,\n'%(foo['name'],foo['id'])
+        baseMapStr = '%s\n'%(baseMapStr[:-2])
+        baseMapStr += '     };\n\n'
+
+
+        rv += baseMapStr
+
+        rv += '   var overlayMaps = {\n          \"POIs\": poilist\n          };\n\n'
+        rv += '   L.control.layers(baseMaps,overlayMaps).addTo(map);\n\n\n'
+
+        rv += '   var popup = L.popup();\n\n'
+
+        rv += '   function onMapClick(e) {\n'
+        rv += '     popup\n'
+        rv += '     .setLatLng(e.latlng)\n'
+        rv += '     .setContent("Something interesting here?<br /><a href=\\"mailto:juho.happola@iki.fi?subject=POI hint&body=Hi, I wanted to let everyone know about something interesting at ("+e.latlng.lat+","+e.latlng.lng+"):\\">Let us know<a />." )\n'
+        rv += '     .openOn(map);\n'
+        rv += '     }\n\n'
+        rv += '   map.on(\'click\', onMapClick);\n'
+
+        return rv
+
+
+
     def osmhtmlstr(self,):
 
         layers = []
@@ -365,6 +498,11 @@ class POISet():
         file.writelines([self.osmhtmlstr(),])
         file.close()
 
+    def writeosmscript(self,fn='embedScript.js'):
+        file = open(fn,'w')
+        file.writelines([self.osmscript(),])
+        file.close()
+
 class POISet_rectangle(POISet):
 
     def __init__(self,name='A submap',mastermap=POISet(),minlat=-90.0,maxlat=90.0,minlon=-180.0,maxlon=180.0,desc=''):
@@ -405,6 +543,7 @@ def main():
     poiSet.writekml()
     poiSet.writelmx()
     poiSet.writeosmhtml()
+    poiSet.writeosmscript()
     print('Done.')
     print('Difference between old and new kml file:')
     os.system('diff ./JeddahPOIs.kml ./JeddahPOIs_old.kml')
@@ -432,6 +571,7 @@ def main():
         print('Done.')
         print('Diff of the old and new files:')
         os.system('diff ./%s.kml ./%s_old.kml'%(map.filename,map.filename))
+        os.system('rm ./%s_old.kml'%(map.filename,))
     
     print('Do necessary changes, commit and push, if needed.')
     print('Goodbye')
