@@ -877,7 +877,7 @@
 
    var OSMHOT = L.tileLayer('http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {id: 'OSMHOT', attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>,Imagery &copy; <a href="http://openstreetmap.org">Humanitarian OpenStreetMap Team</a>'});
 
-   var OSM2 = L.tileLayer('http://{s}.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png', {id: 'OSM2', attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>,Imagery &copy; <a href="http://openstreetmap.org">OpenStreetMap Sweden</a>'});
+   var OSM2 = L.tileLayer('http://tms.pikakartta.fi/maastokartta/{z}/{x}/{y}.png', {id: 'OSM2', attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>,Imagery &copy; <a href="http://openstreetmap.org">OpenStreetMap Sweden</a>'});
 
    var OCM = L.tileLayer('http://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png', {id: 'OCM', attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>,Imagery &copy; <a href="http://opencyclemap.org">OpenCycleMap</a>'});
 
@@ -888,7 +888,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.777041, 39.697425],
+       center: [64.0, 25.0],
        zoom: 6,
        layers: [MBOX, poilist]   });
 

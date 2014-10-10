@@ -9,51 +9,26 @@ mainly aimed to be used and edited by the KAUST community,
 although anyone is warmly welcomed to have a sneak peek
 and to contribute as well.
 
-### Desktop users
-Open 
-<a href="https://rawgit.com/Virtakuono/.kml-repository/master/JeddahPOIs.htm" target="_blank">the map</a>
-or a kml overlay on 
-<a href="https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml" target="_blank">google maps</a>
-in a browser and explore. To avoid extra clutter, there are small submaps of the following regions
+### Viewing
+
+Open <a href="https://rawgit.com/Virtakuono/.kml-repository/master/JeddahPOIs.htm" target="_blank">the map</a>.
+This should work on desktops, cellphones, tablets and whatever gizmos and is the recommended way.
+
+#### Alternate methods.
+
+If you want to view the POIs using some alternate methods, the following are provided:
+
+##### .kml Overlays on google maps:
+<a href="https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml" target="_blank">All data</a>
 <a href="https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Thuwal.kml" target="_blank">Thuwal</a>,
 <a href="https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Jeddah.kml" target="_blank">Jeddah</a>,
 <a href="https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Abha.kml" target="_blank">Abha</a> and
 <a href="https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/submap_Taif.kml" target="_blank">Taif</a>.
 
+##### Nokia .lmx format 
 
-### Smartphone, tablet, etc. users
-
-Unfortunately, opening the map on a smartphone or a tablet can be a bit more subtle
-and depends on which device and browser is being used and what apps have been installed.
-So far only Apple/Windows devices have been tested.
-If you are able (and you should be) to open the map on an android or
-or blackberry or whatever gizmo, please tell us how you did it: juho.happola@iki.fi
-For the time being, the Apple and WP instructions are the only ones available:
-
-#### Apple iOS (iPhones and iPads and other iThings)
-
-The essential data is stored in a .kml file that can be opened in two ways.
-  1. In browser. This is probably the simplest way. Experience says that the best
-     browser to view this map is using Safari. Open
-     <a href="https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml" target="_blank">this map</a>
-     in Safari and enjoy. If you open it in Google Chrome and you have Google Maps app installed,
-     the browser will try to launch Google Maps App with devastating results.
-  2. In an app such as Google Earth. This is the less simple way. First of all you have to have the app installed. Secondly
-     you need to open 
-     <a href="https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml" target="_blank">this file</a>
-     using that app. Unfortunately, if you click the link on a mobile device, you will likely have a bunch of code shown to you.
-     The way around this is to download the file to a computer and to send it to yourself as an email attachment.
-     Then, read your email using your mobile device and open the attachment. You should be offered a choice of apps to open it with,
-     go for Google Earth.
-
-#### Windows phone
-
-  1. Open 
-     <a href ="https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml" target="_blank">this link</a>
-     to view the map.
-  2. You may also download the
-     <a href="https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahPOIs.lmx" target="_blank">coordinates in Nokia lmx format </a>
-     (In testing).
+This is experimental, but you may load the
+<a href="https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahPOIs.lmx" target="_blank">data in .lmx</a> format too:
 
 ## Longer readme
 
@@ -74,27 +49,35 @@ of this map overlay file and associated database. The goals are
 
 ### How to contribute?
 
-There are a few ways you can do to contribute:
+#### Add a point using a map
 
-1. Add a new point of interest: go to
-   <a href="https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/edit#gid=0" target="_blank">
-   the google spreadsheet
-   </a>, copy a row of data and make a duplicate of it.
-   You will need to know the coordinates of the point you are adding.
-   To this end, you can use
-   <a href="https://itunes.apple.com/us/app/coordinates-calculate-convert/id494286614?mt=8" target="_blank">
-   coordinates app
-   </a>,
-   locate the coordinates on
-   <a href="https://rawgit.com/Virtakuono/.kml-repository/master/coordfinder.htm" target="_blank">this map</a>,
-   or use some other method that suits you.
-2. If you have a photo taken on a camera phone at a location you would like to add,
-   send it to juho.happola@iki.fi, please send the photo with the poorest quality settings,
-   all that is needed is the coordinates that most smartphones record into the photo automatically.
-   Include a description of the location and other information as you deem fit. Also notify
-   if you do not want to be credited for your contribution.
+Go to the <a href="https://rawgit.com/Virtakuono/.kml-repository/master/JeddahPOIs.htm" target="_blank">the map</a>,
+zoom into the place where you want to add a point. Click on the map and follow the instructions on the popup.
 
-#### Do remember
+#### Add a point whose coordinates you know
+
+Add a new point of interest: go to
+<a href="https://docs.google.com/spreadsheets/d/1-34A8wdzOaiz36Mnx74PbDsaRGTcCZP92rPLV9aP3fM/edit#gid=0" target="_blank">
+the google spreadsheet
+</a>, copy a row of data and make a duplicate of it.
+Edit the duplicated row by writing the appropriate
+name, description and coordinates.
+
+#### Add a point using a photo you have taken
+
+If you have a photo you have taken with a smartphone in an interesting location,
+please send it to
+<a href="mailto:juho.happola@iki.fi?Subject=POI%20hint">us</a>.
+Add a description of what is in there and we'll extract the coordinates.
+Please use the poorest quality settings, as the picture is not used
+for anything anyways.
+
+#### Other
+
+Other complaints and corrections can be emailed to 
+<a href="mailto:juho.happola@iki.fi?Subject=POI%20hint">us</a>.
+
+#### Remember
 
 The data will not be automatically transferred to the map,
 this is known feature to avoid erroneous edits.
