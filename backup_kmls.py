@@ -571,6 +571,7 @@ def main():
         print('Done.')
         print('Diff of the old and new files:')
         os.system('diff ./%s.kml ./%s_old.kml'%(map.filename,map.filename))
+        os.system('rm ./%s_old.kml'%(map.filename,))
     
     print('Do necessary changes, commit and push, if needed.')
     print('Goodbye')
