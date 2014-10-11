@@ -300,6 +300,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Garuda restaurant</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.486293</lm:latitude>
+      <lm:longitude>39.182978</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Goodies</lm:name>
     <lm:coordinates>
       <lm:latitude>21.572950</lm:latitude>
@@ -784,6 +792,14 @@
     <lm:coordinates>
       <lm:latitude>21.548998</lm:latitude>
       <lm:longitude>39.163054</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Garuda shop</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.486328</lm:latitude>
+      <lm:longitude>39.183073</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1740,6 +1756,22 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Hibashi Cave</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.145030</lm:latitude>
+      <lm:longitude>42.134370</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Jirsan Cave</lm:name>
+    <lm:coordinates>
+      <lm:latitude>25.588830</lm:latitude>
+      <lm:longitude>39.756780</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Historic Well</lm:name>
     <lm:coordinates>
       <lm:latitude>27.634753</lm:latitude>
@@ -1760,22 +1792,6 @@
     <lm:coordinates>
       <lm:latitude>22.734975</lm:latitude>
       <lm:longitude>39.069286</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Jirsan Cave</lm:name>
-    <lm:coordinates>
-      <lm:latitude>25.588830</lm:latitude>
-      <lm:longitude>39.756780</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Hibashi Cave</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.145030</lm:latitude>
-      <lm:longitude>42.134370</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>

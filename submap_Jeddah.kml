@@ -440,6 +440,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Garuda restaurant</name>
+    <description><![CDATA[<div dir="ltr">Indonesian cuisine - thanks, Angi</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.1829780,21.4862929,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Goodies</name>
     <description><![CDATA[<div dir="ltr">A good food market type restaurant, large dessers/sweets selection. In Stars Avenue Mall.</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -765,6 +773,14 @@
     <styleUrl>#style673</styleUrl>
     <Point>
       <coordinates>39.1630540,21.5489980,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Garuda shop</name>
+    <description><![CDATA[<div dir="ltr">Indonesian style groceries - thanks Angi</div>]]></description>
+    <styleUrl>#style673</styleUrl>
+    <Point>
+      <coordinates>39.1830732,21.4863278,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>

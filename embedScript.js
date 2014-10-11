@@ -377,6 +377,13 @@
    popupAnchor: [0,-20]
    });
 
+   var iconType728 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/cave.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+
    var iconType730 = L.icon({
    iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/waterwell.png',
    iconSize: [32,37],
@@ -393,13 +400,6 @@
 
    var iconType732 = L.icon({
    iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/car_orange.png',
-   iconSize: [32,37],
-   iconAnchor: [16,37],
-   popupAnchor: [0,-20]
-   });
-
-   var iconType728 = L.icon({
-   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/cave.png',
    iconSize: [32,37],
    iconAnchor: [16,37],
    popupAnchor: [0,-20]
@@ -481,6 +481,8 @@
    L.marker([21.4784720, 39.2109180],{icon: iconType667}).bindPopup("<b>Effat University</b><br /><br />Coordinates: (21.4784720, 39.2109180)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4784720&mlon=39.2109180&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.478472,39.2109180\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.47847200~39.21091800&lvl=16&dir=0&sty=c&sp=point.21.47847200_39.21091800_Effat%20University\">Bing</a>").addTo(poilist);
 
    L.marker([21.7180730, 39.1039580],{icon: iconType667}).bindPopup("<b>Fish restaurant</b><br /><br />Coordinates: (21.7180730, 39.1039580)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.7180730&mlon=39.1039580&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.718073,39.1039580\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.71807300~39.10395800&lvl=16&dir=0&sty=c&sp=point.21.71807300_39.10395800_Fish%20restaurant\">Bing</a>").addTo(poilist);
+
+   L.marker([21.4862929, 39.1829780],{icon: iconType667}).bindPopup("<b>Garuda restaurant</b><br />Indonesian cuisine - thanks, Angi<br />Coordinates: (21.4862929, 39.1829780)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4862929&mlon=39.1829780&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.486293,39.1829780\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.48629290~39.18297800&lvl=16&dir=0&sty=c&sp=point.21.48629290_39.18297800_Garuda%20restaurant\">Bing</a>").addTo(poilist);
 
    L.marker([21.5729500, 39.1273080],{icon: iconType667}).bindPopup("<b>Goodies</b><br />A good food market type restaurant, large dessers/sweets selection. In Stars Avenue Mall.<br />Coordinates: (21.5729500, 39.1273080)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5729500&mlon=39.1273080&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.572950,39.1273080\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.57295000~39.12730800&lvl=16&dir=0&sty=c&sp=point.21.57295000_39.12730800_Goodies\">Bing</a>").addTo(poilist);
 
@@ -603,6 +605,8 @@
    L.marker([21.6268830, 39.1102560],{icon: iconType673}).bindPopup("<b>Danube</b><br />In Red sea mall, hypermarket.<br />Coordinates: (21.6268830, 39.1102560)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6268830&mlon=39.1102560&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.626883,39.1102560\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.62688300~39.11025600&lvl=16&dir=0&sty=c&sp=point.21.62688300_39.11025600_Danube\">Bing</a>").addTo(poilist);
 
    L.marker([21.5489980, 39.1630540],{icon: iconType673}).bindPopup("<b>Danube</b><br /><br />Coordinates: (21.5489980, 39.1630540)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5489980&mlon=39.1630540&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.548998,39.1630540\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.54899800~39.16305400&lvl=16&dir=0&sty=c&sp=point.21.54899800_39.16305400_Danube\">Bing</a>").addTo(poilist);
+
+   L.marker([21.4863278, 39.1830732],{icon: iconType673}).bindPopup("<b>Garuda shop</b><br />Indonesian style groceries - thanks Angi<br />Coordinates: (21.4863278, 39.1830732)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4863278&mlon=39.1830732&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.486328,39.1830732\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.48632780~39.18307320&lvl=16&dir=0&sty=c&sp=point.21.48632780_39.18307320_Garuda%20shop\">Bing</a>").addTo(poilist);
 
    L.marker([22.2865870, 39.1125560],{icon: iconType673}).bindPopup("<b>Grocery store</b><br />Good prices on veggies, (you pay the seller directly for veggies, everything else is paid at the checkout), also get your cleaning supplies, office supplies, household stuff here.<br />Coordinates: (22.2865870, 39.1125560)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.2865870&mlon=39.1125560&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.286587,39.1125560\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.28658700~39.11255600&lvl=16&dir=0&sty=c&sp=point.22.28658700_39.11255600_Grocery%20store\">Bing</a>").addTo(poilist);
 
@@ -842,15 +846,15 @@
 
    L.marker([21.5849056, 39.1769139],{icon: iconType724}).bindPopup("<b>Pinball monument</b><br />In the roundabout<br />Coordinates: (21.5849056, 39.1769139)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5849056&mlon=39.1769139&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.584906,39.1769139\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.58490560~39.17691390&lvl=16&dir=0&sty=c&sp=point.21.58490560_39.17691390_Pinball%20monument\">Bing</a>").addTo(poilist);
 
+   L.marker([21.1450300, 42.1343700],{icon: iconType728}).bindPopup("<b>Hibashi Cave</b><br />Thanks, Aya Rae<br />Coordinates: (21.1450300, 42.1343700)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.1450300&mlon=42.1343700&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.145030,42.1343700\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.14503000~42.13437000&lvl=16&dir=0&sty=c&sp=point.21.14503000_42.13437000_Hibashi%20Cave\">Bing</a>").addTo(poilist);
+
+   L.marker([25.5888300, 39.7567800],{icon: iconType728}).bindPopup("<b>Jirsan Cave</b><br />Thanks, Aya Rae<br />Coordinates: (25.5888300, 39.7567800)<br /><a href=\"http://www.openstreetmap.org/?mlat=25.5888300&mlon=39.7567800&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=25.588830,39.7567800\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=25.58883000~39.75678000&lvl=16&dir=0&sty=c&sp=point.25.58883000_39.75678000_Jirsan%20Cave\">Bing</a>").addTo(poilist);
+
    L.marker([27.6347530, 38.5534150],{icon: iconType730}).bindPopup("<b>Historic Well</b><br /><br />Coordinates: (27.6347530, 38.5534150)<br /><a href=\"http://www.openstreetmap.org/?mlat=27.6347530&mlon=38.5534150&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=27.634753,38.5534150\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=27.63475300~38.55341500&lvl=16&dir=0&sty=c&sp=point.27.63475300_38.55341500_Historic%20Well\">Bing</a>").addTo(poilist);
 
    L.marker([23.6885470, 38.8017940],{icon: iconType731}).bindPopup("<b>Mastorah Dunes</b><br />Thanks, Greg Wickham<br />Coordinates: (23.6885470, 38.8017940)<br /><a href=\"http://www.openstreetmap.org/?mlat=23.6885470&mlon=38.8017940&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=23.688547,38.8017940\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=23.68854700~38.80179400&lvl=16&dir=0&sty=c&sp=point.23.68854700_38.80179400_Mastorah%20Dunes\">Bing</a>").addTo(poilist);
 
    L.marker([22.7349750, 39.0692861],{icon: iconType732}).bindPopup("<b>Driving license bureau</b><br /><br />Coordinates: (22.7349750, 39.0692861)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.7349750&mlon=39.0692861&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.734975,39.0692861\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.73497500~39.06928610&lvl=16&dir=0&sty=c&sp=point.22.73497500_39.06928610_Driving%20license%20bureau\">Bing</a>").addTo(poilist);
-
-   L.marker([25.5888300, 39.7567800],{icon: iconType728}).bindPopup("<b>Jirsan Cave</b><br />Thanks, Aya Rae<br />Coordinates: (25.5888300, 39.7567800)<br /><a href=\"http://www.openstreetmap.org/?mlat=25.5888300&mlon=39.7567800&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=25.588830,39.7567800\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=25.58883000~39.75678000&lvl=16&dir=0&sty=c&sp=point.25.58883000_39.75678000_Jirsan%20Cave\">Bing</a>").addTo(poilist);
-
-   L.marker([21.1450300, 42.1343700],{icon: iconType728}).bindPopup("<b>Hibashi Cave</b><br />Thanks, Aya Rae<br />Coordinates: (21.1450300, 42.1343700)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.1450300&mlon=42.1343700&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.145030,42.1343700\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.14503000~42.13437000&lvl=16&dir=0&sty=c&sp=point.21.14503000_42.13437000_Hibashi%20Cave\">Bing</a>").addTo(poilist);
 
 
 
@@ -872,7 +876,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.777041, 39.697425],
+       center: [21.774445, 39.692832],
        zoom: 6,
        layers: [MBOX, poilist]   });
 
