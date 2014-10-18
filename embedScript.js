@@ -774,6 +774,8 @@
 
    L.marker([21.4844640, 39.1808420],{icon: iconType705}).bindPopup("<b>Al Balad: KAUST bus dropoff</b><br /><br />Coordinates: (21.4844640, 39.1808420)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4844640&mlon=39.1808420&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.484464,39.1808420\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.48446400~39.18084200&lvl=16&dir=0&sty=c&sp=point.21.48446400_39.18084200_Al%20Balad%3A%20KAUST%20bus%20dropoff\">Bing</a>").addTo(poilist);
 
+   L.marker([21.5251472, 39.1683472],{icon: iconType705}).bindPopup("<b>DSFH: KAUST bus dropoff</b><br /><br />Coordinates: (21.5251472, 39.1683472)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5251472&mlon=39.1683472&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.525147,39.1683472\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.52514720~39.16834720&lvl=16&dir=0&sty=c&sp=point.21.52514720_39.16834720_DSFH%3A%20KAUST%20bus%20dropoff\">Bing</a>").addTo(poilist);
+
    L.marker([20.0000000, 41.4500000],{icon: iconType706}).bindPopup("<b>Al Bahah</b><br />http://en.wikipedia.org/wiki/Al_Bahah<br />Coordinates: (20.0000000, 41.4500000)<br /><a href=\"http://www.openstreetmap.org/?mlat=20.0000000&mlon=41.4500000&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=20.000000,41.4500000\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=20.00000000~41.45000000&lvl=16&dir=0&sty=c&sp=point.20.00000000_41.45000000_Al%20Bahah\">Bing</a>").addTo(poilist);
 
    L.marker([21.2570570, 40.3865700],{icon: iconType707}).bindPopup("<b>Historic mosque</b><br /><br />Coordinates: (21.2570570, 40.3865700)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.2570570&mlon=40.3865700&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.257057,40.3865700\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.25705700~40.38657000&lvl=16&dir=0&sty=c&sp=point.21.25705700_40.38657000_Historic%20mosque\">Bing</a>").addTo(poilist);
@@ -876,7 +878,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.774445, 39.692832],
+       center: [21.773337, 39.690501],
        zoom: 6,
        layers: [MBOX, poilist]   });
 
