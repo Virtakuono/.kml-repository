@@ -96,8 +96,8 @@ class POI():
         return rv
 
     def osmhtmlstr(self):
-        rv = '   L.marker([%.7f, %.7f],{icon: %s}).addTo(map).bindPopup(\"<b>%s</b><br />%s<br />Coordinates: (%.7f, %.7f)<br /><a href=\\"%s\\">OSM</a>, <a href=\\"%s\\">Google Maps</a>, <a href=\\"%s\\">Bing</a>\");\n'%(self.lat,self.lon,self.ttype.osmIconType(),self.name,self.desc,self.lat,self.lon,self.osmUrl(),self.gmapUrl(),self.bingUrl())
-        rv = '   L.marker([%.7f, %.7f],{icon: %s}).bindPopup(\"<b>%s</b><br />%s<br />Coordinates: (%.7f, %.7f)<br /><a href=\\"%s\\">OSM</a>, <a href=\\"%s\\">Google Maps</a>, <a href=\\"%s\\">Bing</a>\").addTo(poilist);\n'%(self.lat,self.lon,self.ttype.osmIconType(),self.name,self.desc,self.lat,self.lon,self.osmUrl(),self.gmapUrl(),self.bingUrl())
+        popupMsg = '\"<b>%s</b><br />%s<br />Coordinates: (%.7f, %.7f)<br /><a href=\\"%s\\">OSM</a>, <a href=\\"%s\\">Google Maps</a>, <a href=\\"%s\\">Bing<\/a>\"<br /><a href=\"mailto:juho.happola@iki.fi?Subject=Error%%20in%%20map%%20at%%20%f,%%20%f\">Report a mistake<\a>'%(self.name,self.desc,self.lat,self.lon,self.osmUrl(),self.gmapUrl(),self.bingUrl(),self.lat,self.lon)
+        rv = '   L.marker([%.7f, %.7f],{icon: %s}).bindPopup(%s).addTo(poilist);\n'%(self.lat,self.lon,self.ttype.osmIconType(),popupMsg)
         return rv
 
     def mdstr(self):

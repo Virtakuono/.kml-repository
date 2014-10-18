@@ -1468,6 +1468,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>DSFH: KAUST bus dropoff</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.525147</lm:latitude>
+      <lm:longitude>39.168347</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Al Bahah</lm:name>
     <lm:coordinates>
       <lm:latitude>20.000000</lm:latitude>
