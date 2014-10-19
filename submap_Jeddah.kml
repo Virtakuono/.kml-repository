@@ -1232,6 +1232,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Red Sea Mall: KAUST bus dropoff</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style705</styleUrl>
+    <Point>
+      <coordinates>39.1130930,21.6280767,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Juffali mosque</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style707</styleUrl>
