@@ -634,6 +634,8 @@
 
    L.marker([21.7100890, 39.0847510],{icon: iconType675}).bindPopup("<b>Albilad Beach</b><br /><br />Coordinates: (21.7100890, 39.0847510)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.7100890&mlon=39.0847510&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.710089,39.0847510\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.71008900~39.08475100&lvl=16&dir=0&sty=c&sp=point.21.71008900_39.08475100_Albilad%20Beach\">Bing</a>").addTo(poilist);
 
+   L.marker([21.7093000, 39.0833000],{icon: iconType675}).bindPopup("<b>La Plage Beach</b><br />Thanks, Mincho Kavaldzhiev<br />Coordinates: (21.7093000, 39.0833000)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.7093000&mlon=39.0833000&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.709300,39.0833000\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.70930000~39.08330000&lvl=16&dir=0&sty=c&sp=point.21.70930000_39.08330000_La%20Plage%20Beach\">Bing</a>").addTo(poilist);
+
    L.marker([21.7289620, 39.0751570],{icon: iconType675}).bindPopup("<b>Palm Beach</b><br />A privabe beach and accommodation facility. Parking is outside.<br />Coordinates: (21.7289620, 39.0751570)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.7289620&mlon=39.0751570&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.728962,39.0751570\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.72896200~39.07515700&lvl=16&dir=0&sty=c&sp=point.21.72896200_39.07515700_Palm%20Beach\">Bing</a>").addTo(poilist);
 
    L.marker([21.7351150, 39.0723610],{icon: iconType675}).bindPopup("<b>Red Sea Resort (Sheraton)</b><br /><br />Coordinates: (21.7351150, 39.0723610)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.7351150&mlon=39.0723610&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.735115,39.0723610\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.73511500~39.07236100&lvl=16&dir=0&sty=c&sp=point.21.73511500_39.07236100_Red%20Sea%20Resort%20%28Sheraton%29\">Bing</a>").addTo(poilist);
@@ -878,7 +880,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.773337, 39.690501],
+       center: [21.773054, 39.687814],
        zoom: 6,
        layers: [MBOX, poilist]   });
 

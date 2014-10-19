@@ -1314,6 +1314,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>La Plage Beach</name>
+    <description><![CDATA[<div dir="ltr">Thanks, Mincho Kavaldzhiev</div>]]></description>
+    <styleUrl>#style675</styleUrl>
+    <Point>
+      <coordinates>39.0833000,21.7093000,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Palm Beach</name>
     <description><![CDATA[<div dir="ltr">A privabe beach and accommodation facility. Parking is outside.</div>]]></description>
     <styleUrl>#style675</styleUrl>

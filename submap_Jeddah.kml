@@ -840,6 +840,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>La Plage Beach</name>
+    <description><![CDATA[<div dir="ltr">Thanks, Mincho Kavaldzhiev</div>]]></description>
+    <styleUrl>#style675</styleUrl>
+    <Point>
+      <coordinates>39.0833000,21.7093000,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Al Muhaidib Hardware</name>
     <description><![CDATA[<div dir="ltr">found door chains here. Door lock, handles etc.</div>]]></description>
     <styleUrl>#style676</styleUrl>
