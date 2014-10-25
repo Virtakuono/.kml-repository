@@ -358,6 +358,13 @@
    popupAnchor: [0,-20]
    });
 
+   var iconType718 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/climbing.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+
    var iconType719 = L.icon({
    iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/volcano.png',
    iconSize: [32,37],
@@ -844,6 +851,8 @@
 
    L.marker([21.4880900, 39.1737100],{icon: iconType717}).bindPopup("<b>Jeddah Fish market</b><br />Daily hassle over the morning's catch<br />Coordinates: (21.4880900, 39.1737100)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4880900&mlon=39.1737100&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.488090,39.1737100\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.48809000~39.17371000&lvl=16&dir=0&sty=c&sp=point.21.48809000_39.17371000_Jeddah%20Fish%20market\">Bing</a>").addTo(poilist);
 
+   L.marker([21.6988667, 39.3470528],{icon: iconType718}).bindPopup("<b>Climbing site / Boulder</b><br />From Sebastian Wolf via Facebook, 15m UIAA 6+ up to 9 several sides - now with hooks and loops<br />Coordinates: (21.6988667, 39.3470528)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6988667&mlon=39.3470528&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.698867,39.3470528\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.69886670~39.34705280&lvl=16&dir=0&sty=c&sp=point.21.69886670_39.34705280_Climbing%20site%20/%20Boulder\">Bing</a>").addTo(poilist);
+
    L.marker([25.7041090, 39.9136230],{icon: iconType719}).bindPopup("<b>Black volcano</b><br /><br />Coordinates: (25.7041090, 39.9136230)<br /><a href=\"http://www.openstreetmap.org/?mlat=25.7041090&mlon=39.9136230&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=25.704109,39.9136230\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=25.70410900~39.91362300&lvl=16&dir=0&sty=c&sp=point.25.70410900_39.91362300_Black%20volcano\">Bing</a>").addTo(poilist);
 
    L.marker([22.9064970, 41.1306820],{icon: iconType719}).bindPopup("<b>Wahba crater</b><br />The pin is at the white hut from which the trail down begins<br />Coordinates: (22.9064970, 41.1306820)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.9064970&mlon=41.1306820&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.906497,41.1306820\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.90649700~41.13068200&lvl=16&dir=0&sty=c&sp=point.22.90649700_41.13068200_Wahba%20crater\">Bing</a>").addTo(poilist);
@@ -898,7 +907,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.772415, 39.685283],
+       center: [21.772093, 39.683799],
        zoom: 6,
        layers: [MBOX, poilist]   });
 
@@ -1564,58 +1573,61 @@
    <p>210. Jeddah Fish market - Daily hassle over the morning's catch - 
    21.48809000 &deg; N, 39.17371000 &deg; E - 37QED1799476177 -   <a href="http://www.openstreetmap.org/?mlat=21.4880900&mlon=39.1737100&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=21.488090,39.1737100">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=21.48809000~39.17371000&lvl=16&dir=0&sty=c&sp=point.21.48809000_39.17371000_Jeddah%20Fish%20market">Bing</a></p>
 
-   <p>211. Black volcano - 
+   <p>211. Climbing site / Boulder - From Sebastian Wolf via Facebook, 15m UIAA 6+ up to 9 several sides - now with hooks and loops - 
+   21.69886670 &deg; N, 39.34705280 &deg; E - 37QED3589899537 -   <a href="http://www.openstreetmap.org/?mlat=21.6988667&mlon=39.3470528&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=21.698867,39.3470528">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=21.69886670~39.34705280&lvl=16&dir=0&sty=c&sp=point.21.69886670_39.34705280_Climbing%20site%20/%20Boulder">Bing</a></p>
+
+   <p>212. Black volcano - 
    25.70410900 &deg; N, 39.91362300 &deg; E - 37REJ9166443233 -   <a href="http://www.openstreetmap.org/?mlat=25.7041090&mlon=39.9136230&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=25.704109,39.9136230">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=25.70410900~39.91362300&lvl=16&dir=0&sty=c&sp=point.25.70410900_39.91362300_Black%20volcano">Bing</a></p>
 
-   <p>212. Wahba crater - The pin is at the white hut from which the trail down begins - 
+   <p>213. Wahba crater - The pin is at the white hut from which the trail down begins - 
    22.90649700 &deg; N, 41.13068200 &deg; E - 37QGF1854134751 -   <a href="http://www.openstreetmap.org/?mlat=22.9064970&mlon=41.1306820&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=22.906497,41.1306820">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=22.90649700~41.13068200&lvl=16&dir=0&sty=c&sp=point.22.90649700_41.13068200_Wahba%20crater">Bing</a></p>
 
-   <p>213. White volcano - Thanks, Greg Wickham - 
+   <p>214. White volcano - Thanks, Greg Wickham - 
    25.66079200 &deg; N, 39.93568200 &deg; E - 37REJ9391138452 -   <a href="http://www.openstreetmap.org/?mlat=25.6607920&mlon=39.9356820&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=25.660792,39.9356820">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=25.66079200~39.93568200&lvl=16&dir=0&sty=c&sp=point.25.66079200_39.93568200_White%20volcano">Bing</a></p>
 
-   <p>214. Near the highest point - 
+   <p>215. Near the highest point - 
    18.29147100 &deg; N, 42.36122900 &deg; E - 38QKF2103624450 -   <a href="http://www.openstreetmap.org/?mlat=18.2914710&mlon=42.3612290&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=18.291471,42.3612290">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=18.29147100~42.36122900&lvl=16&dir=0&sty=c&sp=point.18.29147100_42.36122900_Near%20the%20highest%20point">Bing</a></p>
 
-   <p>215. Top of cliff - 
+   <p>216. Top of cliff - 
    18.03863500 &deg; N, 42.87201300 &deg; E - 38QKE7473395756 -   <a href="http://www.openstreetmap.org/?mlat=18.0386350&mlon=42.8720130&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=18.038635,42.8720130">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=18.03863500~42.87201300&lvl=16&dir=0&sty=c&sp=point.18.03863500_42.87201300_Top%20of%20cliff">Bing</a></p>
 
-   <p>216. View to Makkah - 
+   <p>217. View to Makkah - 
    21.32023200 &deg; N, 40.28511000 &deg; E - 37QFD3328158133 -   <a href="http://www.openstreetmap.org/?mlat=21.3202320&mlon=40.2851100&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=21.320232,40.2851100">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=21.32023200~40.28511000&lvl=16&dir=0&sty=c&sp=point.21.32023200_40.28511000_View%20to%20Makkah">Bing</a></p>
 
-   <p>217. Eve's Grave - 
+   <p>218. Eve's Grave - 
    21.49135560 &deg; N, 39.19027500 &deg; E - 37QED1971076541 -   <a href="http://www.openstreetmap.org/?mlat=21.4913556&mlon=39.1902750&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=21.491356,39.1902750">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=21.49135560~39.19027500&lvl=16&dir=0&sty=c&sp=point.21.49135560_39.19027500_Eve%27s%20Grave">Bing</a></p>
 
-   <p>218. Bicycle monument - In the roundabout - 
+   <p>219. Bicycle monument - In the roundabout - 
    21.56838330 &deg; N, 39.18352500 &deg; E - 37QED1900085065 -   <a href="http://www.openstreetmap.org/?mlat=21.5683833&mlon=39.1835250&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=21.568383,39.1835250">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=21.56838330~39.18352500&lvl=16&dir=0&sty=c&sp=point.21.56838330_39.18352500_Bicycle%20monument">Bing</a></p>
 
-   <p>219. Compass monument - In the roundabout - 
+   <p>220. Compass monument - In the roundabout - 
    21.58658330 &deg; N, 39.18733890 &deg; E - 37QED1939387080 -   <a href="http://www.openstreetmap.org/?mlat=21.5865833&mlon=39.1873389&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=21.586583,39.1873389">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=21.58658330~39.18733890&lvl=16&dir=0&sty=c&sp=point.21.58658330_39.18733890_Compass%20monument">Bing</a></p>
 
-   <p>220. Flying carpet monument - In the roundabout - 
+   <p>221. Flying carpet monument - In the roundabout - 
    21.62323060 &deg; N, 39.10945830 &deg; E - 37QED1132891129 -   <a href="http://www.openstreetmap.org/?mlat=21.6232306&mlon=39.1094583&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=21.623231,39.1094583">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=21.62323060~39.10945830&lvl=16&dir=0&sty=c&sp=point.21.62323060_39.10945830_Flying%20carpet%20monument">Bing</a></p>
 
-   <p>221. Fountain monument - In the roundabout - 
+   <p>222. Fountain monument - In the roundabout - 
    21.49017500 &deg; N, 39.18689440 &deg; E - 37QED1936076410 -   <a href="http://www.openstreetmap.org/?mlat=21.4901750&mlon=39.1868944&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=21.490175,39.1868944">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=21.49017500~39.18689440&lvl=16&dir=0&sty=c&sp=point.21.49017500_39.18689440_Fountain%20monument">Bing</a></p>
 
-   <p>222. Pinball monument - In the roundabout - 
+   <p>223. Pinball monument - In the roundabout - 
    21.58490560 &deg; N, 39.17691390 &deg; E - 37QED1831486893 -   <a href="http://www.openstreetmap.org/?mlat=21.5849056&mlon=39.1769139&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=21.584906,39.1769139">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=21.58490560~39.17691390&lvl=16&dir=0&sty=c&sp=point.21.58490560_39.17691390_Pinball%20monument">Bing</a></p>
 
-   <p>223. Hibashi Cave - Thanks, Aya Rae - 
+   <p>224. Hibashi Cave - Thanks, Aya Rae - 
    21.14503000 &deg; N, 42.13437000 &deg; E - 38QKJ0237540885 -   <a href="http://www.openstreetmap.org/?mlat=21.1450300&mlon=42.1343700&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=21.145030,42.1343700">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=21.14503000~42.13437000&lvl=16&dir=0&sty=c&sp=point.21.14503000_42.13437000_Hibashi%20Cave">Bing</a></p>
 
-   <p>224. Jirsan Cave - Thanks, Aya Rae - 
+   <p>225. Jirsan Cave - Thanks, Aya Rae - 
    25.58883000 &deg; N, 39.75678000 &deg; E - 37REJ7600030367 -   <a href="http://www.openstreetmap.org/?mlat=25.5888300&mlon=39.7567800&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=25.588830,39.7567800">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=25.58883000~39.75678000&lvl=16&dir=0&sty=c&sp=point.25.58883000_39.75678000_Jirsan%20Cave">Bing</a></p>
 
-   <p>225. Historic Well - 
+   <p>226. Historic Well - 
    27.63475300 &deg; N, 38.55341500 &deg; E - 37RDL5594356823 -   <a href="http://www.openstreetmap.org/?mlat=27.6347530&mlon=38.5534150&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=27.634753,38.5534150">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=27.63475300~38.55341500&lvl=16&dir=0&sty=c&sp=point.27.63475300_38.55341500_Historic%20Well">Bing</a></p>
 
-   <p>226. Mastorah Dunes - Thanks, Greg Wickham - 
+   <p>227. Mastorah Dunes - Thanks, Greg Wickham - 
    23.68854700 &deg; N, 38.80179400 &deg; E - 37QDG7979219759 -   <a href="http://www.openstreetmap.org/?mlat=23.6885470&mlon=38.8017940&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=23.688547,38.8017940">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=23.68854700~38.80179400&lvl=16&dir=0&sty=c&sp=point.23.68854700_38.80179400_Mastorah%20Dunes">Bing</a></p>
 
-   <p>227. Driving license bureau - 
+   <p>228. Driving license bureau - 
    22.73497500 &deg; N, 39.06928610 &deg; E - 37QEF0711414184 -   <a href="http://www.openstreetmap.org/?mlat=22.7349750&mlon=39.0692861&zoom=12&layers=M">OSM</a>, <a href="http://maps.google.com/maps?q=22.734975,39.0692861">Google maps</a>, <a href="http://www.bing.com/maps/?v=2&cp=22.73497500~39.06928610&lvl=16&dir=0&sty=c&sp=point.22.73497500_39.06928610_Driving%20license%20bureau">Bing</a></p>
 
-  <p>Page generated on 2014-10-19 16:23+0300</p>
+  <p>Page generated on 2014-10-25 15:11+0300</p>
   </div>
 </body>
 </html>
