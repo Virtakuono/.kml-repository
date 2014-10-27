@@ -1356,10 +1356,18 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>A mysterious hole in the ground</lm:name>
+    <lm:name>A hole in the ground</lm:name>
     <lm:coordinates>
       <lm:latitude>26.558339</lm:latitude>
       <lm:longitude>47.172122</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>A hole in the ground</lm:name>
+    <lm:coordinates>
+      <lm:latitude>25.326824</lm:latitude>
+      <lm:longitude>44.375799</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>

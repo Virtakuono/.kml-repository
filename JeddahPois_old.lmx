@@ -1684,6 +1684,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Climbing site / Boulder</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.698867</lm:latitude>
+      <lm:longitude>39.347053</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Black volcano</lm:name>
     <lm:coordinates>
       <lm:latitude>25.704109</lm:latitude>

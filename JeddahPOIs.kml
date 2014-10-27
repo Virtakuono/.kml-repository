@@ -1769,11 +1769,19 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>A mysterious hole in the ground</name>
+    <name>A hole in the ground</name>
     <description><![CDATA[<div dir="ltr">Information on this peculiar looking structure is scarce. http://crazymoor.wordpress.com/2007/11/25/an-underground-oasis-in-saudi-arabia/</div>]]></description>
     <styleUrl>#style698</styleUrl>
     <Point>
       <coordinates>47.1721222,26.5583389,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>A hole in the ground</name>
+    <description><![CDATA[<div dir="ltr">Another hole found in the desert, thanks to Herbert Bagolbagol via Facebook</div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>44.3757990,25.3268240,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>

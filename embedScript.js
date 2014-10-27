@@ -753,7 +753,9 @@
 
    L.marker([21.7366300, 39.1230570],{icon: iconType697}).bindPopup("<b>Dream Divers</b><br />Departure point for boat trips<br />Coordinates: (21.7366300, 39.1230570)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.7366300&mlon=39.1230570&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.736630,39.1230570\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.73663000~39.12305700&lvl=16&dir=0&sty=c&sp=point.21.73663000_39.12305700_Dream%20Divers\">Bing</a>").addTo(poilist);
 
-   L.marker([26.5583389, 47.1721222],{icon: iconType698}).bindPopup("<b>A mysterious hole in the ground</b><br />Information on this peculiar looking structure is scarce. http://crazymoor.wordpress.com/2007/11/25/an-underground-oasis-in-saudi-arabia/<br />Coordinates: (26.5583389, 47.1721222)<br /><a href=\"http://www.openstreetmap.org/?mlat=26.5583389&mlon=47.1721222&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=26.558339,47.1721222\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=26.55833890~47.17212220&lvl=16&dir=0&sty=c&sp=point.26.55833890_47.17212220_A%20mysterious%20hole%20in%20the%20ground\">Bing</a>").addTo(poilist);
+   L.marker([26.5583389, 47.1721222],{icon: iconType698}).bindPopup("<b>A hole in the ground</b><br />Information on this peculiar looking structure is scarce. http://crazymoor.wordpress.com/2007/11/25/an-underground-oasis-in-saudi-arabia/<br />Coordinates: (26.5583389, 47.1721222)<br /><a href=\"http://www.openstreetmap.org/?mlat=26.5583389&mlon=47.1721222&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=26.558339,47.1721222\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=26.55833890~47.17212220&lvl=16&dir=0&sty=c&sp=point.26.55833890_47.17212220_A%20hole%20in%20the%20ground\">Bing</a>").addTo(poilist);
+
+   L.marker([25.3268240, 44.3757990],{icon: iconType698}).bindPopup("<b>A hole in the ground</b><br />Another hole found in the desert, thanks to Herbert Bagolbagol via Facebook<br />Coordinates: (25.3268240, 44.3757990)<br /><a href=\"http://www.openstreetmap.org/?mlat=25.3268240&mlon=44.3757990&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=25.326824,44.3757990\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=25.32682400~44.37579900&lvl=16&dir=0&sty=c&sp=point.25.32682400_44.37579900_A%20hole%20in%20the%20ground\">Bing</a>").addTo(poilist);
 
    L.marker([23.3108000, 39.8488917],{icon: iconType698}).bindPopup("<b>Al Akhal Oasis</b><br /><br />Coordinates: (23.3108000, 39.8488917)<br /><a href=\"http://www.openstreetmap.org/?mlat=23.3108000&mlon=39.8488917&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=23.310800,39.8488917\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=23.31080000~39.84889170&lvl=16&dir=0&sty=c&sp=point.23.31080000_39.84889170_Al%20Akhal%20Oasis\">Bing</a>").addTo(poilist);
 
@@ -891,7 +893,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.772093, 39.683799],
+       center: [21.787616, 39.704288],
        zoom: 6,
        layers: [MBOX, poilist]   });
 

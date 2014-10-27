@@ -346,6 +346,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style718">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/climbing.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Style id="style719">
     <IconStyle>
       <Icon>
@@ -2087,6 +2094,14 @@
     <styleUrl>#style717</styleUrl>
     <Point>
       <coordinates>39.1737100,21.4880900,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Climbing site / Boulder</name>
+    <description><![CDATA[<div dir="ltr">From Sebastian Wolf via Facebook, 15m UIAA 6+ up to 9 several sides - now with hooks and loops</div>]]></description>
+    <styleUrl>#style718</styleUrl>
+    <Point>
+      <coordinates>39.3470528,21.6988667,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
