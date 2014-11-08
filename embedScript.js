@@ -603,6 +603,8 @@
 
    L.marker([18.2146850, 42.4964330],{icon: iconType671}).bindPopup("<b>Tuesday market</b><br /><br />Coordinates: (18.2146850, 42.4964330)<br /><a href=\"http://www.openstreetmap.org/?mlat=18.2146850&mlon=42.4964330&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=18.214685,42.4964330\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=18.21468500~42.49643300&lvl=16&dir=0&sty=c&sp=point.18.21468500_42.49643300_Tuesday%20market\">Bing</a>").addTo(poilist);
 
+   L.marker([21.5900130, 39.2213840],{icon: iconType671}).bindPopup("<b>Vegetable souq</b><br />Thanks to Naoufal Uariachi<br />Coordinates: (21.5900130, 39.2213840)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5900130&mlon=39.2213840&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.590013,39.2213840\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.59001300~39.22138400&lvl=16&dir=0&sty=c&sp=point.21.59001300_39.22138400_Vegetable%20souq\">Bing</a>").addTo(poilist);
+
    L.marker([21.4869081, 39.1964989],{icon: iconType671}).bindPopup("<b>Yamamah gold souq</b><br />Best place to buy gold and there are a lot of shops to buy fabrics and textiles<br />Coordinates: (21.4869081, 39.1964989)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4869081&mlon=39.1964989&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.486908,39.1964989\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.48690810~39.19649890&lvl=16&dir=0&sty=c&sp=point.21.48690810_39.19649890_Yamamah%20gold%20souq\">Bing</a>").addTo(poilist);
 
    L.marker([21.6065750, 39.1413800],{icon: iconType672}).bindPopup("<b>Starbucks</b><br /><br />Coordinates: (21.6065750, 39.1413800)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6065750&mlon=39.1413800&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.606575,39.1413800\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.60657500~39.14138000&lvl=16&dir=0&sty=c&sp=point.21.60657500_39.14138000_Starbucks\">Bing</a>").addTo(poilist);
@@ -893,7 +895,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.787616, 39.704288],
+       center: [21.786757, 39.702189],
        zoom: 6,
        layers: [MBOX, poilist]   });
 
