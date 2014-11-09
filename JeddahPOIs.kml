@@ -1169,6 +1169,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Vegetable market</name>
+    <description><![CDATA[<div dir="ltr">Small booths of produce, thanks to Eric Bakken</div>]]></description>
+    <styleUrl>#style671</styleUrl>
+    <Point>
+      <coordinates>39.1492670,21.6166870,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Vegetable souq</name>
     <description><![CDATA[<div dir="ltr">Thanks to Naoufal Uariachi</div>]]></description>
     <styleUrl>#style671</styleUrl>

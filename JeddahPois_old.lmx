@@ -1388,6 +1388,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Eagle rock</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.072800</lm:latitude>
+      <lm:longitude>39.494200</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Elephant rock</lm:name>
     <lm:coordinates>
       <lm:latitude>26.689661</lm:latitude>

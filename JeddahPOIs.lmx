@@ -756,6 +756,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Vegetable market</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.616687</lm:latitude>
+      <lm:longitude>39.149267</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Vegetable souq</lm:name>
     <lm:coordinates>
       <lm:latitude>21.590013</lm:latitude>

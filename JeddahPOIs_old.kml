@@ -1801,6 +1801,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Eagle rock</name>
+    <description><![CDATA[<div dir="ltr">A beautiful site for camping, thanks to Alma Hobson</div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>39.4942000,22.0728000,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Elephant rock</name>
     <description><![CDATA[<div dir="ltr">Thanks, Greg Wickham</div>]]></description>
     <styleUrl>#style698</styleUrl>
