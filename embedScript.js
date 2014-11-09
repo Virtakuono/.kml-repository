@@ -769,6 +769,8 @@
 
    L.marker([18.2007920, 42.4945110],{icon: iconType698}).bindPopup("<b>National Asir Park</b><br /><br />Coordinates: (18.2007920, 42.4945110)<br /><a href=\"http://www.openstreetmap.org/?mlat=18.2007920&mlon=42.4945110&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=18.200792,42.4945110\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=18.20079200~42.49451100&lvl=16&dir=0&sty=c&sp=point.18.20079200_42.49451100_National%20Asir%20Park\">Bing</a>").addTo(poilist);
 
+   L.marker([22.8957000, 38.8856110],{icon: iconType698}).bindPopup("<b>Rabigh Peninsula</b><br />A site for camping, open for everyone. Thanks to Eric Bakken<br />Coordinates: (22.8957000, 38.8856110)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.8957000&mlon=38.8856110&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.895700,38.8856110\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.89570000~38.88561100&lvl=16&dir=0&sty=c&sp=point.22.89570000_38.88561100_Rabigh%20Peninsula\">Bing</a>").addTo(poilist);
+
    L.marker([26.8141670, 37.9475000],{icon: iconType699}).bindPopup("<b>Madain Saleh</b><br />Access here is restricted. See, for example http://kcomm.wikispaces.com/Day+Trips for info on how to get permits.]<br />Coordinates: (26.8141670, 37.9475000)<br /><a href=\"http://www.openstreetmap.org/?mlat=26.8141670&mlon=37.9475000&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=26.814167,37.9475000\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=26.81416700~37.94750000&lvl=16&dir=0&sty=c&sp=point.26.81416700_37.94750000_Madain%20Saleh\">Bing</a>").addTo(poilist);
 
    L.marker([21.5126630, 40.5943110],{icon: iconType699}).bindPopup("<b>Ruins of a turkish fort</b><br /><br />Coordinates: (21.5126630, 40.5943110)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5126630&mlon=40.5943110&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.512663,40.5943110\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.51266300~40.59431100&lvl=16&dir=0&sty=c&sp=point.21.51266300_40.59431100_Ruins%20of%20a%20turkish%20fort\">Bing</a>").addTo(poilist);
@@ -899,7 +901,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.787256, 39.698909],
+       center: [21.792014, 39.695418],
        zoom: 6,
        layers: [MBOX, poilist]   });
 
