@@ -306,9 +306,7 @@ class POISet():
 
         return rv
 
-
-
-    def osmhtmlstr(self,):
+    def osmhtmlstr(self,submaps=[]):
 
         layers = []
 
@@ -400,6 +398,19 @@ class POISet():
         rv += '  <link rel=\"stylesheet\" href=\"https://rawgit.com/Virtakuono/.kml-repository/master/screen.css\" />\n'
         rv += '  <script src=\"https://rawgit.com/Virtakuono/.kml-repository/master/leaflet-0.7.3/leaflet.js\"></script>\n'
         rv += '  <script src=\"https://rawgit.com/Virtakuono/.kml-repository/master/leaflet-0.7.3/providers/leaflet-providers.js\"></script>\n'
+        if submaps:
+            rv += '   <script type=\"text/javascript\">\n'
+            rv += '     window.onload = function(){\n'
+            hi = 1
+            for submap in submaps:
+                rv += '       var qzv%04d = document.getElementById(\"qz%04d\");\n'%(hi,hi)
+                rv += '       qzv%04d.onclick = function(){\n'%(hi,)
+                rv += '         map.setView([%.6lf, %.6lf],%d);\n'%(submap['lat'],submap['lon'],submap['zoom'])
+                rv += '         return false;\n'
+                rv += '       }\n'
+                hi += 1
+            rv += '     }\n'
+            rv += '   </script>\n'
         rv += '</head>\n'
         rv += '<body>\n'
         rv += '  <div class=\"container\">\n'
@@ -454,8 +465,16 @@ class POISet():
         rv += '     }\n\n'
         rv += '   map.on(\'click\', onMapClick);\n'
         
-
         rv += '  </script>\n'
+
+        if submaps:
+            rv += '  <p>\n     Quick zoom to:\n'
+            hi = 1
+            for submap in submaps:
+                rv += '     <a id=\"qz%04d\" href=\"https://github.com/Virtakuono/.kml-repository\">%s</a> \n'%(hi,submap['name'])
+                hi += 1
+            rv += '   </p>\n'
+
         rv += '  <h2 id="main-head">%s</h2>\n'%('Points of interest in and near Jeddah, KSA',)
         rv += '  <p>For credits, instructions to contributing etc. see <a href=\"https://rawgit.com/Virtakuono/.kml-repository/master/redir.htm\" target=\"_blank\">the project page on github</a>. Data based on contributions made through <a href=\"https://rawgit.com/Virtakuono/.kml-repository/master/redir2.htm\" target=\"_blank\">google spreadsheets</a>. If the map above refuses to load, try reloading or <a href=\"https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml\" target=\"_blank\">google maps</a>.</p>\n'
         rv += '  <h3 id="list">List of POIs</h3>\n'
@@ -493,9 +512,9 @@ class POISet():
         file.writelines([self.lmxstr(),])
         file.close()
 
-    def writeosmhtml(self,fn='JeddahPOIs.htm'):
+    def writeosmhtml(self,fn='JeddahPOIs.htm',submaps=[]):
         file = open(fn,'w')
-        file.writelines([self.osmhtmlstr(),])
+        file.writelines([self.osmhtmlstr(submaps=submaps),])
         file.close()
 
     def writeosmscript(self,fn='embedScript.js'):
@@ -542,7 +561,17 @@ def main():
     os.system('cp ./JeddahPOIs.lmx ./JeddahPois_old.lmx')
     poiSet.writekml()
     poiSet.writelmx()
-    poiSet.writeosmhtml()
+    print('Generating the leaflet html...')
+    submaps = []
+    submaps.append({'name' : 'Thuwal', 'lat' : 22.2871, 'lon' : 39.1142, 'zoom' : 17})
+    submaps.append({'name' : 'Jeddah', 'lat' : 21.5409, 'lon' : 39.1779, 'zoom' : 11})
+    submaps.append({'name' : 'Abha', 'lat' : 18.2182, 'lon' : 42.4504 ,'zoom' : 12})
+    submaps.append({'name' : 'Taif', 'lat' : 21.2837, 'lon' : 40.3989, 'zoom' : 13})
+    submaps.append({'name' : 'Riyadh', 'lat' : 24.6194 , 'lon' : 46.6879, 'zoom' : 11})
+    submaps.append({'name' : 'KAEC', 'lat' : 22.4079, 'lon' : 39.0802, 'zoom' : 14})
+    poiSet.writeosmhtml(submaps=submaps)
+
+    print('Done.')
     poiSet.writeosmscript()
     print('Done.')
     print('Difference between old and new kml file:')

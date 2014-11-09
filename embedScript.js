@@ -761,6 +761,8 @@
 
    L.marker([23.3108000, 39.8488917],{icon: iconType698}).bindPopup("<b>Al Akhal Oasis</b><br /><br />Coordinates: (23.3108000, 39.8488917)<br /><a href=\"http://www.openstreetmap.org/?mlat=23.3108000&mlon=39.8488917&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=23.310800,39.8488917\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=23.31080000~39.84889170&lvl=16&dir=0&sty=c&sp=point.23.31080000_39.84889170_Al%20Akhal%20Oasis\">Bing</a>").addTo(poilist);
 
+   L.marker([22.0728000, 39.4942000],{icon: iconType698}).bindPopup("<b>Eagle rock</b><br />A beautiful site for camping, thanks to Alma Hobson<br />Coordinates: (22.0728000, 39.4942000)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.0728000&mlon=39.4942000&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.072800,39.4942000\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.07280000~39.49420000&lvl=16&dir=0&sty=c&sp=point.22.07280000_39.49420000_Eagle%20rock\">Bing</a>").addTo(poilist);
+
    L.marker([26.6896611, 37.9799389],{icon: iconType698}).bindPopup("<b>Elephant rock</b><br />Thanks, Greg Wickham<br />Coordinates: (26.6896611, 37.9799389)<br /><a href=\"http://www.openstreetmap.org/?mlat=26.6896611&mlon=37.9799389&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=26.689661,37.9799389\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=26.68966110~37.97993890&lvl=16&dir=0&sty=c&sp=point.26.68966110_37.97993890_Elephant%20rock\">Bing</a>").addTo(poilist);
 
    L.marker([18.2007920, 42.4945110],{icon: iconType698}).bindPopup("<b>National Asir Park</b><br /><br />Coordinates: (18.2007920, 42.4945110)<br /><a href=\"http://www.openstreetmap.org/?mlat=18.2007920&mlon=42.4945110&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=18.200792,42.4945110\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=18.20079200~42.49451100&lvl=16&dir=0&sty=c&sp=point.18.20079200_42.49451100_National%20Asir%20Park\">Bing</a>").addTo(poilist);
@@ -895,7 +897,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.786757, 39.702189],
+       center: [21.787995, 39.701288],
        zoom: 6,
        layers: [MBOX, poilist]   });
 

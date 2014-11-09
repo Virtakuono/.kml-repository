@@ -1169,6 +1169,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Vegetable souq</name>
+    <description><![CDATA[<div dir="ltr">Thanks to Naoufal Uariachi</div>]]></description>
+    <styleUrl>#style671</styleUrl>
+    <Point>
+      <coordinates>39.2213840,21.5900130,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Yamamah gold souq</name>
     <description><![CDATA[<div dir="ltr">Best place to buy gold and there are a lot of shops to buy fabrics and textiles</div>]]></description>
     <styleUrl>#style671</styleUrl>
