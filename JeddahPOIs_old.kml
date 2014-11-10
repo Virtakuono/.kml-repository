@@ -1825,6 +1825,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Hot springs</name>
+    <description><![CDATA[<div dir="ltr">https://plus.google.com/photos/104338076787390324172/albums/6069683780365809025?authkey=COeHvpy1j_vIrgE</div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>40.4697760,20.4633600,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>National Asir Park</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style698</styleUrl>
