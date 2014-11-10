@@ -767,6 +767,8 @@
 
    L.marker([26.6896611, 37.9799389],{icon: iconType698}).bindPopup("<b>Elephant rock</b><br />Thanks, Greg Wickham<br />Coordinates: (26.6896611, 37.9799389)<br /><a href=\"http://www.openstreetmap.org/?mlat=26.6896611&mlon=37.9799389&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=26.689661,37.9799389\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=26.68966110~37.97993890&lvl=16&dir=0&sty=c&sp=point.26.68966110_37.97993890_Elephant%20rock\">Bing</a>").addTo(poilist);
 
+   L.marker([20.4633600, 40.4697760],{icon: iconType698}).bindPopup("<b>Hot springs</b><br />https://plus.google.com/photos/104338076787390324172/albums/6069683780365809025?authkey=COeHvpy1j_vIrgE<br />Coordinates: (20.4633600, 40.4697760)<br /><a href=\"http://www.openstreetmap.org/?mlat=20.4633600&mlon=40.4697760&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=20.463360,40.4697760\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=20.46336000~40.46977600&lvl=16&dir=0&sty=c&sp=point.20.46336000_40.46977600_Hot%20springs\">Bing</a>").addTo(poilist);
+
    L.marker([18.2007920, 42.4945110],{icon: iconType698}).bindPopup("<b>National Asir Park</b><br /><br />Coordinates: (18.2007920, 42.4945110)<br /><a href=\"http://www.openstreetmap.org/?mlat=18.2007920&mlon=42.4945110&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=18.200792,42.4945110\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=18.20079200~42.49451100&lvl=16&dir=0&sty=c&sp=point.18.20079200_42.49451100_National%20Asir%20Park\">Bing</a>").addTo(poilist);
 
    L.marker([22.8957000, 38.8856110],{icon: iconType698}).bindPopup("<b>Rabigh Peninsula</b><br />A site for camping, open for everyone. Thanks to Eric Bakken<br />Coordinates: (22.8957000, 38.8856110)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.8957000&mlon=38.8856110&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.895700,38.8856110\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.89570000~38.88561100&lvl=16&dir=0&sty=c&sp=point.22.89570000_38.88561100_Rabigh%20Peninsula\">Bing</a>").addTo(poilist);
@@ -901,7 +903,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.792014, 39.695418],
+       center: [21.786336, 39.698727],
        zoom: 6,
        layers: [MBOX, poilist]   });
 

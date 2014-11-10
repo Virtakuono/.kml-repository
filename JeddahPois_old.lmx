@@ -1420,6 +1420,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Rabigh Peninsula</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.895700</lm:latitude>
+      <lm:longitude>38.885611</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Madain Saleh</lm:name>
     <lm:coordinates>
       <lm:latitude>26.814167</lm:latitude>

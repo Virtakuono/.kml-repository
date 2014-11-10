@@ -1833,6 +1833,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Rabigh Peninsula</name>
+    <description><![CDATA[<div dir="ltr">A site for camping, open for everyone. Thanks to Eric Bakken</div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>38.8856110,22.8957000,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Madain Saleh</name>
     <description><![CDATA[<div dir="ltr">Access here is restricted. See, for example http://kcomm.wikispaces.com/Day+Trips for info on how to get permits.]</div>]]></description>
     <styleUrl>#style699</styleUrl>
