@@ -684,14 +684,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Corniche Commercial Center</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.485568</lm:latitude>
-      <lm:longitude>39.183564</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Hinda Weyah (Ribbon Souq)</lm:name>
     <lm:coordinates>
       <lm:latitude>21.475964</lm:latitude>
@@ -1260,6 +1252,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Corniche Commercial Center</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.485568</lm:latitude>
+      <lm:longitude>39.183564</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Hera International Mall</lm:name>
     <lm:coordinates>
       <lm:latitude>21.615622</lm:latitude>
@@ -1504,6 +1504,14 @@
     <lm:coordinates>
       <lm:latitude>22.289682</lm:latitude>
       <lm:longitude>39.114738</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Fabric Souq</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.586653</lm:latitude>
+      <lm:longitude>39.129360</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
