@@ -837,6 +837,8 @@
 
    L.marker([21.3559880, 40.2303090],{icon: iconType711}).bindPopup("<b>Water park</b><br /><br />Coordinates: (21.3559880, 40.2303090)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.3559880&mlon=40.2303090&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.355988,40.2303090\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.35598800~40.23030900&lvl=16&dir=0&sty=c&sp=point.21.35598800_40.23030900_Water%20park\">Bing</a>").addTo(poilist);
 
+   L.marker([21.5809140, 39.1762230],{icon: iconType712}).bindPopup("<b>Al Tayebat International City </b><br /><br />Coordinates: (21.5809140, 39.1762230)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5809140&mlon=39.1762230&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.580914,39.1762230\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.58091400~39.17622300&lvl=16&dir=0&sty=c&sp=point.21.58091400_39.17622300_Al%20Tayebat%20International%20City%20\">Bing</a>").addTo(poilist);
+
    L.marker([18.2964320, 42.7573320],{icon: iconType712}).bindPopup("<b>Museum</b><br /><br />Coordinates: (18.2964320, 42.7573320)<br /><a href=\"http://www.openstreetmap.org/?mlat=18.2964320&mlon=42.7573320&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=18.296432,42.7573320\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=18.29643200~42.75733200&lvl=16&dir=0&sty=c&sp=point.18.29643200_42.75733200_Museum\">Bing</a>").addTo(poilist);
 
    L.marker([19.9306139, 41.4424889],{icon: iconType713}).bindPopup("<b>Dhi Ain, archaeological village</b><br />Also known as Marble Village, thanks to Greg<br />Coordinates: (19.9306139, 41.4424889)<br /><a href=\"http://www.openstreetmap.org/?mlat=19.9306139&mlon=41.4424889&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=19.930614,41.4424889\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=19.93061390~41.44248890&lvl=16&dir=0&sty=c&sp=point.19.93061390_41.44248890_Dhi%20Ain%2C%20archaeological%20village\">Bing</a>").addTo(poilist);
@@ -905,7 +907,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.785486, 39.696305],
+       center: [21.784619, 39.694101],
        zoom: 6,
        layers: [MBOX, poilist]   });
 

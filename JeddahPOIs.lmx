@@ -1692,6 +1692,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Al Tayebat International City </lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.580914</lm:latitude>
+      <lm:longitude>39.176223</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Museum</lm:name>
     <lm:coordinates>
       <lm:latitude>18.296432</lm:latitude>

@@ -9,6 +9,7 @@ import time
 import mgrs
 import copy
 
+
 class POIStyle():
 
     def __init__(self,ID=684,icon='generic',type='N/A'):

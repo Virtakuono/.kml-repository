@@ -1097,14 +1097,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Corniche Commercial Center</name>
-    <description><![CDATA[<div dir="ltr">Just go to the 4th or 5th floor and you will find the best accessories, perfumes &amp; cosmetics shops</div>]]></description>
-    <styleUrl>#style671</styleUrl>
-    <Point>
-      <coordinates>39.1835640,21.4855676,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Hinda Weyah (Ribbon Souq)</name>
     <description><![CDATA[<div dir="ltr">Thanks, Linda</div>]]></description>
     <styleUrl>#style671</styleUrl>
@@ -1673,6 +1665,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Corniche Commercial Center</name>
+    <description><![CDATA[<div dir="ltr">Just go to the 4th or 5th floor and you will find the best accessories, perfumes &amp; cosmetics shops</div>]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>39.1835640,21.4855676,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Hera International Mall</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style694</styleUrl>
@@ -1921,6 +1921,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Fabric Souq</name>
+    <description><![CDATA[<div dir="ltr">Thanks to Jeff King via Facebook</div>]]></description>
+    <styleUrl>#style704</styleUrl>
+    <Point>
+      <coordinates>39.1293600,21.5866530,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Textile shop</name>
     <description><![CDATA[<div dir="ltr">There is a whole bunch of them in the nearby area</div>]]></description>
     <styleUrl>#style704</styleUrl>
@@ -2094,6 +2102,14 @@
     <styleUrl>#style711</styleUrl>
     <Point>
       <coordinates>40.2303090,21.3559880,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Al Tayebat International City </name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style712</styleUrl>
+    <Point>
+      <coordinates>39.1762230,21.5809140,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
