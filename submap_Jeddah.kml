@@ -220,6 +220,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style710">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/house.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Style id="style712">
     <IconStyle>
       <Icon>
@@ -259,6 +266,13 @@
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/statue-2.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style734">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/palace-2.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -676,6 +690,14 @@
     <styleUrl>#style671</styleUrl>
     <Point>
       <coordinates>39.2225860,21.3775890,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hayat Market</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style671</styleUrl>
+    <Point>
+      <coordinates>39.2123240,21.5475958,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1279,6 +1301,22 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>King Saud Mosque</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style707</styleUrl>
+    <Point>
+      <coordinates>39.1827220,21.5222610,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bait al Naseef</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style710</styleUrl>
+    <Point>
+      <coordinates>39.1874000,21.4843890,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Al Tayebat International City </name>
     <description><![CDATA[<div dir="ltr">This is a mosque evening souq museum and architecture wonder. Neat place to stop by but museum tours must be arranged in advance but contacting Abdraheam at +96650360137. You can also visit http://www.tripadvisor.com/Attraction_Review-g295419-d4090222-Reviews-Al_Tayebat_International_City-Jeddah_Makkah_Province.html advisor for some more info.</div>]]></description>
     <styleUrl>#style712</styleUrl>
@@ -1356,6 +1394,14 @@
     <styleUrl>#style724</styleUrl>
     <Point>
       <coordinates>39.1769139,21.5849056,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Khuzam palace</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style734</styleUrl>
+    <Point>
+      <coordinates>39.2090770,21.4750010,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>

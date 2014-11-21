@@ -376,6 +376,15 @@ Try also their fresh baked bread.]]></description>
 					<coordinates>39.112326,22.286188,0.0</coordinates>
 				</Point>
 			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-161</styleUrl>
+				<name>مدرسة الحسين بن علي الإبتدائية</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>39.11363000000006,22.286099,0.0</coordinates>
+				</Point>
+			</Placemark>
 		</Folder>
 		<Style id='icon-125'>
 			<IconStyle>

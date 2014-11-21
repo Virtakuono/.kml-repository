@@ -412,6 +412,20 @@
    popupAnchor: [0,-20]
    });
 
+   var iconType733 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/shipwreck.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+
+   var iconType734 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/palace-2.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+
 
 
 
@@ -585,6 +599,8 @@
 
    L.marker([21.3775890, 39.2225860],{icon: iconType671}).bindPopup("<b>Animal Market</b><br />An interesting article on the animal souq. Open after Asr prayer on Fridays. http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentid=20130105148141<br />Coordinates: (21.3775890, 39.2225860)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.3775890&mlon=39.2225860&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.377589,39.2225860\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.37758900~39.22258600&lvl=16&dir=0&sty=c&sp=point.21.37758900_39.22258600_Animal%20Market\">Bing</a>").addTo(poilist);
 
+   L.marker([21.5475958, 39.2123240],{icon: iconType671}).bindPopup("<b>Hayat Market</b><br />http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/<br />Coordinates: (21.5475958, 39.2123240)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5475958&mlon=39.2123240&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.547596,39.2123240\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.54759580~39.21232400&lvl=16&dir=0&sty=c&sp=point.21.54759580_39.21232400_Hayat%20Market\">Bing</a>").addTo(poilist);
+
    L.marker([21.4759640, 39.1833080],{icon: iconType671}).bindPopup("<b>Hinda Weyah (Ribbon Souq)</b><br />Thanks, Linda<br />Coordinates: (21.4759640, 39.1833080)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4759640&mlon=39.1833080&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.475964,39.1833080\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.47596400~39.18330800&lvl=16&dir=0&sty=c&sp=point.21.47596400_39.18330800_Hinda%20Weyah%20%28Ribbon%20Souq%29\">Bing</a>").addTo(poilist);
 
    L.marker([21.5583970, 39.1707230],{icon: iconType671}).bindPopup("<b>Jeddah International Markets</b><br /><br />Coordinates: (21.5583970, 39.1707230)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5583970&mlon=39.1707230&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.558397,39.1707230\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.55839700~39.17072300&lvl=16&dir=0&sty=c&sp=point.21.55839700_39.17072300_Jeddah%20International%20Markets\">Bing</a>").addTo(poilist);
@@ -642,6 +658,8 @@
    L.marker([20.1580100, 40.2468450],{icon: iconType675}).bindPopup("<b>Al Lith resort</b><br /><br />Coordinates: (20.1580100, 40.2468450)<br /><a href=\"http://www.openstreetmap.org/?mlat=20.1580100&mlon=40.2468450&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=20.158010,40.2468450\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=20.15801000~40.24684500&lvl=16&dir=0&sty=c&sp=point.20.15801000_40.24684500_Al%20Lith%20resort\">Bing</a>").addTo(poilist);
 
    L.marker([21.7100890, 39.0847510],{icon: iconType675}).bindPopup("<b>Albilad Beach</b><br /><br />Coordinates: (21.7100890, 39.0847510)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.7100890&mlon=39.0847510&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.710089,39.0847510\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.71008900~39.08475100&lvl=16&dir=0&sty=c&sp=point.21.71008900_39.08475100_Albilad%20Beach\">Bing</a>").addTo(poilist);
+
+   L.marker([21.8418150, 38.9864200],{icon: iconType675}).bindPopup("<b>Khaleej Salman Beach</b><br />http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/<br />Coordinates: (21.8418150, 38.9864200)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.8418150&mlon=38.9864200&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.841815,38.9864200\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.84181500~38.98642000&lvl=16&dir=0&sty=c&sp=point.21.84181500_38.98642000_Khaleej%20Salman%20Beach\">Bing</a>").addTo(poilist);
 
    L.marker([21.7093000, 39.0833000],{icon: iconType675}).bindPopup("<b>La Plage Beach</b><br />Thanks, Mincho Kavaldzhiev<br />Coordinates: (21.7093000, 39.0833000)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.7093000&mlon=39.0833000&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.709300,39.0833000\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.70930000~39.08330000&lvl=16&dir=0&sty=c&sp=point.21.70930000_39.08330000_La%20Plage%20Beach\">Bing</a>").addTo(poilist);
 
@@ -763,21 +781,33 @@
 
    L.marker([23.3108000, 39.8488917],{icon: iconType698}).bindPopup("<b>Al Akhal Oasis</b><br /><br />Coordinates: (23.3108000, 39.8488917)<br /><a href=\"http://www.openstreetmap.org/?mlat=23.3108000&mlon=39.8488917&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=23.310800,39.8488917\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=23.31080000~39.84889170&lvl=16&dir=0&sty=c&sp=point.23.31080000_39.84889170_Al%20Akhal%20Oasis\">Bing</a>").addTo(poilist);
 
+   L.marker([21.8297414, 39.0221715],{icon: iconType698}).bindPopup("<b>Buhairat City</b><br />http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/<br />Coordinates: (21.8297414, 39.0221715)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.8297414&mlon=39.0221715&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.829741,39.0221715\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.82974140~39.02217150&lvl=16&dir=0&sty=c&sp=point.21.82974140_39.02217150_Buhairat%20City\">Bing</a>").addTo(poilist);
+
+   L.marker([21.6400360, 39.3628110],{icon: iconType698}).bindPopup("<b>Eastern Forest</b><br />http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/<br />Coordinates: (21.6400360, 39.3628110)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6400360&mlon=39.3628110&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.640036,39.3628110\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.64003600~39.36281100&lvl=16&dir=0&sty=c&sp=point.21.64003600_39.36281100_Eastern%20Forest\">Bing</a>").addTo(poilist);
+
    L.marker([22.0728000, 39.4942000],{icon: iconType698}).bindPopup("<b>Eagle rock</b><br />A beautiful site for camping, thanks to Alma Hobson<br />Coordinates: (22.0728000, 39.4942000)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.0728000&mlon=39.4942000&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.072800,39.4942000\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.07280000~39.49420000&lvl=16&dir=0&sty=c&sp=point.22.07280000_39.49420000_Eagle%20rock\">Bing</a>").addTo(poilist);
 
    L.marker([26.6896611, 37.9799389],{icon: iconType698}).bindPopup("<b>Elephant rock</b><br />Thanks, Greg Wickham<br />Coordinates: (26.6896611, 37.9799389)<br /><a href=\"http://www.openstreetmap.org/?mlat=26.6896611&mlon=37.9799389&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=26.689661,37.9799389\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=26.68966110~37.97993890&lvl=16&dir=0&sty=c&sp=point.26.68966110_37.97993890_Elephant%20rock\">Bing</a>").addTo(poilist);
 
    L.marker([20.4633600, 40.4697760],{icon: iconType698}).bindPopup("<b>Hot springs</b><br />Thanks to Ryan Lefers for the tip<br />Coordinates: (20.4633600, 40.4697760)<br /><a href=\"http://www.openstreetmap.org/?mlat=20.4633600&mlon=40.4697760&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=20.463360,40.4697760\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=20.46336000~40.46977600&lvl=16&dir=0&sty=c&sp=point.20.46336000_40.46977600_Hot%20springs\">Bing</a>").addTo(poilist);
 
+   L.marker([22.0464360, 39.4780170],{icon: iconType698}).bindPopup("<b>Moon valley</b><br />http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/<br />Coordinates: (22.0464360, 39.4780170)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.0464360&mlon=39.4780170&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.046436,39.4780170\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.04643600~39.47801700&lvl=16&dir=0&sty=c&sp=point.22.04643600_39.47801700_Moon%20valley\">Bing</a>").addTo(poilist);
+
    L.marker([18.2007920, 42.4945110],{icon: iconType698}).bindPopup("<b>National Asir Park</b><br /><br />Coordinates: (18.2007920, 42.4945110)<br /><a href=\"http://www.openstreetmap.org/?mlat=18.2007920&mlon=42.4945110&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=18.200792,42.4945110\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=18.20079200~42.49451100&lvl=16&dir=0&sty=c&sp=point.18.20079200_42.49451100_National%20Asir%20Park\">Bing</a>").addTo(poilist);
 
    L.marker([22.8957000, 38.8856110],{icon: iconType698}).bindPopup("<b>Rabigh Peninsula</b><br />A site for camping, open for everyone. Thanks to Eric Bakken<br />Coordinates: (22.8957000, 38.8856110)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.8957000&mlon=38.8856110&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.895700,38.8856110\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.89570000~38.88561100&lvl=16&dir=0&sty=c&sp=point.22.89570000_38.88561100_Rabigh%20Peninsula\">Bing</a>").addTo(poilist);
+
+   L.marker([21.8765820, 39.0161180],{icon: iconType698}).bindPopup("<b>Salt lake</b><br />http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/<br />Coordinates: (21.8765820, 39.0161180)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.8765820&mlon=39.0161180&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.876582,39.0161180\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.87658200~39.01611800&lvl=16&dir=0&sty=c&sp=point.21.87658200_39.01611800_Salt%20lake\">Bing</a>").addTo(poilist);
+
+   L.marker([21.2433760, 39.1400150],{icon: iconType698}).bindPopup("<b>South Corniche</b><br />http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/<br />Coordinates: (21.2433760, 39.1400150)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.2433760&mlon=39.1400150&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.243376,39.1400150\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.24337600~39.14001500&lvl=16&dir=0&sty=c&sp=point.21.24337600_39.14001500_South%20Corniche\">Bing</a>").addTo(poilist);
 
    L.marker([26.8141670, 37.9475000],{icon: iconType699}).bindPopup("<b>Madain Saleh</b><br />Access here is restricted. See, for example http://kcomm.wikispaces.com/Day+Trips for info on how to get permits.]<br />Coordinates: (26.8141670, 37.9475000)<br /><a href=\"http://www.openstreetmap.org/?mlat=26.8141670&mlon=37.9475000&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=26.814167,37.9475000\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=26.81416700~37.94750000&lvl=16&dir=0&sty=c&sp=point.26.81416700_37.94750000_Madain%20Saleh\">Bing</a>").addTo(poilist);
 
    L.marker([21.5126630, 40.5943110],{icon: iconType699}).bindPopup("<b>Ruins of a turkish fort</b><br /><br />Coordinates: (21.5126630, 40.5943110)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5126630&mlon=40.5943110&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.512663,40.5943110\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.51266300~40.59431100&lvl=16&dir=0&sty=c&sp=point.21.51266300_40.59431100_Ruins%20of%20a%20turkish%20fort\">Bing</a>").addTo(poilist);
 
    L.marker([22.7396757, 39.1371766],{icon: iconType699}).bindPopup("<b>Ruins of an Ottoman fortress</b><br />Big thanks for Claire Sale http://clairesale.com/adventures-in-the-desert-ottoman-castle-near-rabigh/ Rumour from Graig Wickham has it that this site is being fenced off as of 2014...<br />Coordinates: (22.7396757, 39.1371766)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.7396757&mlon=39.1371766&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.739676,39.1371766\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.73967570~39.13717660&lvl=16&dir=0&sty=c&sp=point.22.73967570_39.13717660_Ruins%20of%20an%20Ottoman%20fortress\">Bing</a>").addTo(poilist);
+
+   L.marker([21.9162970, 39.3399830],{icon: iconType699}).bindPopup("<b>Usfan Fort</b><br />http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/<br />Coordinates: (21.9162970, 39.3399830)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.9162970&mlon=39.3399830&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.916297,39.3399830\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.91629700~39.33998300&lvl=16&dir=0&sty=c&sp=point.21.91629700_39.33998300_Usfan%20Fort\">Bing</a>").addTo(poilist);
 
    L.marker([22.4024833, 39.0815916],{icon: iconType700}).bindPopup("<b>Al Wazir Pharmacy</b><br /><br />Coordinates: (22.4024833, 39.0815916)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.4024833&mlon=39.0815916&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.402483,39.0815916\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.40248330~39.08159160&lvl=16&dir=0&sty=c&sp=point.22.40248330_39.08159160_Al%20Wazir%20Pharmacy\">Bing</a>").addTo(poilist);
 
@@ -809,6 +839,8 @@
 
    L.marker([21.4922870, 39.1857170],{icon: iconType707}).bindPopup("<b>Juffali mosque</b><br /><br />Coordinates: (21.4922870, 39.1857170)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4922870&mlon=39.1857170&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.492287,39.1857170\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.49228700~39.18571700&lvl=16&dir=0&sty=c&sp=point.21.49228700_39.18571700_Juffali%20mosque\">Bing</a>").addTo(poilist);
 
+   L.marker([21.5222610, 39.1827220],{icon: iconType707}).bindPopup("<b>King Saud Mosque</b><br />http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/<br />Coordinates: (21.5222610, 39.1827220)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5222610&mlon=39.1827220&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.522261,39.1827220\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.52226100~39.18272200&lvl=16&dir=0&sty=c&sp=point.21.52226100_39.18272200_King%20Saud%20Mosque\">Bing</a>").addTo(poilist);
+
    L.marker([21.1294540, 40.5121540],{icon: iconType708}).bindPopup("<b>Alsamlagui ancient dam</b><br /><br />Coordinates: (21.1294540, 40.5121540)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.1294540&mlon=40.5121540&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.129454,40.5121540\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.12945400~40.51215400&lvl=16&dir=0&sty=c&sp=point.21.12945400_40.51215400_Alsamlagui%20ancient%20dam\">Bing</a>").addTo(poilist);
 
    L.marker([25.4848889, 39.3627972],{icon: iconType708}).bindPopup("<b>An Bint Dam</b><br />Thanks, Greg Wickham<br />Coordinates: (25.4848889, 39.3627972)<br /><a href=\"http://www.openstreetmap.org/?mlat=25.4848889&mlon=39.3627972&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=25.484889,39.3627972\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=25.48488890~39.36279720&lvl=16&dir=0&sty=c&sp=point.25.48488890_39.36279720_An%20Bint%20Dam\">Bing</a>").addTo(poilist);
@@ -824,6 +856,8 @@
    L.marker([18.2944660, 42.3589630],{icon: iconType709}).bindPopup("<b>Cable car</b><br />Top station<br />Coordinates: (18.2944660, 42.3589630)<br /><a href=\"http://www.openstreetmap.org/?mlat=18.2944660&mlon=42.3589630&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=18.294466,42.3589630\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=18.29446600~42.35896300&lvl=16&dir=0&sty=c&sp=point.18.29446600_42.35896300_Cable%20car\">Bing</a>").addTo(poilist);
 
    L.marker([18.2811430, 42.3363610],{icon: iconType709}).bindPopup("<b>Cable car</b><br />Lower station<br />Coordinates: (18.2811430, 42.3363610)<br /><a href=\"http://www.openstreetmap.org/?mlat=18.2811430&mlon=42.3363610&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=18.281143,42.3363610\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=18.28114300~42.33636100&lvl=16&dir=0&sty=c&sp=point.18.28114300_42.33636100_Cable%20car\">Bing</a>").addTo(poilist);
+
+   L.marker([21.4843890, 39.1874000],{icon: iconType710}).bindPopup("<b>Bait al Naseef</b><br />http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/<br />Coordinates: (21.4843890, 39.1874000)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4843890&mlon=39.1874000&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.484389,39.1874000\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.48438900~39.18740000&lvl=16&dir=0&sty=c&sp=point.21.48438900_39.18740000_Bait%20al%20Naseef\">Bing</a>").addTo(poilist);
 
    L.marker([21.2698270, 40.4053960],{icon: iconType710}).bindPopup("<b>Historic house</b><br />Private<br />Coordinates: (21.2698270, 40.4053960)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.2698270&mlon=40.4053960&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.269827,40.4053960\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.26982700~40.40539600&lvl=16&dir=0&sty=c&sp=point.21.26982700_40.40539600_Historic%20house\">Bing</a>").addTo(poilist);
 
@@ -871,6 +905,8 @@
 
    L.marker([21.5865833, 39.1873389],{icon: iconType724}).bindPopup("<b>Compass monument</b><br />In the roundabout<br />Coordinates: (21.5865833, 39.1873389)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5865833&mlon=39.1873389&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.586583,39.1873389\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.58658330~39.18733890&lvl=16&dir=0&sty=c&sp=point.21.58658330_39.18733890_Compass%20monument\">Bing</a>").addTo(poilist);
 
+   L.marker([21.5891420, 21.5891420],{icon: iconType724}).bindPopup("<b>First Saudi Airlines Aircraft</b><br />http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/<br />Coordinates: (21.5891420, 21.5891420)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5891420&mlon=21.5891420&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.589142,21.5891420\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.58914200~21.58914200&lvl=16&dir=0&sty=c&sp=point.21.58914200_21.58914200_First%20Saudi%20Airlines%20Aircraft\">Bing</a>").addTo(poilist);
+
    L.marker([21.6232306, 39.1094583],{icon: iconType724}).bindPopup("<b>Flying carpet monument</b><br />In the roundabout<br />Coordinates: (21.6232306, 39.1094583)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6232306&mlon=39.1094583&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.623231,39.1094583\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.62323060~39.10945830&lvl=16&dir=0&sty=c&sp=point.21.62323060_39.10945830_Flying%20carpet%20monument\">Bing</a>").addTo(poilist);
 
    L.marker([21.4901750, 39.1868944],{icon: iconType724}).bindPopup("<b>Fountain monument</b><br />In the roundabout<br />Coordinates: (21.4901750, 39.1868944)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4901750&mlon=39.1868944&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.490175,39.1868944\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.49017500~39.18689440&lvl=16&dir=0&sty=c&sp=point.21.49017500_39.18689440_Fountain%20monument\">Bing</a>").addTo(poilist);
@@ -886,6 +922,10 @@
    L.marker([23.6885470, 38.8017940],{icon: iconType731}).bindPopup("<b>Mastorah Dunes</b><br />Thanks, Greg Wickham<br />Coordinates: (23.6885470, 38.8017940)<br /><a href=\"http://www.openstreetmap.org/?mlat=23.6885470&mlon=38.8017940&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=23.688547,38.8017940\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=23.68854700~38.80179400&lvl=16&dir=0&sty=c&sp=point.23.68854700_38.80179400_Mastorah%20Dunes\">Bing</a>").addTo(poilist);
 
    L.marker([22.7349750, 39.0692861],{icon: iconType732}).bindPopup("<b>Driving license bureau</b><br /><br />Coordinates: (22.7349750, 39.0692861)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.7349750&mlon=39.0692861&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.734975,39.0692861\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.73497500~39.06928610&lvl=16&dir=0&sty=c&sp=point.22.73497500_39.06928610_Driving%20license%20bureau\">Bing</a>").addTo(poilist);
+
+   L.marker([20.8020170, 39.4255780],{icon: iconType733}).bindPopup("<b>At Shuaiba Shipwrecks</b><br />http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/<br />Coordinates: (20.8020170, 39.4255780)<br /><a href=\"http://www.openstreetmap.org/?mlat=20.8020170&mlon=39.4255780&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=20.802017,39.4255780\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=20.80201700~39.42557800&lvl=16&dir=0&sty=c&sp=point.20.80201700_39.42557800_At%20Shuaiba%20Shipwrecks\">Bing</a>").addTo(poilist);
+
+   L.marker([21.4750010, 39.2090770],{icon: iconType734}).bindPopup("<b>Khuzam palace</b><br />http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/<br />Coordinates: (21.4750010, 39.2090770)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4750010&mlon=39.2090770&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.475001,39.2090770\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.47500100~39.20907700&lvl=16&dir=0&sty=c&sp=point.21.47500100_39.20907700_Khuzam%20palace\">Bing</a>").addTo(poilist);
 
 
 
@@ -907,7 +947,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.784619, 39.694101],
+       center: [21.775039, 39.598231],
        zoom: 6,
        layers: [MBOX, poilist]   });
 
