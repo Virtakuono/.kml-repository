@@ -684,6 +684,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Hayat Market</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.547596</lm:latitude>
+      <lm:longitude>39.212324</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Hinda Weyah (Ribbon Souq)</lm:name>
     <lm:coordinates>
       <lm:latitude>21.475964</lm:latitude>
@@ -912,6 +920,14 @@
     <lm:coordinates>
       <lm:latitude>21.710089</lm:latitude>
       <lm:longitude>39.084751</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Khaleej Salman Beach</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.841815</lm:latitude>
+      <lm:longitude>38.986420</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1396,6 +1412,22 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Buhairat City</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.829741</lm:latitude>
+      <lm:longitude>39.022171</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Eastern Forest</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.640036</lm:latitude>
+      <lm:longitude>39.362811</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Eagle rock</lm:name>
     <lm:coordinates>
       <lm:latitude>22.072800</lm:latitude>
@@ -1420,6 +1452,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Moon valley</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.046436</lm:latitude>
+      <lm:longitude>39.478017</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>National Asir Park</lm:name>
     <lm:coordinates>
       <lm:latitude>18.200792</lm:latitude>
@@ -1432,6 +1472,22 @@
     <lm:coordinates>
       <lm:latitude>22.895700</lm:latitude>
       <lm:longitude>38.885611</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Salt lake</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.876582</lm:latitude>
+      <lm:longitude>39.016118</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>South Corniche</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.243376</lm:latitude>
+      <lm:longitude>39.140015</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1456,6 +1512,14 @@
     <lm:coordinates>
       <lm:latitude>22.739676</lm:latitude>
       <lm:longitude>39.137177</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Usfan Fort</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.916297</lm:latitude>
+      <lm:longitude>39.339983</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1580,6 +1644,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>King Saud Mosque</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.522261</lm:latitude>
+      <lm:longitude>39.182722</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Alsamlagui ancient dam</lm:name>
     <lm:coordinates>
       <lm:latitude>21.129454</lm:latitude>
@@ -1640,6 +1712,14 @@
     <lm:coordinates>
       <lm:latitude>18.281143</lm:latitude>
       <lm:longitude>42.336361</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Bait al Naseef</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.484389</lm:latitude>
+      <lm:longitude>39.187400</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1828,6 +1908,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>First Saudi Airlines Aircraft</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.589142</lm:latitude>
+      <lm:longitude>21.589142</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Flying carpet monument</lm:name>
     <lm:coordinates>
       <lm:latitude>21.623231</lm:latitude>
@@ -1888,6 +1976,22 @@
     <lm:coordinates>
       <lm:latitude>22.734975</lm:latitude>
       <lm:longitude>39.069286</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>At Shuaiba Shipwrecks</lm:name>
+    <lm:coordinates>
+      <lm:latitude>20.802017</lm:latitude>
+      <lm:longitude>39.425578</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Khuzam palace</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.475001</lm:latitude>
+      <lm:longitude>39.209077</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>

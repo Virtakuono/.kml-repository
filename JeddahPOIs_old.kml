@@ -416,6 +416,20 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style733">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/shipwreck.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style734">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/palace-2.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Abhu palace hotel</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -1097,6 +1111,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Hayat Market</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style671</styleUrl>
+    <Point>
+      <coordinates>39.2123240,21.5475958,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Hinda Weyah (Ribbon Souq)</name>
     <description><![CDATA[<div dir="ltr">Thanks, Linda</div>]]></description>
     <styleUrl>#style671</styleUrl>
@@ -1326,6 +1348,14 @@
     <styleUrl>#style675</styleUrl>
     <Point>
       <coordinates>39.0847510,21.7100890,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Khaleej Salman Beach</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style675</styleUrl>
+    <Point>
+      <coordinates>38.9864200,21.8418150,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1809,6 +1839,22 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Buhairat City</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>39.0221715,21.8297414,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Eastern Forest</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>39.3628110,21.6400360,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Eagle rock</name>
     <description><![CDATA[<div dir="ltr">A beautiful site for camping, thanks to Alma Hobson</div>]]></description>
     <styleUrl>#style698</styleUrl>
@@ -1833,6 +1879,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Moon valley</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>39.4780170,22.0464360,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>National Asir Park</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style698</styleUrl>
@@ -1846,6 +1900,22 @@
     <styleUrl>#style698</styleUrl>
     <Point>
       <coordinates>38.8856110,22.8957000,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Salt lake</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>39.0161180,21.8765820,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>South Corniche</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>39.1400150,21.2433760,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1870,6 +1940,14 @@
     <styleUrl>#style699</styleUrl>
     <Point>
       <coordinates>39.1371766,22.7396757,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Usfan Fort</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style699</styleUrl>
+    <Point>
+      <coordinates>39.3399830,21.9162970,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1993,6 +2071,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>King Saud Mosque</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style707</styleUrl>
+    <Point>
+      <coordinates>39.1827220,21.5222610,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Alsamlagui ancient dam</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style708</styleUrl>
@@ -2054,6 +2140,14 @@
     <styleUrl>#style709</styleUrl>
     <Point>
       <coordinates>42.3363610,18.2811430,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bait al Naseef</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style710</styleUrl>
+    <Point>
+      <coordinates>39.1874000,21.4843890,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -2241,6 +2335,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>First Saudi Airlines Aircraft</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style724</styleUrl>
+    <Point>
+      <coordinates>21.5891420,21.5891420,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Flying carpet monument</name>
     <description><![CDATA[<div dir="ltr">In the roundabout</div>]]></description>
     <styleUrl>#style724</styleUrl>
@@ -2302,6 +2404,22 @@
     <styleUrl>#style732</styleUrl>
     <Point>
       <coordinates>39.0692861,22.7349750,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>At Shuaiba Shipwrecks</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style733</styleUrl>
+    <Point>
+      <coordinates>39.4255780,20.8020170,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Khuzam palace</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style734</styleUrl>
+    <Point>
+      <coordinates>39.2090770,21.4750010,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>
