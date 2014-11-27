@@ -1836,10 +1836,82 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Al Harrah</lm:name>
+    <lm:coordinates>
+      <lm:latitude>31.080000</lm:latitude>
+      <lm:longitude>38.420000</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Black volcano</lm:name>
     <lm:coordinates>
       <lm:latitude>25.704109</lm:latitude>
       <lm:longitude>39.913623</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Harrat Ithnayn</lm:name>
+    <lm:coordinates>
+      <lm:latitude>26.580000</lm:latitude>
+      <lm:longitude>40.200000</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Harrat al Birk</lm:name>
+    <lm:coordinates>
+      <lm:latitude>18.370000</lm:latitude>
+      <lm:longitude>41.620000</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Harrat Khaybar</lm:name>
+    <lm:coordinates>
+      <lm:latitude>25.000000</lm:latitude>
+      <lm:longitude>39.920000</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Harrat Lunaiyir</lm:name>
+    <lm:coordinates>
+      <lm:latitude>25.170000</lm:latitude>
+      <lm:longitude>37.750000</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Harrat ar Rahah</lm:name>
+    <lm:coordinates>
+      <lm:latitude>27.800000</lm:latitude>
+      <lm:longitude>36.170000</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Harrat Rahat</lm:name>
+    <lm:coordinates>
+      <lm:latitude>23.080000</lm:latitude>
+      <lm:longitude>39.750000</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Harrat Uwayrid</lm:name>
+    <lm:coordinates>
+      <lm:latitude>27.080000</lm:latitude>
+      <lm:longitude>37.250000</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Jabal Yar</lm:name>
+    <lm:coordinates>
+      <lm:latitude>17.050000</lm:latitude>
+      <lm:longitude>42.830000</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>

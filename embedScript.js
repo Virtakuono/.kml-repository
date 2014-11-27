@@ -923,7 +923,7 @@
 
    L.marker([21.5865833, 39.1873389],{icon: iconType724}).bindPopup("<b>Compass monument</b><br />In the roundabout<br />Coordinates: (21.5865833, 39.1873389)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5865833&mlon=39.1873389&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.586583,39.1873389\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.58658330~39.18733890&lvl=16&dir=0&sty=c&sp=point.21.58658330_39.18733890_Compass%20monument\">Bing</a>").addTo(poilist);
 
-   L.marker([21.5891420, 21.5891420],{icon: iconType724}).bindPopup("<b>First Saudi Airlines Aircraft</b><br />http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/<br />Coordinates: (21.5891420, 21.5891420)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5891420&mlon=21.5891420&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.589142,21.5891420\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.58914200~21.58914200&lvl=16&dir=0&sty=c&sp=point.21.58914200_21.58914200_First%20Saudi%20Airlines%20Aircraft\">Bing</a>").addTo(poilist);
+   L.marker([21.5891420, 39.1836300],{icon: iconType724}).bindPopup("<b>First Saudi Airlines Aircraft</b><br />http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/<br />Coordinates: (21.5891420, 39.1836300)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5891420&mlon=39.1836300&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.589142,39.1836300\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.58914200~39.18363000&lvl=16&dir=0&sty=c&sp=point.21.58914200_39.18363000_First%20Saudi%20Airlines%20Aircraft\">Bing</a>").addTo(poilist);
 
    L.marker([21.6232306, 39.1094583],{icon: iconType724}).bindPopup("<b>Flying carpet monument</b><br />In the roundabout<br />Coordinates: (21.6232306, 39.1094583)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6232306&mlon=39.1094583&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.623231,39.1094583\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.62323060~39.10945830&lvl=16&dir=0&sty=c&sp=point.21.62323060_39.10945830_Flying%20carpet%20monument\">Bing</a>").addTo(poilist);
 
@@ -965,7 +965,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.872848, 39.588642],
+       center: [21.872848, 39.656837],
        zoom: 6,
        layers: [MBOX, poilist]   });
 

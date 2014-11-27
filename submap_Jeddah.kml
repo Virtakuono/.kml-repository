@@ -1373,6 +1373,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>First Saudi Airlines Aircraft</name>
+    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <styleUrl>#style724</styleUrl>
+    <Point>
+      <coordinates>39.1836300,21.5891420,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Flying carpet monument</name>
     <description><![CDATA[<div dir="ltr">In the roundabout</div>]]></description>
     <styleUrl>#style724</styleUrl>

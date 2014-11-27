@@ -2263,11 +2263,83 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Al Harrah</name>
+    <description><![CDATA[<div dir="ltr">Volcanic field, http://www.volcano.si.edu/volcano.cfm?vn=231001</div>]]></description>
+    <styleUrl>#style719</styleUrl>
+    <Point>
+      <coordinates>38.4200000,31.0800000,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Black volcano</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style719</styleUrl>
     <Point>
       <coordinates>39.9136230,25.7041090,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harrat Ithnayn</name>
+    <description><![CDATA[<div dir="ltr">Volcanic field, http://www.volcano.si.edu/volcano.cfm?vn=231050</div>]]></description>
+    <styleUrl>#style719</styleUrl>
+    <Point>
+      <coordinates>40.2000000,26.5800000,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harrat al Birk</name>
+    <description><![CDATA[<div dir="ltr">Volcanic field, http://www.volcano.si.edu/volcano.cfm?vn=231072</div>]]></description>
+    <styleUrl>#style719</styleUrl>
+    <Point>
+      <coordinates>41.6200000,18.3700000,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harrat Khaybar</name>
+    <description><![CDATA[<div dir="ltr">Volcanic field, http://www.volcano.si.edu/volcano.cfm?vn=231060</div>]]></description>
+    <styleUrl>#style719</styleUrl>
+    <Point>
+      <coordinates>39.9200000,25.0000000,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harrat Lunaiyir</name>
+    <description><![CDATA[<div dir="ltr">Volcanic field, http://www.volcano.si.edu/volcano.cfm?vn=231040</div>]]></description>
+    <styleUrl>#style719</styleUrl>
+    <Point>
+      <coordinates>37.7500000,25.1700000,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harrat ar Rahah</name>
+    <description><![CDATA[<div dir="ltr">Volcanic field, http://www.volcano.si.edu/volcano.cfm?vn=231010</div>]]></description>
+    <styleUrl>#style719</styleUrl>
+    <Point>
+      <coordinates>36.1700000,27.8000000,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harrat Rahat</name>
+    <description><![CDATA[<div dir="ltr">Volcanic field, http://www.volcano.si.edu/volcano.cfm?vn=231070</div>]]></description>
+    <styleUrl>#style719</styleUrl>
+    <Point>
+      <coordinates>39.7500000,23.0800000,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harrat Uwayrid</name>
+    <description><![CDATA[<div dir="ltr">Volcanic field, http://www.volcano.si.edu/volcano.cfm?vn=231020</div>]]></description>
+    <styleUrl>#style719</styleUrl>
+    <Point>
+      <coordinates>37.2500000,27.0800000,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jabal Yar</name>
+    <description><![CDATA[<div dir="ltr">Volcanic field, http://www.volcano.si.edu/volcano.cfm?vn=231080</div>]]></description>
+    <styleUrl>#style719</styleUrl>
+    <Point>
+      <coordinates>42.8300000,17.0500000,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
