@@ -481,6 +481,8 @@
 
    L.marker([21.6093990, 39.1305579],{icon: iconType667}).bindPopup("<b>Alfairwz restaurant</b><br />A turkish restaurant<br />Coordinates: (21.6093990, 39.1305579)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6093990&mlon=39.1305579&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.609399,39.1305579\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.60939900~39.13055790&lvl=16&dir=0&sty=c&sp=point.21.60939900_39.13055790_Alfairwz%20restaurant\">Bing</a>").addTo(poilist);
 
+   L.marker([21.6093440, 39.1335490],{icon: iconType667}).bindPopup("<b>Al Seddah Restaurant</b><br />Yemeni/Saudi cuisine. Thanks to Hisham Barazi and Othman Bahlouli for recommending the Lamb Madfoon dish.<br />Coordinates: (21.6093440, 39.1335490)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6093440&mlon=39.1335490&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.609344,39.1335490\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.60934400~39.13354900&lvl=16&dir=0&sty=c&sp=point.21.60934400_39.13354900_Al%20Seddah%20Restaurant\">Bing</a>").addTo(poilist);
+
    L.marker([21.6465800, 39.1315840],{icon: iconType667}).bindPopup("<b>Applebee's</b><br />Restaurant<br />Coordinates: (21.6465800, 39.1315840)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6465800&mlon=39.1315840&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.646580,39.1315840\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.64658000~39.13158400&lvl=16&dir=0&sty=c&sp=point.21.64658000_39.13158400_Applebee%27s\">Bing</a>").addTo(poilist);
 
    L.marker([21.5594890, 39.1425230],{icon: iconType667}).bindPopup("<b>Aseil</b><br />A traditional saudi restaurant<br />Coordinates: (21.5594890, 39.1425230)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5594890&mlon=39.1425230&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.559489,39.1425230\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.55948900~39.14252300&lvl=16&dir=0&sty=c&sp=point.21.55948900_39.14252300_Aseil\">Bing</a>").addTo(poilist);
@@ -965,7 +967,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.872848, 39.656837],
+       center: [21.871831, 39.654817],
        zoom: 6,
        layers: [MBOX, poilist]   });
 
