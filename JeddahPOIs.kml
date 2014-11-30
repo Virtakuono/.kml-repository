@@ -430,6 +430,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style735">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/kitesurfing.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Abhu palace hotel</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -2500,6 +2507,22 @@
     <styleUrl>#style734</styleUrl>
     <Point>
       <coordinates>39.2090770,21.4750010,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Saibah Lagoons, north lagoon</name>
+    <description><![CDATA[<div dir="ltr">Thanks to Yasmin Gahtani via Facebook. </div>]]></description>
+    <styleUrl>#style735</styleUrl>
+    <Point>
+      <coordinates>39.4426346,20.8122855,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Saibah Lagoons, south lagoon</name>
+    <description><![CDATA[<div dir="ltr">Thanks to Yasmin Gahtani via Facebook. </div>]]></description>
+    <styleUrl>#style735</styleUrl>
+    <Point>
+      <coordinates>39.4783401,20.7657448,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>
