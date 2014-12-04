@@ -212,6 +212,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Al Seddah Restaurant</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.609344</lm:latitude>
+      <lm:longitude>39.133549</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Applebee's</lm:name>
     <lm:coordinates>
       <lm:latitude>21.646580</lm:latitude>
