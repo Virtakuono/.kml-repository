@@ -2091,5 +2091,13 @@
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
+  <lm:landmark>
+    <lm:name>Free parking nearby JED south terminal</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.670350</lm:latitude>
+      <lm:longitude>39.154538</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
  </lm:landmarkCollection>
 </lm:lmx>

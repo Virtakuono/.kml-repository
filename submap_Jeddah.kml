@@ -276,6 +276,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style736">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Avail Hotel and Suite</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -1418,6 +1425,14 @@
     <styleUrl>#style734</styleUrl>
     <Point>
       <coordinates>39.2090770,21.4750010,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Free parking nearby JED south terminal</name>
+    <description><![CDATA[<div dir="ltr">Thousand thanks to Abu Sajjad on Facebook</div>]]></description>
+    <styleUrl>#style736</styleUrl>
+    <Point>
+      <coordinates>39.1545380,21.6703500,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>

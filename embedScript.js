@@ -433,6 +433,13 @@
    popupAnchor: [0,-20]
    });
 
+   var iconType736 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/parking.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+
 
 
 
@@ -958,6 +965,8 @@
 
    L.marker([20.7657448, 39.4783401],{icon: iconType735}).bindPopup("<b>Saibah Lagoons, south lagoon</b><br />Thanks to Yasmin Gahtani via Facebook. <br />Coordinates: (20.7657448, 39.4783401)<br /><a href=\"http://www.openstreetmap.org/?mlat=20.7657448&mlon=39.4783401&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=20.765745,39.4783401\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=20.76574480~39.47834010&lvl=16&dir=0&sty=c&sp=point.20.76574480_39.47834010_Saibah%20Lagoons%2C%20south%20lagoon\">Bing</a>").addTo(poilist);
 
+   L.marker([21.6703500, 39.1545380],{icon: iconType736}).bindPopup("<b>Free parking nearby JED south terminal</b><br />Thousand thanks to Abu Sajjad on Facebook<br />Coordinates: (21.6703500, 39.1545380)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6703500&mlon=39.1545380&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.670350,39.1545380\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.67035000~39.15453800&lvl=16&dir=0&sty=c&sp=point.21.67035000_39.15453800_Free%20parking%20nearby%20JED%20south%20terminal\">Bing</a>").addTo(poilist);
+
 
 
 
@@ -978,7 +987,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.863533, 39.653328],
+       center: [21.862796, 39.651424],
        zoom: 6,
        layers: [MBOX, poilist]   });
 

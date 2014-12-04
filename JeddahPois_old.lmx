@@ -2075,5 +2075,21 @@
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
+  <lm:landmark>
+    <lm:name>Saibah Lagoons, north lagoon</lm:name>
+    <lm:coordinates>
+      <lm:latitude>20.812286</lm:latitude>
+      <lm:longitude>39.442635</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Saibah Lagoons, south lagoon</lm:name>
+    <lm:coordinates>
+      <lm:latitude>20.765745</lm:latitude>
+      <lm:longitude>39.478340</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
  </lm:landmarkCollection>
 </lm:lmx>
