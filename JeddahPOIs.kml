@@ -437,6 +437,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style736">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Abhu palace hotel</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -1102,6 +1109,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Al Balad: Fruit and Veggie section</name>
+    <description><![CDATA[<div dir="ltr">Lots of fruit and vegetables, a few butcher shops as well</div>]]></description>
+    <styleUrl>#style671</styleUrl>
+    <Point>
+      <coordinates>39.1903444,21.4860500,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Alderwazah market</name>
     <description><![CDATA[<div dir="ltr">This shop is specialised in traditional furniture and you can find a lot of shops around it that are selling nice accessories</div>]]></description>
     <styleUrl>#style671</styleUrl>
@@ -1187,6 +1202,14 @@
     <styleUrl>#style671</styleUrl>
     <Point>
       <coordinates>39.1882670,21.4848440,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Souq Ghorab</name>
+    <description><![CDATA[<div dir="ltr">A place to buy lamps. Thanks to Aqeel A. Bafadel via Facebook.</div>]]></description>
+    <styleUrl>#style671</styleUrl>
+    <Point>
+      <coordinates>39.1761220,21.5508070,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -2523,6 +2546,14 @@
     <styleUrl>#style735</styleUrl>
     <Point>
       <coordinates>39.4783401,20.7657448,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Free parking nearby JED south terminal</name>
+    <description><![CDATA[<div dir="ltr">Thousand thanks to Abu Sajjad on Facebook</div>]]></description>
+    <styleUrl>#style736</styleUrl>
+    <Point>
+      <coordinates>39.1545380,21.6703500,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>

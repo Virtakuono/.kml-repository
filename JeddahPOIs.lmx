@@ -668,6 +668,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Al Balad: Fruit and Veggie section</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.486050</lm:latitude>
+      <lm:longitude>39.190344</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Alderwazah market</lm:name>
     <lm:coordinates>
       <lm:latitude>21.570461</lm:latitude>
@@ -752,6 +760,14 @@
     <lm:coordinates>
       <lm:latitude>21.484844</lm:latitude>
       <lm:longitude>39.188267</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Souq Ghorab</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.550807</lm:latitude>
+      <lm:longitude>39.176122</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -2088,6 +2104,14 @@
     <lm:coordinates>
       <lm:latitude>20.765745</lm:latitude>
       <lm:longitude>39.478340</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Free parking nearby JED south terminal</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.670350</lm:latitude>
+      <lm:longitude>39.154538</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>

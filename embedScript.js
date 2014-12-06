@@ -433,6 +433,13 @@
    popupAnchor: [0,-20]
    });
 
+   var iconType736 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/parking.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+
 
 
 
@@ -602,6 +609,8 @@
 
    L.marker([21.4817093, 39.1849682],{icon: iconType671}).bindPopup("<b>Albukhariah district</b><br />A place to buy carpets, a really small street but full with carpet shops among other things<br />Coordinates: (21.4817093, 39.1849682)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4817093&mlon=39.1849682&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.481709,39.1849682\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.48170930~39.18496820&lvl=16&dir=0&sty=c&sp=point.21.48170930_39.18496820_Albukhariah%20district\">Bing</a>").addTo(poilist);
 
+   L.marker([21.4860500, 39.1903444],{icon: iconType671}).bindPopup("<b>Al Balad: Fruit and Veggie section</b><br />Lots of fruit and vegetables, a few butcher shops as well<br />Coordinates: (21.4860500, 39.1903444)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4860500&mlon=39.1903444&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.486050,39.1903444\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.48605000~39.19034440&lvl=16&dir=0&sty=c&sp=point.21.48605000_39.19034440_Al%20Balad%3A%20Fruit%20and%20Veggie%20section\">Bing</a>").addTo(poilist);
+
    L.marker([21.5704613, 39.1894340],{icon: iconType671}).bindPopup("<b>Alderwazah market</b><br />This shop is specialised in traditional furniture and you can find a lot of shops around it that are selling nice accessories<br />Coordinates: (21.5704613, 39.1894340)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5704613&mlon=39.1894340&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.570461,39.1894340\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.57046130~39.18943400&lvl=16&dir=0&sty=c&sp=point.21.57046130_39.18943400_Alderwazah%20market\">Bing</a>").addTo(poilist);
 
    L.marker([21.5429830, 39.1974470],{icon: iconType671}).bindPopup("<b>Alsharq souq</b><br />One of the best marketplaces for fabrics, textiles & traditional women's clothes<br />Coordinates: (21.5429830, 39.1974470)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5429830&mlon=39.1974470&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.542983,39.1974470\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.54298300~39.19744700&lvl=16&dir=0&sty=c&sp=point.21.54298300_39.19744700_Alsharq%20souq\">Bing</a>").addTo(poilist);
@@ -623,6 +632,8 @@
    L.marker([21.4120009, 39.2081129],{icon: iconType671}).bindPopup("<b>Rockets souq</b><br />Dont’t worry they are not selling rockets here it’s just a name ;). you can find here almost everything electronics, cloths, food, carpets,furniture, etc.<br />Coordinates: (21.4120009, 39.2081129)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4120009&mlon=39.2081129&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.412001,39.2081129\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.41200090~39.20811290&lvl=16&dir=0&sty=c&sp=point.21.41200090_39.20811290_Rockets%20souq\">Bing</a>").addTo(poilist);
 
    L.marker([21.4848440, 39.1882670],{icon: iconType671}).bindPopup("<b>Suq Al Alawi, Al Balad District</b><br />Jeddah 22236, Saudi Arabia<br />Coordinates: (21.4848440, 39.1882670)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4848440&mlon=39.1882670&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.484844,39.1882670\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.48484400~39.18826700&lvl=16&dir=0&sty=c&sp=point.21.48484400_39.18826700_Suq%20Al%20Alawi%2C%20Al%20Balad%20District\">Bing</a>").addTo(poilist);
+
+   L.marker([21.5508070, 39.1761220],{icon: iconType671}).bindPopup("<b>Souq Ghorab</b><br />A place to buy lamps. Thanks to Aqeel A. Bafadel via Facebook.<br />Coordinates: (21.5508070, 39.1761220)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5508070&mlon=39.1761220&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.550807,39.1761220\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.55080700~39.17612200&lvl=16&dir=0&sty=c&sp=point.21.55080700_39.17612200_Souq%20Ghorab\">Bing</a>").addTo(poilist);
 
    L.marker([18.2146850, 42.4964330],{icon: iconType671}).bindPopup("<b>Tuesday market</b><br /><br />Coordinates: (18.2146850, 42.4964330)<br /><a href=\"http://www.openstreetmap.org/?mlat=18.2146850&mlon=42.4964330&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=18.214685,42.4964330\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=18.21468500~42.49643300&lvl=16&dir=0&sty=c&sp=point.18.21468500_42.49643300_Tuesday%20market\">Bing</a>").addTo(poilist);
 
@@ -958,6 +969,8 @@
 
    L.marker([20.7657448, 39.4783401],{icon: iconType735}).bindPopup("<b>Saibah Lagoons, south lagoon</b><br />Thanks to Yasmin Gahtani via Facebook. <br />Coordinates: (20.7657448, 39.4783401)<br /><a href=\"http://www.openstreetmap.org/?mlat=20.7657448&mlon=39.4783401&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=20.765745,39.4783401\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=20.76574480~39.47834010&lvl=16&dir=0&sty=c&sp=point.20.76574480_39.47834010_Saibah%20Lagoons%2C%20south%20lagoon\">Bing</a>").addTo(poilist);
 
+   L.marker([21.6703500, 39.1545380],{icon: iconType736}).bindPopup("<b>Free parking nearby JED south terminal</b><br />Thousand thanks to Abu Sajjad on Facebook<br />Coordinates: (21.6703500, 39.1545380)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6703500&mlon=39.1545380&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.670350,39.1545380\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.67035000~39.15453800&lvl=16&dir=0&sty=c&sp=point.21.67035000_39.15453800_Free%20parking%20nearby%20JED%20south%20terminal\">Bing</a>").addTo(poilist);
+
 
 
 
@@ -978,7 +991,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.863533, 39.653328],
+       center: [21.860187, 39.647877],
        zoom: 6,
        layers: [MBOX, poilist]   });
 

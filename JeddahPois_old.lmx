@@ -756,6 +756,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Souq Ghorab</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.550807</lm:latitude>
+      <lm:longitude>39.176122</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Tuesday market</lm:name>
     <lm:coordinates>
       <lm:latitude>18.214685</lm:latitude>
@@ -2072,6 +2080,30 @@
     <lm:coordinates>
       <lm:latitude>21.475001</lm:latitude>
       <lm:longitude>39.209077</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Saibah Lagoons, north lagoon</lm:name>
+    <lm:coordinates>
+      <lm:latitude>20.812286</lm:latitude>
+      <lm:longitude>39.442635</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Saibah Lagoons, south lagoon</lm:name>
+    <lm:coordinates>
+      <lm:latitude>20.765745</lm:latitude>
+      <lm:longitude>39.478340</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Free parking nearby JED south terminal</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.670350</lm:latitude>
+      <lm:longitude>39.154538</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
