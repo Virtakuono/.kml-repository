@@ -631,6 +631,8 @@
 
    L.marker([21.4848440, 39.1882670],{icon: iconType671}).bindPopup("<b>Suq Al Alawi, Al Balad District</b><br />Jeddah 22236, Saudi Arabia<br />Coordinates: (21.4848440, 39.1882670)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4848440&mlon=39.1882670&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.484844,39.1882670\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.48484400~39.18826700&lvl=16&dir=0&sty=c&sp=point.21.48484400_39.18826700_Suq%20Al%20Alawi%2C%20Al%20Balad%20District\">Bing</a>").addTo(poilist);
 
+   L.marker([21.5508070, 39.1761220],{icon: iconType671}).bindPopup("<b>Souq Ghorab</b><br />A place to buy lamps. Thanks to Aqeel A. Bafadel via Facebook.<br />Coordinates: (21.5508070, 39.1761220)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5508070&mlon=39.1761220&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.550807,39.1761220\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.55080700~39.17612200&lvl=16&dir=0&sty=c&sp=point.21.55080700_39.17612200_Souq%20Ghorab\">Bing</a>").addTo(poilist);
+
    L.marker([18.2146850, 42.4964330],{icon: iconType671}).bindPopup("<b>Tuesday market</b><br /><br />Coordinates: (18.2146850, 42.4964330)<br /><a href=\"http://www.openstreetmap.org/?mlat=18.2146850&mlon=42.4964330&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=18.214685,42.4964330\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=18.21468500~42.49643300&lvl=16&dir=0&sty=c&sp=point.18.21468500_42.49643300_Tuesday%20market\">Bing</a>").addTo(poilist);
 
    L.marker([21.6166870, 39.1492670],{icon: iconType671}).bindPopup("<b>Vegetable market</b><br />Small booths of produce, thanks to Eric Bakken<br />Coordinates: (21.6166870, 39.1492670)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6166870&mlon=39.1492670&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.616687,39.1492670\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.61668700~39.14926700&lvl=16&dir=0&sty=c&sp=point.21.61668700_39.14926700_Vegetable%20market\">Bing</a>").addTo(poilist);
@@ -987,7 +989,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.862796, 39.651424],
+       center: [21.861610, 39.649617],
        zoom: 6,
        layers: [MBOX, poilist]   });
 

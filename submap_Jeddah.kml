@@ -772,6 +772,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Souq Ghorab</name>
+    <description><![CDATA[<div dir="ltr">A place to buy lamps. Thanks to Aqeel A. Bafadel via Facebook.</div>]]></description>
+    <styleUrl>#style671</styleUrl>
+    <Point>
+      <coordinates>39.1761220,21.5508070,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Vegetable market</name>
     <description><![CDATA[<div dir="ltr">Small booths of produce, thanks to Eric Bakken</div>]]></description>
     <styleUrl>#style671</styleUrl>

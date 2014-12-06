@@ -756,6 +756,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Souq Ghorab</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.550807</lm:latitude>
+      <lm:longitude>39.176122</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Tuesday market</lm:name>
     <lm:coordinates>
       <lm:latitude>18.214685</lm:latitude>
