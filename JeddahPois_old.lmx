@@ -668,6 +668,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Al Balad: Fruit and Veggie section</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.486050</lm:latitude>
+      <lm:longitude>39.190344</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Alderwazah market</lm:name>
     <lm:coordinates>
       <lm:latitude>21.570461</lm:latitude>

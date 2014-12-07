@@ -1909,6 +1909,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>End of World</name>
+    <description><![CDATA[<div dir="ltr">A beautiful site, http://www.blueabaya.com/2012/08/guide-to-edge-of-world.html</div>]]></description>
+    <styleUrl>#style698</styleUrl>
+    <Point>
+      <coordinates>45.9922500,24.9448333,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Hot springs</name>
     <description><![CDATA[<div dir="ltr">Thanks to Ryan Lefers for the tip</div>]]></description>
     <styleUrl>#style698</styleUrl>

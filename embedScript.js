@@ -809,6 +809,8 @@
 
    L.marker([26.6896611, 37.9799389],{icon: iconType698}).bindPopup("<b>Elephant rock</b><br />Thanks, Greg Wickham<br />Coordinates: (26.6896611, 37.9799389)<br /><a href=\"http://www.openstreetmap.org/?mlat=26.6896611&mlon=37.9799389&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=26.689661,37.9799389\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=26.68966110~37.97993890&lvl=16&dir=0&sty=c&sp=point.26.68966110_37.97993890_Elephant%20rock\">Bing</a>").addTo(poilist);
 
+   L.marker([24.9448333, 45.9922500],{icon: iconType698}).bindPopup("<b>End of World</b><br />A beautiful site, http://www.blueabaya.com/2012/08/guide-to-edge-of-world.html<br />Coordinates: (24.9448333, 45.9922500)<br /><a href=\"http://www.openstreetmap.org/?mlat=24.9448333&mlon=45.9922500&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=24.944833,45.9922500\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=24.94483330~45.99225000&lvl=16&dir=0&sty=c&sp=point.24.94483330_45.99225000_End%20of%20World\">Bing</a>").addTo(poilist);
+
    L.marker([20.4633600, 40.4697760],{icon: iconType698}).bindPopup("<b>Hot springs</b><br />Thanks to Ryan Lefers for the tip<br />Coordinates: (20.4633600, 40.4697760)<br /><a href=\"http://www.openstreetmap.org/?mlat=20.4633600&mlon=40.4697760&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=20.463360,40.4697760\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=20.46336000~40.46977600&lvl=16&dir=0&sty=c&sp=point.20.46336000_40.46977600_Hot%20springs\">Bing</a>").addTo(poilist);
 
    L.marker([22.0464360, 39.4780170],{icon: iconType698}).bindPopup("<b>Moon valley</b><br />http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/<br />Coordinates: (22.0464360, 39.4780170)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.0464360&mlon=39.4780170&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.046436,39.4780170\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.04643600~39.47801700&lvl=16&dir=0&sty=c&sp=point.22.04643600_39.47801700_Moon%20valley\">Bing</a>").addTo(poilist);
@@ -991,7 +993,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.860187, 39.647877],
+       center: [21.871827, 39.671818],
        zoom: 6,
        layers: [MBOX, poilist]   });
 

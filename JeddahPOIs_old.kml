@@ -1109,6 +1109,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Al Balad: Fruit and Veggie section</name>
+    <description><![CDATA[<div dir="ltr">Lots of fruit and vegetables, a few butcher shops as well</div>]]></description>
+    <styleUrl>#style671</styleUrl>
+    <Point>
+      <coordinates>39.1903444,21.4860500,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Alderwazah market</name>
     <description><![CDATA[<div dir="ltr">This shop is specialised in traditional furniture and you can find a lot of shops around it that are selling nice accessories</div>]]></description>
     <styleUrl>#style671</styleUrl>
