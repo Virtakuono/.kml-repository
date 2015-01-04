@@ -713,6 +713,8 @@
 
    L.marker([21.6024440, 39.1426440],{icon: iconType681}).bindPopup("<b>Happy Pets</b><br />Pet shop<br />Coordinates: (21.6024440, 39.1426440)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6024440&mlon=39.1426440&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.602444,39.1426440\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.60244400~39.14264400&lvl=16&dir=0&sty=c&sp=point.21.60244400_39.14264400_Happy%20Pets\">Bing</a>").addTo(poilist);
 
+   L.marker([21.5896280, 39.1749340],{icon: iconType681}).bindPopup("<b>Pet Oasis</b><br />Pet shop<br />Coordinates: (21.5896280, 39.1749340)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5896280&mlon=39.1749340&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.589628,39.1749340\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.58962800~39.17493400&lvl=16&dir=0&sty=c&sp=point.21.58962800_39.17493400_Pet%20Oasis\">Bing</a>").addTo(poilist);
+
    L.marker([21.5970270, 39.1425740],{icon: iconType681}).bindPopup("<b>Pet Oasis</b><br />Pet shop<br />Coordinates: (21.5970270, 39.1425740)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5970270&mlon=39.1425740&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.597027,39.1425740\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.59702700~39.14257400&lvl=16&dir=0&sty=c&sp=point.21.59702700_39.14257400_Pet%20Oasis\">Bing</a>").addTo(poilist);
 
    L.marker([21.6646670, 39.1085590],{icon: iconType682}).bindPopup("<b>Toys R Us</b><br />In Roshan Mall<br />Coordinates: (21.6646670, 39.1085590)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6646670&mlon=39.1085590&zoom=12&layers=M\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.664667,39.1085590\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.66466700~39.10855900&lvl=16&dir=0&sty=c&sp=point.21.66466700_39.10855900_Toys%20R%20Us\">Bing</a>").addTo(poilist);
@@ -993,7 +995,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.871827, 39.671818],
+       center: [21.870766, 39.669950],
        zoom: 6,
        layers: [MBOX, poilist]   });
 

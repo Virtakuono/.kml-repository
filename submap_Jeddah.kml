@@ -1016,6 +1016,14 @@
     <description><![CDATA[<div dir="ltr">Pet shop</div>]]></description>
     <styleUrl>#style681</styleUrl>
     <Point>
+      <coordinates>39.1749340,21.5896280,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pet Oasis</name>
+    <description><![CDATA[<div dir="ltr">Pet shop</div>]]></description>
+    <styleUrl>#style681</styleUrl>
+    <Point>
       <coordinates>39.1425740,21.5970270,0.0000000</coordinates>
     </Point>
   </Placemark>

@@ -1468,6 +1468,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>End of World</lm:name>
+    <lm:coordinates>
+      <lm:latitude>24.944833</lm:latitude>
+      <lm:longitude>45.992250</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Hot springs</lm:name>
     <lm:coordinates>
       <lm:latitude>20.463360</lm:latitude>
