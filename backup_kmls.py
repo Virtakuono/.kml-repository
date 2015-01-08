@@ -12,10 +12,11 @@ import copy
 
 class POIStyle():
 
-    def __init__(self,ID=684,icon='generic',type='N/A'):
+    def __init__(self,ID=684,icon='generic',type='N/A',category=0):
         self.id = ID
         self.ttype = type
         self.icon = '%s.png'%(icon,)
+        self.category = category
 
     def iconUrl(self):
         return 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/%s'%(self.icon,)
@@ -98,7 +99,7 @@ class POI():
 
     def osmhtmlstr(self):
         rv = '   L.marker([%.7f, %.7f],{icon: %s}).addTo(map).bindPopup(\"<b>%s</b><br />%s<br />Coordinates: (%.7f, %.7f)<br /><a href=\\"%s\\">OSM</a>, <a href=\\"%s\\">Google Maps</a>, <a href=\\"%s\\">Bing</a>\");\n'%(self.lat,self.lon,self.ttype.osmIconType(),self.name,self.desc,self.lat,self.lon,self.osmUrl(),self.gmapUrl(),self.bingUrl())
-        rv = '   L.marker([%.7f, %.7f],{icon: %s}).bindPopup(\"<b>%s</b><br />%s<br />Coordinates: (%.7f, %.7f)<br /><a href=\\"%s\\">OSM</a>, <a href=\\"%s\\">Google Maps</a>, <a href=\\"%s\\">Bing</a>\").addTo(poilist);\n'%(self.lat,self.lon,self.ttype.osmIconType(),self.name,self.desc,self.lat,self.lon,self.osmUrl(),self.gmapUrl(),self.bingUrl())
+        rv = '   L.marker([%.7f, %.7f],{icon: %s}).bindPopup(\"<b>%s</b><br />%s<br />Coordinates: (%.7f, %.7f)<br /><a href=\\"%s\\">OSM</a>, <a href=\\"%s\\">Google Maps</a>, <a href=\\"%s\\">Bing</a>\").addTo(poicat%03d);\n'%(self.lat,self.lon,self.ttype.osmIconType(),self.name,self.desc,self.lat,self.lon,self.osmUrl(),self.gmapUrl(),self.bingUrl(),self.ttype.category)
         return rv
 
     def mdstr(self):
@@ -133,8 +134,12 @@ class POISet():
             line = line[line.find('\t')+1:]
             type = line[:line.find('\t')]
             line = line[line.find('\t')+1:]
+            category = line[line.find('\t')+1:]
+            category = category[:category.find('\t')]
+            category = int(category)
+            line = line[:line.find('\t')]
             filename = line
-            style = POIStyle(ID=id,icon=filename,type=type)
+            style = POIStyle(ID=id,icon=filename,type=type,category=category)
             self.styles[style.id] = style
         filename = '%s.tsv'%(self.filename,)
         file = open(filename)
@@ -157,10 +162,14 @@ class POISet():
             id  = int(line[:line.find('\t')])
             self.POIs.append(POI(name=name,desc=desc,lat=lat,lon=lon,type=self.styles[id]))
         effstyles = []
+        effcategories = []
         for poi in self.POIs:
             if poi.ttype not in effstyles:
                 effstyles.append(poi.ttype)
+            if poi.ttype.category not in effcategories:
+                effcategories.append(poi.ttype.category)
         self.styles = effstyles
+        self.effcategories = effcategories
 
     def __str__(self,):
         rv = '<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n'
@@ -289,7 +298,6 @@ class POISet():
         baseMapStr = '%s\n'%(baseMapStr[:-2])
         baseMapStr += '     };\n\n'
 
-
         rv += baseMapStr
 
         rv += '   var overlayMaps = {\n          \"POIs\": poilist\n          };\n\n'
@@ -351,7 +359,7 @@ class POISet():
         p2['attr'] += 'Imagery &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap Sweden</a>'
         p2['url'] = 'http://{s}.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png'
         p2['code'] = codefun(p2)
-        layers.append(p2)
+        #layers.append(p2)
 
         p3 = {}
         p3['id'] = 'OCM'
@@ -418,7 +426,15 @@ class POISet():
         rv += '  <div id=\"map\" class=\"map\" style=\"height: %dem\"></div>\n'%(35,)
         rv += '  <script>\n'
         counter = 1
-        rv += '   var poilist = new L.layerGroup();\n'
+
+        rv += '\n'
+
+
+        for foo in range(0,len(self.effcategories)):
+            rv += '   var poicat%03d = new L.layerGroup();\n'%(self.effcategories[foo])
+
+        rv += '\n'
+
         for style in self.styles:
             rv += style.osmhtmlstr()
             rv += '\n'
@@ -434,7 +450,7 @@ class POISet():
 
         for foo in layers:
             rv += '   %s'%(foo['code'],)
-        layerList = '[%s, %s]'%(layers[0]['id'],'poilist')
+        layerList = '[%s, poicat%03d]'%(layers[0]['id'],1)
         
         mapStr = '   var map = L.map(\'map\', {\n'
         mapStr += '       center: [%f, %f],\n'%(self.centerPoint()[0],self.centerPoint()[1])
@@ -453,8 +469,18 @@ class POISet():
 
         rv += baseMapStr
 
-        rv += '   var overlayMaps = {\n          \"POIs\": poilist\n          };\n\n'
+        rv += '   var overlayMaps = {\n'
+        for foo in range(0,len(self.effcategories)):
+            rv += '      \"Category %d\": poicat%03d,\n'%(self.effcategories[foo],self.effcategories[foo])
+        rv += '      };\n\n'
+
+        #rv += '   var overlayMaps = {\n          \"POIs\": poilist\n          };\n\n'
         rv += '   L.control.layers(baseMaps,overlayMaps).addTo(map);\n\n\n'
+
+        for foo in range(1,len(self.effcategories)):
+            rv += '   poicat%03d.addTo(map)\n'%(self.effcategories[foo])
+
+        rv += '   \n'
 
         rv += '   var popup = L.popup();\n\n'
 
