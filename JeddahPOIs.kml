@@ -444,6 +444,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style737">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/aquarium.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Abhu palace hotel</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -2570,6 +2577,14 @@
     <styleUrl>#style736</styleUrl>
     <Point>
       <coordinates>39.1545380,21.6703500,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fakieh Aquarium</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style737</styleUrl>
+    <Point>
+      <coordinates>39.1093790,21.5721580,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>

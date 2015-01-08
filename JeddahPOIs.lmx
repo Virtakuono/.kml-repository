@@ -2131,5 +2131,13 @@
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
+  <lm:landmark>
+    <lm:name>Fakieh Aquarium</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.572158</lm:latitude>
+      <lm:longitude>39.109379</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
  </lm:landmarkCollection>
 </lm:lmx>

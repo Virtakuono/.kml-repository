@@ -1086,6 +1086,14 @@
   <lm:landmark>
     <lm:name>Pet Oasis</lm:name>
     <lm:coordinates>
+      <lm:latitude>21.589628</lm:latitude>
+      <lm:longitude>39.174934</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Pet Oasis</lm:name>
+    <lm:coordinates>
       <lm:latitude>21.597027</lm:latitude>
       <lm:longitude>39.142574</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
@@ -2120,6 +2128,14 @@
     <lm:coordinates>
       <lm:latitude>21.670350</lm:latitude>
       <lm:longitude>39.154538</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Fakieh Aquarium</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.572158</lm:latitude>
+      <lm:longitude>39.109379</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>

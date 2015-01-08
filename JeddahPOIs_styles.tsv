@@ -1,400 +1,400 @@
-666	Hotel	hotel_nostars
-667	Restaurant	restaurant_generic
-668	Checkpoint	toll_station
-669	Intersection	junction
-670	Airport terminal	airport_terminal
-671	Souq	souq
-672	Coffeehouse	coffee
-673	Supermarket	supermarket
-674	Electronics shop	electronics
-675	Beach	beach
-676	Hardware store	hardware
-677	Cars	car
-678	Book store	book
-679	Furniture shop	furniture
-680	Veterinary	veterinary
-681	Pet shop	pets
-682	Toys	toys
-683	Hospital	hospital-building
-684	N/A	generic
-685	Police station	police_station
-686	University	university
-687	Car repair	carrepair
-688	Bank	bank
-689	Police checkpoint	police_checkpoint
-690	Embassy, consulate	embassy
-691	Bike shop	bicycle_shop
-692	Sewing shop	sewingmachine
-693	Computers	computers
-694	Mall	mall
-695	Boat shop	boatshop
-696	Scuba shop	scubashop
-697	Scuba diving	scuba
-698	Natural site	palm
-699	Fortress, castle	fortress
-700	Pharmacy	pharmacy
-701	Photo shop	photo
-702	Car wash	carwash
-703	ATM	atm
-704	Textiles, fabrics	textiles
-705	Bus dropoff	bustour
-706	City, town, village	city
-707	Mosque	mosque
-708	Dam	dam
-709	Cable car	cablecar
-710	House	house
-711	Water park	waterpark
-712	Museum	museum_archeological
-713	Village, hamlet	village
-714	Tower building, skyscraper	moderntower
-715	Motorbike shop	motorbike
-716	Cemetery	tomb
-717	Fish market	fish_trade
-718	Climbing	climbing
-719	Volcano	volcano
-720	Mountains	mountains
-721	View	beautifulview
-722	Memorial	memorial
-723	Old bridge	bridge_old
-724	Statue	statue-2
-725	Tower	tower
-726	Sight	sight-2
-727	Ruins	ruins-2
-728	Cave	cave
-729	Campsite	campfire
-730	Well	waterwell
-731	Sand dunes	desert-3
-732	Driving license	car_orange
-733	Shipwreck	shipwreck
-734	Palace	palace-2
-735	Kite surfing	kitesurfing
-736	Parking	parking
-737	N/A	generic
-738	N/A	generic
-739	N/A	generic
-740	N/A	generic
-741	N/A	generic
-742	N/A	generic
-743	N/A	generic
-744	N/A	generic
-745	N/A	generic
-746	N/A	generic
-747	N/A	generic
-748	N/A	generic
-749	N/A	generic
-750	N/A	generic
-751	N/A	generic
-752	N/A	generic
-753	N/A	generic
-754	N/A	generic
-755	N/A	generic
-756	N/A	generic
-757	N/A	generic
-758	N/A	generic
-759	N/A	generic
-760	N/A	generic
-761	N/A	generic
-762	N/A	generic
-763	N/A	generic
-764	N/A	generic
-765	N/A	generic
-766	N/A	generic
-767	N/A	generic
-768	N/A	generic
-769	N/A	generic
-770	N/A	generic
-771	N/A	generic
-772	N/A	generic
-773	N/A	generic
-774	N/A	generic
-775	N/A	generic
-776	N/A	generic
-777	N/A	generic
-778	N/A	generic
-779	N/A	generic
-780	N/A	generic
-781	N/A	generic
-782	N/A	generic
-783	N/A	generic
-784	N/A	generic
-785	N/A	generic
-786	N/A	generic
-787	N/A	generic
-788	N/A	generic
-789	N/A	generic
-790	N/A	generic
-791	N/A	generic
-792	N/A	generic
-793	N/A	generic
-794	N/A	generic
-795	N/A	generic
-796	N/A	generic
-797	N/A	generic
-798	N/A	generic
-799	N/A	generic
-800	N/A	generic
-801	N/A	generic
-802	N/A	generic
-803	N/A	generic
-804	N/A	generic
-805	N/A	generic
-806	N/A	generic
-807	N/A	generic
-808	N/A	generic
-809	N/A	generic
-810	N/A	generic
-811	N/A	generic
-812	N/A	generic
-813	N/A	generic
-814	N/A	generic
-815	N/A	generic
-816	N/A	generic
-817	N/A	generic
-818	N/A	generic
-819	N/A	generic
-820	N/A	generic
-821	N/A	generic
-822	N/A	generic
-823	N/A	generic
-824	N/A	generic
-825	N/A	generic
-826	N/A	generic
-827	N/A	generic
-828	N/A	generic
-829	N/A	generic
-830	N/A	generic
-831	N/A	generic
-832	N/A	generic
-833	N/A	generic
-834	N/A	generic
-835	N/A	generic
-836	N/A	generic
-837	N/A	generic
-838	N/A	generic
-839	N/A	generic
-840	N/A	generic
-841	N/A	generic
-842	N/A	generic
-843	N/A	generic
-844	N/A	generic
-845	N/A	generic
-846	N/A	generic
-847	N/A	generic
-848	N/A	generic
-849	N/A	generic
-850	N/A	generic
-851	N/A	generic
-852	N/A	generic
-853	N/A	generic
-854	N/A	generic
-855	N/A	generic
-856	N/A	generic
-857	N/A	generic
-858	N/A	generic
-859	N/A	generic
-860	N/A	generic
-861	N/A	generic
-862	N/A	generic
-863	N/A	generic
-864	N/A	generic
-865	N/A	generic
-866	N/A	generic
-867	N/A	generic
-868	N/A	generic
-869	N/A	generic
-870	N/A	generic
-871	N/A	generic
-872	N/A	generic
-873	N/A	generic
-874	N/A	generic
-875	N/A	generic
-876	N/A	generic
-877	N/A	generic
-878	N/A	generic
-879	N/A	generic
-880	N/A	generic
-881	N/A	generic
-882	N/A	generic
-883	N/A	generic
-884	N/A	generic
-885	N/A	generic
-886	N/A	generic
-887	N/A	generic
-888	N/A	generic
-889	N/A	generic
-890	N/A	generic
-891	N/A	generic
-892	N/A	generic
-893	N/A	generic
-894	N/A	generic
-895	N/A	generic
-896	N/A	generic
-897	N/A	generic
-898	N/A	generic
-899	N/A	generic
-900	N/A	generic
-901	N/A	generic
-902	N/A	generic
-903	N/A	generic
-904	N/A	generic
-905	N/A	generic
-906	N/A	generic
-907	N/A	generic
-908	N/A	generic
-909	N/A	generic
-910	N/A	generic
-911	N/A	generic
-912	N/A	generic
-913	N/A	generic
-914	N/A	generic
-915	N/A	generic
-916	N/A	generic
-917	N/A	generic
-918	N/A	generic
-919	N/A	generic
-920	N/A	generic
-921	N/A	generic
-922	N/A	generic
-923	N/A	generic
-924	N/A	generic
-925	N/A	generic
-926	N/A	generic
-927	N/A	generic
-928	N/A	generic
-929	N/A	generic
-930	N/A	generic
-931	N/A	generic
-932	N/A	generic
-933	N/A	generic
-934	N/A	generic
-935	N/A	generic
-936	N/A	generic
-937	N/A	generic
-938	N/A	generic
-939	N/A	generic
-940	N/A	generic
-941	N/A	generic
-942	N/A	generic
-943	N/A	generic
-944	N/A	generic
-945	N/A	generic
-946	N/A	generic
-947	N/A	generic
-948	N/A	generic
-949	N/A	generic
-950	N/A	generic
-951	N/A	generic
-952	N/A	generic
-953	N/A	generic
-954	N/A	generic
-955	N/A	generic
-956	N/A	generic
-957	N/A	generic
-958	N/A	generic
-959	N/A	generic
-960	N/A	generic
-961	N/A	generic
-962	N/A	generic
-963	N/A	generic
-964	N/A	generic
-965	N/A	generic
-966	N/A	generic
-967	N/A	generic
-968	N/A	generic
-969	N/A	generic
-970	N/A	generic
-971	N/A	generic
-972	N/A	generic
-973	N/A	generic
-974	N/A	generic
-975	N/A	generic
-976	N/A	generic
-977	N/A	generic
-978	N/A	generic
-979	N/A	generic
-980	N/A	generic
-981	N/A	generic
-982	N/A	generic
-983	N/A	generic
-984	N/A	generic
-985	N/A	generic
-986	N/A	generic
-987	N/A	generic
-988	N/A	generic
-989	N/A	generic
-990	N/A	generic
-991	N/A	generic
-992	N/A	generic
-993	N/A	generic
-994	N/A	generic
-995	N/A	generic
-996	N/A	generic
-997	N/A	generic
-998	N/A	generic
-999	N/A	generic
-1000	N/A	generic
-1001	N/A	generic
-1002	N/A	generic
-1003	N/A	generic
-1004	N/A	generic
-1005	N/A	generic
-1006	N/A	generic
-1007	N/A	generic
-1008	N/A	generic
-1009	N/A	generic
-1010	N/A	generic
-1011	N/A	generic
-1012	N/A	generic
-1013	N/A	generic
-1014	N/A	generic
-1015	N/A	generic
-1016	N/A	generic
-1017	N/A	generic
-1018	N/A	generic
-1019	N/A	generic
-1020	N/A	generic
-1021	N/A	generic
-1022	N/A	generic
-1023	N/A	generic
-1024	N/A	generic
-1025	N/A	generic
-1026	N/A	generic
-1027	N/A	generic
-1028	N/A	generic
-1029	N/A	generic
-1030	N/A	generic
-1031	N/A	generic
-1032	N/A	generic
-1033	N/A	generic
-1034	N/A	generic
-1035	N/A	generic
-1036	N/A	generic
-1037	N/A	generic
-1038	N/A	generic
-1039	N/A	generic
-1040	N/A	generic
-1041	N/A	generic
-1042	N/A	generic
-1043	N/A	generic
-1044	N/A	generic
-1045	N/A	generic
-1046	N/A	generic
-1047	N/A	generic
-1048	N/A	generic
-1049	N/A	generic
-1050	N/A	generic
-1051	N/A	generic
-1052	N/A	generic
-1053	N/A	generic
-1054	N/A	generic
-1055	N/A	generic
-1056	N/A	generic
-1057	N/A	generic
-1058	N/A	generic
-1059	N/A	generic
-1060	N/A	generic
-1061	N/A	generic
-1062	N/A	generic
-1063	N/A	generic
-1064	N/A	generic
-1065	N/A	generic
+666	Hotel	hotel_nostars	1	Restaurants, hotels, cafes, tourism
+667	Restaurant	restaurant_generic	1	Restaurants, hotels, cafes, tourism
+668	Checkpoint	toll_station	2	Shopping
+669	Intersection	junction	3	Traffic
+670	Airport terminal	airport_terminal	3	Traffic
+671	Souq	souq	2	Shopping
+672	Coffeehouse	coffee	1	Restaurants, hotels, cafes, tourism
+673	Supermarket	supermarket	2	Shopping
+674	Electronics shop	electronics	2	Shopping
+675	Beach	beach	1	Restaurants, hotels, cafes, tourism
+676	Hardware store	hardware	2	Shopping
+677	Cars	car	2	Shopping
+678	Book store	book	2	Shopping
+679	Furniture shop	furniture	2	Shopping
+680	Veterinary	veterinary	4	Services
+681	Pet shop	pets	2	Shopping
+682	Toys	toys	2	Shopping
+683	Hospital	hospital-building	4	Services
+684	N/A	generic	6	Misc
+685	Police station	police_station	4	Services
+686	University	university	6	Misc
+687	Car repair	carrepair	4	Services
+688	Bank	bank	4	Services
+689	Police checkpoint	police_checkpoint	3	Traffic
+690	Embassy, consulate	embassy	4	Services
+691	Bike shop	bicycle_shop	2	Shopping
+692	Sewing shop	sewingmachine	2	Shopping
+693	Computers	computers	2	Shopping
+694	Mall	mall	2	Shopping
+695	Boat shop	boatshop	2	Shopping
+696	Scuba shop	scubashop	2	Shopping
+697	Scuba diving	scuba	5	Sights, attractions
+698	Natural site	palm	5	Sights, attractions
+699	Fortress, castle	fortress	5	Sights, attractions
+700	Pharmacy	pharmacy	2	Shopping
+701	Photo shop	photo	4	Services
+702	Car wash	carwash	4	Services
+703	ATM	atm	4	Services
+704	Textiles, fabrics	textiles	2	Shopping
+705	Bus dropoff	bustour	3	Traffic
+706	City, town, village	city	5	Sights, attractions
+707	Mosque	mosque	4	Services
+708	Dam	dam	6	Misc
+709	Cable car	cablecar	3	Traffic
+710	House	house	5	Sights, attractions
+711	Water park	waterpark	1	Restaurants, hotels, cafes, tourism
+712	Museum	museum_archeological	5	Sights, attractions
+713	Village, hamlet	village	5	Sights, attractions
+714	Tower building, skyscraper	moderntower	5	Sights, attractions
+715	Motorbike shop	motorbike	2	Shopping
+716	Cemetery	tomb	5	Sights, attractions
+717	Fish market	fish_trade	2	Shopping
+718	Climbing	climbing	5	Sights, attractions
+719	Volcano	volcano	5	Sights, attractions
+720	Mountains	mountains	5	Sights, attractions
+721	View	beautifulview	5	Sights, attractions
+722	Memorial	memorial	5	Sights, attractions
+723	Old bridge	bridge_old	5	Sights, attractions
+724	Statue	statue-2	5	Sights, attractions
+725	Tower	tower	6	Misc
+726	Sight	sight-2	5	Sights, attractions
+727	Ruins	ruins-2	5	Sights, attractions
+728	Cave	cave	5	Sights, attractions
+729	Campsite	campfire	5	Sights, attractions
+730	Well	waterwell	5	Sights, attractions
+731	Sand dunes	desert-3	5	Sights, attractions
+732	Driving license	car_orange	4	Services
+733	Shipwreck	shipwreck	5	Sights, attractions
+734	Palace	palace-2	5	Sights, attractions
+735	Kite surfing	kitesurfing	5	Sights, attractions
+736	Parking	parking	3	Traffic
+737	Aquarium	aquarium	5	Sights, attractions
+738	N/A	generic	6	Misc
+739	N/A	generic	6	Misc
+740	N/A	generic	6	Misc
+741	N/A	generic	6	Misc
+742	N/A	generic	6	Misc
+743	N/A	generic	6	Misc
+744	N/A	generic	6	Misc
+745	N/A	generic	6	Misc
+746	N/A	generic	6	Misc
+747	N/A	generic	6	Misc
+748	N/A	generic	6	Misc
+749	N/A	generic	6	Misc
+750	N/A	generic	6	Misc
+751	N/A	generic	6	Misc
+752	N/A	generic	6	Misc
+753	N/A	generic	6	Misc
+754	N/A	generic	6	Misc
+755	N/A	generic	6	Misc
+756	N/A	generic	6	Misc
+757	N/A	generic	6	Misc
+758	N/A	generic	6	Misc
+759	N/A	generic	6	Misc
+760	N/A	generic	6	Misc
+761	N/A	generic	6	Misc
+762	N/A	generic	6	Misc
+763	N/A	generic	6	Misc
+764	N/A	generic	6	Misc
+765	N/A	generic	6	Misc
+766	N/A	generic	6	Misc
+767	N/A	generic	6	Misc
+768	N/A	generic	6	Misc
+769	N/A	generic	6	Misc
+770	N/A	generic	6	Misc
+771	N/A	generic	6	Misc
+772	N/A	generic	6	Misc
+773	N/A	generic	6	Misc
+774	N/A	generic	6	Misc
+775	N/A	generic	6	Misc
+776	N/A	generic	6	Misc
+777	N/A	generic	6	Misc
+778	N/A	generic	6	Misc
+779	N/A	generic	6	Misc
+780	N/A	generic	6	Misc
+781	N/A	generic	6	Misc
+782	N/A	generic	6	Misc
+783	N/A	generic	6	Misc
+784	N/A	generic	6	Misc
+785	N/A	generic	6	Misc
+786	N/A	generic	6	Misc
+787	N/A	generic	6	Misc
+788	N/A	generic	6	Misc
+789	N/A	generic	6	Misc
+790	N/A	generic	6	Misc
+791	N/A	generic	6	Misc
+792	N/A	generic	6	Misc
+793	N/A	generic	6	Misc
+794	N/A	generic	6	Misc
+795	N/A	generic	6	Misc
+796	N/A	generic	6	Misc
+797	N/A	generic	6	Misc
+798	N/A	generic	6	Misc
+799	N/A	generic	6	Misc
+800	N/A	generic	6	Misc
+801	N/A	generic	6	Misc
+802	N/A	generic	6	Misc
+803	N/A	generic	6	Misc
+804	N/A	generic	6	Misc
+805	N/A	generic	6	Misc
+806	N/A	generic	6	Misc
+807	N/A	generic	6	Misc
+808	N/A	generic	6	Misc
+809	N/A	generic	6	Misc
+810	N/A	generic	6	Misc
+811	N/A	generic	6	Misc
+812	N/A	generic	6	Misc
+813	N/A	generic	6	Misc
+814	N/A	generic	6	Misc
+815	N/A	generic	6	Misc
+816	N/A	generic	6	Misc
+817	N/A	generic	6	Misc
+818	N/A	generic	6	Misc
+819	N/A	generic	6	Misc
+820	N/A	generic	6	Misc
+821	N/A	generic	6	Misc
+822	N/A	generic	6	Misc
+823	N/A	generic	6	Misc
+824	N/A	generic	6	Misc
+825	N/A	generic	6	Misc
+826	N/A	generic	6	Misc
+827	N/A	generic	6	Misc
+828	N/A	generic	6	Misc
+829	N/A	generic	6	Misc
+830	N/A	generic	6	Misc
+831	N/A	generic	6	Misc
+832	N/A	generic	6	Misc
+833	N/A	generic	6	Misc
+834	N/A	generic	6	Misc
+835	N/A	generic	6	Misc
+836	N/A	generic	6	Misc
+837	N/A	generic	6	Misc
+838	N/A	generic	6	Misc
+839	N/A	generic	6	Misc
+840	N/A	generic	6	Misc
+841	N/A	generic	6	Misc
+842	N/A	generic	6	Misc
+843	N/A	generic	6	Misc
+844	N/A	generic	6	Misc
+845	N/A	generic	6	Misc
+846	N/A	generic	6	Misc
+847	N/A	generic	6	Misc
+848	N/A	generic	6	Misc
+849	N/A	generic	6	Misc
+850	N/A	generic	6	Misc
+851	N/A	generic	6	Misc
+852	N/A	generic	6	Misc
+853	N/A	generic	6	Misc
+854	N/A	generic	6	Misc
+855	N/A	generic	6	Misc
+856	N/A	generic	6	Misc
+857	N/A	generic	6	Misc
+858	N/A	generic	6	Misc
+859	N/A	generic	6	Misc
+860	N/A	generic	6	Misc
+861	N/A	generic	6	Misc
+862	N/A	generic	6	Misc
+863	N/A	generic	6	Misc
+864	N/A	generic	6	Misc
+865	N/A	generic	6	Misc
+866	N/A	generic	6	Misc
+867	N/A	generic	6	Misc
+868	N/A	generic	6	Misc
+869	N/A	generic	6	Misc
+870	N/A	generic	6	Misc
+871	N/A	generic	6	Misc
+872	N/A	generic	6	Misc
+873	N/A	generic	6	Misc
+874	N/A	generic	6	Misc
+875	N/A	generic	6	Misc
+876	N/A	generic	6	Misc
+877	N/A	generic	6	Misc
+878	N/A	generic	6	Misc
+879	N/A	generic	6	Misc
+880	N/A	generic	6	Misc
+881	N/A	generic	6	Misc
+882	N/A	generic	6	Misc
+883	N/A	generic	6	Misc
+884	N/A	generic	6	Misc
+885	N/A	generic	6	Misc
+886	N/A	generic	6	Misc
+887	N/A	generic	6	Misc
+888	N/A	generic	6	Misc
+889	N/A	generic	6	Misc
+890	N/A	generic	6	Misc
+891	N/A	generic	6	Misc
+892	N/A	generic	6	Misc
+893	N/A	generic	6	Misc
+894	N/A	generic	6	Misc
+895	N/A	generic	6	Misc
+896	N/A	generic	6	Misc
+897	N/A	generic	6	Misc
+898	N/A	generic	6	Misc
+899	N/A	generic	6	Misc
+900	N/A	generic	6	Misc
+901	N/A	generic	6	Misc
+902	N/A	generic	6	Misc
+903	N/A	generic	6	Misc
+904	N/A	generic	6	Misc
+905	N/A	generic	6	Misc
+906	N/A	generic	6	Misc
+907	N/A	generic	6	Misc
+908	N/A	generic	6	Misc
+909	N/A	generic	6	Misc
+910	N/A	generic	6	Misc
+911	N/A	generic	6	Misc
+912	N/A	generic	6	Misc
+913	N/A	generic	6	Misc
+914	N/A	generic	6	Misc
+915	N/A	generic	6	Misc
+916	N/A	generic	6	Misc
+917	N/A	generic	6	Misc
+918	N/A	generic	6	Misc
+919	N/A	generic	6	Misc
+920	N/A	generic	6	Misc
+921	N/A	generic	6	Misc
+922	N/A	generic	6	Misc
+923	N/A	generic	6	Misc
+924	N/A	generic	6	Misc
+925	N/A	generic	6	Misc
+926	N/A	generic	6	Misc
+927	N/A	generic	6	Misc
+928	N/A	generic	6	Misc
+929	N/A	generic	6	Misc
+930	N/A	generic	6	Misc
+931	N/A	generic	6	Misc
+932	N/A	generic	6	Misc
+933	N/A	generic	6	Misc
+934	N/A	generic	6	Misc
+935	N/A	generic	6	Misc
+936	N/A	generic	6	Misc
+937	N/A	generic	6	Misc
+938	N/A	generic	6	Misc
+939	N/A	generic	6	Misc
+940	N/A	generic	6	Misc
+941	N/A	generic	6	Misc
+942	N/A	generic	6	Misc
+943	N/A	generic	6	Misc
+944	N/A	generic	6	Misc
+945	N/A	generic	6	Misc
+946	N/A	generic	6	Misc
+947	N/A	generic	6	Misc
+948	N/A	generic	6	Misc
+949	N/A	generic	6	Misc
+950	N/A	generic	6	Misc
+951	N/A	generic	6	Misc
+952	N/A	generic	6	Misc
+953	N/A	generic	6	Misc
+954	N/A	generic	6	Misc
+955	N/A	generic	6	Misc
+956	N/A	generic	6	Misc
+957	N/A	generic	6	Misc
+958	N/A	generic	6	Misc
+959	N/A	generic	6	Misc
+960	N/A	generic	6	Misc
+961	N/A	generic	6	Misc
+962	N/A	generic	6	Misc
+963	N/A	generic	6	Misc
+964	N/A	generic	6	Misc
+965	N/A	generic	6	Misc
+966	N/A	generic	6	Misc
+967	N/A	generic	6	Misc
+968	N/A	generic	6	Misc
+969	N/A	generic	6	Misc
+970	N/A	generic	6	Misc
+971	N/A	generic	6	Misc
+972	N/A	generic	6	Misc
+973	N/A	generic	6	Misc
+974	N/A	generic	6	Misc
+975	N/A	generic	6	Misc
+976	N/A	generic	6	Misc
+977	N/A	generic	6	Misc
+978	N/A	generic	6	Misc
+979	N/A	generic	6	Misc
+980	N/A	generic	6	Misc
+981	N/A	generic	6	Misc
+982	N/A	generic	6	Misc
+983	N/A	generic	6	Misc
+984	N/A	generic	6	Misc
+985	N/A	generic	6	Misc
+986	N/A	generic	6	Misc
+987	N/A	generic	6	Misc
+988	N/A	generic	6	Misc
+989	N/A	generic	6	Misc
+990	N/A	generic	6	Misc
+991	N/A	generic	6	Misc
+992	N/A	generic	6	Misc
+993	N/A	generic	6	Misc
+994	N/A	generic	6	Misc
+995	N/A	generic	6	Misc
+996	N/A	generic	6	Misc
+997	N/A	generic	6	Misc
+998	N/A	generic	6	Misc
+999	N/A	generic	6	Misc
+1000	N/A	generic	6	Misc
+1001	N/A	generic	6	Misc
+1002	N/A	generic	6	Misc
+1003	N/A	generic	6	Misc
+1004	N/A	generic	6	Misc
+1005	N/A	generic	6	Misc
+1006	N/A	generic	6	Misc
+1007	N/A	generic	6	Misc
+1008	N/A	generic	6	Misc
+1009	N/A	generic	6	Misc
+1010	N/A	generic	6	Misc
+1011	N/A	generic	6	Misc
+1012	N/A	generic	6	Misc
+1013	N/A	generic	6	Misc
+1014	N/A	generic	6	Misc
+1015	N/A	generic	6	Misc
+1016	N/A	generic	6	Misc
+1017	N/A	generic	6	Misc
+1018	N/A	generic	6	Misc
+1019	N/A	generic	6	Misc
+1020	N/A	generic	6	Misc
+1021	N/A	generic	6	Misc
+1022	N/A	generic	6	Misc
+1023	N/A	generic	6	Misc
+1024	N/A	generic	6	Misc
+1025	N/A	generic	6	Misc
+1026	N/A	generic	6	Misc
+1027	N/A	generic	6	Misc
+1028	N/A	generic	6	Misc
+1029	N/A	generic	6	Misc
+1030	N/A	generic	6	Misc
+1031	N/A	generic	6	Misc
+1032	N/A	generic	6	Misc
+1033	N/A	generic	6	Misc
+1034	N/A	generic	6	Misc
+1035	N/A	generic	6	Misc
+1036	N/A	generic	6	Misc
+1037	N/A	generic	6	Misc
+1038	N/A	generic	6	Misc
+1039	N/A	generic	6	Misc
+1040	N/A	generic	6	Misc
+1041	N/A	generic	6	Misc
+1042	N/A	generic	6	Misc
+1043	N/A	generic	6	Misc
+1044	N/A	generic	6	Misc
+1045	N/A	generic	6	Misc
+1046	N/A	generic	6	Misc
+1047	N/A	generic	6	Misc
+1048	N/A	generic	6	Misc
+1049	N/A	generic	6	Misc
+1050	N/A	generic	6	Misc
+1051	N/A	generic	6	Misc
+1052	N/A	generic	6	Misc
+1053	N/A	generic	6	Misc
+1054	N/A	generic	6	Misc
+1055	N/A	generic	6	Misc
+1056	N/A	generic	6	Misc
+1057	N/A	generic	6	Misc
+1058	N/A	generic	6	Misc
+1059	N/A	generic	6	Misc
+1060	N/A	generic	6	Misc
+1061	N/A	generic	6	Misc
+1062	N/A	generic	6	Misc
+1063	N/A	generic	6	Misc
+1064	N/A	generic	6	Misc
+1065	N/A	generic	6	Misc
