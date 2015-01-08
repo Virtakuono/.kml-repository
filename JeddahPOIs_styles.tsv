@@ -1,19 +1,19 @@
 666	Hotel	hotel_nostars	1	Restaurants, hotels, cafes, tourism
 667	Restaurant	restaurant_generic	1	Restaurants, hotels, cafes, tourism
 668	Checkpoint	toll_station	2	Shopping
-669	Intersection	junction	2	Shopping
-670	Airport terminal	airport_terminal	2	Shopping
-671	Souq	souq	3	Traffic
+669	Intersection	junction	3	Traffic
+670	Airport terminal	airport_terminal	3	Traffic
+671	Souq	souq	2	Shopping
 672	Coffeehouse	coffee	1	Restaurants, hotels, cafes, tourism
-673	Supermarket	supermarket	3	Traffic
-674	Electronics shop	electronics	3	Traffic
-675	Beach	beach	4	Services
+673	Supermarket	supermarket	2	Shopping
+674	Electronics shop	electronics	2	Shopping
+675	Beach	beach	1	Restaurants, hotels, cafes, tourism
 676	Hardware store	hardware	2	Shopping
 677	Cars	car	2	Shopping
 678	Book store	book	2	Shopping
 679	Furniture shop	furniture	2	Shopping
 680	Veterinary	veterinary	4	Services
-681	Pet shop	pets	3	Traffic
+681	Pet shop	pets	2	Shopping
 682	Toys	toys	2	Shopping
 683	Hospital	hospital-building	4	Services
 684	N/A	generic	6	Misc
@@ -29,11 +29,11 @@
 694	Mall	mall	2	Shopping
 695	Boat shop	boatshop	2	Shopping
 696	Scuba shop	scubashop	2	Shopping
-697	Scuba diving	scuba	2	Shopping
+697	Scuba diving	scuba	5	Sights, attractions
 698	Natural site	palm	5	Sights, attractions
 699	Fortress, castle	fortress	5	Sights, attractions
 700	Pharmacy	pharmacy	2	Shopping
-701	Photo shop	photo	2	Shopping
+701	Photo shop	photo	4	Services
 702	Car wash	carwash	4	Services
 703	ATM	atm	4	Services
 704	Textiles, fabrics	textiles	2	Shopping

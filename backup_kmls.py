@@ -126,6 +126,7 @@ class POISet():
         file = open(filename)
         lines = file.readlines()
         file.close()
+        self.categoryNames = ['']*1000
         self.styles = [POIStyle(ID=foo) for foo in range(1,1501)]
         for line in lines:
             if line[-1] == '\n':
@@ -135,8 +136,10 @@ class POISet():
             type = line[:line.find('\t')]
             line = line[line.find('\t')+1:]
             category = line[line.find('\t')+1:]
+            categoryName = category[category.find('\t')+1:]
             category = category[:category.find('\t')]
             category = int(category)
+            self.categoryNames[category] = categoryName
             line = line[:line.find('\t')]
             filename = line
             style = POIStyle(ID=id,icon=filename,type=type,category=category)
@@ -471,7 +474,7 @@ class POISet():
 
         rv += '   var overlayMaps = {\n'
         for foo in range(0,len(self.effcategories)):
-            rv += '      \"Category %d\": poicat%03d,\n'%(self.effcategories[foo],self.effcategories[foo])
+            rv += '      \"%s\": poicat%03d,\n'%(self.categoryNames[self.effcategories[foo]],self.effcategories[foo])
         rv += '      };\n\n'
 
         #rv += '   var overlayMaps = {\n          \"POIs\": poilist\n          };\n\n'
