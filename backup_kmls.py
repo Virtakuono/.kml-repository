@@ -38,6 +38,20 @@ class POIStyle():
 
 class POI():
 
+    def linkify(self,input,begin='[',end=']',escape=True):
+        output = '%s'%(input,)
+        while (begin in output) and (end in output[output.find(begin)+1:]):
+            firstBit = '%s'%(output[:output.find(begin)],)
+            lastBit = '%s'%(output[output.find(begin)+1:],)
+            middleBit = '%s'%(lastBit[:lastBit.find(end)],)
+            middleBit = '%s'%(middleBit[:middleBit.find(end)],)
+            lastBit = '%s'%(lastBit[lastBit.find(end)+1:],)
+            if escape:
+                output = '%s<a href=\\"%s\\" target=\\"_blank\\">%s</a>%s'%(firstBit,middleBit,middleBit,lastBit)
+            else:
+                output = '%s<a href=\"%s\" target=\"_blank\">%s</a>%s'%(firstBit,middleBit,middleBit,lastBit)
+        return output
+
     def __init__(self,name='POI',desc='N/A',lat=0.0,lon=0.0,type=POIStyle()):
         self.name = name
         self.ttype = type
@@ -90,16 +104,16 @@ class POI():
         else:
             rv = '   <p>%d. %s'%(num,self.name,)
         if self.desc:
-            rv += ' - %s - \n'%(self.desc,)
+            rv += ' - %s - \n'%(self.linkify(self.desc,escape=False),)
         else:
             rv += ' - \n'
         rv += '   %s - %s -'%(self.htmlCoords(),m.toMGRS(self.lat,self.lon)) 
-        rv += '   <a href=\"%s\">OSM</a>, <a href=\"%s\">Google maps</a>, <a href=\"%s\">Bing</a></p>\n'%(self.osmUrl(),self.gmapUrl(),self.bingUrl())
+        rv += '   <a href=\"%s\" target=\\"_blank\\">OSM</a>, <a href=\"%s\" target=\\"_blank\\">Google maps</a>, <a href=\"%s\" target=\\"_blank\\">Bing</a></p>\n'%(self.osmUrl(),self.gmapUrl(),self.bingUrl())
         return rv
 
     def osmhtmlstr(self):
-        rv = '   L.marker([%.7f, %.7f],{icon: %s}).addTo(map).bindPopup(\"<b>%s</b><br />%s<br />Coordinates: (%.7f, %.7f)<br /><a href=\\"%s\\">OSM</a>, <a href=\\"%s\\">Google Maps</a>, <a href=\\"%s\\">Bing</a>\");\n'%(self.lat,self.lon,self.ttype.osmIconType(),self.name,self.desc,self.lat,self.lon,self.osmUrl(),self.gmapUrl(),self.bingUrl())
-        rv = '   L.marker([%.7f, %.7f],{icon: %s}).bindPopup(\"<b>%s</b><br />%s<br />Coordinates: (%.7f, %.7f)<br /><a href=\\"%s\\">OSM</a>, <a href=\\"%s\\">Google Maps</a>, <a href=\\"%s\\">Bing</a>\").addTo(poicat%03d);\n'%(self.lat,self.lon,self.ttype.osmIconType(),self.name,self.desc,self.lat,self.lon,self.osmUrl(),self.gmapUrl(),self.bingUrl(),self.ttype.category)
+        rv = '   L.marker([%.7f, %.7f],{icon: %s}).addTo(map).bindPopup(\"<b>%s</b><br />%s<br />Coordinates: (%.7f, %.7f)<br /><a href=\\"%s\\" target=\\"_blank\\">OSM</a>, <a href=\\"%s\\" target=\\"_blank\\">Google Maps</a>, <a href=\\"%s\\">Bing</a>\" target=\\"_blank\\");\n'%(self.lat,self.lon,self.ttype.osmIconType(),self.name,self.desc,self.lat,self.lon,self.osmUrl(),self.gmapUrl(),self.bingUrl())
+        rv = '   L.marker([%.7f, %.7f],{icon: %s}).bindPopup(\"<b>%s</b><br />%s<br />Coordinates: (%.7f, %.7f)<br /><a href=\\"%s\\" target=\\"_blank\\">OSM</a>, <a href=\\"%s\\" target=\\"_blank\\">Google Maps</a>, <a href=\\"%s\\" target=\\"_blank\\">Bing</a>\").addTo(poicat%03d);\n'%(self.lat,self.lon,self.ttype.osmIconType(),self.name,self.linkify(self.desc),self.lat,self.lon,self.osmUrl(),self.gmapUrl(),self.bingUrl(),self.ttype.category)
         return rv
 
     def mdstr(self):
