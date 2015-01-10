@@ -820,7 +820,7 @@
   </Placemark>
   <Placemark>
     <name>Starbucks</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/node/1499855960]</div>]]></description>
     <styleUrl>#style672</styleUrl>
     <Point>
       <coordinates>39.1413800,21.6065750,0.0000000</coordinates>
@@ -828,7 +828,7 @@
   </Placemark>
   <Placemark>
     <name>Starbucks</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/node/1096475665]</div>]]></description>
     <styleUrl>#style672</styleUrl>
     <Point>
       <coordinates>39.1452940,21.5982340,0.0000000</coordinates>
