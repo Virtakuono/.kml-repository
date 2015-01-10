@@ -44,7 +44,6 @@ class POI():
             firstBit = '%s'%(output[:output.find(begin)],)
             lastBit = '%s'%(output[output.find(begin)+1:],)
             middleBit = '%s'%(lastBit[:lastBit.find(end)],)
-            middleBit = '%s'%(middleBit[:middleBit.find(end)],)
             lastBit = '%s'%(lastBit[lastBit.find(end)+1:],)
             if escape:
                 output = '%s<a href=\\"%s\\" target=\\"_blank\\">%s</a>%s'%(firstBit,middleBit,middleBit,lastBit)
