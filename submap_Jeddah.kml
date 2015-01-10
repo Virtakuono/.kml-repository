@@ -988,7 +988,7 @@
   </Placemark>
   <Placemark>
     <name>IKEA</name>
-    <description><![CDATA[<div dir="ltr">P.O.Box 8054, Jeddah 21482 – Saudi Arabia Phone: +966 2 6633000 Saturday to Thursday: 10:00 – 24:00 Friday: 16:00 – 24:00 Special opening hours in Ramadan and EID</div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/44536022]</div>]]></description>
     <styleUrl>#style679</styleUrl>
     <Point>
       <coordinates>39.1832770,21.5571190,0.0000000</coordinates>
@@ -1004,7 +1004,7 @@
   </Placemark>
   <Placemark>
     <name>Eurovets</name>
-    <description><![CDATA[<div dir="ltr">Vet clinick with Dr. Carlos</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Vet clinic with Dr. Carlos</div>]]></description>
     <styleUrl>#style680</styleUrl>
     <Point>
       <coordinates>39.1636280,21.5516800,0.0000000</coordinates>
@@ -1396,7 +1396,7 @@
   </Placemark>
   <Placemark>
     <name>Eve's Grave</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/41409162]</div>]]></description>
     <styleUrl>#style722</styleUrl>
     <Point>
       <coordinates>39.1902750,21.4913556,0.0000000</coordinates>
@@ -1428,7 +1428,7 @@
   </Placemark>
   <Placemark>
     <name>Flying carpet monument</name>
-    <description><![CDATA[<div dir="ltr">In the roundabout</div>]]></description>
+    <description><![CDATA[<div dir="ltr">In the roundabout [http://www.openstreetmap.org/node/3279856333]</div>]]></description>
     <styleUrl>#style724</styleUrl>
     <Point>
       <coordinates>39.1094583,21.6232306,0.0000000</coordinates>
@@ -1436,7 +1436,7 @@
   </Placemark>
   <Placemark>
     <name>Fountain monument</name>
-    <description><![CDATA[<div dir="ltr">In the roundabout</div>]]></description>
+    <description><![CDATA[<div dir="ltr">In the roundabout [http://www.openstreetmap.org/node/3279856243]</div>]]></description>
     <styleUrl>#style724</styleUrl>
     <Point>
       <coordinates>39.1868944,21.4901750,0.0000000</coordinates>
@@ -1444,7 +1444,7 @@
   </Placemark>
   <Placemark>
     <name>Pinball monument</name>
-    <description><![CDATA[<div dir="ltr">In the roundabout</div>]]></description>
+    <description><![CDATA[<div dir="ltr">In the roundabout [http://www.openstreetmap.org/node/1096324711]</div>]]></description>
     <styleUrl>#style724</styleUrl>
     <Point>
       <coordinates>39.1769139,21.5849056,0.0000000</coordinates>
@@ -1468,7 +1468,7 @@
   </Placemark>
   <Placemark>
     <name>Fakieh Aquarium</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/node/2891554426]</div>]]></description>
     <styleUrl>#style737</styleUrl>
     <Point>
       <coordinates>39.1093790,21.5721580,0.0000000</coordinates>
