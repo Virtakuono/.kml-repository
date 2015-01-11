@@ -218,7 +218,7 @@
   </Placemark>
   <Placemark>
     <name>Pharmacy</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/304768912]</div>]]></description>
     <styleUrl>#style700</styleUrl>
     <Point>
       <coordinates>39.1131900,22.2876130,0.0000000</coordinates>

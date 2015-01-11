@@ -1069,7 +1069,7 @@
   </Placemark>
   <Placemark>
     <name>JED - North Terminal</name>
-    <description><![CDATA[<div dir="ltr">All airlines other than Saudia</div>]]></description>
+    <description><![CDATA[<div dir="ltr">All airlines other than Saudia, [https://www.openstreetmap.org/way/41399788]</div>]]></description>
     <styleUrl>#style670</styleUrl>
     <Point>
       <coordinates>39.1435170,21.6882170,0.0000000</coordinates>
@@ -1077,7 +1077,7 @@
   </Placemark>
   <Placemark>
     <name>JED - South Terminal</name>
-    <description><![CDATA[<div dir="ltr">Saudia flights</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Saudia flights [https://www.openstreetmap.org/way/41399794]</div>]]></description>
     <styleUrl>#style670</styleUrl>
     <Point>
       <coordinates>39.1501900,21.6707680,0.0000000</coordinates>
@@ -1773,7 +1773,7 @@
   </Placemark>
   <Placemark>
     <name>Mall of Arabia</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/44213515]</div>]]></description>
     <styleUrl>#style694</styleUrl>
     <Point>
       <coordinates>39.1557070,21.6326170,0.0000000</coordinates>
@@ -1781,7 +1781,7 @@
   </Placemark>
   <Placemark>
     <name>Red Sea Mall</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/111645517]</div>]]></description>
     <styleUrl>#style694</styleUrl>
     <Point>
       <coordinates>39.1099550,21.6267930,0.0000000</coordinates>
@@ -1789,7 +1789,7 @@
   </Placemark>
   <Placemark>
     <name>Roshan Mall</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/111645503]</div>]]></description>
     <styleUrl>#style694</styleUrl>
     <Point>
       <coordinates>39.1101300,21.6651100,0.0000000</coordinates>
@@ -1797,7 +1797,7 @@
   </Placemark>
   <Placemark>
     <name>Serafi Mall</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/44536024]</div>]]></description>
     <styleUrl>#style694</styleUrl>
     <Point>
       <coordinates>39.1850240,21.5604560,0.0000000</coordinates>
@@ -1805,7 +1805,7 @@
   </Placemark>
   <Placemark>
     <name>Stars Avenue Mall</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/53202643]</div>]]></description>
     <styleUrl>#style694</styleUrl>
     <Point>
       <coordinates>39.1283700,21.5729600,0.0000000</coordinates>
@@ -1869,7 +1869,7 @@
   </Placemark>
   <Placemark>
     <name>A hole in the ground</name>
-    <description><![CDATA[<div dir="ltr">Information on this peculiar looking structure is scarce. http://crazymoor.wordpress.com/2007/11/25/an-underground-oasis-in-saudi-arabia/</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Information on this peculiar looking structure is scarce. [http://crazymoor.wordpress.com/2007/11/25/an-underground-oasis-in-saudi-arabia/]</div>]]></description>
     <styleUrl>#style698</styleUrl>
     <Point>
       <coordinates>47.1721222,26.5583389,0.0000000</coordinates>
@@ -1893,7 +1893,7 @@
   </Placemark>
   <Placemark>
     <name>Buhairat City</name>
-    <description><![CDATA[<div dir="ltr">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/]</div>]]></description>
     <styleUrl>#style698</styleUrl>
     <Point>
       <coordinates>39.0221715,21.8297414,0.0000000</coordinates>
@@ -1917,7 +1917,7 @@
   </Placemark>
   <Placemark>
     <name>Elephant rock</name>
-    <description><![CDATA[<div dir="ltr">Thanks, Greg Wickham</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Thanks, Greg Wickham [http://www.openstreetmap.org/node/973472648]</div>]]></description>
     <styleUrl>#style698</styleUrl>
     <Point>
       <coordinates>37.9799389,26.6896611,0.0000000</coordinates>
@@ -1981,7 +1981,7 @@
   </Placemark>
   <Placemark>
     <name>Madain Saleh</name>
-    <description><![CDATA[<div dir="ltr">Access here is restricted. See, for example http://kcomm.wikispaces.com/Day+Trips for info on how to get permits.]</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Access here is restricted. See, for example http://kcomm.wikispaces.com/Day+Trips] for info on how to get permits. [http://www.openstreetmap.org/way/43405836]</div>]]></description>
     <styleUrl>#style699</styleUrl>
     <Point>
       <coordinates>37.9475000,26.8141670,0.0000000</coordinates>
@@ -1989,7 +1989,7 @@
   </Placemark>
   <Placemark>
     <name>Ruins of a turkish fort</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/97644047]</div>]]></description>
     <styleUrl>#style699</styleUrl>
     <Point>
       <coordinates>40.5943110,21.5126630,0.0000000</coordinates>
@@ -1997,7 +1997,7 @@
   </Placemark>
   <Placemark>
     <name>Ruins of an Ottoman fortress</name>
-    <description><![CDATA[<div dir="ltr">Big thanks for Claire Sale [http://clairesale.com/adventures-in-the-desert-ottoman-castle-near-rabigh/] Rumour from Graig Wickham has it that this site is being fenced off as of 2014...</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Big thanks for Claire Sale [http://clairesale.com/adventures-in-the-desert-ottoman-castle-near-rabigh/] Rumour from Graig Wickham has it that this site is being fenced off as of 2014... [http://www.openstreetmap.org/way/168434569]</div>]]></description>
     <styleUrl>#style699</styleUrl>
     <Point>
       <coordinates>39.1371766,22.7396757,0.0000000</coordinates>
@@ -2013,7 +2013,7 @@
   </Placemark>
   <Placemark>
     <name>Al Wazir Pharmacy</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/node/3077730181]</div>]]></description>
     <styleUrl>#style700</styleUrl>
     <Point>
       <coordinates>39.0815916,22.4024833,0.0000000</coordinates>
@@ -2021,7 +2021,7 @@
   </Placemark>
   <Placemark>
     <name>Pharmacy</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/304768912]</div>]]></description>
     <styleUrl>#style700</styleUrl>
     <Point>
       <coordinates>39.1131900,22.2876130,0.0000000</coordinates>
@@ -2125,7 +2125,7 @@
   </Placemark>
   <Placemark>
     <name>Juffali mosque</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/relation/1561613]</div>]]></description>
     <styleUrl>#style707</styleUrl>
     <Point>
       <coordinates>39.1857170,21.4922870,0.0000000</coordinates>
@@ -2293,7 +2293,7 @@
   </Placemark>
   <Placemark>
     <name>Queen's building</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/305372819]</div>]]></description>
     <styleUrl>#style714</styleUrl>
     <Point>
       <coordinates>39.1840530,21.4845580,0.0000000</coordinates>
