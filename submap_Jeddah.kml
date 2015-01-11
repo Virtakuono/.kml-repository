@@ -308,7 +308,7 @@
   </Placemark>
   <Placemark>
     <name>Habitat Hotel</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/node/469912430]</div>]]></description>
     <styleUrl>#style666</styleUrl>
     <Point>
       <coordinates>39.1565700,21.6069150,0.0000000</coordinates>
@@ -316,7 +316,7 @@
   </Placemark>
   <Placemark>
     <name>Hilton</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/147428163]</div>]]></description>
     <styleUrl>#style666</styleUrl>
     <Point>
       <coordinates>39.1072080,21.6044500,0.0000000</coordinates>
@@ -324,7 +324,7 @@
   </Placemark>
   <Placemark>
     <name>Holiday Inn - Intercontinental</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/node/292272986]</div>]]></description>
     <styleUrl>#style666</styleUrl>
     <Point>
       <coordinates>39.1561620,21.5159030,0.0000000</coordinates>
@@ -1227,7 +1227,7 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Red Sea Mall</name>
+    <name>This is a mosque evening souq museum and architecture wonder. Neat place to stop by but museum tours must be arranged in advance but contacting Abdraheam at +96650360137. You can also visit [http://www.tripadvisor.com/Attraction_Review-g295419-d4090222-Reviews-Al_Tayebat_International_City-Jeddah_Makkah_Province.html] advisor for some more info.</name>
     <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/111645517]</div>]]></description>
     <styleUrl>#style694</styleUrl>
     <Point>
