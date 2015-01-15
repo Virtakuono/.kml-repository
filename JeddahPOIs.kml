@@ -853,7 +853,7 @@
   </Placemark>
   <Placemark>
     <name>Pizza Hut</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/node/3077730178]</div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.0810806,22.4018222,0.0000000</coordinates>
@@ -949,7 +949,7 @@
   </Placemark>
   <Placemark>
     <name>Subway</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/node/3077730179]</div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.0812722,22.4022167,0.0000000</coordinates>
@@ -965,7 +965,7 @@
   </Placemark>
   <Placemark>
     <name>Texas Roadhouse</name>
-    <description><![CDATA[<div dir="ltr">A steak house</div>]]></description>
+    <description><![CDATA[<div dir="ltr">A steak house [http://www.openstreetmap.org/node/3054019918]</div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1676410,21.5535830,0.0000000</coordinates>
@@ -1524,6 +1524,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Jeddah Veterinary Clinic</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style680</styleUrl>
+    <Point>
+      <coordinates>39.1741776,21.5788018,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Happy Pets</name>
     <description><![CDATA[<div dir="ltr">Pet shop</div>]]></description>
     <styleUrl>#style681</styleUrl>
@@ -1981,7 +1989,7 @@
   </Placemark>
   <Placemark>
     <name>Madain Saleh</name>
-    <description><![CDATA[<div dir="ltr">Access here is restricted. See, for example http://kcomm.wikispaces.com/Day+Trips] for info on how to get permits. [http://www.openstreetmap.org/way/43405836]</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Access here is restricted. See, for example [http://kcomm.wikispaces.com/Day+Trips] for info on how to get permits. [http://www.openstreetmap.org/way/43405836]</div>]]></description>
     <styleUrl>#style699</styleUrl>
     <Point>
       <coordinates>37.9475000,26.8141670,0.0000000</coordinates>

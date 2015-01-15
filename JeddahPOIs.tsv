@@ -1,4 +1,4 @@
-Name	Description (optional)	Latitude	Longitude	Type	Type code	Comment
+Pizza Hut	Description (optional)	Latitude	Longitude	Type	Type code	Comment
 Abhu palace hotel		18.2099110	42.4964330	Hotel	666	
 Avail Hotel and Suite		21.6121900	39.1551020	Hotel	666	
 Best Western Orchid hotel		24.6851230	46.7186120	Hotel	666	
@@ -49,7 +49,7 @@ Pakistani restaurant mk 1	Good curry and fresh-baked naan. 	22.2915310	39.117857
 Pakistani restaurant mk 2	Great fresh-baked naan.	22.2882230	39.1145060	Restaurant	667	
 Palm Garden restaurant		21.5645390	39.1118610	Restaurant	667	
 Piatto (Etoile Center)		21.5750540	39.1272770	Restaurant	667	
-Pizza Hut		22.4018222	39.0810806	Restaurant	667	
+Pizza Hut	[http://www.openstreetmap.org/node/3077730178]	22.4018222	39.0810806	Restaurant	667	
 Reem Alwabadi	A middle eastern restaurant	21.5579117	39.1450330	Restaurant	667	
 Restaurant		21.2873250	40.4229970	Restaurant	667	
 Rotisserie chicken carry-out	Rotisserie chiken 22SAR for a whole chicken, rice and arabic bread	22.2870180	39.1135030	Restaurant	667	
@@ -61,9 +61,9 @@ Shish Tawook	Delicious Shish Tawook, 4SAR each	22.2912430	39.1161930	Restaurant	
 Shwarma Booth	4 SAR for a shwarma, 3 SAR for falafel	21.4857917	39.1828417	Restaurant	667	
 Shwarma Carry-out	4 SAR for a shwarma. Skip the beef, Chicken (delicious) and falafel for vegetarians	22.2862450	39.1122090	Restaurant	667	
 Spears	A brazilian restaurant	21.5156605	39.1559482	Restaurant	667	
-Subway		22.4022167	39.0812722	Restaurant	667	
+Subway	[http://www.openstreetmap.org/node/3077730179]	22.4022167	39.0812722	Restaurant	667	
 Sushi Yoshi	Name says it all, thanks, Greg Wickham	21.7699778	39.1338889	Restaurant	667	
-Texas Roadhouse	A steak house	21.5535830	39.1676410	Restaurant	667	
+Texas Roadhouse	A steak house [http://www.openstreetmap.org/node/3054019918]	21.5535830	39.1676410	Restaurant	667	
 Thai Thai Restaurant	Yummy, up scale Thai food! 	21.6097000	39.1416500	Restaurant	667	
 The Butcher Shop & Grill	Steak and grill restaurant	21.5598458	39.1532162	Restaurant	667	
 Yemeni restaurant		22.2872750	39.1137580	Restaurant	667	
@@ -133,6 +133,7 @@ Jarir bookstore	on Sar[iy] Street. Showroom Timings: Sat-Thu 9am-2pm, 4.30pm-11p
 IKEA	[http://www.openstreetmap.org/way/44536022]	21.5571190	39.1832770	Furniture shop	679	
 Arabian vets		21.6024230	39.1424410	Veterinary	680	
 Eurovets	Vet clinic with Dr. Carlos	21.5516800	39.1636280	Veterinary	680	
+Jeddah Veterinary Clinic		21.5788018	39.1741776	Veterinary	680	
 Happy Pets	Pet shop	21.6024440	39.1426440	Pet shop	681	
 Pet Oasis	Pet shop	21.5896280	39.1749340	Pet shop	681	
 Pet Oasis	Pet shop	21.5970270	39.1425740	Pet shop	681	
@@ -190,7 +191,7 @@ National Asir Park		18.2007920	42.4945110	Natural site	698
 Rabigh Peninsula	A site for camping, open for everyone. Thanks to Eric Bakken	22.8957000	38.8856110	Natural site	698	
 Salt lake	[http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/]	21.8765820	39.0161180	Natural site	698	
 South Corniche	[http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/]	21.2433760	39.1400150	Natural site	698	
-Madain Saleh	Access here is restricted. See, for example http://kcomm.wikispaces.com/Day+Trips] for info on how to get permits. [http://www.openstreetmap.org/way/43405836]	26.8141670	37.9475000	Fortress, castle	699	
+Madain Saleh	Access here is restricted. See, for example [http://kcomm.wikispaces.com/Day+Trips] for info on how to get permits. [http://www.openstreetmap.org/way/43405836]	26.8141670	37.9475000	Fortress, castle	699	
 Ruins of a turkish fort	[http://www.openstreetmap.org/way/97644047]	21.5126630	40.5943110	Fortress, castle	699	
 Ruins of an Ottoman fortress	Big thanks for Claire Sale [http://clairesale.com/adventures-in-the-desert-ottoman-castle-near-rabigh/] Rumour from Graig Wickham has it that this site is being fenced off as of 2014... [http://www.openstreetmap.org/way/168434569]	22.7396757	39.1371766	Fortress, castle	699	
 Usfan Fort	[http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/]	21.9162970	39.3399830	Fortress, castle	699	
