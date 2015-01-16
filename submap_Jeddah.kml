@@ -290,6 +290,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style738">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/museum_art.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Avail Hotel and Suite</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -1480,6 +1487,14 @@
     <styleUrl>#style737</styleUrl>
     <Point>
       <coordinates>39.1093790,21.5721580,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ajlan Frame Shop</name>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/node/3100051124#map=20/21.61022/39.13939&amp;layers=H]</div>]]></description>
+    <styleUrl>#style738</styleUrl>
+    <Point>
+      <coordinates>39.1393900,21.6102200,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>

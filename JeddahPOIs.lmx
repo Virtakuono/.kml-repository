@@ -2147,5 +2147,13 @@
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
+  <lm:landmark>
+    <lm:name>Ajlan Frame Shop</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.610220</lm:latitude>
+      <lm:longitude>39.139390</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
  </lm:landmarkCollection>
 </lm:lmx>

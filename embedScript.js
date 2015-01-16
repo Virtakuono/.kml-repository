@@ -447,6 +447,13 @@
    popupAnchor: [0,-20]
    });
 
+   var iconType738 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/museum_art.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+
 
 
 
@@ -986,6 +993,8 @@
 
    L.marker([21.5721580, 39.1093790],{icon: iconType737}).bindPopup("<b>Fakieh Aquarium</b><br /><a href=\"http://www.openstreetmap.org/node/2891554426\" target=\"_blank\">http://www.openstreetmap.org/node/2891554426</a><br />Coordinates: (21.5721580, 39.1093790)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5721580&mlon=39.1093790&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.572158,39.1093790\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.57215800~39.10937900&lvl=16&dir=0&sty=c&sp=point.21.57215800_39.10937900_Fakieh%20Aquarium\" target=\"_blank\">Bing</a>").addTo(poicat005);
 
+   L.marker([21.6102200, 39.1393900],{icon: iconType738}).bindPopup("<b>Ajlan Frame Shop</b><br /><a href=\"http://www.openstreetmap.org/node/3100051124#map=20/21.61022/39.13939&layers=H\" target=\"_blank\">http://www.openstreetmap.org/node/3100051124#map=20/21.61022/39.13939&layers=H</a><br />Coordinates: (21.6102200, 39.1393900)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6102200&mlon=39.1393900&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.610220,39.1393900\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.61022000~39.13939000&lvl=16&dir=0&sty=c&sp=point.21.61022000_39.13939000_Ajlan%20Frame%20Shop\" target=\"_blank\">Bing</a>").addTo(poicat004);
+
 
 
 
@@ -1006,7 +1015,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.868563, 39.666009],
+       center: [21.867602, 39.664051],
        zoom: 6,
        layers: [MBOX, poilist]   });
 
