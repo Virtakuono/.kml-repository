@@ -2011,6 +2011,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Ruins of a turkish fort</name>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/155728741]</div>]]></description>
+    <styleUrl>#style699</styleUrl>
+    <Point>
+      <coordinates>39.3536925,22.1569527,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Ruins of an Ottoman fortress</name>
     <description><![CDATA[<div dir="ltr">Big thanks for Claire Sale [http://clairesale.com/adventures-in-the-desert-ottoman-castle-near-rabigh/] Rumour from Graig Wickham has it that this site is being fenced off as of 2014... [http://www.openstreetmap.org/way/168434569]</div>]]></description>
     <styleUrl>#style699</styleUrl>
