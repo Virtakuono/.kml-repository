@@ -1884,6 +1884,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Sugarloaf</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.161028</lm:latitude>
+      <lm:longitude>39.957000</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Climbing site / Boulder</lm:name>
     <lm:coordinates>
       <lm:latitude>21.698867</lm:latitude>
