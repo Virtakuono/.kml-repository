@@ -1028,7 +1028,11 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
+<<<<<<< HEAD
        center: [21.864959, 39.662137],
+=======
+       center: [21.866088, 39.663950],
+>>>>>>> 8dc2186abcfe7d2b3f102c3f1a5ffde68256f656
        zoom: 6,
        layers: [MBOX, poilist]   });
 
