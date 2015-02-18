@@ -2046,8 +2046,8 @@
   <lm:landmark>
     <lm:name>First Saudi Airlines Aircraft</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.589142</lm:latitude>
-      <lm:longitude>39.183630</lm:longitude>
+      <lm:latitude>21.596018</lm:latitude>
+      <lm:longitude>39.173755</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -2168,6 +2168,14 @@
     <lm:coordinates>
       <lm:latitude>21.610220</lm:latitude>
       <lm:longitude>39.139390</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>aDawliah</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.558918</lm:latitude>
+      <lm:longitude>39.170831</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
