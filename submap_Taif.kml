@@ -96,7 +96,7 @@
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style707</styleUrl>
     <Point>
-      <coordinates>40.3865700,21.2570570,0.0000000</coordinates>
+      <coordinates>40.3912050,21.2560770,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -104,15 +104,7 @@
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style707</styleUrl>
     <Point>
-      <coordinates>40.3912050,21.2560770,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Cable car</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style709</styleUrl>
-    <Point>
-      <coordinates>40.2675780,21.3646550,0.0000000</coordinates>
+      <coordinates>40.3865700,21.2570570,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -124,11 +116,11 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Historic house</name>
-    <description><![CDATA[<div dir="ltr">Private</div>]]></description>
-    <styleUrl>#style710</styleUrl>
+    <name>Cable car</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style709</styleUrl>
     <Point>
-      <coordinates>40.4053960,21.2698270,0.0000000</coordinates>
+      <coordinates>40.2675780,21.3646550,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -137,6 +129,14 @@
     <styleUrl>#style710</styleUrl>
     <Point>
       <coordinates>40.3994260,21.2689670,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Historic house</name>
+    <description><![CDATA[<div dir="ltr">Private</div>]]></description>
+    <styleUrl>#style710</styleUrl>
+    <Point>
+      <coordinates>40.4053960,21.2698270,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>

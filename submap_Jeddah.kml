@@ -129,6 +129,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style686">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/university.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Style id="style687">
     <IconStyle>
       <Icon>
@@ -297,6 +304,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style739">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/music_rock.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Avail Hotel and Suite</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -418,19 +432,19 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Alfairwz restaurant</name>
-    <description><![CDATA[<div dir="ltr">A turkish restaurant</div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.1305579,21.6093990,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Al Seddah Restaurant</name>
     <description><![CDATA[<div dir="ltr">Yemeni/Saudi cuisine. Thanks to Hisham Barazi and Othman Bahlouli on Facebook for recommending the Lamb Madfoon dish.</div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1335490,21.6093440,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Alfairwz restaurant</name>
+    <description><![CDATA[<div dir="ltr">A turkish restaurant</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.1305579,21.6093990,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -466,22 +480,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Dar Al-Hekma University</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.2109180,21.4784720,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Effat University</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.2109180,21.4784720,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Fish restaurant</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -499,18 +497,18 @@
   </Placemark>
   <Placemark>
     <name>Goodies</name>
-    <description><![CDATA[<div dir="ltr">A good food market type restaurant, large dessers/sweets selection. In Stars Avenue Mall. [http://www.openstreetmap.org/node/3278327093]</div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.1273080,21.5729500,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Goodies</name>
     <description><![CDATA[<div dir="ltr">A good food market type restaurant, large dessers/sweets selection. In Coral Mall.</div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1631320,21.5502480,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Goodies</name>
+    <description><![CDATA[<div dir="ltr">A good food market type restaurant, large dessers/sweets selection. In Stars Avenue Mall. [http://www.openstreetmap.org/node/3278327093]</div>]]></description>
+    <styleUrl>#style667</styleUrl>
+    <Point>
+      <coordinates>39.1273080,21.5729500,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -682,6 +680,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Al Balad: Fruit and Veggie section</name>
+    <description><![CDATA[<div dir="ltr">Lots of fruit and vegetables, a few butcher shops as well</div>]]></description>
+    <styleUrl>#style671</styleUrl>
+    <Point>
+      <coordinates>39.1903444,21.4860500,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Alahdal souq</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style671</styleUrl>
@@ -695,14 +701,6 @@
     <styleUrl>#style671</styleUrl>
     <Point>
       <coordinates>39.1849682,21.4817093,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Al Balad: Fruit and Veggie section</name>
-    <description><![CDATA[<div dir="ltr">Lots of fruit and vegetables, a few butcher shops as well</div>]]></description>
-    <styleUrl>#style671</styleUrl>
-    <Point>
-      <coordinates>39.1903444,21.4860500,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -786,19 +784,19 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Suq Al Alawi, Al Balad District</name>
-    <description><![CDATA[<div dir="ltr">Jeddah 22236, Saudi Arabia</div>]]></description>
-    <styleUrl>#style671</styleUrl>
-    <Point>
-      <coordinates>39.1882670,21.4848440,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Souq Ghorab</name>
     <description><![CDATA[<div dir="ltr">A place to buy lamps. Thanks to Aqeel A. Bafadel via Facebook.</div>]]></description>
     <styleUrl>#style671</styleUrl>
     <Point>
       <coordinates>39.1761220,21.5508070,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Suq Al Alawi, Al Balad District</name>
+    <description><![CDATA[<div dir="ltr">Jeddah 22236, Saudi Arabia</div>]]></description>
+    <styleUrl>#style671</styleUrl>
+    <Point>
+      <coordinates>39.1882670,21.4848440,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -827,14 +825,6 @@
   </Placemark>
   <Placemark>
     <name>Starbucks</name>
-    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/node/1499855960]</div>]]></description>
-    <styleUrl>#style672</styleUrl>
-    <Point>
-      <coordinates>39.1413800,21.6065750,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Starbucks</name>
     <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/node/1096475665]</div>]]></description>
     <styleUrl>#style672</styleUrl>
     <Point>
@@ -842,11 +832,11 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Danube</name>
-    <description><![CDATA[<div dir="ltr">In Red sea mall, hypermarket.</div>]]></description>
-    <styleUrl>#style673</styleUrl>
+    <name>Starbucks</name>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/node/1499855960]</div>]]></description>
+    <styleUrl>#style672</styleUrl>
     <Point>
-      <coordinates>39.1102560,21.6268830,0.0000000</coordinates>
+      <coordinates>39.1413800,21.6065750,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -855,6 +845,14 @@
     <styleUrl>#style673</styleUrl>
     <Point>
       <coordinates>39.1630540,21.5489980,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Danube</name>
+    <description><![CDATA[<div dir="ltr">In Red sea mall, hypermarket.</div>]]></description>
+    <styleUrl>#style673</styleUrl>
+    <Point>
+      <coordinates>39.1102560,21.6268830,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -875,18 +873,18 @@
   </Placemark>
   <Placemark>
     <name>Emax</name>
-    <description><![CDATA[<div dir="ltr">Electronics, Centrepoint Dome - Amir Sultan Street, Jeddah,Tel: +966 2 6394492</div>]]></description>
-    <styleUrl>#style674</styleUrl>
-    <Point>
-      <coordinates>39.1411090,21.6066860,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Emax</name>
     <description><![CDATA[<div dir="ltr">Electronics, Sitteen Street, Bawadi,Jeddah,Tel: +966 2 6977519, 6977517</div>]]></description>
     <styleUrl>#style674</styleUrl>
     <Point>
       <coordinates>39.1768610,21.5906050,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Emax</name>
+    <description><![CDATA[<div dir="ltr">Electronics, Centrepoint Dome - Amir Sultan Street, Jeddah,Tel: +966 2 6394492</div>]]></description>
+    <styleUrl>#style674</styleUrl>
+    <Point>
+      <coordinates>39.1411090,21.6066860,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -939,10 +937,10 @@
   </Placemark>
   <Placemark>
     <name>SACO</name>
-    <description><![CDATA[<div dir="ltr">Jeddah main store. Address Al Amir Sultan Street, Phone 02-6199967 Fax 02-6199558, P.O Box 20358 - Jeddah 21455, Sat to Thur    08:00a.m / 12:00a.m, Fri      05:00p.m / 12:00a.m</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Hardware store [http://saco-ksa.com/]</div>]]></description>
     <styleUrl>#style676</styleUrl>
     <Point>
-      <coordinates>39.1214680,21.6611770,0.0000000</coordinates>
+      <coordinates>39.1650090,21.5182478,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -955,10 +953,10 @@
   </Placemark>
   <Placemark>
     <name>SACO</name>
-    <description><![CDATA[<div dir="ltr">Hardware store [http://saco-ksa.com/]</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Jeddah main store. Address Al Amir Sultan Street, Phone 02-6199967 Fax 02-6199558, P.O Box 20358 - Jeddah 21455, Sat to Thur    08:00a.m / 12:00a.m, Fri      05:00p.m / 12:00a.m</div>]]></description>
     <styleUrl>#style676</styleUrl>
     <Point>
-      <coordinates>39.1650090,21.5182478,0.0000000</coordinates>
+      <coordinates>39.1214680,21.6611770,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -979,18 +977,18 @@
   </Placemark>
   <Placemark>
     <name>Jarir bookstore</name>
-    <description><![CDATA[<div dir="ltr">Prince Sultan street Showroom timings: Sat-Thu 9am-12pm, 4.30pm-11pm; Fri 4.30pm-11pm Tel. No. +966 2 420-2050, Fax No.+966 2 420-2060</div>]]></description>
-    <styleUrl>#style678</styleUrl>
-    <Point>
-      <coordinates>39.1324010,21.6401960,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Jarir bookstore</name>
     <description><![CDATA[<div dir="ltr">on Sar[iy] Street. Showroom Timings: Sat-Thu 9am-2pm, 4.30pm-11pm; Fri 4.30pm-11pm Tel. No. +966 2 682-7666, Fax No.+966 2 698-1120</div>]]></description>
     <styleUrl>#style678</styleUrl>
     <Point>
       <coordinates>39.1457750,21.5748160,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jarir bookstore</name>
+    <description><![CDATA[<div dir="ltr">Prince Sultan street Showroom timings: Sat-Thu 9am-12pm, 4.30pm-11pm; Fri 4.30pm-11pm Tel. No. +966 2 420-2050, Fax No.+966 2 420-2060</div>]]></description>
+    <styleUrl>#style678</styleUrl>
+    <Point>
+      <coordinates>39.1324010,21.6401960,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1082,6 +1080,22 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Dar Al-Hekma University</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style686</styleUrl>
+    <Point>
+      <coordinates>39.2109180,21.4784720,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Effat University</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style686</styleUrl>
+    <Point>
+      <coordinates>39.2109180,21.4784720,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Motor vehicle periodic inspection</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style687</styleUrl>
@@ -1147,18 +1161,18 @@
   </Placemark>
   <Placemark>
     <name>Computer shops</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style693</styleUrl>
-    <Point>
-      <coordinates>39.1537280,21.6124710,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Computer shops</name>
     <description><![CDATA[<div dir="ltr">Farther down the Kahlid Al Waleed Street</div>]]></description>
     <styleUrl>#style693</styleUrl>
     <Point>
       <coordinates>39.1851430,21.5294190,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Computer shops</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style693</styleUrl>
+    <Point>
+      <coordinates>39.1537280,21.6124710,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1242,14 +1256,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>This is a mosque evening souq museum and architecture wonder. Neat place to stop by but museum tours must be arranged in advance but contacting Abdraheam at +96650360137. You can also visit [http://www.tripadvisor.com/Attraction_Review-g295419-d4090222-Reviews-Al_Tayebat_International_City-Jeddah_Makkah_Province.html] advisor for some more info.</name>
-    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/111645517]</div>]]></description>
-    <styleUrl>#style694</styleUrl>
-    <Point>
-      <coordinates>39.1099550,21.6267930,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Roshan Mall</name>
     <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/111645503]</div>]]></description>
     <styleUrl>#style694</styleUrl>
@@ -1279,6 +1285,14 @@
     <styleUrl>#style694</styleUrl>
     <Point>
       <coordinates>39.1488340,21.5490590,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>This is a mosque evening souq museum and architecture wonder. Neat place to stop by but museum tours must be arranged in advance but contacting Abdraheam at +96650360137. You can also visit [http://www.tripadvisor.com/Attraction_Review-g295419-d4090222-Reviews-Al_Tayebat_International_City-Jeddah_Makkah_Province.html] advisor for some more info.</name>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/111645517]</div>]]></description>
+    <styleUrl>#style694</styleUrl>
+    <Point>
+      <coordinates>39.1099550,21.6267930,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1495,6 +1509,14 @@
     <styleUrl>#style738</styleUrl>
     <Point>
       <coordinates>39.1393900,21.6102200,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>aDawliah</name>
+    <description><![CDATA[<div dir="ltr">For musical instruments and supplies [http://www.openstreetmap.org/node/3355298072]</div>]]></description>
+    <styleUrl>#style739</styleUrl>
+    <Point>
+      <coordinates>39.1708309,21.5589177,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>

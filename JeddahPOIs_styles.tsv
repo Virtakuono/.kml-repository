@@ -1,6 +1,6 @@
 666	Hotel	hotel_nostars	1	Restaurants, hotels, cafes, tourism
 667	Restaurant	restaurant_generic	1	Restaurants, hotels, cafes, tourism
-668	Checkpoint	toll_station	2	Shopping
+668	Checkpoint	toll_station	3	Traffic
 669	Intersection	junction	3	Traffic
 670	Airport terminal	airport_terminal	3	Traffic
 671	Souq	souq	2	Shopping
@@ -71,7 +71,7 @@
 736	Parking	parking	3	Traffic
 737	Aquarium	aquarium	5	Sights, attractions
 738	Art shop	museum_art	2	Shopping
-739	N/A	generic	6	Misc
+739	Music shop	music_rock	2	Shopping
 740	N/A	generic	6	Misc
 741	N/A	generic	6	Misc
 742	N/A	generic	6	Misc

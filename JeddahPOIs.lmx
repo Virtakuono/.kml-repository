@@ -204,18 +204,18 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Alfairwz restaurant</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.609399</lm:latitude>
-      <lm:longitude>39.130558</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Al Seddah Restaurant</lm:name>
     <lm:coordinates>
       <lm:latitude>21.609344</lm:latitude>
       <lm:longitude>39.133549</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Alfairwz restaurant</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.609399</lm:latitude>
+      <lm:longitude>39.130558</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -284,22 +284,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Dar Al-Hekma University</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.478472</lm:latitude>
-      <lm:longitude>39.210918</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Effat University</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.478472</lm:latitude>
-      <lm:longitude>39.210918</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Fish restaurant</lm:name>
     <lm:coordinates>
       <lm:latitude>21.718073</lm:latitude>
@@ -318,16 +302,16 @@
   <lm:landmark>
     <lm:name>Goodies</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.572950</lm:latitude>
-      <lm:longitude>39.127308</lm:longitude>
+      <lm:latitude>21.550248</lm:latitude>
+      <lm:longitude>39.163132</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Goodies</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.550248</lm:latitude>
-      <lm:longitude>39.163132</lm:longitude>
+      <lm:latitude>21.572950</lm:latitude>
+      <lm:longitude>39.127308</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -652,6 +636,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Al Balad: Fruit and Veggie section</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.486050</lm:latitude>
+      <lm:longitude>39.190344</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Alahdal souq</lm:name>
     <lm:coordinates>
       <lm:latitude>21.453178</lm:latitude>
@@ -664,14 +656,6 @@
     <lm:coordinates>
       <lm:latitude>21.481709</lm:latitude>
       <lm:longitude>39.184968</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Al Balad: Fruit and Veggie section</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.486050</lm:latitude>
-      <lm:longitude>39.190344</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -756,18 +740,18 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Suq Al Alawi, Al Balad District</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.484844</lm:latitude>
-      <lm:longitude>39.188267</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Souq Ghorab</lm:name>
     <lm:coordinates>
       <lm:latitude>21.550807</lm:latitude>
       <lm:longitude>39.176122</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Suq Al Alawi, Al Balad District</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.484844</lm:latitude>
+      <lm:longitude>39.188267</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -806,24 +790,16 @@
   <lm:landmark>
     <lm:name>Starbucks</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.606575</lm:latitude>
-      <lm:longitude>39.141380</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Starbucks</lm:name>
-    <lm:coordinates>
       <lm:latitude>21.598234</lm:latitude>
       <lm:longitude>39.145294</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Danube</lm:name>
+    <lm:name>Starbucks</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.626883</lm:latitude>
-      <lm:longitude>39.110256</lm:longitude>
+      <lm:latitude>21.606575</lm:latitude>
+      <lm:longitude>39.141380</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -832,6 +808,14 @@
     <lm:coordinates>
       <lm:latitude>21.548998</lm:latitude>
       <lm:longitude>39.163054</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Danube</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.626883</lm:latitude>
+      <lm:longitude>39.110256</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -854,16 +838,16 @@
   <lm:landmark>
     <lm:name>Hyperpanda</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.448370</lm:latitude>
-      <lm:longitude>39.100290</lm:longitude>
+      <lm:latitude>21.665804</lm:latitude>
+      <lm:longitude>39.109032</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Hyperpanda</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.665804</lm:latitude>
-      <lm:longitude>39.109032</lm:longitude>
+      <lm:latitude>22.448370</lm:latitude>
+      <lm:longitude>39.100290</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -886,16 +870,16 @@
   <lm:landmark>
     <lm:name>Emax</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.606686</lm:latitude>
-      <lm:longitude>39.141109</lm:longitude>
+      <lm:latitude>21.590605</lm:latitude>
+      <lm:longitude>39.176861</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Emax</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.590605</lm:latitude>
-      <lm:longitude>39.176861</lm:longitude>
+      <lm:latitude>21.606686</lm:latitude>
+      <lm:longitude>39.141109</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -998,8 +982,8 @@
   <lm:landmark>
     <lm:name>SACO</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.661177</lm:latitude>
-      <lm:longitude>39.121468</lm:longitude>
+      <lm:latitude>21.518248</lm:latitude>
+      <lm:longitude>39.165009</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1014,8 +998,8 @@
   <lm:landmark>
     <lm:name>SACO</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.518248</lm:latitude>
-      <lm:longitude>39.165009</lm:longitude>
+      <lm:latitude>21.661177</lm:latitude>
+      <lm:longitude>39.121468</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1038,16 +1022,16 @@
   <lm:landmark>
     <lm:name>Jarir bookstore</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.640196</lm:latitude>
-      <lm:longitude>39.132401</lm:longitude>
+      <lm:latitude>21.574816</lm:latitude>
+      <lm:longitude>39.145775</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Jarir bookstore</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.574816</lm:latitude>
-      <lm:longitude>39.145775</lm:longitude>
+      <lm:latitude>21.640196</lm:latitude>
+      <lm:longitude>39.132401</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1140,6 +1124,22 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Dar Al-Hekma University</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.478472</lm:latitude>
+      <lm:longitude>39.210918</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Effat University</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.478472</lm:latitude>
+      <lm:longitude>39.210918</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Mechanic</lm:name>
     <lm:coordinates>
       <lm:latitude>22.292561</lm:latitude>
@@ -1158,16 +1158,16 @@
   <lm:landmark>
     <lm:name>SABB branch</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.403745</lm:latitude>
-      <lm:longitude>39.078530</lm:longitude>
+      <lm:latitude>21.571289</lm:latitude>
+      <lm:longitude>39.142700</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>SABB branch</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.571289</lm:latitude>
-      <lm:longitude>39.142700</lm:longitude>
+      <lm:latitude>22.403745</lm:latitude>
+      <lm:longitude>39.078530</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1182,16 +1182,16 @@
   <lm:landmark>
     <lm:name>Checkpoint</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.798895</lm:latitude>
-      <lm:longitude>39.120621</lm:longitude>
+      <lm:latitude>21.408072</lm:latitude>
+      <lm:longitude>39.255779</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Checkpoint</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.408072</lm:latitude>
-      <lm:longitude>39.255779</lm:longitude>
+      <lm:latitude>21.798895</lm:latitude>
+      <lm:longitude>39.120621</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1222,24 +1222,16 @@
   <lm:landmark>
     <lm:name>Tailor</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.286188</lm:latitude>
-      <lm:longitude>39.112328</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Tailor</lm:name>
-    <lm:coordinates>
       <lm:latitude>21.482512</lm:latitude>
       <lm:longitude>39.183121</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Computer shops</lm:name>
+    <lm:name>Tailor</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.612471</lm:latitude>
-      <lm:longitude>39.153728</lm:longitude>
+      <lm:latitude>22.286188</lm:latitude>
+      <lm:longitude>39.112328</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1248,6 +1240,14 @@
     <lm:coordinates>
       <lm:latitude>21.529419</lm:latitude>
       <lm:longitude>39.185143</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Computer shops</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.612471</lm:latitude>
+      <lm:longitude>39.153728</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1340,14 +1340,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>This is a mosque evening souq museum and architecture wonder. Neat place to stop by but museum tours must be arranged in advance but contacting Abdraheam at +96650360137. You can also visit [http://www.tripadvisor.com/Attraction_Review-g295419-d4090222-Reviews-Al_Tayebat_International_City-Jeddah_Makkah_Province.html] advisor for some more info.</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.626793</lm:latitude>
-      <lm:longitude>39.109955</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Roshan Mall</lm:name>
     <lm:coordinates>
       <lm:latitude>21.665110</lm:latitude>
@@ -1376,6 +1368,14 @@
     <lm:coordinates>
       <lm:latitude>21.549059</lm:latitude>
       <lm:longitude>39.148834</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>This is a mosque evening souq museum and architecture wonder. Neat place to stop by but museum tours must be arranged in advance but contacting Abdraheam at +96650360137. You can also visit [http://www.tripadvisor.com/Attraction_Review-g295419-d4090222-Reviews-Al_Tayebat_International_City-Jeddah_Makkah_Province.html] advisor for some more info.</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.626793</lm:latitude>
+      <lm:longitude>39.109955</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1430,16 +1430,16 @@
   <lm:landmark>
     <lm:name>A hole in the ground</lm:name>
     <lm:coordinates>
-      <lm:latitude>26.558339</lm:latitude>
-      <lm:longitude>47.172122</lm:longitude>
+      <lm:latitude>25.326824</lm:latitude>
+      <lm:longitude>44.375799</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>A hole in the ground</lm:name>
     <lm:coordinates>
-      <lm:latitude>25.326824</lm:latitude>
-      <lm:longitude>44.375799</lm:longitude>
+      <lm:latitude>26.558339</lm:latitude>
+      <lm:longitude>47.172122</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1460,18 +1460,18 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Eastern Forest</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.640036</lm:latitude>
-      <lm:longitude>39.362811</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Eagle rock</lm:name>
     <lm:coordinates>
       <lm:latitude>22.072800</lm:latitude>
       <lm:longitude>39.494200</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Eastern Forest</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.640036</lm:latitude>
+      <lm:longitude>39.362811</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1598,16 +1598,16 @@
   <lm:landmark>
     <lm:name>Passport photo studio</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.286854</lm:latitude>
-      <lm:longitude>39.112568</lm:longitude>
+      <lm:latitude>22.286694</lm:latitude>
+      <lm:longitude>39.113266</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Passport photo studio</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.286694</lm:latitude>
-      <lm:longitude>39.113266</lm:longitude>
+      <lm:latitude>22.286854</lm:latitude>
+      <lm:longitude>39.112568</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1678,16 +1678,16 @@
   <lm:landmark>
     <lm:name>Historic mosque</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.257057</lm:latitude>
-      <lm:longitude>40.386570</lm:longitude>
+      <lm:latitude>21.256077</lm:latitude>
+      <lm:longitude>40.391205</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Historic mosque</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.256077</lm:latitude>
-      <lm:longitude>40.391205</lm:longitude>
+      <lm:latitude>21.257057</lm:latitude>
+      <lm:longitude>40.386570</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1726,32 +1726,24 @@
   <lm:landmark>
     <lm:name>Dam and a reservoir</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.821441</lm:latitude>
-      <lm:longitude>39.376327</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Dam and a reservoir</lm:name>
-    <lm:coordinates>
       <lm:latitude>22.796756</lm:latitude>
       <lm:longitude>39.283353</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Cable car</lm:name>
+    <lm:name>Dam and a reservoir</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.364655</lm:latitude>
-      <lm:longitude>40.267578</lm:longitude>
+      <lm:latitude>22.821441</lm:latitude>
+      <lm:longitude>39.376327</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Cable car</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.356297</lm:latitude>
-      <lm:longitude>40.229355</lm:longitude>
+      <lm:latitude>18.281143</lm:latitude>
+      <lm:longitude>42.336361</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1766,8 +1758,16 @@
   <lm:landmark>
     <lm:name>Cable car</lm:name>
     <lm:coordinates>
-      <lm:latitude>18.281143</lm:latitude>
-      <lm:longitude>42.336361</lm:longitude>
+      <lm:latitude>21.356297</lm:latitude>
+      <lm:longitude>40.229355</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Cable car</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.364655</lm:latitude>
+      <lm:longitude>40.267578</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1782,16 +1782,16 @@
   <lm:landmark>
     <lm:name>Historic house</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.269827</lm:latitude>
-      <lm:longitude>40.405396</lm:longitude>
+      <lm:latitude>21.268967</lm:latitude>
+      <lm:longitude>40.399426</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Historic house</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.268967</lm:latitude>
-      <lm:longitude>40.399426</lm:longitude>
+      <lm:latitude>21.269827</lm:latitude>
+      <lm:longitude>40.405396</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1884,18 +1884,18 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Sugarloaf</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.161028</lm:latitude>
-      <lm:longitude>39.957000</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Climbing site / Boulder</lm:name>
     <lm:coordinates>
       <lm:latitude>21.698867</lm:latitude>
       <lm:longitude>39.347053</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Sugarloaf</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.161028</lm:latitude>
+      <lm:longitude>39.957000</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1916,18 +1916,26 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Harrat Ithnayn</lm:name>
-    <lm:coordinates>
-      <lm:latitude>26.580000</lm:latitude>
-      <lm:longitude>40.200000</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Harrat al Birk</lm:name>
     <lm:coordinates>
       <lm:latitude>18.370000</lm:latitude>
       <lm:longitude>41.620000</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Harrat ar Rahah</lm:name>
+    <lm:coordinates>
+      <lm:latitude>27.800000</lm:latitude>
+      <lm:longitude>36.170000</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Harrat Ithnayn</lm:name>
+    <lm:coordinates>
+      <lm:latitude>26.580000</lm:latitude>
+      <lm:longitude>40.200000</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1944,14 +1952,6 @@
     <lm:coordinates>
       <lm:latitude>25.170000</lm:latitude>
       <lm:longitude>37.750000</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Harrat ar Rahah</lm:name>
-    <lm:coordinates>
-      <lm:latitude>27.800000</lm:latitude>
-      <lm:longitude>36.170000</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -2168,6 +2168,14 @@
     <lm:coordinates>
       <lm:latitude>21.610220</lm:latitude>
       <lm:longitude>39.139390</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>aDawliah</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.558918</lm:latitude>
+      <lm:longitude>39.170831</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
