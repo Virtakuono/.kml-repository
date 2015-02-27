@@ -1153,7 +1153,7 @@
   </Placemark>
   <Placemark>
     <name>Tailor</name>
-    <description><![CDATA[<div dir="ltr">The place looks like a dump but they make fair quality trousers for 55 SAR. They tend to overuse interfacing in shirts, tho.</div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/node/3361193947] The place looks like a dump but they make fair quality trousers for 55 SAR. They tend to overuse interfacing in shirts, tho.</div>]]></description>
     <styleUrl>#style692</styleUrl>
     <Point>
       <coordinates>39.1831210,21.4825120,0.0000000</coordinates>
@@ -1337,10 +1337,10 @@
   </Placemark>
   <Placemark>
     <name>Textile shop</name>
-    <description><![CDATA[<div dir="ltr">There is a whole bunch of them in the nearby area</div>]]></description>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/node/3374422974] There is a whole bunch of them in the nearby area</div>]]></description>
     <styleUrl>#style704</styleUrl>
     <Point>
-      <coordinates>39.1843030,21.4833280,0.0000000</coordinates>
+      <coordinates>39.1843755,21.4833997,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
