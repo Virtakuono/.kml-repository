@@ -943,6 +943,8 @@
 
    L.marker([21.6988667, 39.3470528],{icon: iconType718}).bindPopup("<b>Climbing site / Boulder</b><br />From Sebastian Wolf via Facebook, 15m UIAA 6+ up to 9 several sides - now with hooks and loops<br />Coordinates: (21.6988667, 39.3470528)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6988667&mlon=39.3470528&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.698867,39.3470528\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.69886670~39.34705280&lvl=16&dir=0&sty=c&sp=point.21.69886670_39.34705280_Climbing%20site%20/%20Boulder\" target=\"_blank\">Bing</a>").addTo(poicat005);
 
+   L.marker([22.0531230, 39.4708940],{icon: iconType718}).bindPopup("<b>Moon mountain</b><br />Thanks to Greg Wickham<br />Coordinates: (22.0531230, 39.4708940)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.0531230&mlon=39.4708940&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.053123,39.4708940\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.05312300~39.47089400&lvl=16&dir=0&sty=c&sp=point.22.05312300_39.47089400_Moon%20mountain\" target=\"_blank\">Bing</a>").addTo(poicat005);
+
    L.marker([21.1610278, 39.9570000],{icon: iconType718}).bindPopup("<b>Sugarloaf</b><br />Thx to Gofran Kurdi via Facebook, <a href=\"http://www.openstreetmap.org/node/3324645783\" target=\"_blank\">http://www.openstreetmap.org/node/3324645783</a><br />Coordinates: (21.1610278, 39.9570000)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.1610278&mlon=39.9570000&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.161028,39.9570000\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.16102780~39.95700000&lvl=16&dir=0&sty=c&sp=point.21.16102780_39.95700000_Sugarloaf\" target=\"_blank\">Bing</a>").addTo(poicat005);
 
    L.marker([31.0800000, 38.4200000],{icon: iconType719}).bindPopup("<b>Al Harrah</b><br />Volcanic field, <a href=\"http://www.volcano.si.edu/volcano.cfm?vn=231001\" target=\"_blank\">http://www.volcano.si.edu/volcano.cfm?vn=231001</a><br />Coordinates: (31.0800000, 38.4200000)<br /><a href=\"http://www.openstreetmap.org/?mlat=31.0800000&mlon=38.4200000&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=31.080000,38.4200000\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=31.08000000~38.42000000&lvl=16&dir=0&sty=c&sp=point.31.08000000_38.42000000_Al%20Harrah\" target=\"_blank\">Bing</a>").addTo(poicat005);
@@ -1035,7 +1037,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.864959, 39.662138],
+       center: [21.865648, 39.661437],
        zoom: 6,
        layers: [MBOX, poilist]   });
 
