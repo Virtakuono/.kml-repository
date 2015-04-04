@@ -36,8 +36,8 @@ Broast chicken carry-out		22.2862910	39.1120830	Restaurant	667
 Chicken	Grilled rotisserie, comes with a huge plate of rice and salad	22.2873120	39.1132050	Restaurant	667	
 Fish restaurant		21.7180730	39.1039580	Restaurant	667	
 Garuda restaurant	Indonesian cuisine - thanks, Angi	21.4862929	39.1829780	Restaurant	667	
-Goodies	A good food market type restaurant, large dessers/sweets selection. In Coral Mall.	21.5502480	39.1631320	Restaurant	667	
 Goodies	A good food market type restaurant, large dessers/sweets selection. In Stars Avenue Mall. [http://www.openstreetmap.org/node/3278327093]	21.5729500	39.1273080	Restaurant	667	
+Goodies	A good food market type restaurant, large dessers/sweets selection. In Coral Mall.	21.5502480	39.1631320	Restaurant	667	
 Koreana restaurant	In a residential area and thus hard to find. Call 660-4769 if lost. [http://www.openstreetmap.org/node/3278307161]	21.5353660	39.1653370	Restaurant	667	
 Linas	Pasta, sandwiches, patio on the beach	22.4049139	39.0763444	Restaurant	667	
 Makkah restaurant	Indian restaurant in a traditional area	21.5014506	39.1906515	Restaurant	667	
@@ -97,18 +97,18 @@ Tuesday market		18.2146850	42.4964330	Souq	671
 Vegetable market	Small booths of produce, thanks to Eric Bakken	21.6166870	39.1492670	Souq	671	
 Vegetable souq	Thanks to Naoufal Uariachi	21.5900130	39.2213840	Souq	671	
 Yamamah gold souq	Best place to buy gold and there are a lot of shops to buy fabrics and textiles	21.4869081	39.1964989	Souq	671	
-Starbucks	[http://www.openstreetmap.org/node/1096475665]	21.5982340	39.1452940	Coffeehouse	672	
 Starbucks	[http://www.openstreetmap.org/node/1499855960]	21.6065750	39.1413800	Coffeehouse	672	
-Danube		21.5489980	39.1630540	Supermarket	673	
+Starbucks	[http://www.openstreetmap.org/node/1096475665]	21.5982340	39.1452940	Coffeehouse	672	
 Danube	In Red sea mall, hypermarket.	21.6268830	39.1102560	Supermarket	673	
+Danube		21.5489980	39.1630540	Supermarket	673	
 Garuda shop	Indonesian style groceries - thanks Angi	21.4863278	39.1830732	Supermarket	673	
 Grocery store	Good prices on veggies, (you pay the seller directly for veggies, everything else is paid at the checkout), also get your cleaning supplies, office supplies, household stuff here.	22.2865870	39.1125560	Supermarket	673	
-Hyperpanda	In the Roshan mall, large grocery store with dry goods	21.6658040	39.1090320	Supermarket	673	
 Hyperpanda	KAEC branch	22.4483700	39.1002900	Supermarket	673	
+Hyperpanda	In the Roshan mall, large grocery store with dry goods	21.6658040	39.1090320	Supermarket	673	
 Meed	Convenience store 24/7	22.4024361	39.0814861	Supermarket	673	
 Electronic store and mobiles		22.2873210	39.1127360	Electronics shop	674	
-Emax	Electronics, Sitteen Street, Bawadi,Jeddah,Tel: +966 2 6977519, 6977517	21.5906050	39.1768610	Electronics shop	674	
 Emax	Electronics, Centrepoint Dome - Amir Sultan Street, Jeddah,Tel: +966 2 6394492	21.6066860	39.1411090	Electronics shop	674	
+Emax	Electronics, Sitteen Street, Bawadi,Jeddah,Tel: +966 2 6977519, 6977517	21.5906050	39.1768610	Electronics shop	674	
 Extra	Electronics and home appliances	21.5979560	39.1432340	Electronics shop	674	
 Hyperpanda	Hypermarket, a large grocery store	21.5632670	39.2041320	Electronics shop	674	
 Mobile shop		22.2873130	39.1129260	Electronics shop	674	
@@ -121,20 +121,20 @@ Palm Beach	A private beach and accommodation facility. Parking is outside.	21.72
 Red Sea Resort (Sheraton)		21.7351150	39.0723610	Beach	675	
 Silver sands beach club		21.7736000	39.0512010	Beach	675	
 Al Muhaidib Hardware	found door chains here. Door lock, handles etc.	21.5574210	39.1787030	Hardware store	676	
+SACO	Jeddah main store. Address Al Amir Sultan Street, Phone 02-6199967 Fax 02-6199558, P.O Box 20358 - Jeddah 21455, Sat to Thur    08:00a.m / 12:00a.m, Fri      05:00p.m / 12:00a.m	21.6611770	39.1214680	Hardware store	676	
 SACO	Hardware store [http://saco-ksa.com/]	21.5182478	39.1650090	Hardware store	676	
 SACO	Hardware store [http://saco-ksa.com/]	21.5634480	39.2049060	Hardware store	676	
-SACO	Jeddah main store. Address Al Amir Sultan Street, Phone 02-6199967 Fax 02-6199558, P.O Box 20358 - Jeddah 21455, Sat to Thur    08:00a.m / 12:00a.m, Fri      05:00p.m / 12:00a.m	21.6611770	39.1214680	Hardware store	676	
 SITACO		21.5779530	39.1648860	Hardware store	676	
 Toyota car dealer		21.6338140	39.2039600	Cars	677	
-Jarir bookstore	on Sar[iy] Street. Showroom Timings: Sat-Thu 9am-2pm, 4.30pm-11pm; Fri 4.30pm-11pm Tel. No. +966 2 682-7666, Fax No.+966 2 698-1120	21.5748160	39.1457750	Book store	678	
 Jarir bookstore	Prince Sultan street Showroom timings: Sat-Thu 9am-12pm, 4.30pm-11pm; Fri 4.30pm-11pm Tel. No. +966 2 420-2050, Fax No.+966 2 420-2060	21.6401960	39.1324010	Book store	678	
+Jarir bookstore	on Sar[iy] Street. Showroom Timings: Sat-Thu 9am-2pm, 4.30pm-11pm; Fri 4.30pm-11pm Tel. No. +966 2 682-7666, Fax No.+966 2 698-1120	21.5748160	39.1457750	Book store	678	
 IKEA	[http://www.openstreetmap.org/way/44536022]	21.5571190	39.1832770	Furniture shop	679	
 Arabian vets		21.6024230	39.1424410	Veterinary	680	
 Eurovets	Vet clinic with Dr. Carlos	21.5516800	39.1636280	Veterinary	680	
 Jeddah Veterinary Clinic		21.5788018	39.1741776	Veterinary	680	
 Happy Pets	Pet shop	21.6024440	39.1426440	Pet shop	681	
-Pet Oasis	Pet shop	21.5896280	39.1749340	Pet shop	681	
 Pet Oasis	Pet shop	21.5970270	39.1425740	Pet shop	681	
+Pet Oasis	Pet shop	21.5896280	39.1749340	Pet shop	681	
 Toys R Us	In Roshan Mall	21.6646670	39.1085590	Toys	682	
 DFSH - Dr. Soliman Fakeeh Hospital	012 6655000 [http://www.openstreetmap.org/node/1497744277]	21.5257100	39.1677800	Hospital	683	
 IMC - International Medical Center Jeddah	PO Box: 2172 Jeddah: 21451 Phone: +966 2 650 9000 Fax: +966 2 653 5045 E-mail: imcinfo@imc.med.sa	21.5134800	39.1740600	Hospital	683	
@@ -143,18 +143,18 @@ Dar Al-Hekma University		21.4784720	39.2109180	University	686
 Effat University		21.4784720	39.2109180	University	686	
 Mechanic	Also sells engine oil, filters, etc	22.2925610	39.1158680	Car repair	687	
 Motor vehicle periodic inspection		21.6232010	39.1943470	Car repair	687	
-SABB branch		21.5712890	39.1427000	Bank	688	
 SABB branch	Full services, includes a separate ladies section	22.4037450	39.0785300	Bank	688	
+SABB branch		21.5712890	39.1427000	Bank	688	
 Western Union		21.6180032	39.1783132	Bank	688	
-Checkpoint		21.4080720	39.2557790	Police checkpoint	689	
 Checkpoint		21.7988950	39.1206210	Police checkpoint	689	
+Checkpoint		21.4080720	39.2557790	Police checkpoint	689	
 US Consulate		21.5250210	39.1660390	Embassy, consulate	690	
 Wheels	[http://www.openstreetmap.org/node/528844974] Sari str, Carries TREK - Sam Abalos (WHEELS) Tel:026981302 Cell:0508691557 (open 09:30-12:00 and 16:30-00:00 from a phone call) overpass along Sari Street. To get to Wheels you need to approach from East and NOT go on the overpass.	21.5757390	39.1452940	Bike shop	691	
 Sewing machine shops		21.4777510	39.1866040	Sewing shop	692	
-Tailor	[http://www.openstreetmap.org/node/3361193947] The place looks like a dump but they make fair quality trousers for 55 SAR. They tend to overuse interfacing in shirts, tho.	21.4825120	39.1831210	Sewing shop	692	
 Tailor		22.2861880	39.1123280	Sewing shop	692	
-Computer shops	Farther down the Kahlid Al Waleed Street	21.5294190	39.1851430	Computers	693	
+Tailor	[http://www.openstreetmap.org/node/3361193947] The place looks like a dump but they make fair quality trousers for 55 SAR. They tend to overuse interfacing in shirts, tho.	21.4825120	39.1831210	Sewing shop	692	
 Computer shops		21.6124710	39.1537280	Computers	693	
+Computer shops	Farther down the Kahlid Al Waleed Street	21.5294190	39.1851430	Computers	693	
 Computer shops, many (N)	This is about the north end of the computer store strip 	21.5202900	39.1856730	Computers	693	
 Computer shops, many (S)	This is about the south end of the computer store strip	21.5170820	39.1862070	Computers	693	
 Computer supplies	Baroom Centre, 6733 Fayd Ar Rida, Jeddah 23213	21.5128610	39.1725580	Computers	693	
@@ -180,26 +180,28 @@ Dream Divers	Departure point for boat trips	21.7366300	39.1230570	Scuba diving	6
 A hole in the ground	Another hole found in the desert, thanks to Herbert Bagolbagol via Facebook	25.3268240	44.3757990	Natural site	698	
 A hole in the ground	Information on this peculiar looking structure is scarce. [http://crazymoor.wordpress.com/2007/11/25/an-underground-oasis-in-saudi-arabia/]	26.5583389	47.1721222	Natural site	698	
 Al Akhal Oasis		23.3108000	39.8488917	Natural site	698	
+Ancient Gold Mines	Remisence of ancient mining activity, ~1000 y old	22.5851350	39.7517460	Natural site	698	
 Buhairat City	[http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/]	21.8297414	39.0221715	Natural site	698	
 Eagle rock	A beautiful site for camping, thanks to Alma Hobson	22.0728000	39.4942000	Natural site	698	
 Eastern Forest	http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/	21.6400360	39.3628110	Natural site	698	
 Elephant rock	Thanks, Greg Wickham [http://www.openstreetmap.org/node/973472648]	26.6896611	37.9799389	Natural site	698	
 End of World	A beautiful site, http://www.blueabaya.com/2012/08/guide-to-edge-of-world.html	24.9448333	45.9922500	Natural site	698	
 Hot springs	Thanks to Ryan Lefers for the tip	20.4633600	40.4697760	Natural site	698	
+Modern Gold Prospect	The site is in a easily accessable wadi flanked by high mountains. The prospect site is perforated by many boreholes into a copper rich geological mineralisation.	22.5902440	39.7536730	Natural site	698	
 Moon valley	[http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/]	22.0464360	39.4780170	Natural site	698	
 National Asir Park		18.2007920	42.4945110	Natural site	698	
 Rabigh Peninsula	A site for camping, open for everyone. Thanks to Eric Bakken	22.8957000	38.8856110	Natural site	698	
 Salt lake	[http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/]	21.8765820	39.0161180	Natural site	698	
 South Corniche	[http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/]	21.2433760	39.1400150	Natural site	698	
 Madain Saleh	Access here is restricted. See, for example [http://kcomm.wikispaces.com/Day+Trips] for info on how to get permits. [http://www.openstreetmap.org/way/43405836]	26.8141670	37.9475000	Fortress, castle	699	
-Ruins of a turkish fort	[http://www.openstreetmap.org/way/97644047]	21.5126630	40.5943110	Fortress, castle	699	
 Ruins of a turkish fort	[http://www.openstreetmap.org/way/155728741]	22.1569527	39.3536925	Fortress, castle	699	
+Ruins of a turkish fort	[http://www.openstreetmap.org/way/97644047]	21.5126630	40.5943110	Fortress, castle	699	
 Ruins of an Ottoman fortress	Big thanks for Claire Sale [http://clairesale.com/adventures-in-the-desert-ottoman-castle-near-rabigh/] Rumour from Graig Wickham has it that this site is being fenced off as of 2014... [http://www.openstreetmap.org/way/168434569]	22.7396757	39.1371766	Fortress, castle	699	
 Usfan Fort	[http://www.openstreetmap.org/way/155737093] [http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/]	21.9162970	39.3399830	Fortress, castle	699	
 Al Wazir Pharmacy	[http://www.openstreetmap.org/node/3077730181]	22.4024833	39.0815916	Pharmacy	700	
 Pharmacy	[http://www.openstreetmap.org/way/304768912]	22.2876130	39.1131900	Pharmacy	700	
-Passport photo studio		22.2866940	39.1132660	Photo shop	701	
 Passport photo studio		22.2868540	39.1125680	Photo shop	701	
+Passport photo studio		22.2866940	39.1132660	Photo shop	701	
 Car wash	SAR 20. They use high pressure hoses, cloth and lots of soap. I tried to haggle for a car wash but after I came back, the car was still unwashed. Perhaps someone with good command of arabic will have more luck. -Juho	22.2875160	39.1157070	Car wash	702	
 ATM		22.2896820	39.1147380	ATM	703	
 Fabric Souq	Thanks to Jeff King via Facebook	21.5866530	39.1293600	Textiles, fabrics	704	
@@ -208,18 +210,18 @@ Al Balad: KAUST bus dropoff		21.4844640	39.1808420	Bus dropoff	705
 DSFH: KAUST bus dropoff		21.5251472	39.1683472	Bus dropoff	705	
 Red Sea Mall: KAUST bus dropoff		21.6280767	39.1130930	Bus dropoff	705	
 Al Bahah	[http://en.wikipedia.org/wiki/Al_Bahah]	20.0000000	41.4500000	City, town, village	706	
-Historic mosque		21.2560770	40.3912050	Mosque	707	
 Historic mosque		21.2570570	40.3865700	Mosque	707	
+Historic mosque		21.2560770	40.3912050	Mosque	707	
 Juffali mosque	[http://www.openstreetmap.org/relation/1561613]	21.4922870	39.1857170	Mosque	707	
 King Saud Mosque	[http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/]	21.5222610	39.1827220	Mosque	707	
 Alsamlagui ancient dam		21.1294540	40.5121540	Dam	708	
 An Bint Dam	Thanks, Greg Wickham	25.4848889	39.3627972	Dam	708	
 Dam and a reservoir	Thanks to May Roberts and Alex Kattan, view of the reservoir http://www.panoramio.com/photo/111720456	22.7967560	39.2833530	Dam	708	
 Dam and a reservoir	Thanks to May Roberts and Alex Kattan	22.8214410	39.3763270	Dam	708	
-Cable car	Lower station	18.2811430	42.3363610	Cable car	709	
-Cable car	Top station	18.2944660	42.3589630	Cable car	709	
 Cable car		21.3562970	40.2293550	Cable car	709	
 Cable car		21.3646550	40.2675780	Cable car	709	
+Cable car	Lower station	18.2811430	42.3363610	Cable car	709	
+Cable car	Top station	18.2944660	42.3589630	Cable car	709	
 Bait al Naseef	[http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/]	21.4843890	39.1874000	House	710	
 Historic house	Not looked after	21.2689670	40.3994260	House	710	
 Historic house	Private	21.2698270	40.4053960	House	710	

@@ -2361,6 +2361,14 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Moon mountain</name>
+    <description><![CDATA[<div dir="ltr">Thanks to Greg Wickham</div>]]></description>
+    <styleUrl>#style718</styleUrl>
+    <Point>
+      <coordinates>39.4708940,22.0531230,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Sugarloaf</name>
     <description><![CDATA[<div dir="ltr">Thx to Gofran Kurdi via Facebook, [http://www.openstreetmap.org/node/3324645783]</div>]]></description>
     <styleUrl>#style718</styleUrl>

@@ -302,16 +302,16 @@
   <lm:landmark>
     <lm:name>Goodies</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.550248</lm:latitude>
-      <lm:longitude>39.163132</lm:longitude>
+      <lm:latitude>21.572950</lm:latitude>
+      <lm:longitude>39.127308</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Goodies</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.572950</lm:latitude>
-      <lm:longitude>39.127308</lm:longitude>
+      <lm:latitude>21.550248</lm:latitude>
+      <lm:longitude>39.163132</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -790,24 +790,16 @@
   <lm:landmark>
     <lm:name>Starbucks</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.598234</lm:latitude>
-      <lm:longitude>39.145294</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Starbucks</lm:name>
-    <lm:coordinates>
       <lm:latitude>21.606575</lm:latitude>
       <lm:longitude>39.141380</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Danube</lm:name>
+    <lm:name>Starbucks</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.548998</lm:latitude>
-      <lm:longitude>39.163054</lm:longitude>
+      <lm:latitude>21.598234</lm:latitude>
+      <lm:longitude>39.145294</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -816,6 +808,14 @@
     <lm:coordinates>
       <lm:latitude>21.626883</lm:latitude>
       <lm:longitude>39.110256</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Danube</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.548998</lm:latitude>
+      <lm:longitude>39.163054</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -838,16 +838,16 @@
   <lm:landmark>
     <lm:name>Hyperpanda</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.665804</lm:latitude>
-      <lm:longitude>39.109032</lm:longitude>
+      <lm:latitude>22.448370</lm:latitude>
+      <lm:longitude>39.100290</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Hyperpanda</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.448370</lm:latitude>
-      <lm:longitude>39.100290</lm:longitude>
+      <lm:latitude>21.665804</lm:latitude>
+      <lm:longitude>39.109032</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -870,16 +870,16 @@
   <lm:landmark>
     <lm:name>Emax</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.590605</lm:latitude>
-      <lm:longitude>39.176861</lm:longitude>
+      <lm:latitude>21.606686</lm:latitude>
+      <lm:longitude>39.141109</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Emax</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.606686</lm:latitude>
-      <lm:longitude>39.141109</lm:longitude>
+      <lm:latitude>21.590605</lm:latitude>
+      <lm:longitude>39.176861</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -982,6 +982,14 @@
   <lm:landmark>
     <lm:name>SACO</lm:name>
     <lm:coordinates>
+      <lm:latitude>21.661177</lm:latitude>
+      <lm:longitude>39.121468</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>SACO</lm:name>
+    <lm:coordinates>
       <lm:latitude>21.518248</lm:latitude>
       <lm:longitude>39.165009</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
@@ -992,14 +1000,6 @@
     <lm:coordinates>
       <lm:latitude>21.563448</lm:latitude>
       <lm:longitude>39.204906</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>SACO</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.661177</lm:latitude>
-      <lm:longitude>39.121468</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1022,16 +1022,16 @@
   <lm:landmark>
     <lm:name>Jarir bookstore</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.574816</lm:latitude>
-      <lm:longitude>39.145775</lm:longitude>
+      <lm:latitude>21.640196</lm:latitude>
+      <lm:longitude>39.132401</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Jarir bookstore</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.640196</lm:latitude>
-      <lm:longitude>39.132401</lm:longitude>
+      <lm:latitude>21.574816</lm:latitude>
+      <lm:longitude>39.145775</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1078,16 +1078,16 @@
   <lm:landmark>
     <lm:name>Pet Oasis</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.589628</lm:latitude>
-      <lm:longitude>39.174934</lm:longitude>
+      <lm:latitude>21.597027</lm:latitude>
+      <lm:longitude>39.142574</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Pet Oasis</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.597027</lm:latitude>
-      <lm:longitude>39.142574</lm:longitude>
+      <lm:latitude>21.589628</lm:latitude>
+      <lm:longitude>39.174934</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1158,16 +1158,16 @@
   <lm:landmark>
     <lm:name>SABB branch</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.571289</lm:latitude>
-      <lm:longitude>39.142700</lm:longitude>
+      <lm:latitude>22.403745</lm:latitude>
+      <lm:longitude>39.078530</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>SABB branch</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.403745</lm:latitude>
-      <lm:longitude>39.078530</lm:longitude>
+      <lm:latitude>21.571289</lm:latitude>
+      <lm:longitude>39.142700</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1182,16 +1182,16 @@
   <lm:landmark>
     <lm:name>Checkpoint</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.408072</lm:latitude>
-      <lm:longitude>39.255779</lm:longitude>
+      <lm:latitude>21.798895</lm:latitude>
+      <lm:longitude>39.120621</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Checkpoint</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.798895</lm:latitude>
-      <lm:longitude>39.120621</lm:longitude>
+      <lm:latitude>21.408072</lm:latitude>
+      <lm:longitude>39.255779</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1222,24 +1222,16 @@
   <lm:landmark>
     <lm:name>Tailor</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.482512</lm:latitude>
-      <lm:longitude>39.183121</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Tailor</lm:name>
-    <lm:coordinates>
       <lm:latitude>22.286188</lm:latitude>
       <lm:longitude>39.112328</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Computer shops</lm:name>
+    <lm:name>Tailor</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.529419</lm:latitude>
-      <lm:longitude>39.185143</lm:longitude>
+      <lm:latitude>21.482512</lm:latitude>
+      <lm:longitude>39.183121</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1248,6 +1240,14 @@
     <lm:coordinates>
       <lm:latitude>21.612471</lm:latitude>
       <lm:longitude>39.153728</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Computer shops</lm:name>
+    <lm:coordinates>
+      <lm:latitude>21.529419</lm:latitude>
+      <lm:longitude>39.185143</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1452,6 +1452,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Ancient Gold Mines</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.585135</lm:latitude>
+      <lm:longitude>39.751746</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Buhairat City</lm:name>
     <lm:coordinates>
       <lm:latitude>21.829741</lm:latitude>
@@ -1496,6 +1504,14 @@
     <lm:coordinates>
       <lm:latitude>20.463360</lm:latitude>
       <lm:longitude>40.469776</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Modern Gold Prospect</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.590244</lm:latitude>
+      <lm:longitude>39.753673</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1550,16 +1566,16 @@
   <lm:landmark>
     <lm:name>Ruins of a turkish fort</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.512663</lm:latitude>
-      <lm:longitude>40.594311</lm:longitude>
+      <lm:latitude>22.156953</lm:latitude>
+      <lm:longitude>39.353693</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Ruins of a turkish fort</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.156953</lm:latitude>
-      <lm:longitude>39.353693</lm:longitude>
+      <lm:latitude>21.512663</lm:latitude>
+      <lm:longitude>40.594311</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1598,16 +1614,16 @@
   <lm:landmark>
     <lm:name>Passport photo studio</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.286694</lm:latitude>
-      <lm:longitude>39.113266</lm:longitude>
+      <lm:latitude>22.286854</lm:latitude>
+      <lm:longitude>39.112568</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Passport photo studio</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.286854</lm:latitude>
-      <lm:longitude>39.112568</lm:longitude>
+      <lm:latitude>22.286694</lm:latitude>
+      <lm:longitude>39.113266</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1678,16 +1694,16 @@
   <lm:landmark>
     <lm:name>Historic mosque</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.256077</lm:latitude>
-      <lm:longitude>40.391205</lm:longitude>
+      <lm:latitude>21.257057</lm:latitude>
+      <lm:longitude>40.386570</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
     <lm:name>Historic mosque</lm:name>
     <lm:coordinates>
-      <lm:latitude>21.257057</lm:latitude>
-      <lm:longitude>40.386570</lm:longitude>
+      <lm:latitude>21.256077</lm:latitude>
+      <lm:longitude>40.391205</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -1742,22 +1758,6 @@
   <lm:landmark>
     <lm:name>Cable car</lm:name>
     <lm:coordinates>
-      <lm:latitude>18.281143</lm:latitude>
-      <lm:longitude>42.336361</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Cable car</lm:name>
-    <lm:coordinates>
-      <lm:latitude>18.294466</lm:latitude>
-      <lm:longitude>42.358963</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Cable car</lm:name>
-    <lm:coordinates>
       <lm:latitude>21.356297</lm:latitude>
       <lm:longitude>40.229355</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
@@ -1768,6 +1768,22 @@
     <lm:coordinates>
       <lm:latitude>21.364655</lm:latitude>
       <lm:longitude>40.267578</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Cable car</lm:name>
+    <lm:coordinates>
+      <lm:latitude>18.281143</lm:latitude>
+      <lm:longitude>42.336361</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
+    <lm:name>Cable car</lm:name>
+    <lm:coordinates>
+      <lm:latitude>18.294466</lm:latitude>
+      <lm:longitude>42.358963</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>

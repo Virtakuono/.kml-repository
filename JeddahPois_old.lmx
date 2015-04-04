@@ -1892,6 +1892,14 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
+    <lm:name>Moon mountain</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.053123</lm:latitude>
+      <lm:longitude>39.470894</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
+  <lm:landmark>
     <lm:name>Sugarloaf</lm:name>
     <lm:coordinates>
       <lm:latitude>21.161028</lm:latitude>
