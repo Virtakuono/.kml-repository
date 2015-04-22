@@ -962,7 +962,7 @@
   </Placemark>
   <Placemark>
     <name>Sushi Yoshi</name>
-    <description><![CDATA[<div dir="ltr">Name says it all, thanks, Greg Wickham</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Name says it all, thanks, Greg Wickham [http://www.openstreetmap.org/node/3470739293]</div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1338889,21.7699778,0.0000000</coordinates>
@@ -2202,7 +2202,7 @@
   </Placemark>
   <Placemark>
     <name>An Bint Dam</name>
-    <description><![CDATA[<div dir="ltr">Thanks, Greg Wickham</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Thanks, Greg Wickham [http://www.openstreetmap.org/way/337945861]</div>]]></description>
     <styleUrl>#style708</styleUrl>
     <Point>
       <coordinates>39.3627972,25.4848889,0.0000000</coordinates>
