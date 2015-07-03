@@ -331,7 +331,7 @@ class POISet():
 
         return rv
 
-    def osmhtmlstr(self,submaps=[]):
+    def osmhtmlstr(self,submaps=[],noText=False):
 
         layers = []
 
@@ -520,13 +520,16 @@ class POISet():
 
         rv += '  <h2 id="main-head">%s</h2>\n'%('Points of interest in and near Jeddah, KSA',)
         rv += '  <p>For credits, instructions to contributing etc. see <a href=\"https://rawgit.com/Virtakuono/.kml-repository/master/redir.htm\" target=\"_blank\">the project page on github</a>. Data based on contributions made through <a href=\"https://rawgit.com/Virtakuono/.kml-repository/master/redir2.htm\" target=\"_blank\">google spreadsheets</a>. If the map above refuses to load, try reloading or <a href=\"https://maps.google.com/?q=https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/JeddahSaudiArabia.kml\" target=\"_blank\">google maps</a>.</p>\n'
-        rv += '  <h3 id="list">List of POIs</h3>\n'
-        ordinal = 1
-        for poi in self.POIs:
-            rv += poi.osmhtmlliststr(ordinal)
-            ordinal += 1
-            rv += '\n'
-        nI = datetime.datetime.now()
+
+        if not noText:
+
+            rv += '  <h3 id="list">List of POIs</h3>\n'
+            ordinal = 1
+            for poi in self.POIs:
+                rv += poi.osmhtmlliststr(ordinal)
+                ordinal += 1
+                rv += '\n'
+            nI = datetime.datetime.now()
         rv += '  <p>Page generated on %s</p>\n'%(self.nowString(),)
         rv += '  </div>\n'
         rv += '</body>\n'
@@ -555,9 +558,9 @@ class POISet():
         file.writelines([self.lmxstr(),])
         file.close()
 
-    def writeosmhtml(self,fn='JeddahPOIs.htm',submaps=[]):
+    def writeosmhtml(self,fn='JeddahPOIs.htm',submaps=[],noText=False):
         file = open(fn,'w')
-        file.writelines([self.osmhtmlstr(submaps=submaps),])
+        file.writelines([self.osmhtmlstr(submaps=submaps,noText=noText)])
         file.close()
 
     def writeosmscript(self,fn='embedScript.js'):
@@ -613,6 +616,8 @@ def main():
     submaps.append({'name' : 'Riyadh', 'lat' : 24.6194 , 'lon' : 46.6879, 'zoom' : 11})
     submaps.append({'name' : 'KAEC', 'lat' : 22.4079, 'lon' : 39.0802, 'zoom' : 14})
     poiSet.writeosmhtml(submaps=submaps)
+
+    poiSet.writeosmhtml(submaps=submaps,fn='JeddahPOIs_notext.htm',noText=True)
 
     print('Done.')
     poiSet.writeosmscript()
