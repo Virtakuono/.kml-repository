@@ -665,14 +665,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Al Noor Hotelrestorent</name>
-    <description><![CDATA[<div dir="ltr">Yes, this is how they spell their name. Naan and curry for dirt cheap. Selection of three currys and a pile of naan costed 20 SAR - Juho</div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.1178100,22.2914100,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Al Seddah Restaurant</name>
     <description><![CDATA[<div dir="ltr">Yemeni/Saudi cuisine. Thanks to Hisham Barazi and Othman Bahlouli on Facebook for recommending the Lamb Madfoon dish.</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -818,7 +810,7 @@
   </Placemark>
   <Placemark>
     <name>Old fish restaurant</name>
-    <description><![CDATA[<div dir="ltr">Pick your fish from a selection of choices and have them cook it for you.</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Pick your fish from a selection of choices and have them cook it for you. [http://www.openstreetmap.org/node/563240783] [https://github.com/Virtakuono/thuwalguide#al-sayed]</div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1161930,22.2900940,0.0000000</coordinates>
@@ -826,18 +818,10 @@
   </Placemark>
   <Placemark>
     <name>Pakistani restaurant mk 1</name>
-    <description><![CDATA[<div dir="ltr">Good curry and fresh-baked naan. </div>]]></description>
+    <description><![CDATA[<div dir="ltr">Good curry and fresh-baked naan. [http://www.openstreetmap.org/node/797787714] [https://github.com/Virtakuono/thuwalguide#al-hamad-restaurant]</div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1178570,22.2915310,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Pakistani restaurant mk 2</name>
-    <description><![CDATA[<div dir="ltr">Great fresh-baked naan.</div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.1145060,22.2882230,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -882,7 +866,7 @@
   </Placemark>
   <Placemark>
     <name>Rotisserie chicken carry-out</name>
-    <description><![CDATA[<div dir="ltr">Rotisserie chiken 22SAR for a whole chicken, rice and arabic bread</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Rotisserie chiken 22SAR for a whole chicken, rice and arabic bread [http://www.openstreetmap.org/node/3443077366] [https://github.com/Virtakuono/thuwalguide#al-shweya]</div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1135030,22.2870180,0.0000000</coordinates>
@@ -922,10 +906,10 @@
   </Placemark>
   <Placemark>
     <name>Shish Tawook</name>
-    <description><![CDATA[<div dir="ltr">Delicious Shish Tawook, 4SAR each</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Delicious Shish Tawook, 4SAR each, [http://www.openstreetmap.org/node/3430569537], [https://github.com/Virtakuono/thuwalguide#al-mullah-juice-shop]</div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
-      <coordinates>39.1161930,22.2912430,0.0000000</coordinates>
+      <coordinates>39.1160332,22.2911981,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -990,14 +974,6 @@
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1532162,21.5598458,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Yemeni restaurant</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.1137580,22.2872750,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>

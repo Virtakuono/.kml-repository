@@ -196,14 +196,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Al Noor Hotelrestorent</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.291410</lm:latitude>
-      <lm:longitude>39.117810</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Al Seddah Restaurant</lm:name>
     <lm:coordinates>
       <lm:latitude>21.609344</lm:latitude>
@@ -364,14 +356,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Pakistani restaurant mk 2</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.288223</lm:latitude>
-      <lm:longitude>39.114506</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Palm Garden restaurant</lm:name>
     <lm:coordinates>
       <lm:latitude>21.564539</lm:latitude>
@@ -454,8 +438,8 @@
   <lm:landmark>
     <lm:name>Shish Tawook</lm:name>
     <lm:coordinates>
-      <lm:latitude>22.291243</lm:latitude>
-      <lm:longitude>39.116193</lm:longitude>
+      <lm:latitude>22.291198</lm:latitude>
+      <lm:longitude>39.116033</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -520,14 +504,6 @@
     <lm:coordinates>
       <lm:latitude>21.559846</lm:latitude>
       <lm:longitude>39.153216</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Yemeni restaurant</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.287275</lm:latitude>
-      <lm:longitude>39.113758</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
