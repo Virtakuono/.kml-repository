@@ -113,27 +113,11 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Rotisserie chicken carry-out</name>
-    <description><![CDATA[<div dir="ltr">Rotisserie chiken 22SAR for a whole chicken, rice and arabic bread [http://www.openstreetmap.org/node/3443077366] [https://github.com/Virtakuono/thuwalguide#al-shweya]</div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.1135030,22.2870180,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Shish Tawook</name>
     <description><![CDATA[<div dir="ltr">Delicious Shish Tawook, 4SAR each, [http://www.openstreetmap.org/node/3430569537], [https://github.com/Virtakuono/thuwalguide#al-mullah-juice-shop]</div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1160332,22.2911981,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Shwarma Carry-out</name>
-    <description><![CDATA[<div dir="ltr">4 SAR for a shwarma. Skip the beef, Chicken (delicious) and falafel for vegetarians</div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.1122090,22.2862450,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>

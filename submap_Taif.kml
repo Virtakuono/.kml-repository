@@ -10,13 +10,6 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style667">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/restaurant_generic.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
   <Style id="style694">
     <IconStyle>
       <Icon>
@@ -73,14 +66,6 @@
     <styleUrl>#style666</styleUrl>
     <Point>
       <coordinates>40.2677310,21.3644850,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Restaurant</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>40.4229970,21.2873250,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>

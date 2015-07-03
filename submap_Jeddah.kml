@@ -552,14 +552,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Reem Alwabadi</name>
-    <description><![CDATA[<div dir="ltr">A middle eastern restaurant</div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.1450330,21.5579117,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Sahareej Aden Yemini Restaurant</name>
     <description><![CDATA[<div dir="ltr">The best Yemeni restaurant I have been to in Jeddah. The food is incredible! -Sameed</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -576,7 +568,7 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Seafood restaurant</name>
+    <name>Al Wada'a restaurant</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>

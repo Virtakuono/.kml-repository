@@ -489,14 +489,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Best Western Orchid hotel</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style666</styleUrl>
-    <Point>
-      <coordinates>46.7186120,24.6851230,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Crowne Plaza</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style666</styleUrl>
@@ -630,14 +622,6 @@
     <styleUrl>#style666</styleUrl>
     <Point>
       <coordinates>39.1420900,21.6083300,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Summer resort</name>
-    <description><![CDATA[<div dir="ltr">Higher elevation than Ta'if</div>]]></description>
-    <styleUrl>#style666</styleUrl>
-    <Point>
-      <coordinates>40.3152730,21.0806960,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -849,30 +833,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Reem Alwabadi</name>
-    <description><![CDATA[<div dir="ltr">A middle eastern restaurant</div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.1450330,21.5579117,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Restaurant</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>40.4229970,21.2873250,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Rotisserie chicken carry-out</name>
-    <description><![CDATA[<div dir="ltr">Rotisserie chiken 22SAR for a whole chicken, rice and arabic bread [http://www.openstreetmap.org/node/3443077366] [https://github.com/Virtakuono/thuwalguide#al-shweya]</div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.1135030,22.2870180,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Sahareej Aden Yemini Restaurant</name>
     <description><![CDATA[<div dir="ltr">The best Yemeni restaurant I have been to in Jeddah. The food is incredible! -Sameed</div>]]></description>
     <styleUrl>#style667</styleUrl>
@@ -889,7 +849,7 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Seafood restaurant</name>
+    <name>Al Wada'a restaurant</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style667</styleUrl>
     <Point>
@@ -918,14 +878,6 @@
     <styleUrl>#style667</styleUrl>
     <Point>
       <coordinates>39.1828417,21.4857917,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Shwarma Carry-out</name>
-    <description><![CDATA[<div dir="ltr">4 SAR for a shwarma. Skip the beef, Chicken (delicious) and falafel for vegetarians</div>]]></description>
-    <styleUrl>#style667</styleUrl>
-    <Point>
-      <coordinates>39.1122090,22.2862450,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
