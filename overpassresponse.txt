@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2015-07-04T18:19:02Z",
+    "timestamp_osm_base": "2015-07-04T18:41:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1608,6 +1608,109 @@
     "jpoi_id": "100318",
     "name": "Southern Shaibah Lagoon",
     "place": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3634462120,
+  "lat": 31.0799977,
+  "lon": 38.4198364,
+  "tags": {
+    "jpoi_id": "100566",
+    "name": "Al Harrah",
+    "place": "yes",
+    "source": "Smithsonian Institute",
+    "website": "http://www.volcano.si.edu/volcano.cfm?vn=231001"
+  }
+},
+{
+  "type": "node",
+  "id": 3634464612,
+  "lat": 18.3699949,
+  "lon": 41.6201249,
+  "tags": {
+    "jpoi_id": "100567",
+    "name": "Harrat al Birk",
+    "place": "yes",
+    "source": "Smithsonian Institute",
+    "website": "http://www.volcano.si.edu/volcano.cfm?vn=231072"
+  }
+},
+{
+  "type": "node",
+  "id": 3634464818,
+  "lat": 27.8000186,
+  "lon": 36.1702361,
+  "tags": {
+    "jpoi_id": "100568",
+    "name": "Harrat ar Rahah",
+    "place": "yes",
+    "source": "Smithsonian Institute",
+    "website": "http://www.volcano.si.edu/volcano.cfm?vn=231010"
+  }
+},
+{
+  "type": "node",
+  "id": 3634465087,
+  "lat": 27.0799427,
+  "lon": 37.2500134,
+  "tags": {
+    "jpoi_id": "100574",
+    "name": "Harrat Uwayrid",
+    "place": "yes",
+    "source": "Smithsonian Institute",
+    "website": "http://www.volcano.si.edu/volcano.cfm?vn=231020"
+  }
+},
+{
+  "type": "node",
+  "id": 3634466869,
+  "lat": 26.5799112,
+  "lon": 40.2000268,
+  "tags": {
+    "jpoi_id": "100569",
+    "name": "Harrat Ithnayn",
+    "place": "yes",
+    "source": "Smithsonian Institute",
+    "website": "http://www.volcano.si.edu/volcano.cfm?vn=231050"
+  }
+},
+{
+  "type": "node",
+  "id": 3634467167,
+  "lat": 24.9999149,
+  "lon": 39.9200000,
+  "tags": {
+    "jpoi_id": "100570",
+    "name": "Harrat Khaybar",
+    "source": "Smithsonian Institute",
+    "website": "http://www.volcano.si.edu/volcano.cfm?vn=231060"
+  }
+},
+{
+  "type": "node",
+  "id": 3634467927,
+  "lat": 25.1698689,
+  "lon": 37.7498444,
+  "tags": {
+    "jpoi_id": "100571",
+    "name": "Harrat Lunayir",
+    "place": "yes",
+    "source": "Smithsonian Institute",
+    "website": "http://www.volcano.si.edu/volcano.cfm?vn=231040"
+  }
+},
+{
+  "type": "node",
+  "id": 3634468024,
+  "lat": 23.0799778,
+  "lon": 39.7499410,
+  "tags": {
+    "jpoi_id": "100574",
+    "name": "Harrat Rahat",
+    "place": "yes",
+    "source": "Smithsonian Institute",
+    "website": "http://www.volcano.si.edu/volcano.cfm?vn=231070"
   }
 },
 {
