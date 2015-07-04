@@ -2,11 +2,49 @@
   "version": 0.6,
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2015-07-04T17:09:02Z",
+    "timestamp_osm_base": "2015-07-04T18:19:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
 
+{
+  "type": "node",
+  "id": 26608936,
+  "lat": 24.9603437,
+  "lon": 46.7044941,
+  "tags": {
+    "aeroway": "aerodrome",
+    "alt_name": "مطار الملك خالد الدولي",
+    "ele": "625",
+    "iata": "RUH",
+    "icao": "OERK",
+    "int_name": "King Khalid International,OERK,RUH, King Khalid International",
+    "is_in": "Riyadh;Saudi Arabia , المملكة العربية السعودية",
+    "jpoi_id": "100054",
+    "name": "مطار الملك خالد الدولي",
+    "name:ar": "مطار الملك خالد الدولي",
+    "name:ar1": "مطار الملك خالد الدولي",
+    "name:de": "King Khalid International",
+    "name:en": "King Khalid International Airport",
+    "name:fr": "King Khalid International",
+    "operator": "General Authority of Civil Aviation",
+    "source": "wikipedia",
+    "type": "public",
+    "wikidata": "Q47157",
+    "wikipedia:en": "King_Khalid_International_Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 469912430,
+  "lat": 21.6068798,
+  "lon": 39.1562179,
+  "tags": {
+    "jpoi_id": "100502",
+    "name": "Habitat Hotel",
+    "tourism": "hotel"
+  }
+},
 {
   "type": "node",
   "id": 470503142,
@@ -43,6 +81,19 @@
 },
 {
   "type": "node",
+  "id": 528844974,
+  "lat": 21.5756750,
+  "lon": 39.1453884,
+  "tags": {
+    "jpoi_id": "100525",
+    "name": "Wheels Bike Shop",
+    "opening_hours": "09:30-12:00, 16:30-00:00",
+    "phone": "+966126981302",
+    "shop": "sports"
+  }
+},
+{
+  "type": "node",
   "id": 528844976,
   "lat": 21.5752839,
   "lon": 39.1464774,
@@ -71,6 +122,19 @@
 },
 {
   "type": "node",
+  "id": 563240783,
+  "lat": 22.2902580,
+  "lon": 39.1161829,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "seafood",
+    "family_seating": "yes",
+    "jpoi_id": "100509",
+    "name": "Al Sayed Fish"
+  }
+},
+{
+  "type": "node",
   "id": 571494413,
   "lat": 21.6097717,
   "lon": 39.1417390,
@@ -90,6 +154,19 @@
     "jpoi_id": "100097",
     "name": "Danube",
     "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 672163112,
+  "lat": 24.7110370,
+  "lon": 46.6733604,
+  "tags": {
+    "jpoi_id": "100501",
+    "name": "Four Seasons Hotel",
+    "stars": "5",
+    "tourism": "hotel",
+    "wheelchair": "yes"
   }
 },
 {
@@ -140,6 +217,43 @@
 },
 {
   "type": "node",
+  "id": 797787714,
+  "lat": 22.2915304,
+  "lon": 39.1179409,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "pakistani",
+    "family_seating": "yes",
+    "jpoi_id": "100510",
+    "name": "Al Hamad Restaurant",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 973472648,
+  "lat": 26.6896170,
+  "lon": 37.9818460,
+  "tags": {
+    "jpoi_id": "100220",
+    "name": "Elephant Rock",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1096324711,
+  "lat": 21.5843588,
+  "lon": 39.1770101,
+  "tags": {
+    "historic": "monument",
+    "jpoi_id": "100560",
+    "name": "Al Falak Square",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
   "id": 1096327862,
   "lat": 21.5680164,
   "lon": 39.1828895,
@@ -147,6 +261,78 @@
     "historic": "monument",
     "jpoi_id": "100308",
     "name": "Bicycle roundabout"
+  }
+},
+{
+  "type": "node",
+  "id": 1096475665,
+  "lat": 21.5981093,
+  "lon": 39.1451494,
+  "tags": {
+    "amenity": "cafe",
+    "jpoi_id": "100522",
+    "name": "Starbucks"
+  }
+},
+{
+  "type": "node",
+  "id": 1236330109,
+  "lat": 25.6604818,
+  "lon": 39.9348738,
+  "tags": {
+    "alt_name": "جبال الأبيض",
+    "alt_name:en": "White Volcano",
+    "int_name": "Jibāl al Abyaḑ,Jabal al Abyadh, Jibal al Abyad",
+    "is_in": "Saudi Arabia , المملكة العربية السعودية",
+    "jpoi_id": "100301",
+    "name": "جبال الأبيض",
+    "name:ar": "جبال الأبيض",
+    "name:ar1": "جبال الأبيض",
+    "name:de": "Jibal al Abyad",
+    "name:en": "Jibal al Abyad",
+    "name:fr": "Jibal al Abyad",
+    "natural": "volcano",
+    "type": "extinct"
+  }
+},
+{
+  "type": "node",
+  "id": 1236434202,
+  "lat": 25.3269440,
+  "lon": 44.3763890,
+  "tags": {
+    "alt_name": "خفس الحمام",
+    "int_name": "Khafs al Ḩamām, Khafs al Hamam",
+    "is_in": "Saudi Arabia , المملكة العربية السعودية",
+    "jpoi_id": "100210",
+    "landuse": "basin",
+    "name": "خفس الحمام",
+    "name:ar": "خفس الحمام",
+    "name:ar1": "خفس الحمام",
+    "name:de": "Khafs al Hamam",
+    "name:en": "Khafs al Hamam",
+    "name:fr": "Khafs al Hamam",
+    "natural": "crater"
+  }
+},
+{
+  "type": "node",
+  "id": 1237965144,
+  "lat": 22.8994440,
+  "lon": 38.8863890,
+  "tags": {
+    "alt_name": "اللاوي",
+    "alt_name:en": "Rabigh Peninsula",
+    "int_name": "Al Lāwī, Al Lawi",
+    "is_in": "Saudi Arabia , المملكة العربية السعودية",
+    "jpoi_id": "100237",
+    "name": "اللاوي",
+    "name:ar": "اللاوي",
+    "name:ar1": "اللاوي",
+    "name:de": "Al Lawi",
+    "name:en": "Al Lawi",
+    "name:fr": "Al Lawi",
+    "place": "region"
   }
 },
 {
@@ -160,6 +346,52 @@
     "opening_hours": "Sat-Thu 08:00-00:00: Fri 17.00-00.00",
     "phone": "+966126199967",
     "shop": "doityourself"
+  }
+},
+{
+  "type": "node",
+  "id": 1453580528,
+  "lat": 24.9445675,
+  "lon": 45.9918145,
+  "tags": {
+    "jpoi_id": "100230",
+    "name:en": "Edge of the World",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1475901427,
+  "lat": 22.2869616,
+  "lon": 39.1125067,
+  "tags": {
+    "jpoi_id": "100243",
+    "name": "Konica Nawaf Studio",
+    "shop": "photographer"
+  }
+},
+{
+  "type": "node",
+  "id": 1497744277,
+  "lat": 21.5256557,
+  "lon": 39.1678509,
+  "tags": {
+    "addr:street": "Falasteen Street",
+    "amenity": "hospital",
+    "jpoi_id": "100524",
+    "name": "Dr. Soliman Fakeeh Hospital",
+    "phone": "+966 12 6655000"
+  }
+},
+{
+  "type": "node",
+  "id": 1499855960,
+  "lat": 21.6066144,
+  "lon": 39.1412026,
+  "tags": {
+    "amenity": "cafe",
+    "jpoi_id": "100520",
+    "name": "Starbucks"
   }
 },
 {
@@ -199,6 +431,21 @@
 },
 {
   "type": "node",
+  "id": 2891554426,
+  "lat": 21.5722944,
+  "lon": 39.1093667,
+  "tags": {
+    "email": "info@fakiehaquarium.com",
+    "jpoi_id": "100562",
+    "name": "Fakieh Aquarium",
+    "phone": "+966126066144",
+    "source": "http://fakiehaquarium.com/about.php",
+    "tourism": "aquarium",
+    "website": "http://fakiehaquarium.com/about.php"
+  }
+},
+{
+  "type": "node",
   "id": 3051809243,
   "lat": 21.5169777,
   "lon": 39.1560288,
@@ -209,6 +456,19 @@
     "jpoi_id": "100041",
     "name": "Sakura",
     "website": "http://www.sufrati.com/sa/rest/sakura"
+  }
+},
+{
+  "type": "node",
+  "id": 3051815253,
+  "lat": 21.5192866,
+  "lon": 39.1645887,
+  "tags": {
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "Brazilian_BBQ",
+    "jpoi_id": "100506",
+    "name": "Brasa de Brazil"
   }
 },
 {
@@ -226,6 +486,213 @@
 },
 {
   "type": "node",
+  "id": 3054019918,
+  "lat": 21.5535998,
+  "lon": 39.1676599,
+  "tags": {
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "BBQ,_Steakhouse",
+    "jpoi_id": "100516",
+    "name": "Texas Roadhouse",
+    "name:en": "Texas Roadhouse"
+  }
+},
+{
+  "type": "node",
+  "id": 3077730178,
+  "lat": 22.4016845,
+  "lon": 39.0811656,
+  "tags": {
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "pizza",
+    "jpoi_id": "100511",
+    "name": "Pizza Hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3077730179,
+  "lat": 22.4019226,
+  "lon": 39.0813587,
+  "tags": {
+    "amenity": "restaurant",
+    "capacity": "20",
+    "cuisine": "sandwich",
+    "jpoi_id": "100514",
+    "name": "Subway"
+  }
+},
+{
+  "type": "node",
+  "id": 3077730180,
+  "lat": 22.4021408,
+  "lon": 39.0815519,
+  "tags": {
+    "jpoi_id": "100003",
+    "name": "Meed",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 3077730181,
+  "lat": 22.4023739,
+  "lon": 39.0817879,
+  "tags": {
+    "amenity": "pharmacy",
+    "jpoi_id": "100546",
+    "name": "Al Wazir Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 3077730182,
+  "lat": 22.4045574,
+  "lon": 39.0764024,
+  "tags": {
+    "amenity": "restaurant",
+    "capacity": "20",
+    "cuisine": "Ice_cream",
+    "jpoi_id": "100022",
+    "name": "Baskin Robbins"
+  }
+},
+{
+  "type": "node",
+  "id": 3077730183,
+  "lat": 22.4049119,
+  "lon": 39.0764137,
+  "tags": {
+    "amenity": "restaurant",
+    "capacity": "100",
+    "cuisine": "mediterranean",
+    "jpoi_id": "100034",
+    "name": "Lina's Paris"
+  }
+},
+{
+  "type": "node",
+  "id": 3077730184,
+  "lat": 22.4052195,
+  "lon": 39.0764250,
+  "tags": {
+    "amenity": "restaurant",
+    "capacity": "100",
+    "cuisine": "lebanese",
+    "jpoi_id": "100023",
+    "name": "Bhar"
+  }
+},
+{
+  "type": "node",
+  "id": 3077730185,
+  "lat": 22.4037389,
+  "lon": 39.0784494,
+  "tags": {
+    "amenity": "bank",
+    "atm": "yes",
+    "jpoi_id": "100169",
+    "name": "SABB"
+  }
+},
+{
+  "type": "node",
+  "id": 3100051124,
+  "lat": 21.6102058,
+  "lon": 39.1393178,
+  "tags": {
+    "jpoi_id": "100564",
+    "name": "Ajlan Frame shop",
+    "phone": "+966126913329",
+    "shop": "Art_framing"
+  }
+},
+{
+  "type": "node",
+  "id": 3278252905,
+  "lat": 21.6232299,
+  "lon": 39.1645602,
+  "tags": {
+    "email": "smartphones02@gmail.com",
+    "jpoi_id": "100523",
+    "name": "World of Smartphones",
+    "phone": "+966508240615",
+    "shop": "electronics"
+  }
+},
+{
+  "type": "node",
+  "id": 3278289748,
+  "lat": 21.5806350,
+  "lon": 39.1615015,
+  "tags": {
+    "amenity": "restaurant",
+    "jpoi_id": "100506",
+    "name": "Asia restaurant",
+    "phone": "+966 12 6828525"
+  }
+},
+{
+  "type": "node",
+  "id": 3278307161,
+  "lat": 21.5354498,
+  "lon": 39.1653766,
+  "tags": {
+    "amenity": "restaurant",
+    "jpoi_id": "100508",
+    "name": "Koreana",
+    "phone": "+966126604769"
+  }
+},
+{
+  "type": "node",
+  "id": 3278327093,
+  "lat": 21.5730080,
+  "lon": 39.1273857,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "jpoi_id": "100507",
+    "name": "Goodies"
+  }
+},
+{
+  "type": "node",
+  "id": 3279856243,
+  "lat": 21.4904957,
+  "lon": 39.1866241,
+  "tags": {
+    "historic": "monument",
+    "jpoi_id": "100558"
+  }
+},
+{
+  "type": "node",
+  "id": 3279856333,
+  "lat": 21.6231769,
+  "lon": 39.1096752,
+  "tags": {
+    "jpoi_id": "100557",
+    "name": "Flying carpet",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 3324645783,
+  "lat": 21.1603590,
+  "lon": 39.9566121,
+  "tags": {
+    "jpoi_id": "100552",
+    "name": "Umm ar Rakah",
+    "name:en": "Sugarloaf",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
   "id": 3354413860,
   "lat": 21.5869373,
   "lon": 39.1869075,
@@ -237,6 +704,28 @@
 },
 {
   "type": "node",
+  "id": 3354413861,
+  "lat": 21.5960182,
+  "lon": 39.1737547,
+  "tags": {
+    "historic": "monument",
+    "jpoi_id": "100556",
+    "tourist": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3355298072,
+  "lat": 21.5589177,
+  "lon": 39.1708309,
+  "tags": {
+    "jpoi_id": "100567",
+    "name": "aDawliah",
+    "shop": "musical_instrument"
+  }
+},
+{
+  "type": "node",
   "id": 3361193947,
   "lat": 21.4825175,
   "lon": 39.1831405,
@@ -244,6 +733,16 @@
     "jpoi_id": "100189",
     "name": "Zahra Tailor",
     "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 3374422974,
+  "lat": 21.4833997,
+  "lon": 39.1843755,
+  "tags": {
+    "jpoi_id": "100549",
+    "shop": "fabric"
   }
 },
 {
@@ -266,6 +765,102 @@
     "jpoi_id": "100205",
     "name": "Red Sea Divers",
     "shop": "scuba_diving"
+  }
+},
+{
+  "type": "node",
+  "id": 3430569537,
+  "lat": 22.2911981,
+  "lon": 39.1160332,
+  "tags": {
+    "amenity": "cafe",
+    "family_seating": "no",
+    "jpoi_id": "100512",
+    "name": "Aseerat Alqurayyat Althateyyeh",
+    "name:ar": "عصيرات القريات الذاتية",
+    "name:en": "Aseerat Alqurayyat Althateyyeh"
+  }
+},
+{
+  "type": "node",
+  "id": 3431860128,
+  "lat": 22.2855254,
+  "lon": 39.1120065,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "chicken",
+    "family_seating": "no",
+    "jpoi_id": "100024",
+    "name": "Broast Taza",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3431860190,
+  "lat": 22.2867745,
+  "lon": 39.1125005,
+  "tags": {
+    "jpoi_id": "100188",
+    "shop": "tailor"
+  }
+},
+{
+  "type": "node",
+  "id": 3431860493,
+  "lat": 22.2876482,
+  "lon": 39.1131821,
+  "tags": {
+    "amenity": "pharmacy",
+    "jpoi_id": "100548"
+  }
+},
+{
+  "type": "node",
+  "id": 3443077366,
+  "lat": 22.2871962,
+  "lon": 39.1135739,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chicken",
+    "family_seating": "no",
+    "jpoi_id": "100026"
+  }
+},
+{
+  "type": "node",
+  "id": 3455830211,
+  "lat": 22.2859992,
+  "lon": 39.1122918,
+  "tags": {
+    "jpoi_id": "100004",
+    "name": "B S Electronics",
+    "shop": "electronics"
+  }
+},
+{
+  "type": "node",
+  "id": 3470739293,
+  "lat": 21.7700069,
+  "lon": 39.1339840,
+  "tags": {
+    "amenity": "restaurant",
+    "capacity": "30",
+    "cuisine": "sushi",
+    "family_seating": "yes",
+    "jpoi_id": "100515",
+    "name": "Sushi Yoshi"
+  }
+},
+{
+  "type": "node",
+  "id": 3632960400,
+  "lat": 21.3711340,
+  "lon": 40.4619904,
+  "tags": {
+    "jpoi_id": "100005",
+    "name": "Intercontinental",
+    "tourism": "hotel"
   }
 },
 {
@@ -631,6 +1226,27 @@
 },
 {
   "type": "node",
+  "id": 3633074002,
+  "lat": 22.2872834,
+  "lon": 39.1129512,
+  "tags": {
+    "jpoi_id": "100110",
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "node",
+  "id": 3633074303,
+  "lat": 20.1588239,
+  "lon": 40.2469551,
+  "tags": {
+    "jpoi_id": "100111",
+    "name": "Al Ahlam Resort",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
   "id": 3633096112,
   "lat": 21.5575384,
   "lon": 39.1783829,
@@ -684,6 +1300,16 @@
     "jpoi_id": "100154",
     "name": "Toys R Us",
     "shop": "toys"
+  }
+},
+{
+  "type": "node",
+  "id": 3633130553,
+  "lat": 22.2923982,
+  "lon": 39.1157706,
+  "tags": {
+    "jpoi_id": "100167",
+    "shop": "car_repair"
   }
 },
 {
@@ -786,6 +1412,98 @@
 },
 {
   "type": "node",
+  "id": 3633158243,
+  "lat": 26.5582880,
+  "lon": 47.1722484,
+  "tags": {
+    "jpoi_id": "100212",
+    "natural": "crater"
+  }
+},
+{
+  "type": "node",
+  "id": 3633162502,
+  "lat": 22.5849788,
+  "lon": 39.7516799,
+  "tags": {
+    "jpoi_id": "100217",
+    "natural": "quarry"
+  }
+},
+{
+  "type": "node",
+  "id": 3633168563,
+  "lat": 22.5902421,
+  "lon": 39.7532396,
+  "tags": {
+    "jpoi_id": "100232",
+    "natural": "quarry"
+  }
+},
+{
+  "type": "node",
+  "id": 3633178390,
+  "lat": 20.4640235,
+  "lon": 40.4699834,
+  "tags": {
+    "jpoi_id": "100231",
+    "natural": "hot_spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3633181693,
+  "lat": 20.4640235,
+  "lon": 40.4699834,
+  "tags": {
+    "jpoi_id": "100231",
+    "natural": "hot_spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3633187784,
+  "lat": 22.0455945,
+  "lon": 39.4836500,
+  "tags": {
+    "alt_name": "Moon Valley",
+    "jpoi_id": "100233",
+    "place": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3633191137,
+  "lat": 18.2009578,
+  "lon": 42.4945030,
+  "tags": {
+    "jpoi_id": "100235",
+    "name": "Asir National Park",
+    "place": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3633195205,
+  "lat": 22.2874318,
+  "lon": 39.1155293,
+  "tags": {
+    "amenity": "car_wash",
+    "jpoi_id": "100244"
+  }
+},
+{
+  "type": "node",
+  "id": 3633211801,
+  "lat": 18.2961478,
+  "lon": 42.7574273,
+  "tags": {
+    "jpoi_id": "100275",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
   "id": 3633214635,
   "lat": 21.4889576,
   "lon": 39.1728353,
@@ -797,6 +1515,27 @@
 },
 {
   "type": "node",
+  "id": 3633215731,
+  "lat": 18.2118849,
+  "lon": 42.2740535,
+  "tags": {
+    "jpoi_id": "100283",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 3633217518,
+  "lat": 22.0530201,
+  "lon": 39.4705330,
+  "tags": {
+    "alt_name": "Moon Mountain",
+    "jpoi_id": "100297",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
   "id": 3633219425,
   "lat": 21.6988414,
   "lon": 39.3468021,
@@ -804,6 +1543,71 @@
     "jpoi_id": "100295",
     "natural": "rock",
     "sport": "climbing"
+  }
+},
+{
+  "type": "node",
+  "id": 3633221035,
+  "lat": 18.2927043,
+  "lon": 42.3610411,
+  "tags": {
+    "jpoi_id": "100302",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 3633227035,
+  "lat": 21.3197490,
+  "lon": 40.2849573,
+  "tags": {
+    "jpoi_id": "100305",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3633228429,
+  "lat": 23.6917508,
+  "lon": 38.7975376,
+  "tags": {
+    "alt_name": "Mastorah Dunes",
+    "jpoi_id": "100310",
+    "place": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3633229501,
+  "lat": 20.8009972,
+  "lon": 39.4234814,
+  "tags": {
+    "alt_name": "Shipwreck",
+    "attraction": "shipwreck",
+    "jpoi_id": "100311",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3633233355,
+  "lat": 20.8176763,
+  "lon": 39.4403995,
+  "tags": {
+    "jpoi_id": "100315",
+    "name": "Shaibah Lagoon",
+    "place": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3633233532,
+  "lat": 20.7513868,
+  "lon": 39.4870268,
+  "tags": {
+    "jpoi_id": "100318",
+    "name": "Southern Shaibah Lagoon",
+    "place": "yes"
   }
 },
 {
@@ -1339,6 +2143,89 @@
 },
 {
   "type": "way",
+  "id": 41399788,
+  "nodes": [
+    506314555,
+    506314559,
+    3084514749,
+    3084514746,
+    3084514742,
+    3084514743,
+    506314565,
+    3084514744,
+    3084514747,
+    3084514745,
+    3084514748,
+    3084514750,
+    506314555
+  ],
+  "tags": {
+    "aeroway": "terminal",
+    "building": "yes",
+    "jpoi_id": "100517",
+    "name": "North Terminal / international Airlines",
+    "name:en": "North Terminal"
+  }
+},
+{
+  "type": "way",
+  "id": 41399794,
+  "nodes": [
+    506314574,
+    506314579,
+    506314584,
+    506314588,
+    506314592,
+    506314594,
+    506314600,
+    506314603,
+    506314609,
+    506314610,
+    506314613,
+    506314616,
+    506314621,
+    506314628,
+    506314632,
+    506314635,
+    506314638,
+    506314640,
+    506314641,
+    506314642,
+    506314574
+  ],
+  "tags": {
+    "aeroway": "terminal",
+    "building": "yes",
+    "jpoi_id": "100518",
+    "name": "South Terminal",
+    "name:en": "South Terminal",
+    "operator": "Saudi Arabian Airlines"
+  }
+},
+{
+  "type": "way",
+  "id": 41409162,
+  "nodes": [
+    506396562,
+    506396563,
+    506396564,
+    506396565,
+    506396567,
+    506396569,
+    506396570,
+    506396572,
+    506396562
+  ],
+  "tags": {
+    "jpoi_id": "100545",
+    "landuse": "cemetery",
+    "name": "Cemetry of Eve",
+    "religion": "muslim",
+    "wikidata": "Q2419298"
+  }
+},
+{
+  "type": "way",
   "id": 41447463,
   "nodes": [
     506926983,
@@ -1437,6 +2324,78 @@
 },
 {
   "type": "way",
+  "id": 43405836,
+  "nodes": [
+    546988708,
+    3363620108,
+    546988718,
+    546988731,
+    3234984477,
+    3234984478,
+    546988745,
+    546988756,
+    546988774,
+    546988780,
+    546988792,
+    546988807,
+    3363594665,
+    546988815,
+    546988825,
+    546988829,
+    546988844,
+    546988860,
+    546988876,
+    546988888,
+    546988904,
+    546988912,
+    546988923,
+    546988935,
+    546988943,
+    3363620109,
+    3358581758,
+    546988708
+  ],
+  "tags": {
+    "area": "yes",
+    "historic": "ruins",
+    "jpoi_id": "100540",
+    "name": "Mada'in Saleh, ancient Hegra",
+    "tourism": "attraction",
+    "website": "http://whc.unesco.org/en/list/1293",
+    "wikidata": "Q27356",
+    "wikipedia": "en:Mada'in Saleh"
+  }
+},
+{
+  "type": "way",
+  "id": 44213515,
+  "nodes": [
+    561534830,
+    561534836,
+    561534842,
+    561534848,
+    561534853,
+    561534858,
+    561534881,
+    561534909,
+    561534914,
+    1695307621,
+    561534923,
+    561534928,
+    561534830
+  ],
+  "tags": {
+    "building": "yes",
+    "jpoi_id": "100527",
+    "name": "Mall of Arabia",
+    "opening_hours": "Sat-Thu 10:00am - 11:30pm, Fri 2:30pm - 11:30pm",
+    "phone": "+966126123100",
+    "shop": "mall",
+    "website": "http://www.mallofarabia.com.sa/"
+  }
+},
+{
+  "type": "way",
   "id": 44536022,
   "nodes": [
     565694262,
@@ -1458,6 +2417,30 @@
     "opening_hours": "Sat - Thu: 10:00 – 24:00, Fri: 16:00 – 24:00",
     "phone": "+966 12 6633000",
     "shop": "furniture"
+  }
+},
+{
+  "type": "way",
+  "id": 44536024,
+  "nodes": [
+    565694325,
+    565694064,
+    565694063,
+    565694059,
+    565694054,
+    565694327,
+    565694328,
+    565694329,
+    565694330,
+    565694331,
+    565694332,
+    565694333,
+    565694325
+  ],
+  "tags": {
+    "building": "yes",
+    "jpoi_id": "100530",
+    "shop": "mall"
   }
 },
 {
@@ -1580,6 +2563,25 @@
 },
 {
   "type": "way",
+  "id": 53202643,
+  "nodes": [
+    673354275,
+    673354276,
+    673354277,
+    673354278,
+    673354279,
+    673354280,
+    673354275
+  ],
+  "tags": {
+    "building": "yes",
+    "jpoi_id": "stars avenue",
+    "name": "Stars Avenue",
+    "shop": "mall"
+  }
+},
+{
+  "type": "way",
   "id": 53203433,
   "nodes": [
     673365749,
@@ -1592,6 +2594,219 @@
     "jpoi_id": "100082",
     "landuse": "retail",
     "name": "Jeddah International Market"
+  }
+},
+{
+  "type": "way",
+  "id": 80264628,
+  "nodes": [
+    936839818,
+    936839819,
+    936839820,
+    936839822,
+    936839827,
+    936839833,
+    936839841,
+    936839842,
+    936839844,
+    936839847,
+    936839852,
+    936839858,
+    936839863,
+    936839867,
+    936839870,
+    936839818
+  ],
+  "tags": {
+    "addr:city": "Riyadh",
+    "addr:country": "SA",
+    "addr:street": "Al Ma'ather Street",
+    "building": "yes",
+    "jpoi_id": "100011",
+    "name": "Riyadh Marriott",
+    "phone": "+966 1 4779300",
+    "source": "Yahoo/visit",
+    "stars": "5",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 88345496,
+  "nodes": [
+    1026244141,
+    1026244118,
+    1026244145,
+    1026244162,
+    1026244138,
+    1026244124,
+    1026244159,
+    1026244140,
+    1026244122,
+    1026244104,
+    1026244141
+  ],
+  "tags": {
+    "jpoi_id": "100014",
+    "name": "Sheraton Riyadh",
+    "source": "Bing",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 96768878,
+  "nodes": [
+    1120557980,
+    1120557967,
+    1120557981,
+    1120557976,
+    1120557973,
+    1120557966,
+    1120557980
+  ],
+  "tags": {
+    "building": "hotel",
+    "jpoi_id": "100010",
+    "name": "Ramada",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 96768880,
+  "nodes": [
+    1120557974,
+    1120557978
+  ],
+  "tags": {
+    "aerialway": "gondola",
+    "jpoi_id": "100261"
+  }
+},
+{
+  "type": "way",
+  "id": 97644047,
+  "nodes": [
+    1130443026,
+    1130443018,
+    1130443003,
+    1130443017,
+    1130443023,
+    1130443002,
+    1130443015,
+    1130443027,
+    1130443013,
+    1130443019,
+    1130443025,
+    1130443006,
+    1130443026
+  ],
+  "tags": {
+    "building": "yes",
+    "historic": "castle",
+    "jpoi_id": "100542",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 109866308,
+  "nodes": [
+    1256671003,
+    1256670986,
+    1256671027,
+    1256671029,
+    1256671033,
+    1256670985,
+    1256671025,
+    1256671009,
+    1256671032,
+    1256671000,
+    1256670994,
+    1256671023,
+    1256671011,
+    1256671005,
+    1256670991,
+    1256671037,
+    1256670989,
+    1256671003
+  ],
+  "tags": {
+    "alt_name": "الوهبة",
+    "int_name": "Al Wahbah,Jabal al Wa abah, Al Wahbah",
+    "is_in": "Saudi Arabia , المملكة العربية السعودية",
+    "jpoi_id": "100554",
+    "name": "الوهبة",
+    "name:ar": "الوهبة",
+    "name:ar1": "الوهبة",
+    "name:de": "Al Wahbah",
+    "name:en": "Al Wahbah",
+    "name:fr": "Al Wahbah",
+    "natural": "crater",
+    "wikidata": "Q4704933",
+    "wikipedia": "en:Al Wahbah crater"
+  }
+},
+{
+  "type": "way",
+  "id": 111645503,
+  "nodes": [
+    1271442385,
+    1271442780,
+    1271441851,
+    1271442712,
+    1271442670,
+    1271442646,
+    1271442645,
+    1271442543,
+    1271442561,
+    1271441844,
+    1271441806,
+    1271441796,
+    1271442002,
+    1271442206,
+    1271442439,
+    1271442495,
+    1271442207,
+    1271442182,
+    1271442369,
+    1271442452,
+    1271442382,
+    1271442803,
+    1271442801,
+    1271441955,
+    1271442798,
+    1271442676,
+    1271442598,
+    1271442006,
+    1271441773,
+    1271441754,
+    1271442385
+  ],
+  "tags": {
+    "building": "yes",
+    "jpoi_id": "100529",
+    "name": "Roshan Mall",
+    "shop": "mall"
+  }
+},
+{
+  "type": "way",
+  "id": 112167172,
+  "nodes": [
+    1275770019,
+    1275770082,
+    1275769964,
+    1275770000,
+    1275769991,
+    1275769910,
+    1275770019
+  ],
+  "tags": {
+    "jpoi_id": "100270",
+    "name": "Shubra Palace",
+    "tourism": "museum"
   }
 },
 {
@@ -1641,6 +2856,385 @@
     "jpoi_id": "100199",
     "name": "Corniche Commercial Center",
     "shop": "mall"
+  }
+},
+{
+  "type": "way",
+  "id": 147428163,
+  "nodes": [
+    1606520687,
+    1606520682,
+    1606520592,
+    1606520602,
+    1606520687
+  ],
+  "tags": {
+    "addr:city": "Jeddah",
+    "addr:postcode": "21362",
+    "addr:street": "North Corniche Road",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/pages/Jeddah-Hilton/176872129071432?fref=ts",
+    "contact:google_plus": "https://plus.google.com/b/114008256813038288824/114008256813038288824/about?hl=en-GB",
+    "contact:phone": "966-92000-3800",
+    "contact:twitter": "https://twitter.com/JeddahHilton",
+    "contact:website": "http://www.placeshilton.com/jeddah",
+    "jpoi_id": "100504",
+    "name": "Jeddah Hilton",
+    "note": "The stylish and modern Jeddah Hilton offers stunning panoramic views over the Red Sea and the ancient city of Jeddah.",
+    "operator": "Hilton Worldwide",
+    "smoking": "yes",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 155728741,
+  "nodes": [
+    1680854367,
+    1680854372,
+    1680854388,
+    1680854390,
+    1680854393,
+    1680854396,
+    1680854399,
+    1680854403,
+    1680854406,
+    1680854408,
+    1680854412,
+    1680854415,
+    1680854420,
+    1680854423,
+    1680854437,
+    1680854439,
+    1680854441,
+    1680854445,
+    1680854449,
+    1680854451,
+    1680854453,
+    1680854456,
+    1680854460,
+    1680854463,
+    1680854466,
+    1680854469,
+    1680854471,
+    1680854485,
+    1680854488,
+    1680854492,
+    1680854495,
+    1680854498,
+    1680854502,
+    1680854505,
+    1680854509,
+    1680854512,
+    1680854517,
+    1680854520,
+    1680854524,
+    1680854538,
+    1680854541,
+    1680854544,
+    1680854548,
+    1680854550,
+    1680854553,
+    1680854557,
+    1680854560,
+    1680854562,
+    1680854564,
+    1680854566,
+    1680854570,
+    1680854592,
+    1680854595,
+    1680854598,
+    1680854601,
+    1680854603,
+    1680854606,
+    1680854608,
+    1680854611,
+    1680854613,
+    1680854615,
+    1680854618,
+    1680854622,
+    1680854625,
+    1680854647,
+    1680854648,
+    1680854649,
+    1680854651,
+    1680854653,
+    1680854655,
+    1680854656,
+    1680854659,
+    1680854662,
+    1680854664,
+    1680854667,
+    1680854671,
+    1680854701,
+    1680854703,
+    1680854705,
+    1680854706,
+    1680854707,
+    1680854708,
+    1680854709,
+    1680854711,
+    1680854713,
+    1680854717,
+    1680854720,
+    1680854724,
+    1680854729,
+    1680854752,
+    1680854753,
+    1680854754,
+    1680854755,
+    1680854756,
+    1680854757,
+    1680854758,
+    1680854760,
+    1680854762,
+    1680854764,
+    1680854766,
+    1680854769,
+    1680854784,
+    1680854786,
+    1680854788,
+    1680854791,
+    1680854792,
+    1680854793,
+    1680854795,
+    1680854797,
+    1680854799,
+    1680854802,
+    1680854805,
+    1680854808,
+    1680854822,
+    1680854824,
+    1680854826,
+    1680854829,
+    1680854832,
+    1680854835,
+    1680854838,
+    1680854842,
+    1680854845,
+    1680854849,
+    1680854850,
+    1680854851,
+    1680854853,
+    1680854862,
+    1680854866,
+    1680854869,
+    1680854873,
+    1680854877,
+    1680854880,
+    1680854882,
+    1680854884,
+    1680854885,
+    1680854886,
+    1680854887,
+    1680854890,
+    1680854909,
+    1680854911,
+    1680854914,
+    1680854916,
+    1680854918,
+    1680854919,
+    1680854920,
+    1680854922,
+    1680854924,
+    1680854367
+  ],
+  "tags": {
+    "building": "yes",
+    "historic": "castle",
+    "jpoi_id": "100541",
+    "name": "Qaal'at Khulays",
+    "name:en": "Khlais fortress",
+    "ruins": "yes",
+    "source": "skp2osm"
+  }
+},
+{
+  "type": "way",
+  "id": 155737093,
+  "nodes": [
+    1680942165,
+    1680942166,
+    1680942167,
+    1680942168,
+    1680942169,
+    1680942170,
+    1680942171,
+    1680942172,
+    1680942173,
+    1680942174,
+    1680942175,
+    1680942176,
+    1680942177,
+    1680942178,
+    1680942179,
+    1680942180,
+    1680942181,
+    1680942182,
+    1680942183,
+    1680942184,
+    1680942185,
+    1680942186,
+    1680942187,
+    1680942188,
+    1680942189,
+    1680942190,
+    1680942191,
+    1680942192,
+    1680942193,
+    1680942194,
+    1680942195,
+    1680942196,
+    1680942197,
+    1680942198,
+    1680942199,
+    1680942200,
+    1680942201,
+    1680942202,
+    1680942203,
+    1680942204,
+    1680942205,
+    1680942206,
+    1680942207,
+    1680942208,
+    1680942209,
+    1680942210,
+    1680942211,
+    1680942212,
+    1680942213,
+    1680942214,
+    1680942215,
+    1680942216,
+    1680942217,
+    1680942218,
+    1680942219,
+    1680942220,
+    1680942221,
+    1680942222,
+    1680942223,
+    1680942224,
+    1680942225,
+    1680942226,
+    1680942227,
+    1680942228,
+    1680942229,
+    1680942230,
+    1680942231,
+    1680942232,
+    1680942233,
+    1680942234,
+    1680942235,
+    1680942236,
+    1680942237,
+    1680942238,
+    1680942239,
+    1680942240,
+    1680942241,
+    1680942242,
+    1680942243,
+    1680942244,
+    1680942245,
+    1680942246,
+    1680942247,
+    1680942248,
+    1680942249,
+    1680942250,
+    1680942251,
+    1680942252,
+    1680942253,
+    1680942254,
+    1680942255,
+    1680942256,
+    1680942257,
+    1680942258,
+    1680942259,
+    1680942260,
+    1680942261,
+    1680942262,
+    1680942263,
+    1680942264,
+    1680942265,
+    1680942266,
+    1680942267,
+    1680942268,
+    1680942269,
+    1680942270,
+    1680942271,
+    1680942272,
+    1680942273,
+    1680942274,
+    1680942275,
+    1680942276,
+    1680942277,
+    1680942278,
+    1680942279,
+    1680942280,
+    1680942281,
+    1680942282,
+    1680942283,
+    1680942284,
+    1680942285,
+    1680942286,
+    1680942287,
+    1680942288,
+    1680942289,
+    1680942290,
+    1680942291,
+    1680942292,
+    1680942293,
+    1680942294,
+    1680942295,
+    1680942296,
+    1680942297,
+    1680942303,
+    1680942304,
+    1680942305,
+    1680942306,
+    1680942307,
+    1680942308,
+    1680942309,
+    1680942310,
+    1680942311,
+    1680942312,
+    1680942313,
+    1680942314,
+    1680942315,
+    1680942316,
+    1680942317,
+    1680942318,
+    1680942319,
+    1680942320,
+    1680942321,
+    1680942165
+  ],
+  "tags": {
+    "alt_name": "Usfan Fort",
+    "building": "yes",
+    "historic": "castle",
+    "jpoi_id": "100545",
+    "name": "Qaal'at Usfan",
+    "name:en": "Usfan pilgrimage fort",
+    "ruins": "yes",
+    "source": "skp2osm"
+  }
+},
+{
+  "type": "way",
+  "id": 156481893,
+  "nodes": [
+    1666286004,
+    3076469991,
+    3076471865,
+    3076469976,
+    3076471866,
+    1666286069
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "jpoi_id": "100259",
+    "name": "Rabigh Dam",
+    "waterway": "dam"
   }
 },
 {
@@ -1711,6 +3305,33 @@
 },
 {
   "type": "way",
+  "id": 168434569,
+  "nodes": [
+    1796992070,
+    1796992090,
+    1796992054,
+    1796992062,
+    1796992070
+  ],
+  "tags": {
+    "alt_name": "حصن الجفا",
+    "historic": "ruins",
+    "int_name": "Ḩişn al Jafā, Hisn al Jafa",
+    "is_in": "Saudi Arabia; المملكة العربية السعودية",
+    "jpoi_id": "100544",
+    "level": "1",
+    "name": "حصن الجفا",
+    "name:ar": "حصن الجفا",
+    "name:ar1": "حصن الجفا",
+    "name:de": "Hisn al Jafa",
+    "name:en": "Hisn al Jafa",
+    "name:fr": "Hisn al Jafa",
+    "place": "locality",
+    "wheelchair": "unknown"
+  }
+},
+{
+  "type": "way",
   "id": 175720423,
   "nodes": [
     1862813732,
@@ -1725,6 +3346,62 @@
     "jpoi_id": "100015",
     "name": "Sultan Palace Suite",
     "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 177667555,
+  "nodes": [
+    1880860177,
+    1069371615,
+    346610272,
+    1069371536,
+    1880860095,
+    1880860068,
+    1880860064,
+    1880860093,
+    1880860100,
+    1880860099,
+    2703964932,
+    1880860180,
+    1880860182,
+    1880860193,
+    1880860190,
+    1880860183,
+    1880860178,
+    1880860187,
+    1880860175,
+    1880860170,
+    1880860168,
+    1880860173,
+    1880860166,
+    1880860153,
+    1880860146,
+    1880860154,
+    1880860134,
+    1880860123,
+    1880860111,
+    1880860121,
+    1880860126,
+    1880860131,
+    1880860143,
+    1880860157,
+    1880860177
+  ],
+  "tags": {
+    "building": "yes",
+    "height": "267",
+    "jpoi_id": "100012",
+    "name": "Faisaliyah Hotel",
+    "name:ar": "برج الفيصلية",
+    "name:en": "Al Faisaliyah Center",
+    "roof:height": "267",
+    "roof:material": "glass",
+    "roof:shape": "pyramidal",
+    "source": "Bing",
+    "start_date": "2000",
+    "tourism": "hotel",
+    "wikipedia": "en:Al Faisaliyah Center"
   }
 },
 {
@@ -1772,6 +3449,122 @@
     "jpoi_id": "100089",
     "name": "Petromin Souq",
     "source": "Local Knowledge"
+  }
+},
+{
+  "type": "way",
+  "id": 243788953,
+  "nodes": [
+    2511518959,
+    3098720910,
+    3098720911,
+    2511518958,
+    3098720908,
+    3098720907,
+    3098720904,
+    3098720905,
+    2511518956,
+    3098720906,
+    3098720909,
+    2511518957,
+    2511518959
+  ],
+  "tags": {
+    "building": "yes",
+    "jpoi_id": "100001",
+    "name": "Hyperpanda",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "way",
+  "id": 303327958,
+  "nodes": [
+    3076814912,
+    3076814913,
+    3076814914,
+    3076814915,
+    3076814916,
+    3076814917,
+    3076814918,
+    3076814919,
+    3076814920,
+    3076814921,
+    3076814922,
+    3076814923,
+    3076814924,
+    3076814925,
+    3076814926,
+    3076814927,
+    3076814928,
+    3076814929,
+    3076814930,
+    3076814931,
+    3076814932,
+    3076816633,
+    3076816634,
+    3076816635,
+    3076816636,
+    3076816637,
+    3076816638,
+    3076816639,
+    3076816640,
+    3076816641,
+    3076816642,
+    3076816643,
+    3076816644,
+    3076816645,
+    3076816646,
+    3076816647,
+    3076816648,
+    3076816649,
+    3076816650,
+    3076816651,
+    3076816652,
+    3076816653,
+    3076816654,
+    3076816655,
+    3076816656,
+    3076814912
+  ],
+  "tags": {
+    "jpoi_id": "100214",
+    "name": "Al Akhal Oasis",
+    "natural": "water",
+    "water": "lake"
+  }
+},
+{
+  "type": "way",
+  "id": 305372819,
+  "nodes": [
+    3099950188,
+    3099950189,
+    3099950190,
+    3099950191,
+    3099950192,
+    3099950193,
+    3099950194,
+    3099950195,
+    3099950196,
+    3099950197,
+    3099950198,
+    3099950199,
+    3099950200,
+    3099950201,
+    3099950202,
+    3099950203,
+    3099950204,
+    3099950205,
+    3099950206,
+    3099950207,
+    3099950208,
+    3099950188
+  ],
+  "tags": {
+    "building": "commercial",
+    "jpoi_id": "100551",
+    "name": "Queen's building"
   }
 },
 {
@@ -1832,6 +3625,23 @@
 },
 {
   "type": "way",
+  "id": 335766268,
+  "nodes": [
+    3428765864,
+    3429767227,
+    3428765857,
+    3428765850,
+    3428765851,
+    3428765864
+  ],
+  "tags": {
+    "building": "commercial",
+    "jpoi_id": "100100",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "way",
   "id": 336853496,
   "nodes": [
     3439377776,
@@ -1867,6 +3677,41 @@
     "jpoi_id": "100198",
     "name": "Coral mall",
     "shop": "mall"
+  }
+},
+{
+  "type": "way",
+  "id": 337945843,
+  "nodes": [
+    3450210401,
+    3450210388,
+    3450210391,
+    3450210398,
+    3450210414,
+    3450210424,
+    3450210426,
+    3450210427,
+    3450210420,
+    3450210408,
+    3450210401
+  ],
+  "tags": {
+    "alt_name": "Black Volcano",
+    "jpoi_id": "100299",
+    "natural": "crater"
+  }
+},
+{
+  "type": "way",
+  "id": 337945861,
+  "nodes": [
+    3450209161,
+    3450209163
+  ],
+  "tags": {
+    "jpoi_id": "100260",
+    "name": "An Bint Dam",
+    "waterway": "dam"
   }
 },
 {
@@ -1977,6 +3822,51 @@
 },
 {
   "type": "way",
+  "id": 358273043,
+  "nodes": [
+    3632202400,
+    3632202398,
+    3632202394,
+    3632202405,
+    3632202415,
+    3632202422,
+    3632202413,
+    3632202423,
+    3632202410,
+    3632202432,
+    3632202404,
+    3632202407,
+    3632202389,
+    3632202393,
+    3632202377,
+    3632202350,
+    3632202331,
+    3632202310,
+    3632202325,
+    3632202305,
+    3632202301,
+    3632202295,
+    3632202298,
+    3632202335,
+    3632202342,
+    3632202332,
+    3632202351,
+    3632202373,
+    3632202368,
+    3632202371,
+    3632202376,
+    3632202385,
+    3632202396,
+    3632202400
+  ],
+  "tags": {
+    "jpoi_id": "100505",
+    "name": "InterContinental Jeddah",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
   "id": 358363301,
   "nodes": [
     3632939353,
@@ -2008,6 +3898,36 @@
     "jpoi_id": "100009",
     "name": "Radisson Blu Royal Suites",
     "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 358377281,
+  "nodes": [
+    2921558448,
+    1634197468,
+    1634197469,
+    1634197470,
+    1634197471,
+    1634197550,
+    2920010659,
+    3633055508,
+    2920010657,
+    2920010656,
+    2920010655,
+    2920010654,
+    2920010653,
+    2920010650,
+    2920010651,
+    2921558446,
+    2921558447,
+    2921558448
+  ],
+  "tags": {
+    "alt_name": "Tuesday Market",
+    "amenity": "marketplace",
+    "building": "yes",
+    "jpoi_id": "100091"
   }
 },
 {
@@ -2182,6 +4102,218 @@
 },
 {
   "type": "way",
+  "id": 358396454,
+  "nodes": [
+    3633201315,
+    3633201316,
+    3633201317,
+    3633201318,
+    3633201315
+  ],
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "jpoi_id": "100250",
+    "religion": "muslim"
+  }
+},
+{
+  "type": "way",
+  "id": 358396486,
+  "nodes": [
+    3633201506,
+    3633201507,
+    3633201508,
+    3633201509,
+    3633201510,
+    3633201511,
+    3633201512,
+    3633201513,
+    3633201506
+  ],
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "jpoi_id": "100253",
+    "religion": "muslim"
+  }
+},
+{
+  "type": "way",
+  "id": 358396622,
+  "nodes": [
+    3633195171,
+    3633195172
+  ],
+  "tags": {
+    "jpoi_id": "100257",
+    "name": "Ansamlique Dam",
+    "waterway": "dam"
+  }
+},
+{
+  "type": "way",
+  "id": 358396689,
+  "nodes": [
+    3633203968,
+    3633203969
+  ],
+  "tags": {
+    "jpoi_id": "100258",
+    "waterway": "dam"
+  }
+},
+{
+  "type": "way",
+  "id": 358397091,
+  "nodes": [
+    3633205929,
+    3633205930,
+    3633205931,
+    3633205932,
+    3633205933,
+    3633205934,
+    3633205935,
+    3633205936,
+    3633205937,
+    3633205938,
+    3633205939,
+    3633205940,
+    3633205941,
+    3633205942,
+    3633205929
+  ],
+  "tags": {
+    "building": "yes",
+    "jpoi_id": "100265"
+  }
+},
+{
+  "type": "way",
+  "id": 358397183,
+  "nodes": [
+    3633209064,
+    3633209065,
+    3633209066,
+    3633209067,
+    3633209064
+  ],
+  "tags": {
+    "building": "yes",
+    "jpoi_id": "100267"
+  }
+},
+{
+  "type": "way",
+  "id": 358397285,
+  "nodes": [
+    3633209709,
+    3633209710,
+    3633209711,
+    3633209712,
+    3633209713,
+    3633209714,
+    3633209715,
+    3633209716,
+    3633209717,
+    3633209718,
+    3633209719,
+    3633209720,
+    3633209721,
+    3633209709
+  ],
+  "tags": {
+    "historic": "ruins",
+    "jpoi_id": "100268"
+  }
+},
+{
+  "type": "way",
+  "id": 358397304,
+  "nodes": [
+    3633204190,
+    3633204191,
+    3633204192,
+    3633209993,
+    3633204190
+  ],
+  "tags": {
+    "building": "yes",
+    "jpoi_id": "100269",
+    "name": "Shada Palace"
+  }
+},
+{
+  "type": "way",
+  "id": 358397504,
+  "nodes": [
+    3633209585,
+    3633209586,
+    3633209587,
+    3633209588,
+    3633209589,
+    3633209590,
+    3633209591,
+    3633209585
+  ],
+  "tags": {
+    "area": "yes",
+    "jpoi_id": "100271",
+    "leisure": "water_park"
+  }
+},
+{
+  "type": "way",
+  "id": 358397836,
+  "nodes": [
+    3633214532,
+    3633214533,
+    3633214534,
+    3633214535,
+    3633214536,
+    3633214537,
+    3633214538,
+    3633214539,
+    3633214532
+  ],
+  "tags": {
+    "historic": "ruins",
+    "jpoi_id": "100280",
+    "name": "Dhi Ain"
+  }
+},
+{
+  "type": "way",
+  "id": 358398603,
+  "nodes": [
+    3633223566,
+    3633223567,
+    3633223568,
+    3633223569,
+    3633223570,
+    3633223571,
+    3633223572,
+    3633223573,
+    3633223574,
+    3633223575,
+    3633223576,
+    3633223577,
+    3633223578,
+    3633223579,
+    3633223580,
+    3633223581,
+    3633223582,
+    3633223583,
+    3633223584,
+    3633223585
+  ],
+  "tags": {
+    "jpoi_id": "100303",
+    "natural": "cliff"
+  }
+},
+{
+  "type": "way",
   "id": 358399183,
   "nodes": [
     3633232641,
@@ -2258,6 +4390,31 @@
   ],
   "tags": {
     "jpoi_id": "100256",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 1561613,
+  "members": [
+    {
+      "type": "way",
+      "ref": 41399957,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 109868354,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "jpoi_id": "100550",
+    "name": "Jaffali Mosque",
+    "name:ar": "مسجد الجفالي",
+    "religion": "muslim",
     "type": "multipolygon"
   }
 },
@@ -2599,6 +4756,54 @@
 },
 {
   "type": "node",
+  "id": 3633209589,
+  "lat": 21.3549024,
+  "lon": 40.2300264
+},
+{
+  "type": "node",
+  "id": 1120557974,
+  "lat": 21.3564119,
+  "lon": 40.2295145
+},
+{
+  "type": "node",
+  "id": 3633209585,
+  "lat": 21.3560335,
+  "lon": 40.2295111
+},
+{
+  "type": "node",
+  "id": 3633209586,
+  "lat": 21.3567181,
+  "lon": 40.2303795
+},
+{
+  "type": "node",
+  "id": 3633209587,
+  "lat": 21.3555401,
+  "lon": 40.2315543
+},
+{
+  "type": "node",
+  "id": 3633209588,
+  "lat": 21.3550266,
+  "lon": 40.2301777
+},
+{
+  "type": "node",
+  "id": 3633209590,
+  "lat": 21.3556374,
+  "lon": 40.2297345
+},
+{
+  "type": "node",
+  "id": 3633209591,
+  "lat": 21.3559529,
+  "lon": 40.2296948
+},
+{
+  "type": "node",
   "id": 2059566059,
   "lat": 21.4102860,
   "lon": 39.2034265
@@ -2743,6 +4948,18 @@
 },
 {
   "type": "node",
+  "id": 3099950188,
+  "lat": 21.4848349,
+  "lon": 39.1838947
+},
+{
+  "type": "node",
+  "id": 3099950189,
+  "lat": 21.4847566,
+  "lon": 39.1839588
+},
+{
+  "type": "node",
   "id": 573788278,
   "lat": 21.4844334,
   "lon": 39.1879964
@@ -2836,6 +5053,120 @@
   "id": 2520127272,
   "lat": 21.4843616,
   "lon": 39.1878426
+},
+{
+  "type": "node",
+  "id": 3099950190,
+  "lat": 21.4846411,
+  "lon": 39.1839948
+},
+{
+  "type": "node",
+  "id": 3099950191,
+  "lat": 21.4845405,
+  "lon": 39.1840109
+},
+{
+  "type": "node",
+  "id": 3099950192,
+  "lat": 21.4844287,
+  "lon": 39.1839988
+},
+{
+  "type": "node",
+  "id": 3099950193,
+  "lat": 21.4844213,
+  "lon": 39.1841550
+},
+{
+  "type": "node",
+  "id": 3099950194,
+  "lat": 21.4844958,
+  "lon": 39.1841590
+},
+{
+  "type": "node",
+  "id": 3099950195,
+  "lat": 21.4845442,
+  "lon": 39.1841590
+},
+{
+  "type": "node",
+  "id": 3099950196,
+  "lat": 21.4845591,
+  "lon": 39.1842151
+},
+{
+  "type": "node",
+  "id": 3099950197,
+  "lat": 21.4844921,
+  "lon": 39.1842511
+},
+{
+  "type": "node",
+  "id": 3099950198,
+  "lat": 21.4844586,
+  "lon": 39.1842711
+},
+{
+  "type": "node",
+  "id": 3099950199,
+  "lat": 21.4845256,
+  "lon": 39.1844153
+},
+{
+  "type": "node",
+  "id": 3099950200,
+  "lat": 21.4846262,
+  "lon": 39.1843472
+},
+{
+  "type": "node",
+  "id": 3099950201,
+  "lat": 21.4847380,
+  "lon": 39.1842831
+},
+{
+  "type": "node",
+  "id": 3099950202,
+  "lat": 21.4848647,
+  "lon": 39.1842591
+},
+{
+  "type": "node",
+  "id": 3099950203,
+  "lat": 21.4849466,
+  "lon": 39.1842591
+},
+{
+  "type": "node",
+  "id": 3099950204,
+  "lat": 21.4849466,
+  "lon": 39.1841190
+},
+{
+  "type": "node",
+  "id": 3099950205,
+  "lat": 21.4848060,
+  "lon": 39.1841311
+},
+{
+  "type": "node",
+  "id": 3099950206,
+  "lat": 21.4848013,
+  "lon": 39.1840989
+},
+{
+  "type": "node",
+  "id": 3099950207,
+  "lat": 21.4848572,
+  "lon": 39.1840709
+},
+{
+  "type": "node",
+  "id": 3099950208,
+  "lat": 21.4849168,
+  "lon": 39.1840189
 },
 {
   "type": "node",
@@ -3349,6 +5680,24 @@
 },
 {
   "type": "node",
+  "id": 506396562,
+  "lat": 21.4912583,
+  "lon": 39.1897341
+},
+{
+  "type": "node",
+  "id": 506396563,
+  "lat": 21.4913268,
+  "lon": 39.1901828
+},
+{
+  "type": "node",
+  "id": 506396572,
+  "lat": 21.4924668,
+  "lon": 39.1898256
+},
+{
+  "type": "node",
   "id": 573788765,
   "lat": 21.4860895,
   "lon": 39.1897524
@@ -3358,6 +5707,72 @@
   "id": 573790012,
   "lat": 21.4860454,
   "lon": 39.1901359
+},
+{
+  "type": "node",
+  "id": 506315900,
+  "lat": 21.4922680,
+  "lon": 39.1853899
+},
+{
+  "type": "node",
+  "id": 506315904,
+  "lat": 21.4923151,
+  "lon": 39.1857799
+},
+{
+  "type": "node",
+  "id": 1256686279,
+  "lat": 21.4922591,
+  "lon": 39.1854802
+},
+{
+  "type": "node",
+  "id": 1256686281,
+  "lat": 21.4923437,
+  "lon": 39.1854899
+},
+{
+  "type": "node",
+  "id": 506396570,
+  "lat": 21.4925611,
+  "lon": 39.1899263
+},
+{
+  "type": "node",
+  "id": 506315909,
+  "lat": 21.4929513,
+  "lon": 39.1858524
+},
+{
+  "type": "node",
+  "id": 506315919,
+  "lat": 21.4929889,
+  "lon": 39.1854720
+},
+{
+  "type": "node",
+  "id": 1256686269,
+  "lat": 21.4926686,
+  "lon": 39.1857106
+},
+{
+  "type": "node",
+  "id": 1256686278,
+  "lat": 21.4926880,
+  "lon": 39.1855059
+},
+{
+  "type": "node",
+  "id": 1256686280,
+  "lat": 21.4928490,
+  "lon": 39.1855236
+},
+{
+  "type": "node",
+  "id": 1256686282,
+  "lat": 21.4928296,
+  "lon": 39.1857283
 },
 {
   "type": "node",
@@ -3394,6 +5809,54 @@
   "id": 3633120185,
   "lat": 21.5011471,
   "lon": 39.1767859
+},
+{
+  "type": "node",
+  "id": 506396564,
+  "lat": 21.4916955,
+  "lon": 39.1909064
+},
+{
+  "type": "node",
+  "id": 506396565,
+  "lat": 21.4920468,
+  "lon": 39.1910804
+},
+{
+  "type": "node",
+  "id": 506396567,
+  "lat": 21.4924155,
+  "lon": 39.1909613
+},
+{
+  "type": "node",
+  "id": 506396569,
+  "lat": 21.4927240,
+  "lon": 39.1907598
+},
+{
+  "type": "node",
+  "id": 1606520592,
+  "lat": 21.6042457,
+  "lon": 39.1092891
+},
+{
+  "type": "node",
+  "id": 1606520602,
+  "lat": 21.6042933,
+  "lon": 39.1085133
+},
+{
+  "type": "node",
+  "id": 1606520682,
+  "lat": 21.6052775,
+  "lon": 39.1093624
+},
+{
+  "type": "node",
+  "id": 1606520687,
+  "lat": 21.6053251,
+  "lon": 39.1085865
 },
 {
   "type": "node",
@@ -3766,6 +6229,204 @@
   "id": 3632090655,
   "lat": 21.5174331,
   "lon": 39.1557443
+},
+{
+  "type": "node",
+  "id": 3632202295,
+  "lat": 21.5152325,
+  "lon": 39.1552361
+},
+{
+  "type": "node",
+  "id": 3632202298,
+  "lat": 21.5152585,
+  "lon": 39.1552221
+},
+{
+  "type": "node",
+  "id": 3632202301,
+  "lat": 21.5152802,
+  "lon": 39.1553388
+},
+{
+  "type": "node",
+  "id": 3632202305,
+  "lat": 21.5153316,
+  "lon": 39.1553112
+},
+{
+  "type": "node",
+  "id": 3632202310,
+  "lat": 21.5153545,
+  "lon": 39.1556170
+},
+{
+  "type": "node",
+  "id": 3632202325,
+  "lat": 21.5154500,
+  "lon": 39.1555657
+},
+{
+  "type": "node",
+  "id": 3632202331,
+  "lat": 21.5155170,
+  "lon": 39.1559664
+},
+{
+  "type": "node",
+  "id": 3632202332,
+  "lat": 21.5155202,
+  "lon": 39.1552098
+},
+{
+  "type": "node",
+  "id": 3632202335,
+  "lat": 21.5155391,
+  "lon": 39.1550713
+},
+{
+  "type": "node",
+  "id": 3632202342,
+  "lat": 21.5155868,
+  "lon": 39.1551740
+},
+{
+  "type": "node",
+  "id": 3632202350,
+  "lat": 21.5156406,
+  "lon": 39.1559000
+},
+{
+  "type": "node",
+  "id": 3632202351,
+  "lat": 21.5156450,
+  "lon": 39.1554781
+},
+{
+  "type": "node",
+  "id": 3632202368,
+  "lat": 21.5158232,
+  "lon": 39.1552710
+},
+{
+  "type": "node",
+  "id": 3632202371,
+  "lat": 21.5158509,
+  "lon": 39.1551658
+},
+{
+  "type": "node",
+  "id": 3632202373,
+  "lat": 21.5158646,
+  "lon": 39.1553601
+},
+{
+  "type": "node",
+  "id": 3632202376,
+  "lat": 21.5158774,
+  "lon": 39.1550653
+},
+{
+  "type": "node",
+  "id": 3632202377,
+  "lat": 21.5159099,
+  "lon": 39.1564789
+},
+{
+  "type": "node",
+  "id": 3632202385,
+  "lat": 21.5159986,
+  "lon": 39.1550002
+},
+{
+  "type": "node",
+  "id": 3632202389,
+  "lat": 21.5160319,
+  "lon": 39.1563465
+},
+{
+  "type": "node",
+  "id": 3632202393,
+  "lat": 21.5160568,
+  "lon": 39.1564000
+},
+{
+  "type": "node",
+  "id": 3632202394,
+  "lat": 21.5160762,
+  "lon": 39.1552842
+},
+{
+  "type": "node",
+  "id": 3632202396,
+  "lat": 21.5160949,
+  "lon": 39.1550347
+},
+{
+  "type": "node",
+  "id": 3632202398,
+  "lat": 21.5161198,
+  "lon": 39.1552607
+},
+{
+  "type": "node",
+  "id": 3632202400,
+  "lat": 21.5161563,
+  "lon": 39.1551667
+},
+{
+  "type": "node",
+  "id": 3632202404,
+  "lat": 21.5161974,
+  "lon": 39.1562473
+},
+{
+  "type": "node",
+  "id": 3632202405,
+  "lat": 21.5161980,
+  "lon": 39.1555461
+},
+{
+  "type": "node",
+  "id": 3632202407,
+  "lat": 21.5162013,
+  "lon": 39.1562555
+},
+{
+  "type": "node",
+  "id": 3632202410,
+  "lat": 21.5162204,
+  "lon": 39.1558307
+},
+{
+  "type": "node",
+  "id": 3632202413,
+  "lat": 21.5162406,
+  "lon": 39.1556376
+},
+{
+  "type": "node",
+  "id": 3632202415,
+  "lat": 21.5162502,
+  "lon": 39.1555181
+},
+{
+  "type": "node",
+  "id": 3632202422,
+  "lat": 21.5162928,
+  "lon": 39.1556096
+},
+{
+  "type": "node",
+  "id": 3632202423,
+  "lat": 21.5163084,
+  "lon": 39.1557834
+},
+{
+  "type": "node",
+  "id": 3632202432,
+  "lat": 21.5163708,
+  "lon": 39.1561541
 },
 {
   "type": "node",
@@ -4285,6 +6946,78 @@
 },
 {
   "type": "node",
+  "id": 565694325,
+  "lat": 21.5609153,
+  "lon": 39.1839203
+},
+{
+  "type": "node",
+  "id": 565694054,
+  "lat": 21.5603007,
+  "lon": 39.1850876
+},
+{
+  "type": "node",
+  "id": 565694059,
+  "lat": 21.5602767,
+  "lon": 39.1848645
+},
+{
+  "type": "node",
+  "id": 565694063,
+  "lat": 21.5603885,
+  "lon": 39.1847529
+},
+{
+  "type": "node",
+  "id": 565694064,
+  "lat": 21.5603007,
+  "lon": 39.1839976
+},
+{
+  "type": "node",
+  "id": 565694327,
+  "lat": 21.5604444,
+  "lon": 39.1851992
+},
+{
+  "type": "node",
+  "id": 565694328,
+  "lat": 21.5606519,
+  "lon": 39.1867441
+},
+{
+  "type": "node",
+  "id": 565694329,
+  "lat": 21.5612905,
+  "lon": 39.1866497
+},
+{
+  "type": "node",
+  "id": 565694330,
+  "lat": 21.5612027,
+  "lon": 39.1859631
+},
+{
+  "type": "node",
+  "id": 565694331,
+  "lat": 21.5611069,
+  "lon": 39.1859717
+},
+{
+  "type": "node",
+  "id": 565694332,
+  "lat": 21.5609153,
+  "lon": 39.1846842
+},
+{
+  "type": "node",
+  "id": 565694333,
+  "lat": 21.5610111,
+  "lon": 39.1846670
+},
+{
+  "type": "node",
   "id": 572593386,
   "lat": 21.5633469,
   "lon": 39.2030795
@@ -4324,6 +7057,42 @@
   "id": 572593496,
   "lat": 21.5632317,
   "lon": 39.2045352
+},
+{
+  "type": "node",
+  "id": 673354275,
+  "lat": 21.5746111,
+  "lon": 39.1269257
+},
+{
+  "type": "node",
+  "id": 673354276,
+  "lat": 21.5745812,
+  "lon": 39.1277119
+},
+{
+  "type": "node",
+  "id": 673354277,
+  "lat": 21.5732087,
+  "lon": 39.1277341
+},
+{
+  "type": "node",
+  "id": 673354278,
+  "lat": 21.5731189,
+  "lon": 39.1306417
+},
+{
+  "type": "node",
+  "id": 673354279,
+  "lat": 21.5725302,
+  "lon": 39.1306309
+},
+{
+  "type": "node",
+  "id": 673354280,
+  "lat": 21.5726001,
+  "lon": 39.1269080
 },
 {
   "type": "node",
@@ -4759,6 +7528,186 @@
 },
 {
   "type": "node",
+  "id": 1271441754,
+  "lat": 21.6676684,
+  "lon": 39.1099551
+},
+{
+  "type": "node",
+  "id": 1271441773,
+  "lat": 21.6676585,
+  "lon": 39.1098693
+},
+{
+  "type": "node",
+  "id": 1271441796,
+  "lat": 21.6645775,
+  "lon": 39.1091290
+},
+{
+  "type": "node",
+  "id": 1271441806,
+  "lat": 21.6647370,
+  "lon": 39.1094294
+},
+{
+  "type": "node",
+  "id": 1271441844,
+  "lat": 21.6648965,
+  "lon": 39.1097084
+},
+{
+  "type": "node",
+  "id": 1271441851,
+  "lat": 21.6664919,
+  "lon": 39.1102770
+},
+{
+  "type": "node",
+  "id": 1271441955,
+  "lat": 21.6669107,
+  "lon": 39.1094723
+},
+{
+  "type": "node",
+  "id": 1271442002,
+  "lat": 21.6642385,
+  "lon": 39.1080132
+},
+{
+  "type": "node",
+  "id": 1271442006,
+  "lat": 21.6674790,
+  "lon": 39.1098800
+},
+{
+  "type": "node",
+  "id": 1271442182,
+  "lat": 21.6651259,
+  "lon": 39.1081527
+},
+{
+  "type": "node",
+  "id": 1271442206,
+  "lat": 21.6645276,
+  "lon": 39.1078952
+},
+{
+  "type": "node",
+  "id": 1271442207,
+  "lat": 21.6650461,
+  "lon": 39.1082921
+},
+{
+  "type": "node",
+  "id": 1271442369,
+  "lat": 21.6655447,
+  "lon": 39.1082600
+},
+{
+  "type": "node",
+  "id": 1271442382,
+  "lat": 21.6666913,
+  "lon": 39.1091934
+},
+{
+  "type": "node",
+  "id": 1271442385,
+  "lat": 21.6678080,
+  "lon": 39.1099444
+},
+{
+  "type": "node",
+  "id": 1271442439,
+  "lat": 21.6647769,
+  "lon": 39.1079917
+},
+{
+  "type": "node",
+  "id": 1271442452,
+  "lat": 21.6664520,
+  "lon": 39.1088822
+},
+{
+  "type": "node",
+  "id": 1271442495,
+  "lat": 21.6648268,
+  "lon": 39.1081741
+},
+{
+  "type": "node",
+  "id": 1271442543,
+  "lat": 21.6653054,
+  "lon": 39.1099766
+},
+{
+  "type": "node",
+  "id": 1271442561,
+  "lat": 21.6650461,
+  "lon": 39.1098156
+},
+{
+  "type": "node",
+  "id": 1271442598,
+  "lat": 21.6674690,
+  "lon": 39.1099766
+},
+{
+  "type": "node",
+  "id": 1271442645,
+  "lat": 21.6656244,
+  "lon": 39.1100517
+},
+{
+  "type": "node",
+  "id": 1271442646,
+  "lat": 21.6658637,
+  "lon": 39.1100624
+},
+{
+  "type": "node",
+  "id": 1271442670,
+  "lat": 21.6661728,
+  "lon": 39.1100409
+},
+{
+  "type": "node",
+  "id": 1271442676,
+  "lat": 21.6671500,
+  "lon": 39.1099658
+},
+{
+  "type": "node",
+  "id": 1271442712,
+  "lat": 21.6662127,
+  "lon": 39.1102341
+},
+{
+  "type": "node",
+  "id": 1271442780,
+  "lat": 21.6678180,
+  "lon": 39.1102341
+},
+{
+  "type": "node",
+  "id": 1271442798,
+  "lat": 21.6671201,
+  "lon": 39.1096440
+},
+{
+  "type": "node",
+  "id": 1271442801,
+  "lat": 21.6667711,
+  "lon": 39.1094830
+},
+{
+  "type": "node",
+  "id": 1271442803,
+  "lat": 21.6665916,
+  "lon": 39.1093328
+},
+{
+  "type": "node",
   "id": 2949191467,
   "lat": 21.7096123,
   "lon": 39.0850917
@@ -4792,6 +7741,78 @@
   "id": 3633077224,
   "lat": 21.7098337,
   "lon": 39.0854185
+},
+{
+  "type": "node",
+  "id": 561534830,
+  "lat": 21.6313653,
+  "lon": 39.1544457
+},
+{
+  "type": "node",
+  "id": 561534836,
+  "lat": 21.6324545,
+  "lon": 39.1544195
+},
+{
+  "type": "node",
+  "id": 561534842,
+  "lat": 21.6325490,
+  "lon": 39.1543371
+},
+{
+  "type": "node",
+  "id": 561534848,
+  "lat": 21.6328685,
+  "lon": 39.1544224
+},
+{
+  "type": "node",
+  "id": 561534853,
+  "lat": 21.6331499,
+  "lon": 39.1546069
+},
+{
+  "type": "node",
+  "id": 561534858,
+  "lat": 21.6334600,
+  "lon": 39.1549003
+},
+{
+  "type": "node",
+  "id": 561534881,
+  "lat": 21.6336754,
+  "lon": 39.1553132
+},
+{
+  "type": "node",
+  "id": 561534909,
+  "lat": 21.6337848,
+  "lon": 39.1556731
+},
+{
+  "type": "node",
+  "id": 561534914,
+  "lat": 21.6337718,
+  "lon": 39.1567787
+},
+{
+  "type": "node",
+  "id": 561534923,
+  "lat": 21.6339506,
+  "lon": 39.1577232
+},
+{
+  "type": "node",
+  "id": 1695307621,
+  "lat": 21.6339579,
+  "lon": 39.1570796
+},
+{
+  "type": "node",
+  "id": 561534928,
+  "lat": 21.6313098,
+  "lon": 39.1578053
 },
 {
   "type": "node",
@@ -4849,9 +7870,129 @@
 },
 {
   "type": "node",
+  "id": 506314579,
+  "lat": 21.6700944,
+  "lon": 39.1498752
+},
+{
+  "type": "node",
+  "id": 506314584,
+  "lat": 21.6702393,
+  "lon": 39.1498181
+},
+{
+  "type": "node",
+  "id": 506314588,
+  "lat": 21.6701391,
+  "lon": 39.1495232
+},
+{
+  "type": "node",
+  "id": 506314592,
+  "lat": 21.6706104,
+  "lon": 39.1493378
+},
+{
+  "type": "node",
+  "id": 506314594,
+  "lat": 21.6707031,
+  "lon": 39.1496106
+},
+{
+  "type": "node",
+  "id": 506314600,
+  "lat": 21.6708010,
+  "lon": 39.1495721
+},
+{
+  "type": "node",
+  "id": 506314603,
+  "lat": 21.6706749,
+  "lon": 39.1492010
+},
+{
+  "type": "node",
+  "id": 506314609,
+  "lat": 21.6708680,
+  "lon": 39.1491250
+},
+{
+  "type": "node",
+  "id": 506314610,
+  "lat": 21.6709969,
+  "lon": 39.1495044
+},
+{
+  "type": "node",
+  "id": 506314613,
+  "lat": 21.6715260,
+  "lon": 39.1492963
+},
+{
+  "type": "node",
+  "id": 506314616,
+  "lat": 21.6720510,
+  "lon": 39.1508414
+},
+{
+  "type": "node",
+  "id": 506314621,
+  "lat": 21.6715587,
+  "lon": 39.1510351
+},
+{
+  "type": "node",
+  "id": 506314635,
+  "lat": 21.6713370,
+  "lon": 39.1511472
+},
+{
+  "type": "node",
+  "id": 506314638,
+  "lat": 21.6712427,
+  "lon": 39.1511843
+},
+{
+  "type": "node",
   "id": 1442139297,
   "lat": 21.6710204,
   "lon": 39.1550986
+},
+{
+  "type": "node",
+  "id": 506314574,
+  "lat": 21.6706114,
+  "lon": 39.1513968
+},
+{
+  "type": "node",
+  "id": 506314628,
+  "lat": 21.6716772,
+  "lon": 39.1513837
+},
+{
+  "type": "node",
+  "id": 506314632,
+  "lat": 21.6714480,
+  "lon": 39.1514739
+},
+{
+  "type": "node",
+  "id": 506314640,
+  "lat": 21.6713378,
+  "lon": 39.1514642
+},
+{
+  "type": "node",
+  "id": 506314641,
+  "lat": 21.6708995,
+  "lon": 39.1516366
+},
+{
+  "type": "node",
+  "id": 506314642,
+  "lat": 21.6707936,
+  "lon": 39.1513251
 },
 {
   "type": "node",
@@ -4864,6 +8005,78 @@
   "id": 3633234269,
   "lat": 21.6710901,
   "lon": 39.1539167
+},
+{
+  "type": "node",
+  "id": 506314559,
+  "lat": 21.6876808,
+  "lon": 39.1425251
+},
+{
+  "type": "node",
+  "id": 506314565,
+  "lat": 21.6866667,
+  "lon": 39.1429167
+},
+{
+  "type": "node",
+  "id": 3084514742,
+  "lat": 21.6872874,
+  "lon": 39.1424184
+},
+{
+  "type": "node",
+  "id": 3084514743,
+  "lat": 21.6873638,
+  "lon": 39.1426461
+},
+{
+  "type": "node",
+  "id": 3084514746,
+  "lat": 21.6874999,
+  "lon": 39.1423359
+},
+{
+  "type": "node",
+  "id": 3084514749,
+  "lat": 21.6875768,
+  "lon": 39.1425655
+},
+{
+  "type": "node",
+  "id": 506314555,
+  "lat": 21.6884277,
+  "lon": 39.1447531
+},
+{
+  "type": "node",
+  "id": 3084514744,
+  "lat": 21.6874144,
+  "lon": 39.1451468
+},
+{
+  "type": "node",
+  "id": 3084514745,
+  "lat": 21.6874236,
+  "lon": 39.1448734
+},
+{
+  "type": "node",
+  "id": 3084514747,
+  "lat": 21.6875037,
+  "lon": 39.1451121
+},
+{
+  "type": "node",
+  "id": 3084514748,
+  "lat": 21.6875386,
+  "lon": 39.1448288
+},
+{
+  "type": "node",
+  "id": 3084514750,
+  "lat": 21.6876185,
+  "lon": 39.1450672
 },
 {
   "type": "node",
@@ -8020,6 +11233,3672 @@
   "id": 137211696,
   "lat": 21.9261322,
   "lon": 39.0109398
+},
+{
+  "type": "node",
+  "id": 1680942165,
+  "lat": 21.9161933,
+  "lon": 39.3399496
+},
+{
+  "type": "node",
+  "id": 1680942166,
+  "lat": 21.9161974,
+  "lon": 39.3399122
+},
+{
+  "type": "node",
+  "id": 1680942167,
+  "lat": 21.9161959,
+  "lon": 39.3399116
+},
+{
+  "type": "node",
+  "id": 1680942168,
+  "lat": 21.9161932,
+  "lon": 39.3399092
+},
+{
+  "type": "node",
+  "id": 1680942169,
+  "lat": 21.9161916,
+  "lon": 39.3399058
+},
+{
+  "type": "node",
+  "id": 1680942170,
+  "lat": 21.9161913,
+  "lon": 39.3399021
+},
+{
+  "type": "node",
+  "id": 1680942171,
+  "lat": 21.9161924,
+  "lon": 39.3398985
+},
+{
+  "type": "node",
+  "id": 1680942172,
+  "lat": 21.9161947,
+  "lon": 39.3398956
+},
+{
+  "type": "node",
+  "id": 1680942173,
+  "lat": 21.9161978,
+  "lon": 39.3398939
+},
+{
+  "type": "node",
+  "id": 1680942174,
+  "lat": 21.9162013,
+  "lon": 39.3398936
+},
+{
+  "type": "node",
+  "id": 1680942175,
+  "lat": 21.9162047,
+  "lon": 39.3398948
+},
+{
+  "type": "node",
+  "id": 1680942176,
+  "lat": 21.9162073,
+  "lon": 39.3398972
+},
+{
+  "type": "node",
+  "id": 1680942177,
+  "lat": 21.9162089,
+  "lon": 39.3399006
+},
+{
+  "type": "node",
+  "id": 1680942178,
+  "lat": 21.9162092,
+  "lon": 39.3399043
+},
+{
+  "type": "node",
+  "id": 1680942179,
+  "lat": 21.9162087,
+  "lon": 39.3399091
+},
+{
+  "type": "node",
+  "id": 1680942180,
+  "lat": 21.9162446,
+  "lon": 39.3399137
+},
+{
+  "type": "node",
+  "id": 1680942181,
+  "lat": 21.9162451,
+  "lon": 39.3399088
+},
+{
+  "type": "node",
+  "id": 1680942182,
+  "lat": 21.9162457,
+  "lon": 39.3399064
+},
+{
+  "type": "node",
+  "id": 1680942183,
+  "lat": 21.9162469,
+  "lon": 39.3399042
+},
+{
+  "type": "node",
+  "id": 1680942184,
+  "lat": 21.9162485,
+  "lon": 39.3399024
+},
+{
+  "type": "node",
+  "id": 1680942185,
+  "lat": 21.9162505,
+  "lon": 39.3399011
+},
+{
+  "type": "node",
+  "id": 1680942186,
+  "lat": 21.9162528,
+  "lon": 39.3399004
+},
+{
+  "type": "node",
+  "id": 1680942187,
+  "lat": 21.9162552,
+  "lon": 39.3399004
+},
+{
+  "type": "node",
+  "id": 1680942188,
+  "lat": 21.9162574,
+  "lon": 39.3399010
+},
+{
+  "type": "node",
+  "id": 1680942189,
+  "lat": 21.9162595,
+  "lon": 39.3399022
+},
+{
+  "type": "node",
+  "id": 1680942190,
+  "lat": 21.9162612,
+  "lon": 39.3399040
+},
+{
+  "type": "node",
+  "id": 1680942191,
+  "lat": 21.9162624,
+  "lon": 39.3399062
+},
+{
+  "type": "node",
+  "id": 1680942192,
+  "lat": 21.9162630,
+  "lon": 39.3399086
+},
+{
+  "type": "node",
+  "id": 1680942193,
+  "lat": 21.9162631,
+  "lon": 39.3399111
+},
+{
+  "type": "node",
+  "id": 1680942194,
+  "lat": 21.9162625,
+  "lon": 39.3399159
+},
+{
+  "type": "node",
+  "id": 1680942195,
+  "lat": 21.9162975,
+  "lon": 39.3399203
+},
+{
+  "type": "node",
+  "id": 1680942196,
+  "lat": 21.9162981,
+  "lon": 39.3399155
+},
+{
+  "type": "node",
+  "id": 1680942197,
+  "lat": 21.9162986,
+  "lon": 39.3399131
+},
+{
+  "type": "node",
+  "id": 1680942198,
+  "lat": 21.9162998,
+  "lon": 39.3399109
+},
+{
+  "type": "node",
+  "id": 1680942199,
+  "lat": 21.9163014,
+  "lon": 39.3399091
+},
+{
+  "type": "node",
+  "id": 1680942200,
+  "lat": 21.9163035,
+  "lon": 39.3399078
+},
+{
+  "type": "node",
+  "id": 1680942201,
+  "lat": 21.9163057,
+  "lon": 39.3399071
+},
+{
+  "type": "node",
+  "id": 1680942202,
+  "lat": 21.9163081,
+  "lon": 39.3399070
+},
+{
+  "type": "node",
+  "id": 1680942203,
+  "lat": 21.9163104,
+  "lon": 39.3399077
+},
+{
+  "type": "node",
+  "id": 1680942204,
+  "lat": 21.9163124,
+  "lon": 39.3399089
+},
+{
+  "type": "node",
+  "id": 1680942205,
+  "lat": 21.9163141,
+  "lon": 39.3399107
+},
+{
+  "type": "node",
+  "id": 1680942206,
+  "lat": 21.9163153,
+  "lon": 39.3399128
+},
+{
+  "type": "node",
+  "id": 1680942207,
+  "lat": 21.9163160,
+  "lon": 39.3399153
+},
+{
+  "type": "node",
+  "id": 1680942208,
+  "lat": 21.9163160,
+  "lon": 39.3399178
+},
+{
+  "type": "node",
+  "id": 1680942209,
+  "lat": 21.9163155,
+  "lon": 39.3399226
+},
+{
+  "type": "node",
+  "id": 1680942210,
+  "lat": 21.9163496,
+  "lon": 39.3399269
+},
+{
+  "type": "node",
+  "id": 1680942211,
+  "lat": 21.9163501,
+  "lon": 39.3399221
+},
+{
+  "type": "node",
+  "id": 1680942212,
+  "lat": 21.9163512,
+  "lon": 39.3399185
+},
+{
+  "type": "node",
+  "id": 1680942213,
+  "lat": 21.9163535,
+  "lon": 39.3399156
+},
+{
+  "type": "node",
+  "id": 1680942214,
+  "lat": 21.9163566,
+  "lon": 39.3399139
+},
+{
+  "type": "node",
+  "id": 1680942215,
+  "lat": 21.9163601,
+  "lon": 39.3399136
+},
+{
+  "type": "node",
+  "id": 1680942216,
+  "lat": 21.9163635,
+  "lon": 39.3399148
+},
+{
+  "type": "node",
+  "id": 1680942217,
+  "lat": 21.9163661,
+  "lon": 39.3399172
+},
+{
+  "type": "node",
+  "id": 1680942218,
+  "lat": 21.9163677,
+  "lon": 39.3399206
+},
+{
+  "type": "node",
+  "id": 1680942219,
+  "lat": 21.9163680,
+  "lon": 39.3399244
+},
+{
+  "type": "node",
+  "id": 1680942220,
+  "lat": 21.9163669,
+  "lon": 39.3399279
+},
+{
+  "type": "node",
+  "id": 1680942221,
+  "lat": 21.9163647,
+  "lon": 39.3399308
+},
+{
+  "type": "node",
+  "id": 1680942222,
+  "lat": 21.9163615,
+  "lon": 39.3399325
+},
+{
+  "type": "node",
+  "id": 1680942223,
+  "lat": 21.9163580,
+  "lon": 39.3399328
+},
+{
+  "type": "node",
+  "id": 1680942224,
+  "lat": 21.9163535,
+  "lon": 39.3399323
+},
+{
+  "type": "node",
+  "id": 1680942225,
+  "lat": 21.9163480,
+  "lon": 39.3399823
+},
+{
+  "type": "node",
+  "id": 1680942226,
+  "lat": 21.9163803,
+  "lon": 39.3399864
+},
+{
+  "type": "node",
+  "id": 1680942227,
+  "lat": 21.9163758,
+  "lon": 39.3400277
+},
+{
+  "type": "node",
+  "id": 1680942228,
+  "lat": 21.9163435,
+  "lon": 39.3400236
+},
+{
+  "type": "node",
+  "id": 1680942229,
+  "lat": 21.9163366,
+  "lon": 39.3400861
+},
+{
+  "type": "node",
+  "id": 1680942230,
+  "lat": 21.9163411,
+  "lon": 39.3400867
+},
+{
+  "type": "node",
+  "id": 1680942231,
+  "lat": 21.9163445,
+  "lon": 39.3400879
+},
+{
+  "type": "node",
+  "id": 1680942232,
+  "lat": 21.9163472,
+  "lon": 39.3400903
+},
+{
+  "type": "node",
+  "id": 1680942233,
+  "lat": 21.9163488,
+  "lon": 39.3400937
+},
+{
+  "type": "node",
+  "id": 1680942234,
+  "lat": 21.9163490,
+  "lon": 39.3400974
+},
+{
+  "type": "node",
+  "id": 1680942235,
+  "lat": 21.9163479,
+  "lon": 39.3401010
+},
+{
+  "type": "node",
+  "id": 1680942236,
+  "lat": 21.9163457,
+  "lon": 39.3401039
+},
+{
+  "type": "node",
+  "id": 1680942237,
+  "lat": 21.9163425,
+  "lon": 39.3401056
+},
+{
+  "type": "node",
+  "id": 1680942238,
+  "lat": 21.9163390,
+  "lon": 39.3401059
+},
+{
+  "type": "node",
+  "id": 1680942239,
+  "lat": 21.9163357,
+  "lon": 39.3401047
+},
+{
+  "type": "node",
+  "id": 1680942240,
+  "lat": 21.9163330,
+  "lon": 39.3401023
+},
+{
+  "type": "node",
+  "id": 1680942241,
+  "lat": 21.9163314,
+  "lon": 39.3400989
+},
+{
+  "type": "node",
+  "id": 1680942242,
+  "lat": 21.9163311,
+  "lon": 39.3400952
+},
+{
+  "type": "node",
+  "id": 1680942243,
+  "lat": 21.9163316,
+  "lon": 39.3400904
+},
+{
+  "type": "node",
+  "id": 1680942244,
+  "lat": 21.9162975,
+  "lon": 39.3400861
+},
+{
+  "type": "node",
+  "id": 1680942245,
+  "lat": 21.9162970,
+  "lon": 39.3400909
+},
+{
+  "type": "node",
+  "id": 1680942246,
+  "lat": 21.9162964,
+  "lon": 39.3400933
+},
+{
+  "type": "node",
+  "id": 1680942247,
+  "lat": 21.9162953,
+  "lon": 39.3400955
+},
+{
+  "type": "node",
+  "id": 1680942248,
+  "lat": 21.9162936,
+  "lon": 39.3400973
+},
+{
+  "type": "node",
+  "id": 1680942249,
+  "lat": 21.9162916,
+  "lon": 39.3400986
+},
+{
+  "type": "node",
+  "id": 1680942250,
+  "lat": 21.9162893,
+  "lon": 39.3400993
+},
+{
+  "type": "node",
+  "id": 1680942251,
+  "lat": 21.9162870,
+  "lon": 39.3400994
+},
+{
+  "type": "node",
+  "id": 1680942252,
+  "lat": 21.9162847,
+  "lon": 39.3400987
+},
+{
+  "type": "node",
+  "id": 1680942253,
+  "lat": 21.9162826,
+  "lon": 39.3400975
+},
+{
+  "type": "node",
+  "id": 1680942254,
+  "lat": 21.9162810,
+  "lon": 39.3400957
+},
+{
+  "type": "node",
+  "id": 1680942255,
+  "lat": 21.9162797,
+  "lon": 39.3400936
+},
+{
+  "type": "node",
+  "id": 1680942256,
+  "lat": 21.9162791,
+  "lon": 39.3400911
+},
+{
+  "type": "node",
+  "id": 1680942257,
+  "lat": 21.9162791,
+  "lon": 39.3400886
+},
+{
+  "type": "node",
+  "id": 1680942258,
+  "lat": 21.9162796,
+  "lon": 39.3400838
+},
+{
+  "type": "node",
+  "id": 1680942259,
+  "lat": 21.9162419,
+  "lon": 39.3400791
+},
+{
+  "type": "node",
+  "id": 1680942260,
+  "lat": 21.9162414,
+  "lon": 39.3400837
+},
+{
+  "type": "node",
+  "id": 1680942261,
+  "lat": 21.9162409,
+  "lon": 39.3400862
+},
+{
+  "type": "node",
+  "id": 1680942262,
+  "lat": 21.9162397,
+  "lon": 39.3400884
+},
+{
+  "type": "node",
+  "id": 1680942263,
+  "lat": 21.9162381,
+  "lon": 39.3400903
+},
+{
+  "type": "node",
+  "id": 1680942264,
+  "lat": 21.9162360,
+  "lon": 39.3400916
+},
+{
+  "type": "node",
+  "id": 1680942265,
+  "lat": 21.9162337,
+  "lon": 39.3400923
+},
+{
+  "type": "node",
+  "id": 1680942266,
+  "lat": 21.9162313,
+  "lon": 39.3400923
+},
+{
+  "type": "node",
+  "id": 1680942267,
+  "lat": 21.9162290,
+  "lon": 39.3400917
+},
+{
+  "type": "node",
+  "id": 1680942268,
+  "lat": 21.9162270,
+  "lon": 39.3400905
+},
+{
+  "type": "node",
+  "id": 1680942269,
+  "lat": 21.9162253,
+  "lon": 39.3400887
+},
+{
+  "type": "node",
+  "id": 1680942270,
+  "lat": 21.9162241,
+  "lon": 39.3400864
+},
+{
+  "type": "node",
+  "id": 1680942271,
+  "lat": 21.9162234,
+  "lon": 39.3400840
+},
+{
+  "type": "node",
+  "id": 1680942272,
+  "lat": 21.9162234,
+  "lon": 39.3400814
+},
+{
+  "type": "node",
+  "id": 1680942273,
+  "lat": 21.9162240,
+  "lon": 39.3400768
+},
+{
+  "type": "node",
+  "id": 1680942274,
+  "lat": 21.9161908,
+  "lon": 39.3400726
+},
+{
+  "type": "node",
+  "id": 1680942275,
+  "lat": 21.9161902,
+  "lon": 39.3400774
+},
+{
+  "type": "node",
+  "id": 1680942276,
+  "lat": 21.9161891,
+  "lon": 39.3400810
+},
+{
+  "type": "node",
+  "id": 1680942277,
+  "lat": 21.9161869,
+  "lon": 39.3400839
+},
+{
+  "type": "node",
+  "id": 1680942278,
+  "lat": 21.9161837,
+  "lon": 39.3400856
+},
+{
+  "type": "node",
+  "id": 1680942279,
+  "lat": 21.9161802,
+  "lon": 39.3400859
+},
+{
+  "type": "node",
+  "id": 1680942280,
+  "lat": 21.9161769,
+  "lon": 39.3400847
+},
+{
+  "type": "node",
+  "id": 1680942281,
+  "lat": 21.9161742,
+  "lon": 39.3400823
+},
+{
+  "type": "node",
+  "id": 1680942282,
+  "lat": 21.9161726,
+  "lon": 39.3400789
+},
+{
+  "type": "node",
+  "id": 1680942283,
+  "lat": 21.9161723,
+  "lon": 39.3400751
+},
+{
+  "type": "node",
+  "id": 1680942284,
+  "lat": 21.9161734,
+  "lon": 39.3400716
+},
+{
+  "type": "node",
+  "id": 1680942285,
+  "lat": 21.9161757,
+  "lon": 39.3400687
+},
+{
+  "type": "node",
+  "id": 1680942286,
+  "lat": 21.9161788,
+  "lon": 39.3400670
+},
+{
+  "type": "node",
+  "id": 1680942287,
+  "lat": 21.9161805,
+  "lon": 39.3400668
+},
+{
+  "type": "node",
+  "id": 1680942288,
+  "lat": 21.9161846,
+  "lon": 39.3400294
+},
+{
+  "type": "node",
+  "id": 1680942289,
+  "lat": 21.9161801,
+  "lon": 39.3400289
+},
+{
+  "type": "node",
+  "id": 1680942290,
+  "lat": 21.9161778,
+  "lon": 39.3400282
+},
+{
+  "type": "node",
+  "id": 1680942291,
+  "lat": 21.9161758,
+  "lon": 39.3400270
+},
+{
+  "type": "node",
+  "id": 1680942292,
+  "lat": 21.9161741,
+  "lon": 39.3400252
+},
+{
+  "type": "node",
+  "id": 1680942293,
+  "lat": 21.9161729,
+  "lon": 39.3400231
+},
+{
+  "type": "node",
+  "id": 1680942294,
+  "lat": 21.9161722,
+  "lon": 39.3400206
+},
+{
+  "type": "node",
+  "id": 1680942295,
+  "lat": 21.9161722,
+  "lon": 39.3400181
+},
+{
+  "type": "node",
+  "id": 1680942296,
+  "lat": 21.9161728,
+  "lon": 39.3400157
+},
+{
+  "type": "node",
+  "id": 1680942297,
+  "lat": 21.9161739,
+  "lon": 39.3400134
+},
+{
+  "type": "node",
+  "id": 1680942303,
+  "lat": 21.9161756,
+  "lon": 39.3400116
+},
+{
+  "type": "node",
+  "id": 1680942304,
+  "lat": 21.9161776,
+  "lon": 39.3400103
+},
+{
+  "type": "node",
+  "id": 1680942305,
+  "lat": 21.9161799,
+  "lon": 39.3400097
+},
+{
+  "type": "node",
+  "id": 1680942306,
+  "lat": 21.9161822,
+  "lon": 39.3400096
+},
+{
+  "type": "node",
+  "id": 1680942307,
+  "lat": 21.9161867,
+  "lon": 39.3400102
+},
+{
+  "type": "node",
+  "id": 1680942308,
+  "lat": 21.9161912,
+  "lon": 39.3399688
+},
+{
+  "type": "node",
+  "id": 1680942309,
+  "lat": 21.9161867,
+  "lon": 39.3399683
+},
+{
+  "type": "node",
+  "id": 1680942310,
+  "lat": 21.9161845,
+  "lon": 39.3399677
+},
+{
+  "type": "node",
+  "id": 1680942311,
+  "lat": 21.9161824,
+  "lon": 39.3399664
+},
+{
+  "type": "node",
+  "id": 1680942312,
+  "lat": 21.9161807,
+  "lon": 39.3399647
+},
+{
+  "type": "node",
+  "id": 1680942313,
+  "lat": 21.9161795,
+  "lon": 39.3399625
+},
+{
+  "type": "node",
+  "id": 1680942314,
+  "lat": 21.9161789,
+  "lon": 39.3399601
+},
+{
+  "type": "node",
+  "id": 1680942315,
+  "lat": 21.9161788,
+  "lon": 39.3399575
+},
+{
+  "type": "node",
+  "id": 1680942316,
+  "lat": 21.9161794,
+  "lon": 39.3399551
+},
+{
+  "type": "node",
+  "id": 1680942317,
+  "lat": 21.9161806,
+  "lon": 39.3399529
+},
+{
+  "type": "node",
+  "id": 1680942318,
+  "lat": 21.9161822,
+  "lon": 39.3399511
+},
+{
+  "type": "node",
+  "id": 1680942319,
+  "lat": 21.9161842,
+  "lon": 39.3399498
+},
+{
+  "type": "node",
+  "id": 1680942320,
+  "lat": 21.9161865,
+  "lon": 39.3399491
+},
+{
+  "type": "node",
+  "id": 1680942321,
+  "lat": 21.9161889,
+  "lon": 39.3399491
+},
+{
+  "type": "node",
+  "id": 1680854367,
+  "lat": 22.1568173,
+  "lon": 39.3536541
+},
+{
+  "type": "node",
+  "id": 1680854372,
+  "lat": 22.1568209,
+  "lon": 39.3536529
+},
+{
+  "type": "node",
+  "id": 1680854388,
+  "lat": 22.1568055,
+  "lon": 39.3535830
+},
+{
+  "type": "node",
+  "id": 1680854390,
+  "lat": 22.1567827,
+  "lon": 39.3535888
+},
+{
+  "type": "node",
+  "id": 1680854393,
+  "lat": 22.1567713,
+  "lon": 39.3535369
+},
+{
+  "type": "node",
+  "id": 1680854396,
+  "lat": 22.1568196,
+  "lon": 39.3535246
+},
+{
+  "type": "node",
+  "id": 1680854399,
+  "lat": 22.1568259,
+  "lon": 39.3535530
+},
+{
+  "type": "node",
+  "id": 1680854403,
+  "lat": 22.1569138,
+  "lon": 39.3535307
+},
+{
+  "type": "node",
+  "id": 1680854406,
+  "lat": 22.1569051,
+  "lon": 39.3534910
+},
+{
+  "type": "node",
+  "id": 1680854408,
+  "lat": 22.1569323,
+  "lon": 39.3534841
+},
+{
+  "type": "node",
+  "id": 1680854412,
+  "lat": 22.1569319,
+  "lon": 39.3534809
+},
+{
+  "type": "node",
+  "id": 1680854415,
+  "lat": 22.1569319,
+  "lon": 39.3534778
+},
+{
+  "type": "node",
+  "id": 1680854420,
+  "lat": 22.1569325,
+  "lon": 39.3534750
+},
+{
+  "type": "node",
+  "id": 1680854423,
+  "lat": 22.1569335,
+  "lon": 39.3534726
+},
+{
+  "type": "node",
+  "id": 1680854437,
+  "lat": 22.1569349,
+  "lon": 39.3534710
+},
+{
+  "type": "node",
+  "id": 1680854439,
+  "lat": 22.1569367,
+  "lon": 39.3534701
+},
+{
+  "type": "node",
+  "id": 1680854441,
+  "lat": 22.1569386,
+  "lon": 39.3534701
+},
+{
+  "type": "node",
+  "id": 1680854445,
+  "lat": 22.1569405,
+  "lon": 39.3534709
+},
+{
+  "type": "node",
+  "id": 1680854449,
+  "lat": 22.1569424,
+  "lon": 39.3534724
+},
+{
+  "type": "node",
+  "id": 1680854451,
+  "lat": 22.1569441,
+  "lon": 39.3534747
+},
+{
+  "type": "node",
+  "id": 1680854453,
+  "lat": 22.1569455,
+  "lon": 39.3534775
+},
+{
+  "type": "node",
+  "id": 1680854456,
+  "lat": 22.1569464,
+  "lon": 39.3534806
+},
+{
+  "type": "node",
+  "id": 1680854460,
+  "lat": 22.1569701,
+  "lon": 39.3534746
+},
+{
+  "type": "node",
+  "id": 1680854463,
+  "lat": 22.1569737,
+  "lon": 39.3534906
+},
+{
+  "type": "node",
+  "id": 1680854466,
+  "lat": 22.1569649,
+  "lon": 39.3534929
+},
+{
+  "type": "node",
+  "id": 1680854469,
+  "lat": 22.1569634,
+  "lon": 39.3534863
+},
+{
+  "type": "node",
+  "id": 1680854471,
+  "lat": 22.1569168,
+  "lon": 39.3534981
+},
+{
+  "type": "node",
+  "id": 1680854485,
+  "lat": 22.1569235,
+  "lon": 39.3535283
+},
+{
+  "type": "node",
+  "id": 1680854488,
+  "lat": 22.1569419,
+  "lon": 39.3535236
+},
+{
+  "type": "node",
+  "id": 1680854492,
+  "lat": 22.1569440,
+  "lon": 39.3535330
+},
+{
+  "type": "node",
+  "id": 1680854495,
+  "lat": 22.1568191,
+  "lon": 39.3535646
+},
+{
+  "type": "node",
+  "id": 1680854498,
+  "lat": 22.1568129,
+  "lon": 39.3535363
+},
+{
+  "type": "node",
+  "id": 1680854502,
+  "lat": 22.1567821,
+  "lon": 39.3535441
+},
+{
+  "type": "node",
+  "id": 1680854505,
+  "lat": 22.1567894,
+  "lon": 39.3535771
+},
+{
+  "type": "node",
+  "id": 1680854509,
+  "lat": 22.1568123,
+  "lon": 39.3535714
+},
+{
+  "type": "node",
+  "id": 1680854512,
+  "lat": 22.1568720,
+  "lon": 39.3538432
+},
+{
+  "type": "node",
+  "id": 1680854517,
+  "lat": 22.1568491,
+  "lon": 39.3538490
+},
+{
+  "type": "node",
+  "id": 1680854520,
+  "lat": 22.1568564,
+  "lon": 39.3538820
+},
+{
+  "type": "node",
+  "id": 1680854524,
+  "lat": 22.1568871,
+  "lon": 39.3538743
+},
+{
+  "type": "node",
+  "id": 1680854538,
+  "lat": 22.1568809,
+  "lon": 39.3538459
+},
+{
+  "type": "node",
+  "id": 1680854541,
+  "lat": 22.1571271,
+  "lon": 39.3537836
+},
+{
+  "type": "node",
+  "id": 1680854544,
+  "lat": 22.1571333,
+  "lon": 39.3538119
+},
+{
+  "type": "node",
+  "id": 1680854548,
+  "lat": 22.1571641,
+  "lon": 39.3538041
+},
+{
+  "type": "node",
+  "id": 1680854550,
+  "lat": 22.1571568,
+  "lon": 39.3537711
+},
+{
+  "type": "node",
+  "id": 1680854553,
+  "lat": 22.1571340,
+  "lon": 39.3537769
+},
+{
+  "type": "node",
+  "id": 1680854557,
+  "lat": 22.1570743,
+  "lon": 39.3535050
+},
+{
+  "type": "node",
+  "id": 1680854560,
+  "lat": 22.1570971,
+  "lon": 39.3534992
+},
+{
+  "type": "node",
+  "id": 1680854562,
+  "lat": 22.1570899,
+  "lon": 39.3534662
+},
+{
+  "type": "node",
+  "id": 1680854564,
+  "lat": 22.1570591,
+  "lon": 39.3534740
+},
+{
+  "type": "node",
+  "id": 1680854566,
+  "lat": 22.1570653,
+  "lon": 39.3535023
+},
+{
+  "type": "node",
+  "id": 1680854570,
+  "lat": 22.1569528,
+  "lon": 39.3535308
+},
+{
+  "type": "node",
+  "id": 1680854592,
+  "lat": 22.1569507,
+  "lon": 39.3535214
+},
+{
+  "type": "node",
+  "id": 1680854595,
+  "lat": 22.1569700,
+  "lon": 39.3535165
+},
+{
+  "type": "node",
+  "id": 1680854598,
+  "lat": 22.1569671,
+  "lon": 39.3535032
+},
+{
+  "type": "node",
+  "id": 1680854601,
+  "lat": 22.1569760,
+  "lon": 39.3535010
+},
+{
+  "type": "node",
+  "id": 1680854603,
+  "lat": 22.1569789,
+  "lon": 39.3535142
+},
+{
+  "type": "node",
+  "id": 1680854606,
+  "lat": 22.1570545,
+  "lon": 39.3534951
+},
+{
+  "type": "node",
+  "id": 1680854608,
+  "lat": 22.1570483,
+  "lon": 39.3534668
+},
+{
+  "type": "node",
+  "id": 1680854611,
+  "lat": 22.1570966,
+  "lon": 39.3534545
+},
+{
+  "type": "node",
+  "id": 1680854613,
+  "lat": 22.1571080,
+  "lon": 39.3535064
+},
+{
+  "type": "node",
+  "id": 1680854615,
+  "lat": 22.1570852,
+  "lon": 39.3535122
+},
+{
+  "type": "node",
+  "id": 1680854618,
+  "lat": 22.1571005,
+  "lon": 39.3535821
+},
+{
+  "type": "node",
+  "id": 1680854622,
+  "lat": 22.1571042,
+  "lon": 39.3535815
+},
+{
+  "type": "node",
+  "id": 1680854625,
+  "lat": 22.1571078,
+  "lon": 39.3535817
+},
+{
+  "type": "node",
+  "id": 1680854647,
+  "lat": 22.1571111,
+  "lon": 39.3535826
+},
+{
+  "type": "node",
+  "id": 1680854648,
+  "lat": 22.1571138,
+  "lon": 39.3535842
+},
+{
+  "type": "node",
+  "id": 1680854649,
+  "lat": 22.1571158,
+  "lon": 39.3535863
+},
+{
+  "type": "node",
+  "id": 1680854651,
+  "lat": 22.1571168,
+  "lon": 39.3535889
+},
+{
+  "type": "node",
+  "id": 1680854653,
+  "lat": 22.1571169,
+  "lon": 39.3535917
+},
+{
+  "type": "node",
+  "id": 1680854655,
+  "lat": 22.1571161,
+  "lon": 39.3535946
+},
+{
+  "type": "node",
+  "id": 1680854656,
+  "lat": 22.1571143,
+  "lon": 39.3535973
+},
+{
+  "type": "node",
+  "id": 1680854659,
+  "lat": 22.1571118,
+  "lon": 39.3535997
+},
+{
+  "type": "node",
+  "id": 1680854662,
+  "lat": 22.1571086,
+  "lon": 39.3536016
+},
+{
+  "type": "node",
+  "id": 1680854664,
+  "lat": 22.1571051,
+  "lon": 39.3536028
+},
+{
+  "type": "node",
+  "id": 1680854667,
+  "lat": 22.1571206,
+  "lon": 39.3536737
+},
+{
+  "type": "node",
+  "id": 1680854671,
+  "lat": 22.1571243,
+  "lon": 39.3536731
+},
+{
+  "type": "node",
+  "id": 1680854701,
+  "lat": 22.1571279,
+  "lon": 39.3536733
+},
+{
+  "type": "node",
+  "id": 1680854703,
+  "lat": 22.1571312,
+  "lon": 39.3536742
+},
+{
+  "type": "node",
+  "id": 1680854705,
+  "lat": 22.1571339,
+  "lon": 39.3536758
+},
+{
+  "type": "node",
+  "id": 1680854706,
+  "lat": 22.1571359,
+  "lon": 39.3536779
+},
+{
+  "type": "node",
+  "id": 1680854707,
+  "lat": 22.1571369,
+  "lon": 39.3536805
+},
+{
+  "type": "node",
+  "id": 1680854708,
+  "lat": 22.1571371,
+  "lon": 39.3536833
+},
+{
+  "type": "node",
+  "id": 1680854709,
+  "lat": 22.1571362,
+  "lon": 39.3536862
+},
+{
+  "type": "node",
+  "id": 1680854711,
+  "lat": 22.1571344,
+  "lon": 39.3536889
+},
+{
+  "type": "node",
+  "id": 1680854713,
+  "lat": 22.1571319,
+  "lon": 39.3536913
+},
+{
+  "type": "node",
+  "id": 1680854717,
+  "lat": 22.1571287,
+  "lon": 39.3536932
+},
+{
+  "type": "node",
+  "id": 1680854720,
+  "lat": 22.1571252,
+  "lon": 39.3536944
+},
+{
+  "type": "node",
+  "id": 1680854724,
+  "lat": 22.1571407,
+  "lon": 39.3537652
+},
+{
+  "type": "node",
+  "id": 1680854729,
+  "lat": 22.1571636,
+  "lon": 39.3537594
+},
+{
+  "type": "node",
+  "id": 1680854752,
+  "lat": 22.1571750,
+  "lon": 39.3538114
+},
+{
+  "type": "node",
+  "id": 1680854753,
+  "lat": 22.1571266,
+  "lon": 39.3538236
+},
+{
+  "type": "node",
+  "id": 1680854754,
+  "lat": 22.1571204,
+  "lon": 39.3537953
+},
+{
+  "type": "node",
+  "id": 1680854755,
+  "lat": 22.1570571,
+  "lon": 39.3538113
+},
+{
+  "type": "node",
+  "id": 1680854756,
+  "lat": 22.1570576,
+  "lon": 39.3538153
+},
+{
+  "type": "node",
+  "id": 1680854757,
+  "lat": 22.1570575,
+  "lon": 39.3538192
+},
+{
+  "type": "node",
+  "id": 1680854758,
+  "lat": 22.1570566,
+  "lon": 39.3538227
+},
+{
+  "type": "node",
+  "id": 1680854760,
+  "lat": 22.1570551,
+  "lon": 39.3538256
+},
+{
+  "type": "node",
+  "id": 1680854762,
+  "lat": 22.1570531,
+  "lon": 39.3538277
+},
+{
+  "type": "node",
+  "id": 1680854764,
+  "lat": 22.1570507,
+  "lon": 39.3538289
+},
+{
+  "type": "node",
+  "id": 1680854766,
+  "lat": 22.1570481,
+  "lon": 39.3538290
+},
+{
+  "type": "node",
+  "id": 1680854769,
+  "lat": 22.1570455,
+  "lon": 39.3538281
+},
+{
+  "type": "node",
+  "id": 1680854784,
+  "lat": 22.1570429,
+  "lon": 39.3538262
+},
+{
+  "type": "node",
+  "id": 1680854786,
+  "lat": 22.1570407,
+  "lon": 39.3538234
+},
+{
+  "type": "node",
+  "id": 1680854788,
+  "lat": 22.1570389,
+  "lon": 39.3538200
+},
+{
+  "type": "node",
+  "id": 1680854791,
+  "lat": 22.1570377,
+  "lon": 39.3538162
+},
+{
+  "type": "node",
+  "id": 1680854792,
+  "lat": 22.1569744,
+  "lon": 39.3538322
+},
+{
+  "type": "node",
+  "id": 1680854793,
+  "lat": 22.1569750,
+  "lon": 39.3538362
+},
+{
+  "type": "node",
+  "id": 1680854795,
+  "lat": 22.1569748,
+  "lon": 39.3538401
+},
+{
+  "type": "node",
+  "id": 1680854797,
+  "lat": 22.1569740,
+  "lon": 39.3538436
+},
+{
+  "type": "node",
+  "id": 1680854799,
+  "lat": 22.1569725,
+  "lon": 39.3538465
+},
+{
+  "type": "node",
+  "id": 1680854802,
+  "lat": 22.1569705,
+  "lon": 39.3538486
+},
+{
+  "type": "node",
+  "id": 1680854805,
+  "lat": 22.1569681,
+  "lon": 39.3538498
+},
+{
+  "type": "node",
+  "id": 1680854808,
+  "lat": 22.1569655,
+  "lon": 39.3538499
+},
+{
+  "type": "node",
+  "id": 1680854822,
+  "lat": 22.1569628,
+  "lon": 39.3538490
+},
+{
+  "type": "node",
+  "id": 1680854824,
+  "lat": 22.1569603,
+  "lon": 39.3538471
+},
+{
+  "type": "node",
+  "id": 1680854826,
+  "lat": 22.1569580,
+  "lon": 39.3538443
+},
+{
+  "type": "node",
+  "id": 1680854829,
+  "lat": 22.1569563,
+  "lon": 39.3538409
+},
+{
+  "type": "node",
+  "id": 1680854832,
+  "lat": 22.1569551,
+  "lon": 39.3538371
+},
+{
+  "type": "node",
+  "id": 1680854835,
+  "lat": 22.1568918,
+  "lon": 39.3538531
+},
+{
+  "type": "node",
+  "id": 1680854838,
+  "lat": 22.1568980,
+  "lon": 39.3538815
+},
+{
+  "type": "node",
+  "id": 1680854842,
+  "lat": 22.1568496,
+  "lon": 39.3538937
+},
+{
+  "type": "node",
+  "id": 1680854845,
+  "lat": 22.1568382,
+  "lon": 39.3538418
+},
+{
+  "type": "node",
+  "id": 1680854849,
+  "lat": 22.1568611,
+  "lon": 39.3538360
+},
+{
+  "type": "node",
+  "id": 1680854850,
+  "lat": 22.1568456,
+  "lon": 39.3537652
+},
+{
+  "type": "node",
+  "id": 1680854851,
+  "lat": 22.1568418,
+  "lon": 39.3537658
+},
+{
+  "type": "node",
+  "id": 1680854853,
+  "lat": 22.1568382,
+  "lon": 39.3537656
+},
+{
+  "type": "node",
+  "id": 1680854862,
+  "lat": 22.1568349,
+  "lon": 39.3537647
+},
+{
+  "type": "node",
+  "id": 1680854866,
+  "lat": 22.1568322,
+  "lon": 39.3537631
+},
+{
+  "type": "node",
+  "id": 1680854869,
+  "lat": 22.1568303,
+  "lon": 39.3537609
+},
+{
+  "type": "node",
+  "id": 1680854873,
+  "lat": 22.1568292,
+  "lon": 39.3537584
+},
+{
+  "type": "node",
+  "id": 1680854877,
+  "lat": 22.1568291,
+  "lon": 39.3537556
+},
+{
+  "type": "node",
+  "id": 1680854880,
+  "lat": 22.1568299,
+  "lon": 39.3537527
+},
+{
+  "type": "node",
+  "id": 1680854882,
+  "lat": 22.1568317,
+  "lon": 39.3537500
+},
+{
+  "type": "node",
+  "id": 1680854884,
+  "lat": 22.1568343,
+  "lon": 39.3537476
+},
+{
+  "type": "node",
+  "id": 1680854885,
+  "lat": 22.1568374,
+  "lon": 39.3537457
+},
+{
+  "type": "node",
+  "id": 1680854886,
+  "lat": 22.1568410,
+  "lon": 39.3537444
+},
+{
+  "type": "node",
+  "id": 1680854887,
+  "lat": 22.1568254,
+  "lon": 39.3536736
+},
+{
+  "type": "node",
+  "id": 1680854890,
+  "lat": 22.1568217,
+  "lon": 39.3536742
+},
+{
+  "type": "node",
+  "id": 1680854909,
+  "lat": 22.1568181,
+  "lon": 39.3536740
+},
+{
+  "type": "node",
+  "id": 1680854911,
+  "lat": 22.1568148,
+  "lon": 39.3536731
+},
+{
+  "type": "node",
+  "id": 1680854914,
+  "lat": 22.1568121,
+  "lon": 39.3536715
+},
+{
+  "type": "node",
+  "id": 1680854916,
+  "lat": 22.1568101,
+  "lon": 39.3536694
+},
+{
+  "type": "node",
+  "id": 1680854918,
+  "lat": 22.1568091,
+  "lon": 39.3536668
+},
+{
+  "type": "node",
+  "id": 1680854919,
+  "lat": 22.1568090,
+  "lon": 39.3536640
+},
+{
+  "type": "node",
+  "id": 1680854920,
+  "lat": 22.1568098,
+  "lon": 39.3536611
+},
+{
+  "type": "node",
+  "id": 1680854922,
+  "lat": 22.1568116,
+  "lon": 39.3536584
+},
+{
+  "type": "node",
+  "id": 1680854924,
+  "lat": 22.1568141,
+  "lon": 39.3536560
+},
+{
+  "type": "node",
+  "id": 3428765850,
+  "lat": 22.2864219,
+  "lon": 39.1125133
+},
+{
+  "type": "node",
+  "id": 3428765851,
+  "lat": 22.2865041,
+  "lon": 39.1123100
+},
+{
+  "type": "node",
+  "id": 3428765857,
+  "lat": 22.2866505,
+  "lon": 39.1126212
+},
+{
+  "type": "node",
+  "id": 3428765864,
+  "lat": 22.2867327,
+  "lon": 39.1124179
+},
+{
+  "type": "node",
+  "id": 3429767227,
+  "lat": 22.2866890,
+  "lon": 39.1125258
+},
+{
+  "type": "node",
+  "id": 2511518957,
+  "lat": 22.4482404,
+  "lon": 39.1000747
+},
+{
+  "type": "node",
+  "id": 2511518959,
+  "lat": 22.4488311,
+  "lon": 39.1001823
+},
+{
+  "type": "node",
+  "id": 2511518956,
+  "lat": 22.4481544,
+  "lon": 39.1003871
+},
+{
+  "type": "node",
+  "id": 2511518958,
+  "lat": 22.4488108,
+  "lon": 39.1005159
+},
+{
+  "type": "node",
+  "id": 3098720904,
+  "lat": 22.4482512,
+  "lon": 39.1003645
+},
+{
+  "type": "node",
+  "id": 3098720905,
+  "lat": 22.4482440,
+  "lon": 39.1004058
+},
+{
+  "type": "node",
+  "id": 3098720906,
+  "lat": 22.4481800,
+  "lon": 39.1002164
+},
+{
+  "type": "node",
+  "id": 3098720907,
+  "lat": 22.4486361,
+  "lon": 39.1004486
+},
+{
+  "type": "node",
+  "id": 3098720908,
+  "lat": 22.4486321,
+  "lon": 39.1004805
+},
+{
+  "type": "node",
+  "id": 3098720909,
+  "lat": 22.4482155,
+  "lon": 39.1002229
+},
+{
+  "type": "node",
+  "id": 3098720910,
+  "lat": 22.4487962,
+  "lon": 39.1004066
+},
+{
+  "type": "node",
+  "id": 3098720911,
+  "lat": 22.4488295,
+  "lon": 39.1004136
+},
+{
+  "type": "node",
+  "id": 1796992054,
+  "lat": 22.7398227,
+  "lon": 39.1374849
+},
+{
+  "type": "node",
+  "id": 1796992062,
+  "lat": 22.7397906,
+  "lon": 39.1371765
+},
+{
+  "type": "node",
+  "id": 1796992070,
+  "lat": 22.7395110,
+  "lon": 39.1372113
+},
+{
+  "type": "node",
+  "id": 1796992090,
+  "lat": 22.7395382,
+  "lon": 39.1375091
+},
+{
+  "type": "node",
+  "id": 3633203968,
+  "lat": 22.8019618,
+  "lon": 39.2825241
+},
+{
+  "type": "node",
+  "id": 3633203969,
+  "lat": 22.8021299,
+  "lon": 39.2833341
+},
+{
+  "type": "node",
+  "id": 1666286004,
+  "lat": 22.8196892,
+  "lon": 39.3762096
+},
+{
+  "type": "node",
+  "id": 3076469976,
+  "lat": 22.8214829,
+  "lon": 39.3764334
+},
+{
+  "type": "node",
+  "id": 3076469991,
+  "lat": 22.8201795,
+  "lon": 39.3763117
+},
+{
+  "type": "node",
+  "id": 3076471865,
+  "lat": 22.8207748,
+  "lon": 39.3763890
+},
+{
+  "type": "node",
+  "id": 3076471866,
+  "lat": 22.8227372,
+  "lon": 39.3764258
+},
+{
+  "type": "node",
+  "id": 1666286069,
+  "lat": 22.8232517,
+  "lon": 39.3763995
+},
+{
+  "type": "node",
+  "id": 3076814912,
+  "lat": 23.3109892,
+  "lon": 39.8499562
+},
+{
+  "type": "node",
+  "id": 3076814913,
+  "lat": 23.3109733,
+  "lon": 39.8499847
+},
+{
+  "type": "node",
+  "id": 3076814914,
+  "lat": 23.3109380,
+  "lon": 39.8499500
+},
+{
+  "type": "node",
+  "id": 3076814915,
+  "lat": 23.3108662,
+  "lon": 39.8498631
+},
+{
+  "type": "node",
+  "id": 3076814916,
+  "lat": 23.3108297,
+  "lon": 39.8498122
+},
+{
+  "type": "node",
+  "id": 3076814917,
+  "lat": 23.3107944,
+  "lon": 39.8495442
+},
+{
+  "type": "node",
+  "id": 3076814918,
+  "lat": 23.3107852,
+  "lon": 39.8493953
+},
+{
+  "type": "node",
+  "id": 3076814919,
+  "lat": 23.3107431,
+  "lon": 39.8492451
+},
+{
+  "type": "node",
+  "id": 3076814920,
+  "lat": 23.3106701,
+  "lon": 39.8491074
+},
+{
+  "type": "node",
+  "id": 3076814921,
+  "lat": 23.3106679,
+  "lon": 39.8489200
+},
+{
+  "type": "node",
+  "id": 3076814922,
+  "lat": 23.3106234,
+  "lon": 39.8488381
+},
+{
+  "type": "node",
+  "id": 3076814923,
+  "lat": 23.3105801,
+  "lon": 39.8487289
+},
+{
+  "type": "node",
+  "id": 3076814924,
+  "lat": 23.3105801,
+  "lon": 39.8486036
+},
+{
+  "type": "node",
+  "id": 3076814925,
+  "lat": 23.3106177,
+  "lon": 39.8485738
+},
+{
+  "type": "node",
+  "id": 3076814926,
+  "lat": 23.3106280,
+  "lon": 39.8484981
+},
+{
+  "type": "node",
+  "id": 3076814927,
+  "lat": 23.3105528,
+  "lon": 39.8483815
+},
+{
+  "type": "node",
+  "id": 3076814928,
+  "lat": 23.3104092,
+  "lon": 39.8481395
+},
+{
+  "type": "node",
+  "id": 3076814929,
+  "lat": 23.3103647,
+  "lon": 39.8480414
+},
+{
+  "type": "node",
+  "id": 3076814930,
+  "lat": 23.3103750,
+  "lon": 39.8480352
+},
+{
+  "type": "node",
+  "id": 3076814931,
+  "lat": 23.3104525,
+  "lon": 39.8481246
+},
+{
+  "type": "node",
+  "id": 3076814932,
+  "lat": 23.3105983,
+  "lon": 39.8483244
+},
+{
+  "type": "node",
+  "id": 3076816633,
+  "lat": 23.3106268,
+  "lon": 39.8483827
+},
+{
+  "type": "node",
+  "id": 3076816634,
+  "lat": 23.3106211,
+  "lon": 39.8484460
+},
+{
+  "type": "node",
+  "id": 3076816635,
+  "lat": 23.3106519,
+  "lon": 39.8484646
+},
+{
+  "type": "node",
+  "id": 3076816636,
+  "lat": 23.3107533,
+  "lon": 39.8486358
+},
+{
+  "type": "node",
+  "id": 3076816637,
+  "lat": 23.3107693,
+  "lon": 39.8486818
+},
+{
+  "type": "node",
+  "id": 3076816638,
+  "lat": 23.3107488,
+  "lon": 39.8487140
+},
+{
+  "type": "node",
+  "id": 3076816639,
+  "lat": 23.3107818,
+  "lon": 39.8487661
+},
+{
+  "type": "node",
+  "id": 3076816640,
+  "lat": 23.3107408,
+  "lon": 39.8488207
+},
+{
+  "type": "node",
+  "id": 3076816641,
+  "lat": 23.3107362,
+  "lon": 39.8490032
+},
+{
+  "type": "node",
+  "id": 3076816642,
+  "lat": 23.3107078,
+  "lon": 39.8490218
+},
+{
+  "type": "node",
+  "id": 3076816643,
+  "lat": 23.3107476,
+  "lon": 39.8491285
+},
+{
+  "type": "node",
+  "id": 3076816644,
+  "lat": 23.3107989,
+  "lon": 39.8491769
+},
+{
+  "type": "node",
+  "id": 3076816645,
+  "lat": 23.3108673,
+  "lon": 39.8493469
+},
+{
+  "type": "node",
+  "id": 3076816646,
+  "lat": 23.3108639,
+  "lon": 39.8494400
+},
+{
+  "type": "node",
+  "id": 3076816647,
+  "lat": 23.3108844,
+  "lon": 39.8494871
+},
+{
+  "type": "node",
+  "id": 3076816648,
+  "lat": 23.3108810,
+  "lon": 39.8495492
+},
+{
+  "type": "node",
+  "id": 3076816649,
+  "lat": 23.3109186,
+  "lon": 39.8496646
+},
+{
+  "type": "node",
+  "id": 3076816650,
+  "lat": 23.3109505,
+  "lon": 39.8497179
+},
+{
+  "type": "node",
+  "id": 3076816651,
+  "lat": 23.3109277,
+  "lon": 39.8497477
+},
+{
+  "type": "node",
+  "id": 3076816652,
+  "lat": 23.3109254,
+  "lon": 39.8497750
+},
+{
+  "type": "node",
+  "id": 3076816653,
+  "lat": 23.3109300,
+  "lon": 39.8498098
+},
+{
+  "type": "node",
+  "id": 3076816654,
+  "lat": 23.3109220,
+  "lon": 39.8498482
+},
+{
+  "type": "node",
+  "id": 3076816655,
+  "lat": 23.3109391,
+  "lon": 39.8499128
+},
+{
+  "type": "node",
+  "id": 3076816656,
+  "lat": 23.3109619,
+  "lon": 39.8499376
+},
+{
+  "type": "node",
+  "id": 3450209161,
+  "lat": 25.4845324,
+  "lon": 39.3623082
+},
+{
+  "type": "node",
+  "id": 3450209163,
+  "lat": 25.4855733,
+  "lon": 39.3633102
+},
+{
+  "type": "node",
+  "id": 3450210388,
+  "lat": 25.7185197,
+  "lon": 39.9430441
+},
+{
+  "type": "node",
+  "id": 3450210391,
+  "lat": 25.7186454,
+  "lon": 39.9438814
+},
+{
+  "type": "node",
+  "id": 3450210401,
+  "lat": 25.7192322,
+  "lon": 39.9421835
+},
+{
+  "type": "node",
+  "id": 3450210398,
+  "lat": 25.7191065,
+  "lon": 39.9445560
+},
+{
+  "type": "node",
+  "id": 3450210408,
+  "lat": 25.7197875,
+  "lon": 39.9419625
+},
+{
+  "type": "node",
+  "id": 3450210420,
+  "lat": 25.7207410,
+  "lon": 39.9421951
+},
+{
+  "type": "node",
+  "id": 3450210426,
+  "lat": 25.7212439,
+  "lon": 39.9432767
+},
+{
+  "type": "node",
+  "id": 3450210427,
+  "lat": 25.7213068,
+  "lon": 39.9429859
+},
+{
+  "type": "node",
+  "id": 3450210414,
+  "lat": 25.7201228,
+  "lon": 39.9448351
+},
+{
+  "type": "node",
+  "id": 3450210424,
+  "lat": 25.7209505,
+  "lon": 39.9442187
+},
+{
+  "type": "node",
+  "id": 546988860,
+  "lat": 26.7695158,
+  "lon": 37.9370402
+},
+{
+  "type": "node",
+  "id": 546988876,
+  "lat": 26.7742702,
+  "lon": 37.9341771
+},
+{
+  "type": "node",
+  "id": 546988888,
+  "lat": 26.7768831,
+  "lon": 37.9353093
+},
+{
+  "type": "node",
+  "id": 546988844,
+  "lat": 26.7705744,
+  "lon": 37.9522854
+},
+{
+  "type": "node",
+  "id": 546988923,
+  "lat": 26.8030670,
+  "lon": 37.9232656
+},
+{
+  "type": "node",
+  "id": 546988935,
+  "lat": 26.8041534,
+  "lon": 37.9241452
+},
+{
+  "type": "node",
+  "id": 546988943,
+  "lat": 26.8066335,
+  "lon": 37.9224941
+},
+{
+  "type": "node",
+  "id": 3358581758,
+  "lat": 26.8070130,
+  "lon": 37.9208814
+},
+{
+  "type": "node",
+  "id": 3363620109,
+  "lat": 26.8070409,
+  "lon": 37.9209711
+},
+{
+  "type": "node",
+  "id": 546988904,
+  "lat": 26.7893122,
+  "lon": 37.9342082
+},
+{
+  "type": "node",
+  "id": 546988912,
+  "lat": 26.7927724,
+  "lon": 37.9341728
+},
+{
+  "type": "node",
+  "id": 546988708,
+  "lat": 26.8075392,
+  "lon": 37.9187918
+},
+{
+  "type": "node",
+  "id": 3363620108,
+  "lat": 26.8118339,
+  "lon": 37.9258834
+},
+{
+  "type": "node",
+  "id": 546988718,
+  "lat": 26.8150752,
+  "lon": 37.9312359
+},
+{
+  "type": "node",
+  "id": 546988731,
+  "lat": 26.8089311,
+  "lon": 37.9427891
+},
+{
+  "type": "node",
+  "id": 546988745,
+  "lat": 26.8103843,
+  "lon": 37.9461616
+},
+{
+  "type": "node",
+  "id": 3234984477,
+  "lat": 26.8103557,
+  "lon": 37.9455824
+},
+{
+  "type": "node",
+  "id": 3234984478,
+  "lat": 26.8103747,
+  "lon": 37.9458764
+},
+{
+  "type": "node",
+  "id": 546988756,
+  "lat": 26.8080595,
+  "lon": 37.9535142
+},
+{
+  "type": "node",
+  "id": 546988774,
+  "lat": 26.8080437,
+  "lon": 37.9575316
+},
+{
+  "type": "node",
+  "id": 546988829,
+  "lat": 26.7722850,
+  "lon": 37.9629647
+},
+{
+  "type": "node",
+  "id": 546988825,
+  "lat": 26.7858812,
+  "lon": 37.9708673
+},
+{
+  "type": "node",
+  "id": 546988807,
+  "lat": 26.7930777,
+  "lon": 37.9698741
+},
+{
+  "type": "node",
+  "id": 3363594665,
+  "lat": 26.7925058,
+  "lon": 37.9701251
+},
+{
+  "type": "node",
+  "id": 546988815,
+  "lat": 26.7898685,
+  "lon": 37.9715598
+},
+{
+  "type": "node",
+  "id": 546988792,
+  "lat": 26.8001247,
+  "lon": 37.9648915
+},
+{
+  "type": "node",
+  "id": 546988780,
+  "lat": 26.8061409,
+  "lon": 37.9614324
+},
+{
+  "type": "node",
+  "id": 3633223581,
+  "lat": 18.0385800,
+  "lon": 42.8733993
+},
+{
+  "type": "node",
+  "id": 3633223582,
+  "lat": 18.0381490,
+  "lon": 42.8729790
+},
+{
+  "type": "node",
+  "id": 3633223583,
+  "lat": 18.0378347,
+  "lon": 42.8728279
+},
+{
+  "type": "node",
+  "id": 3633223584,
+  "lat": 18.0378168,
+  "lon": 42.8723887
+},
+{
+  "type": "node",
+  "id": 3633223585,
+  "lat": 18.0370400,
+  "lon": 42.8718646
+},
+{
+  "type": "node",
+  "id": 3633223566,
+  "lat": 18.0416961,
+  "lon": 42.8724407
+},
+{
+  "type": "node",
+  "id": 3633223567,
+  "lat": 18.0408969,
+  "lon": 42.8728657
+},
+{
+  "type": "node",
+  "id": 3633223568,
+  "lat": 18.0407577,
+  "lon": 42.8728609
+},
+{
+  "type": "node",
+  "id": 3633223569,
+  "lat": 18.0407577,
+  "lon": 42.8726012
+},
+{
+  "type": "node",
+  "id": 3633223570,
+  "lat": 18.0401875,
+  "lon": 42.8730546
+},
+{
+  "type": "node",
+  "id": 3633223571,
+  "lat": 18.0401875,
+  "lon": 42.8733284
+},
+{
+  "type": "node",
+  "id": 3633223572,
+  "lat": 18.0399809,
+  "lon": 42.8733284
+},
+{
+  "type": "node",
+  "id": 3633223573,
+  "lat": 18.0399809,
+  "lon": 42.8731773
+},
+{
+  "type": "node",
+  "id": 3633223574,
+  "lat": 18.0398642,
+  "lon": 42.8733898
+},
+{
+  "type": "node",
+  "id": 3633223575,
+  "lat": 18.0396891,
+  "lon": 42.8734087
+},
+{
+  "type": "node",
+  "id": 3633223576,
+  "lat": 18.0396352,
+  "lon": 42.8735031
+},
+{
+  "type": "node",
+  "id": 3633223577,
+  "lat": 18.0397430,
+  "lon": 42.8736259
+},
+{
+  "type": "node",
+  "id": 3633223578,
+  "lat": 18.0395274,
+  "lon": 42.8737912
+},
+{
+  "type": "node",
+  "id": 3633223579,
+  "lat": 18.0393793,
+  "lon": 42.8737440
+},
+{
+  "type": "node",
+  "id": 3633223580,
+  "lat": 18.0393119,
+  "lon": 42.8738856
+},
+{
+  "type": "node",
+  "id": 1634197550,
+  "lat": 18.2148439,
+  "lon": 42.4976493
+},
+{
+  "type": "node",
+  "id": 1634197468,
+  "lat": 18.2152255,
+  "lon": 42.4967042
+},
+{
+  "type": "node",
+  "id": 1634197469,
+  "lat": 18.2151947,
+  "lon": 42.4970376
+},
+{
+  "type": "node",
+  "id": 1634197470,
+  "lat": 18.2151314,
+  "lon": 42.4972701
+},
+{
+  "type": "node",
+  "id": 1634197471,
+  "lat": 18.2149196,
+  "lon": 42.4976113
+},
+{
+  "type": "node",
+  "id": 2920010650,
+  "lat": 18.2146154,
+  "lon": 42.4957614
+},
+{
+  "type": "node",
+  "id": 2920010651,
+  "lat": 18.2149437,
+  "lon": 42.4958105
+},
+{
+  "type": "node",
+  "id": 2920010653,
+  "lat": 18.2144332,
+  "lon": 42.4957251
+},
+{
+  "type": "node",
+  "id": 2920010654,
+  "lat": 18.2143892,
+  "lon": 42.4959879
+},
+{
+  "type": "node",
+  "id": 2920010655,
+  "lat": 18.2143470,
+  "lon": 42.4967375
+},
+{
+  "type": "node",
+  "id": 2920010656,
+  "lat": 18.2143426,
+  "lon": 42.4970270
+},
+{
+  "type": "node",
+  "id": 2920010657,
+  "lat": 18.2143670,
+  "lon": 42.4972045
+},
+{
+  "type": "node",
+  "id": 2920010659,
+  "lat": 18.2145954,
+  "lon": 42.4975174
+},
+{
+  "type": "node",
+  "id": 2921558446,
+  "lat": 18.2150232,
+  "lon": 42.4958941
+},
+{
+  "type": "node",
+  "id": 2921558447,
+  "lat": 18.2151255,
+  "lon": 42.4959958
+},
+{
+  "type": "node",
+  "id": 2921558448,
+  "lat": 18.2152243,
+  "lon": 42.4961685
+},
+{
+  "type": "node",
+  "id": 3633055508,
+  "lat": 18.2144560,
+  "lon": 42.4973116
+},
+{
+  "type": "node",
+  "id": 3633204190,
+  "lat": 18.2171599,
+  "lon": 42.4998804
+},
+{
+  "type": "node",
+  "id": 3633204192,
+  "lat": 18.2162344,
+  "lon": 42.4996567
+},
+{
+  "type": "node",
+  "id": 3633209993,
+  "lat": 18.2166623,
+  "lon": 42.4992701
+},
+{
+  "type": "node",
+  "id": 3633204191,
+  "lat": 18.2167320,
+  "lon": 42.5002671
+},
+{
+  "type": "node",
+  "id": 3633214532,
+  "lat": 19.9314755,
+  "lon": 41.4425170
+},
+{
+  "type": "node",
+  "id": 3633214533,
+  "lat": 19.9308880,
+  "lon": 41.4431849
+},
+{
+  "type": "node",
+  "id": 3633214534,
+  "lat": 19.9296550,
+  "lon": 41.4430427
+},
+{
+  "type": "node",
+  "id": 3633214535,
+  "lat": 19.9298617,
+  "lon": 41.4425707
+},
+{
+  "type": "node",
+  "id": 3633214536,
+  "lat": 19.9302778,
+  "lon": 41.4422998
+},
+{
+  "type": "node",
+  "id": 3633214537,
+  "lat": 19.9306485,
+  "lon": 41.4421791
+},
+{
+  "type": "node",
+  "id": 3633214538,
+  "lat": 19.9311402,
+  "lon": 41.4422327
+},
+{
+  "type": "node",
+  "id": 3633214539,
+  "lat": 19.9313469,
+  "lon": 41.4423346
+},
+{
+  "type": "node",
+  "id": 3633195171,
+  "lat": 21.1300668,
+  "lon": 40.5121597
+},
+{
+  "type": "node",
+  "id": 3633195172,
+  "lat": 21.1285381,
+  "lon": 40.5124359
+},
+{
+  "type": "node",
+  "id": 3633201506,
+  "lat": 21.2561288,
+  "lon": 40.3912575
+},
+{
+  "type": "node",
+  "id": 3633201507,
+  "lat": 21.2560113,
+  "lon": 40.3912575
+},
+{
+  "type": "node",
+  "id": 3633201508,
+  "lat": 21.2560113,
+  "lon": 40.3913862
+},
+{
+  "type": "node",
+  "id": 3633201509,
+  "lat": 21.2560638,
+  "lon": 40.3913808
+},
+{
+  "type": "node",
+  "id": 3633201510,
+  "lat": 21.2561588,
+  "lon": 40.3914586
+},
+{
+  "type": "node",
+  "id": 3633201511,
+  "lat": 21.2562188,
+  "lon": 40.3913782
+},
+{
+  "type": "node",
+  "id": 3633201512,
+  "lat": 21.2561663,
+  "lon": 40.3913218
+},
+{
+  "type": "node",
+  "id": 3633201513,
+  "lat": 21.2561413,
+  "lon": 40.3913299
+},
+{
+  "type": "node",
+  "id": 3633201315,
+  "lat": 21.2571438,
+  "lon": 40.3864632
+},
+{
+  "type": "node",
+  "id": 3633201316,
+  "lat": 21.2571368,
+  "lon": 40.3865021
+},
+{
+  "type": "node",
+  "id": 3633201317,
+  "lat": 21.2570437,
+  "lon": 40.3864831
+},
+{
+  "type": "node",
+  "id": 3633201318,
+  "lat": 21.2570506,
+  "lon": 40.3864442
+},
+{
+  "type": "node",
+  "id": 3633205929,
+  "lat": 21.2691014,
+  "lon": 40.3994230
+},
+{
+  "type": "node",
+  "id": 3633205930,
+  "lat": 21.2690472,
+  "lon": 40.3994332
+},
+{
+  "type": "node",
+  "id": 3633205931,
+  "lat": 21.2690433,
+  "lon": 40.3994089
+},
+{
+  "type": "node",
+  "id": 3633205932,
+  "lat": 21.2688214,
+  "lon": 40.3994507
+},
+{
+  "type": "node",
+  "id": 3633205933,
+  "lat": 21.2688306,
+  "lon": 40.3995068
+},
+{
+  "type": "node",
+  "id": 3633205934,
+  "lat": 21.2688043,
+  "lon": 40.3995117
+},
+{
+  "type": "node",
+  "id": 3633205935,
+  "lat": 21.2688167,
+  "lon": 40.3995877
+},
+{
+  "type": "node",
+  "id": 3633205936,
+  "lat": 21.2688613,
+  "lon": 40.3995793
+},
+{
+  "type": "node",
+  "id": 3633205937,
+  "lat": 21.2688721,
+  "lon": 40.3996450
+},
+{
+  "type": "node",
+  "id": 3633205938,
+  "lat": 21.2690246,
+  "lon": 40.3996162
+},
+{
+  "type": "node",
+  "id": 3633205939,
+  "lat": 21.2690398,
+  "lon": 40.3997089
+},
+{
+  "type": "node",
+  "id": 3633205940,
+  "lat": 21.2690645,
+  "lon": 40.3997042
+},
+{
+  "type": "node",
+  "id": 3633205941,
+  "lat": 21.2690487,
+  "lon": 40.3996079
+},
+{
+  "type": "node",
+  "id": 3633205942,
+  "lat": 21.2691292,
+  "lon": 40.3995927
+},
+{
+  "type": "node",
+  "id": 3633209064,
+  "lat": 21.2697146,
+  "lon": 40.4053445
+},
+{
+  "type": "node",
+  "id": 3633209065,
+  "lat": 21.2697209,
+  "lon": 40.4055956
+},
+{
+  "type": "node",
+  "id": 3633209066,
+  "lat": 21.2699080,
+  "lon": 40.4055903
+},
+{
+  "type": "node",
+  "id": 3633209067,
+  "lat": 21.2699018,
+  "lon": 40.4053391
+},
+{
+  "type": "node",
+  "id": 1275769910,
+  "lat": 21.2867603,
+  "lon": 40.4156971
+},
+{
+  "type": "node",
+  "id": 1275769991,
+  "lat": 21.2854007,
+  "lon": 40.4151445
+},
+{
+  "type": "node",
+  "id": 1275770000,
+  "lat": 21.2855707,
+  "lon": 40.4146725
+},
+{
+  "type": "node",
+  "id": 1275770019,
+  "lat": 21.2869500,
+  "lon": 40.4151874
+},
+{
+  "type": "node",
+  "id": 1275769964,
+  "lat": 21.2862122,
+  "lon": 40.4149338
+},
+{
+  "type": "node",
+  "id": 1275770082,
+  "lat": 21.2864228,
+  "lon": 40.4150092
+},
+{
+  "type": "node",
+  "id": 3633209709,
+  "lat": 21.3523233,
+  "lon": 40.2937222
+},
+{
+  "type": "node",
+  "id": 3633209710,
+  "lat": 21.3523083,
+  "lon": 40.2944303
+},
+{
+  "type": "node",
+  "id": 3633209711,
+  "lat": 21.3520186,
+  "lon": 40.2946985
+},
+{
+  "type": "node",
+  "id": 3633209712,
+  "lat": 21.3516913,
+  "lon": 40.2947978
+},
+{
+  "type": "node",
+  "id": 3633209713,
+  "lat": 21.3515464,
+  "lon": 40.2945939
+},
+{
+  "type": "node",
+  "id": 3633209714,
+  "lat": 21.3515664,
+  "lon": 40.2944357
+},
+{
+  "type": "node",
+  "id": 3633209715,
+  "lat": 21.3516738,
+  "lon": 40.2942962
+},
+{
+  "type": "node",
+  "id": 3633209716,
+  "lat": 21.3517788,
+  "lon": 40.2942640
+},
+{
+  "type": "node",
+  "id": 3633209717,
+  "lat": 21.3518087,
+  "lon": 40.2941675
+},
+{
+  "type": "node",
+  "id": 3633209718,
+  "lat": 21.3518912,
+  "lon": 40.2941380
+},
+{
+  "type": "node",
+  "id": 3633209719,
+  "lat": 21.3519161,
+  "lon": 40.2939234
+},
+{
+  "type": "node",
+  "id": 3633209720,
+  "lat": 21.3521035,
+  "lon": 40.2936981
+},
+{
+  "type": "node",
+  "id": 3633209721,
+  "lat": 21.3522909,
+  "lon": 40.2936686
+},
+{
+  "type": "node",
+  "id": 1120557978,
+  "lat": 21.3641955,
+  "lon": 40.2674675
+},
+{
+  "type": "node",
+  "id": 1120557966,
+  "lat": 21.3641303,
+  "lon": 40.2679834
+},
+{
+  "type": "node",
+  "id": 1120557967,
+  "lat": 21.3644149,
+  "lon": 40.2676554
+},
+{
+  "type": "node",
+  "id": 1120557973,
+  "lat": 21.3639337,
+  "lon": 40.2675668
+},
+{
+  "type": "node",
+  "id": 1120557976,
+  "lat": 21.3640693,
+  "lon": 40.2674930
+},
+{
+  "type": "node",
+  "id": 1120557980,
+  "lat": 21.3644799,
+  "lon": 40.2677931
+},
+{
+  "type": "node",
+  "id": 1120557981,
+  "lat": 21.3642009,
+  "lon": 40.2677718
+},
+{
+  "type": "node",
+  "id": 1130443002,
+  "lat": 21.5125609,
+  "lon": 40.5944131
+},
+{
+  "type": "node",
+  "id": 1130443003,
+  "lat": 21.5125053,
+  "lon": 40.5944019
+},
+{
+  "type": "node",
+  "id": 1130443006,
+  "lat": 21.5127658,
+  "lon": 40.5941484
+},
+{
+  "type": "node",
+  "id": 1130443013,
+  "lat": 21.5128147,
+  "lon": 40.5941712
+},
+{
+  "type": "node",
+  "id": 1130443015,
+  "lat": 21.5127847,
+  "lon": 40.5944073
+},
+{
+  "type": "node",
+  "id": 1130443017,
+  "lat": 21.5125053,
+  "lon": 40.5944502
+},
+{
+  "type": "node",
+  "id": 1130443018,
+  "lat": 21.5125402,
+  "lon": 40.5943965
+},
+{
+  "type": "node",
+  "id": 1130443019,
+  "lat": 21.5128136,
+  "lon": 40.5941274
+},
+{
+  "type": "node",
+  "id": 1130443023,
+  "lat": 21.5125602,
+  "lon": 40.5944395
+},
+{
+  "type": "node",
+  "id": 1130443025,
+  "lat": 21.5127653,
+  "lon": 40.5941309
+},
+{
+  "type": "node",
+  "id": 1130443026,
+  "lat": 21.5125302,
+  "lon": 40.5941712
+},
+{
+  "type": "node",
+  "id": 1130443027,
+  "lat": 21.5127698,
+  "lon": 40.5941712
+},
+{
+  "type": "node",
+  "id": 1256671009,
+  "lat": 22.8971694,
+  "lon": 41.1301536
+},
+{
+  "type": "node",
+  "id": 1256671025,
+  "lat": 22.9010437,
+  "lon": 41.1288233
+},
+{
+  "type": "node",
+  "id": 1256671000,
+  "lat": 22.8925834,
+  "lon": 41.1341426
+},
+{
+  "type": "node",
+  "id": 1256671032,
+  "lat": 22.8948764,
+  "lon": 41.1307545
+},
+{
+  "type": "node",
+  "id": 1256670994,
+  "lat": 22.8904485,
+  "lon": 41.1382196
+},
+{
+  "type": "node",
+  "id": 1256671023,
+  "lat": 22.8897368,
+  "lon": 41.1430261
+},
+{
+  "type": "node",
+  "id": 1256671011,
+  "lat": 22.8908438,
+  "lon": 41.1471889
+},
+{
+  "type": "node",
+  "id": 1256671005,
+  "lat": 22.8934136,
+  "lon": 41.1504505
+},
+{
+  "type": "node",
+  "id": 1256670991,
+  "lat": 22.8986321,
+  "lon": 41.1528108
+},
+{
+  "type": "node",
+  "id": 1256670985,
+  "lat": 22.9057084,
+  "lon": 41.1295957
+},
+{
+  "type": "node",
+  "id": 1256671033,
+  "lat": 22.9075269,
+  "lon": 41.1289091
+},
+{
+  "type": "node",
+  "id": 1256671029,
+  "lat": 22.9104501,
+  "lon": 41.1315698
+},
+{
+  "type": "node",
+  "id": 1256671027,
+  "lat": 22.9131777,
+  "lon": 41.1369750
+},
+{
+  "type": "node",
+  "id": 1256671037,
+  "lat": 22.9042853,
+  "lon": 41.1517379
+},
+{
+  "type": "node",
+  "id": 1256670986,
+  "lat": 22.9120313,
+  "lon": 41.1455152
+},
+{
+  "type": "node",
+  "id": 1256670989,
+  "lat": 22.9081574,
+  "lon": 41.1494634
+},
+{
+  "type": "node",
+  "id": 1256671003,
+  "lat": 22.9102920,
+  "lon": 41.1479614
+},
+{
+  "type": "node",
+  "id": 1880860064,
+  "lat": 24.6891149,
+  "lon": 46.6840842
+},
+{
+  "type": "node",
+  "id": 1880860068,
+  "lat": 24.6893336,
+  "lon": 46.6841891
+},
+{
+  "type": "node",
+  "id": 1880860093,
+  "lat": 24.6897601,
+  "lon": 46.6856929
+},
+{
+  "type": "node",
+  "id": 1880860099,
+  "lat": 24.6898965,
+  "lon": 46.6855744
+},
+{
+  "type": "node",
+  "id": 1880860100,
+  "lat": 24.6899117,
+  "lon": 46.6856118
+},
+{
+  "type": "node",
+  "id": 1880860111,
+  "lat": 24.6901684,
+  "lon": 46.6837340
+},
+{
+  "type": "node",
+  "id": 1880860121,
+  "lat": 24.6901825,
+  "lon": 46.6838451
+},
+{
+  "type": "node",
+  "id": 1880860123,
+  "lat": 24.6901990,
+  "lon": 46.6836076
+},
+{
+  "type": "node",
+  "id": 1880860126,
+  "lat": 24.6902235,
+  "lon": 46.6839463
+},
+{
+  "type": "node",
+  "id": 1880860131,
+  "lat": 24.6902419,
+  "lon": 46.6840946
+},
+{
+  "type": "node",
+  "id": 1880860134,
+  "lat": 24.6902771,
+  "lon": 46.6835065
+},
+{
+  "type": "node",
+  "id": 1880860143,
+  "lat": 24.6903184,
+  "lon": 46.6842800
+},
+{
+  "type": "node",
+  "id": 1880860146,
+  "lat": 24.6903232,
+  "lon": 46.6837729
+},
+{
+  "type": "node",
+  "id": 1880860153,
+  "lat": 24.6903587,
+  "lon": 46.6838573
+},
+{
+  "type": "node",
+  "id": 1880860154,
+  "lat": 24.6903705,
+  "lon": 46.6837525
+},
+{
+  "type": "node",
+  "id": 1880860157,
+  "lat": 24.6904088,
+  "lon": 46.6844165
+},
+{
+  "type": "node",
+  "id": 1880860166,
+  "lat": 24.6904129,
+  "lon": 46.6838295
+},
+{
+  "type": "node",
+  "id": 1880860168,
+  "lat": 24.6905218,
+  "lon": 46.6842933
+},
+{
+  "type": "node",
+  "id": 1880860170,
+  "lat": 24.6905528,
+  "lon": 46.6843672
+},
+{
+  "type": "node",
+  "id": 1880860173,
+  "lat": 24.6905926,
+  "lon": 46.6842572
+},
+{
+  "type": "node",
+  "id": 1880860175,
+  "lat": 24.6906236,
+  "lon": 46.6843312
+},
+{
+  "type": "node",
+  "id": 1880860177,
+  "lat": 24.6906245,
+  "lon": 46.6848993
+},
+{
+  "type": "node",
+  "id": 346610272,
+  "lat": 24.6901121,
+  "lon": 46.6847390
+},
+{
+  "type": "node",
+  "id": 1069371536,
+  "lat": 24.6899393,
+  "lon": 46.6851559
+},
+{
+  "type": "node",
+  "id": 1069371615,
+  "lat": 24.6905028,
+  "lon": 46.6849351
+},
+{
+  "type": "node",
+  "id": 1880860095,
+  "lat": 24.6897641,
+  "lon": 46.6852417
+},
+{
+  "type": "node",
+  "id": 2703964932,
+  "lat": 24.6903301,
+  "lon": 46.6853520
+},
+{
+  "type": "node",
+  "id": 1880860178,
+  "lat": 24.6907301,
+  "lon": 46.6847721
+},
+{
+  "type": "node",
+  "id": 1880860180,
+  "lat": 24.6907378,
+  "lon": 46.6851529
+},
+{
+  "type": "node",
+  "id": 1880860182,
+  "lat": 24.6907477,
+  "lon": 46.6851749
+},
+{
+  "type": "node",
+  "id": 1880860183,
+  "lat": 24.6907588,
+  "lon": 46.6848405
+},
+{
+  "type": "node",
+  "id": 1880860187,
+  "lat": 24.6907950,
+  "lon": 46.6847390
+},
+{
+  "type": "node",
+  "id": 1880860190,
+  "lat": 24.6908237,
+  "lon": 46.6848075
+},
+{
+  "type": "node",
+  "id": 1880860193,
+  "lat": 24.6909361,
+  "lon": 46.6850748
+},
+{
+  "type": "node",
+  "id": 936839818,
+  "lat": 24.6863934,
+  "lon": 46.7125215
+},
+{
+  "type": "node",
+  "id": 936839819,
+  "lat": 24.6856818,
+  "lon": 46.7119636
+},
+{
+  "type": "node",
+  "id": 936839820,
+  "lat": 24.6855745,
+  "lon": 46.7120387
+},
+{
+  "type": "node",
+  "id": 936839822,
+  "lat": 24.6854868,
+  "lon": 46.7120172
+},
+{
+  "type": "node",
+  "id": 936839827,
+  "lat": 24.6853991,
+  "lon": 46.7121889
+},
+{
+  "type": "node",
+  "id": 936839833,
+  "lat": 24.6854868,
+  "lon": 46.7123283
+},
+{
+  "type": "node",
+  "id": 936839841,
+  "lat": 24.6855453,
+  "lon": 46.7125858
+},
+{
+  "type": "node",
+  "id": 936839842,
+  "lat": 24.6857597,
+  "lon": 46.7127789
+},
+{
+  "type": "node",
+  "id": 936839844,
+  "lat": 24.6857110,
+  "lon": 46.7128541
+},
+{
+  "type": "node",
+  "id": 936839847,
+  "lat": 24.6860230,
+  "lon": 46.7131115
+},
+{
+  "type": "node",
+  "id": 936839852,
+  "lat": 24.6860717,
+  "lon": 46.7130257
+},
+{
+  "type": "node",
+  "id": 936839858,
+  "lat": 24.6861497,
+  "lon": 46.7130257
+},
+{
+  "type": "node",
+  "id": 936839863,
+  "lat": 24.6862082,
+  "lon": 46.7129399
+},
+{
+  "type": "node",
+  "id": 936839867,
+  "lat": 24.6863057,
+  "lon": 46.7129613
+},
+{
+  "type": "node",
+  "id": 936839870,
+  "lat": 24.6863934,
+  "lon": 46.7128326
+},
+{
+  "type": "node",
+  "id": 1026244104,
+  "lat": 24.7278003,
+  "lon": 46.6651796
+},
+{
+  "type": "node",
+  "id": 1026244118,
+  "lat": 24.7274202,
+  "lon": 46.6651475
+},
+{
+  "type": "node",
+  "id": 1026244122,
+  "lat": 24.7275762,
+  "lon": 46.6652869
+},
+{
+  "type": "node",
+  "id": 1026244124,
+  "lat": 24.7276736,
+  "lon": 46.6659199
+},
+{
+  "type": "node",
+  "id": 1026244138,
+  "lat": 24.7271864,
+  "lon": 46.6657268
+},
+{
+  "type": "node",
+  "id": 1026244140,
+  "lat": 24.7275859,
+  "lon": 46.6654050
+},
+{
+  "type": "node",
+  "id": 1026244141,
+  "lat": 24.7277418,
+  "lon": 46.6650080
+},
+{
+  "type": "node",
+  "id": 1026244145,
+  "lat": 24.7272351,
+  "lon": 46.6648041
+},
+{
+  "type": "node",
+  "id": 1026244159,
+  "lat": 24.7278100,
+  "lon": 46.6655337
+},
+{
+  "type": "node",
+  "id": 1026244162,
+  "lat": 24.7268453,
+  "lon": 46.6649865
+},
+{
+  "type": "way",
+  "id": 41399957,
+  "nodes": [
+    506315900,
+    1256686279,
+    1256686281,
+    506315904,
+    506315909,
+    506315919,
+    506315900
+  ]
+},
+{
+  "type": "way",
+  "id": 109868354,
+  "nodes": [
+    1256686280,
+    1256686278,
+    1256686269,
+    1256686282,
+    1256686280
+  ]
 },
 {
   "type": "way",
