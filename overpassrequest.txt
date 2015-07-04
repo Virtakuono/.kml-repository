@@ -1,0 +1,19 @@
+<osm-script output="json" timeout="25">
+  <union into="_">
+    <query into="_" type="node">
+      <has-kv k="jpoi_id" modv="" v=""/>
+      <bbox-query e="39.74578857421875" into="_" n="21.9672457496508" s="21.13702615752316" w="38.780364990234375"/>
+    </query>
+    <query into="_" type="way">
+      <has-kv k="jpoi_id" modv="" v=""/>
+      <bbox-query e="39.74578857421875" into="_" n="21.9672457496508" s="21.13702615752316" w="38.780364990234375"/>
+    </query>
+    <query into="_" type="relation">
+      <has-kv k="jpoi_id" modv="" v=""/>
+      <bbox-query e="39.74578857421875" into="_" n="21.9672457496508" s="21.13702615752316" w="38.780364990234375"/>
+    </query>
+  </union>
+  <print e="" from="_" geometry="skeleton" limit="" mode="body" n="" order="id" s="" w=""/>
+  <recurse from="_" into="_" type="down"/>
+  <print e="" from="_" geometry="skeleton" limit="" mode="skeleton" n="" order="quadtile" s="" w=""/>
+</osm-script>
