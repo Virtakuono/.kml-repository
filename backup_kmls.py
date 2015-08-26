@@ -8,7 +8,49 @@ import datetime
 import time
 import mgrs
 import copy
+import overpy
 
+
+def overpyQuery(nodes=False,ways=False,relations=False,timeout=125,verbose=False):
+    if not (nodes or ways or relations):
+        return overpyQuery(nodes=True,ways=True,relations=True,timeout=timeout,verbose=verbose)
+    if verbose:
+        print('Generating a query, timeout=%d :'%(timeout,))
+    rv = '<osm-script output="json" timeout="%d">\n'%(timeout)
+    rv = '%s<union into="_">\n'%(rv,)
+    if nodes:
+        rv = '%s<query into="_" type="node">\n<has-kv k="jpoi_id" modv="" v=""/>\n</query>\n'%(rv,)
+    if ways:
+        rv = '%s<query into="_" type="way">\n<has-kv k="jpoi_id" modv="" v=""/>\n</query>\n'%(rv,)
+    if relations:
+        rv = '%s<query into="_" type="relation">\n<has-kv k="jpoi_id" modv="" v=""/>\n</query>\n'%(rv,)
+    rv = '%s</union>\n'%(rv,)
+    rv = '%s<print e="" from="_" geometry="skeleton" limit="" mode="body" n="" order="id" s="" w=""/>\n'%(rv,)
+    rv = '%s<recurse from="_" into="_" type="down"/>\n'%(rv,)
+    rv = '%s<print e="" from="_" geometry="skeleton" limit="" mode="skeleton" n="" order="quadtile" s="" w=""/>\n'%(rv,)
+    rv = '%s</osm-script>\n'%(rv,)
+    if verbose:
+        print(rv)
+    return rv
+
+def getDataFromOSM(nodes=False,ways=False,relations=False):
+    api = overpy.Overpass()
+    return api.query(overpyQuery(nodes=nodes,ways=ways,relations=relations))
+
+def getName(osmObject):
+    try:
+        return osmObject.tags['name:en']
+    except Exception:
+        pass
+    try:
+        return osmObject.tags['name:int']
+    except Exception:
+        pass
+    try:
+        return osmObject.tags['name']
+    except Exception:
+        pass
+    return 'NONAME'
 
 class POIStyle():
 
