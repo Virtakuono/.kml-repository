@@ -195,13 +195,6 @@
    popupAnchor: [0,-20]
    });
 
-   var iconType695 = L.icon({
-   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/boatshop.png',
-   iconSize: [32,37],
-   iconAnchor: [16,37],
-   popupAnchor: [0,-20]
-   });
-
    var iconType696 = L.icon({
    iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/scubashop.png',
    iconSize: [32,37],
@@ -237,13 +230,6 @@
    popupAnchor: [0,-20]
    });
 
-   var iconType701 = L.icon({
-   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/photo.png',
-   iconSize: [32,37],
-   iconAnchor: [16,37],
-   popupAnchor: [0,-20]
-   });
-
    var iconType702 = L.icon({
    iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/carwash.png',
    iconSize: [32,37],
@@ -267,13 +253,6 @@
 
    var iconType705 = L.icon({
    iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/bustour.png',
-   iconSize: [32,37],
-   iconAnchor: [16,37],
-   popupAnchor: [0,-20]
-   });
-
-   var iconType706 = L.icon({
-   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/city.png',
    iconSize: [32,37],
    iconAnchor: [16,37],
    popupAnchor: [0,-20]
@@ -407,13 +386,6 @@
 
    var iconType731 = L.icon({
    iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/desert-3.png',
-   iconSize: [32,37],
-   iconAnchor: [16,37],
-   popupAnchor: [0,-20]
-   });
-
-   var iconType732 = L.icon({
-   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/car_orange.png',
    iconSize: [32,37],
    iconAnchor: [16,37],
    popupAnchor: [0,-20]
@@ -631,8 +603,6 @@
 
    L.marker([21.4737297, 39.1972607],{icon: iconType671}).bindPopup("<b>Khaimah market</b><br />Good market for traditional women's clothes<br />Coordinates: (21.4737297, 39.1972607)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4737297&mlon=39.1972607&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.473730,39.1972607\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.47372970~39.19726070&lvl=16&dir=0&sty=c&sp=point.21.47372970_39.19726070_Khaimah%20market\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
-   L.marker([21.5832210, 39.2486570],{icon: iconType671}).bindPopup("<b>Look for tent makers in this area</b><br /><br />Coordinates: (21.5832210, 39.2486570)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5832210&mlon=39.2486570&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.583221,39.2486570\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.58322100~39.24865700&lvl=16&dir=0&sty=c&sp=point.21.58322100_39.24865700_Look%20for%20tent%20makers%20in%20this%20area\" target=\"_blank\">Bing</a>").addTo(poicat002);
-
    L.marker([21.5717486, 39.1819452],{icon: iconType671}).bindPopup("<b>Mahmoud Saeed souq</b><br />Excellent market for carpets and furniture<br />Coordinates: (21.5717486, 39.1819452)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5717486&mlon=39.1819452&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.571749,39.1819452\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.57174860~39.18194520&lvl=16&dir=0&sty=c&sp=point.21.57174860_39.18194520_Mahmoud%20Saeed%20souq\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
    L.marker([21.4120009, 39.2081129],{icon: iconType671}).bindPopup("<b>Rockets souq</b><br />Dont’t worry they are not selling rockets here it’s just a name ;). you can find here almost everything electronics, cloths, food, carpets,furniture, etc.<br />Coordinates: (21.4120009, 39.2081129)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4120009&mlon=39.2081129&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.412001,39.2081129\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.41200090~39.20811290&lvl=16&dir=0&sty=c&sp=point.21.41200090_39.20811290_Rockets%20souq\" target=\"_blank\">Bing</a>").addTo(poicat002);
@@ -646,8 +616,6 @@
    L.marker([21.6166870, 39.1492670],{icon: iconType671}).bindPopup("<b>Vegetable market</b><br />Small booths of produce, thanks to Eric Bakken<br />Coordinates: (21.6166870, 39.1492670)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6166870&mlon=39.1492670&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.616687,39.1492670\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.61668700~39.14926700&lvl=16&dir=0&sty=c&sp=point.21.61668700_39.14926700_Vegetable%20market\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
    L.marker([21.5900130, 39.2213840],{icon: iconType671}).bindPopup("<b>Vegetable souq</b><br />Thanks to Naoufal Uariachi<br />Coordinates: (21.5900130, 39.2213840)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5900130&mlon=39.2213840&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.590013,39.2213840\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.59001300~39.22138400&lvl=16&dir=0&sty=c&sp=point.21.59001300_39.22138400_Vegetable%20souq\" target=\"_blank\">Bing</a>").addTo(poicat002);
-
-   L.marker([21.4869081, 39.1964989],{icon: iconType671}).bindPopup("<b>Yamamah gold souq</b><br />Best place to buy gold and there are a lot of shops to buy fabrics and textiles<br />Coordinates: (21.4869081, 39.1964989)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4869081&mlon=39.1964989&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.486908,39.1964989\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.48690810~39.19649890&lvl=16&dir=0&sty=c&sp=point.21.48690810_39.19649890_Yamamah%20gold%20souq\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
    L.marker([21.6065750, 39.1413800],{icon: iconType672}).bindPopup("<b>Starbucks</b><br /><a href=\"http://www.openstreetmap.org/node/1499855960\" target=\"_blank\">http://www.openstreetmap.org/node/1499855960</a><br />Coordinates: (21.6065750, 39.1413800)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6065750&mlon=39.1413800&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.606575,39.1413800\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.60657500~39.14138000&lvl=16&dir=0&sty=c&sp=point.21.60657500_39.14138000_Starbucks\" target=\"_blank\">Bing</a>").addTo(poicat001);
 
@@ -667,11 +635,7 @@
 
    L.marker([22.4024361, 39.0814861],{icon: iconType673}).bindPopup("<b>Meed</b><br />Convenience store 24/7<br />Coordinates: (22.4024361, 39.0814861)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.4024361&mlon=39.0814861&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.402436,39.0814861\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.40243610~39.08148610&lvl=16&dir=0&sty=c&sp=point.22.40243610_39.08148610_Meed\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
-   L.marker([22.2873210, 39.1127360],{icon: iconType674}).bindPopup("<b>Electronic store and mobiles</b><br /><br />Coordinates: (22.2873210, 39.1127360)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.2873210&mlon=39.1127360&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.287321,39.1127360\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.28732100~39.11273600&lvl=16&dir=0&sty=c&sp=point.22.28732100_39.11273600_Electronic%20store%20and%20mobiles\" target=\"_blank\">Bing</a>").addTo(poicat002);
-
    L.marker([21.6066860, 39.1411090],{icon: iconType674}).bindPopup("<b>Emax</b><br />Electronics, Centrepoint Dome - Amir Sultan Street, Jeddah,Tel: +966 2 6394492<br />Coordinates: (21.6066860, 39.1411090)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6066860&mlon=39.1411090&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.606686,39.1411090\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.60668600~39.14110900&lvl=16&dir=0&sty=c&sp=point.21.60668600_39.14110900_Emax\" target=\"_blank\">Bing</a>").addTo(poicat002);
-
-   L.marker([21.5906050, 39.1768610],{icon: iconType674}).bindPopup("<b>Emax</b><br />Electronics, Sitteen Street, Bawadi,Jeddah,Tel: +966 2 6977519, 6977517<br />Coordinates: (21.5906050, 39.1768610)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5906050&mlon=39.1768610&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.590605,39.1768610\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.59060500~39.17686100&lvl=16&dir=0&sty=c&sp=point.21.59060500_39.17686100_Emax\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
    L.marker([21.5979560, 39.1432340],{icon: iconType674}).bindPopup("<b>Extra</b><br />Electronics and home appliances<br />Coordinates: (21.5979560, 39.1432340)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5979560&mlon=39.1432340&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.597956,39.1432340\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.59795600~39.14323400&lvl=16&dir=0&sty=c&sp=point.21.59795600_39.14323400_Extra\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
@@ -684,10 +648,6 @@
    L.marker([20.1580100, 40.2468450],{icon: iconType675}).bindPopup("<b>Al Lith resort</b><br /><br />Coordinates: (20.1580100, 40.2468450)<br /><a href=\"http://www.openstreetmap.org/?mlat=20.1580100&mlon=40.2468450&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=20.158010,40.2468450\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=20.15801000~40.24684500&lvl=16&dir=0&sty=c&sp=point.20.15801000_40.24684500_Al%20Lith%20resort\" target=\"_blank\">Bing</a>").addTo(poicat001);
 
    L.marker([21.7100890, 39.0847510],{icon: iconType675}).bindPopup("<b>Albilad Beach</b><br /><br />Coordinates: (21.7100890, 39.0847510)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.7100890&mlon=39.0847510&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.710089,39.0847510\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.71008900~39.08475100&lvl=16&dir=0&sty=c&sp=point.21.71008900_39.08475100_Albilad%20Beach\" target=\"_blank\">Bing</a>").addTo(poicat001);
-
-   L.marker([21.8418150, 38.9864200],{icon: iconType675}).bindPopup("<b>Khaleej Salman Beach</b><br /><a href=\"http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/\" target=\"_blank\">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</a><br />Coordinates: (21.8418150, 38.9864200)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.8418150&mlon=38.9864200&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.841815,38.9864200\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.84181500~38.98642000&lvl=16&dir=0&sty=c&sp=point.21.84181500_38.98642000_Khaleej%20Salman%20Beach\" target=\"_blank\">Bing</a>").addTo(poicat001);
-
-   L.marker([21.7093000, 39.0833000],{icon: iconType675}).bindPopup("<b>La Plage Beach</b><br />Thanks, Mincho Kavaldzhiev<br />Coordinates: (21.7093000, 39.0833000)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.7093000&mlon=39.0833000&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.709300,39.0833000\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.70930000~39.08330000&lvl=16&dir=0&sty=c&sp=point.21.70930000_39.08330000_La%20Plage%20Beach\" target=\"_blank\">Bing</a>").addTo(poicat001);
 
    L.marker([21.7289620, 39.0751570],{icon: iconType675}).bindPopup("<b>Palm Beach</b><br />A private beach and accommodation facility. Parking is outside.<br />Coordinates: (21.7289620, 39.0751570)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.7289620&mlon=39.0751570&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.728962,39.0751570\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.72896200~39.07515700&lvl=16&dir=0&sty=c&sp=point.21.72896200_39.07515700_Palm%20Beach\" target=\"_blank\">Bing</a>").addTo(poicat001);
 
@@ -703,8 +663,6 @@
 
    L.marker([21.5634480, 39.2049060],{icon: iconType676}).bindPopup("<b>SACO</b><br />Hardware store <a href=\"http://saco-ksa.com/\" target=\"_blank\">http://saco-ksa.com/</a><br />Coordinates: (21.5634480, 39.2049060)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5634480&mlon=39.2049060&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.563448,39.2049060\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.56344800~39.20490600&lvl=16&dir=0&sty=c&sp=point.21.56344800_39.20490600_SACO\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
-   L.marker([21.5779530, 39.1648860],{icon: iconType676}).bindPopup("<b>SITACO</b><br /><br />Coordinates: (21.5779530, 39.1648860)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5779530&mlon=39.1648860&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.577953,39.1648860\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.57795300~39.16488600&lvl=16&dir=0&sty=c&sp=point.21.57795300_39.16488600_SITACO\" target=\"_blank\">Bing</a>").addTo(poicat002);
-
    L.marker([21.6338140, 39.2039600],{icon: iconType677}).bindPopup("<b>Toyota car dealer</b><br /><br />Coordinates: (21.6338140, 39.2039600)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6338140&mlon=39.2039600&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.633814,39.2039600\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.63381400~39.20396000&lvl=16&dir=0&sty=c&sp=point.21.63381400_39.20396000_Toyota%20car%20dealer\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
    L.marker([21.6401960, 39.1324010],{icon: iconType678}).bindPopup("<b>Jarir bookstore</b><br />Prince Sultan street Showroom timings: Sat-Thu 9am-12pm, 4.30pm-11pm; Fri 4.30pm-11pm Tel. No. +966 2 420-2050, Fax No.+966 2 420-2060<br />Coordinates: (21.6401960, 39.1324010)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6401960&mlon=39.1324010&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.640196,39.1324010\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.64019600~39.13240100&lvl=16&dir=0&sty=c&sp=point.21.64019600_39.13240100_Jarir%20bookstore\" target=\"_blank\">Bing</a>").addTo(poicat002);
@@ -718,8 +676,6 @@
    L.marker([21.5516800, 39.1636280],{icon: iconType680}).bindPopup("<b>Eurovets</b><br />Vet clinic with Dr. Carlos<br />Coordinates: (21.5516800, 39.1636280)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5516800&mlon=39.1636280&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.551680,39.1636280\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.55168000~39.16362800&lvl=16&dir=0&sty=c&sp=point.21.55168000_39.16362800_Eurovets\" target=\"_blank\">Bing</a>").addTo(poicat004);
 
    L.marker([21.5788018, 39.1741776],{icon: iconType680}).bindPopup("<b>Jeddah Veterinary Clinic</b><br /><br />Coordinates: (21.5788018, 39.1741776)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5788018&mlon=39.1741776&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.578802,39.1741776\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.57880180~39.17417760&lvl=16&dir=0&sty=c&sp=point.21.57880180_39.17417760_Jeddah%20Veterinary%20Clinic\" target=\"_blank\">Bing</a>").addTo(poicat004);
-
-   L.marker([21.6024440, 39.1426440],{icon: iconType681}).bindPopup("<b>Happy Pets</b><br />Pet shop<br />Coordinates: (21.6024440, 39.1426440)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6024440&mlon=39.1426440&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.602444,39.1426440\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.60244400~39.14264400&lvl=16&dir=0&sty=c&sp=point.21.60244400_39.14264400_Happy%20Pets\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
    L.marker([21.5970270, 39.1425740],{icon: iconType681}).bindPopup("<b>Pet Oasis</b><br />Pet shop<br />Coordinates: (21.5970270, 39.1425740)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5970270&mlon=39.1425740&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.597027,39.1425740\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.59702700~39.14257400&lvl=16&dir=0&sty=c&sp=point.21.59702700_39.14257400_Pet%20Oasis\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
@@ -757,8 +713,6 @@
 
    L.marker([21.4777510, 39.1866040],{icon: iconType692}).bindPopup("<b>Sewing machine shops</b><br /><br />Coordinates: (21.4777510, 39.1866040)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4777510&mlon=39.1866040&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.477751,39.1866040\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.47775100~39.18660400&lvl=16&dir=0&sty=c&sp=point.21.47775100_39.18660400_Sewing%20machine%20shops\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
-   L.marker([22.2861880, 39.1123280],{icon: iconType692}).bindPopup("<b>Tailor</b><br /><br />Coordinates: (22.2861880, 39.1123280)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.2861880&mlon=39.1123280&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.286188,39.1123280\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.28618800~39.11232800&lvl=16&dir=0&sty=c&sp=point.22.28618800_39.11232800_Tailor\" target=\"_blank\">Bing</a>").addTo(poicat002);
-
    L.marker([21.4825120, 39.1831210],{icon: iconType692}).bindPopup("<b>Tailor</b><br /><a href=\"http://www.openstreetmap.org/node/3361193947\" target=\"_blank\">http://www.openstreetmap.org/node/3361193947</a> The place looks like a dump but they make fair quality trousers for 55 SAR. They tend to overuse interfacing in shirts, tho.<br />Coordinates: (21.4825120, 39.1831210)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4825120&mlon=39.1831210&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.482512,39.1831210\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.48251200~39.18312100&lvl=16&dir=0&sty=c&sp=point.21.48251200_39.18312100_Tailor\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
    L.marker([21.6124710, 39.1537280],{icon: iconType693}).bindPopup("<b>Computer shops</b><br /><br />Coordinates: (21.6124710, 39.1537280)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6124710&mlon=39.1537280&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.612471,39.1537280\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.61247100~39.15372800&lvl=16&dir=0&sty=c&sp=point.21.61247100_39.15372800_Computer%20shops\" target=\"_blank\">Bing</a>").addTo(poicat002);
@@ -775,15 +729,11 @@
 
    L.marker([21.6651800, 39.1097300],{icon: iconType693}).bindPopup("<b>Lingo Computer Store</b><br />Sells Apple products<br />Coordinates: (21.6651800, 39.1097300)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6651800&mlon=39.1097300&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.665180,39.1097300\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.66518000~39.10973000&lvl=16&dir=0&sty=c&sp=point.21.66518000_39.10973000_Lingo%20Computer%20Store\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
-   L.marker([21.5766770, 39.1101300],{icon: iconType694}).bindPopup("<b>Aziz Mall</b><br /><br />Coordinates: (21.5766770, 39.1101300)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5766770&mlon=39.1101300&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.576677,39.1101300\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.57667700~39.11013000&lvl=16&dir=0&sty=c&sp=point.21.57667700_39.11013000_Aziz%20Mall\" target=\"_blank\">Bing</a>").addTo(poicat002);
-
    L.marker([21.5502180, 39.1628560],{icon: iconType694}).bindPopup("<b>Coral Mall</b><br /><br />Coordinates: (21.5502180, 39.1628560)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5502180&mlon=39.1628560&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.550218,39.1628560\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.55021800~39.16285600&lvl=16&dir=0&sty=c&sp=point.21.55021800_39.16285600_Coral%20Mall\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
    L.marker([21.4855676, 39.1835640],{icon: iconType694}).bindPopup("<b>Corniche Commercial Center</b><br />Just go to the 4th or 5th floor and you will find the best accessories, perfumes & cosmetics shops<br />Coordinates: (21.4855676, 39.1835640)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4855676&mlon=39.1835640&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.485568,39.1835640\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.48556760~39.18356400&lvl=16&dir=0&sty=c&sp=point.21.48556760_39.18356400_Corniche%20Commercial%20Center\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
    L.marker([21.6156220, 39.1529540],{icon: iconType694}).bindPopup("<b>Hera International Mall</b><br /><br />Coordinates: (21.6156220, 39.1529540)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6156220&mlon=39.1529540&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.615622,39.1529540\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.61562200~39.15295400&lvl=16&dir=0&sty=c&sp=point.21.61562200_39.15295400_Hera%20International%20Mall\" target=\"_blank\">Bing</a>").addTo(poicat002);
-
-   L.marker([21.2878250, 40.4187240],{icon: iconType694}).bindPopup("<b>Mall</b><br /><br />Coordinates: (21.2878250, 40.4187240)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.2878250&mlon=40.4187240&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.287825,40.4187240\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.28782500~40.41872400&lvl=16&dir=0&sty=c&sp=point.21.28782500_40.41872400_Mall\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
    L.marker([21.6326170, 39.1557070],{icon: iconType694}).bindPopup("<b>Mall of Arabia</b><br /><a href=\"http://www.openstreetmap.org/way/44213515\" target=\"_blank\">http://www.openstreetmap.org/way/44213515</a><br />Coordinates: (21.6326170, 39.1557070)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6326170&mlon=39.1557070&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.632617,39.1557070\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.63261700~39.15570700&lvl=16&dir=0&sty=c&sp=point.21.63261700_39.15570700_Mall%20of%20Arabia\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
@@ -793,17 +743,11 @@
 
    L.marker([21.5729600, 39.1283700],{icon: iconType694}).bindPopup("<b>Stars Avenue Mall</b><br /><a href=\"http://www.openstreetmap.org/way/53202643\" target=\"_blank\">http://www.openstreetmap.org/way/53202643</a><br />Coordinates: (21.5729600, 39.1283700)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5729600&mlon=39.1283700&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.572960,39.1283700\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.57296000~39.12837000&lvl=16&dir=0&sty=c&sp=point.21.57296000_39.12837000_Stars%20Avenue%20Mall\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
-   L.marker([21.5490590, 39.1488340],{icon: iconType694}).bindPopup("<b>Thalia Mall</b><br /><br />Coordinates: (21.5490590, 39.1488340)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5490590&mlon=39.1488340&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.549059,39.1488340\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.54905900~39.14883400&lvl=16&dir=0&sty=c&sp=point.21.54905900_39.14883400_Thalia%20Mall\" target=\"_blank\">Bing</a>").addTo(poicat002);
-
    L.marker([21.6267930, 39.1099550],{icon: iconType694}).bindPopup("<b>This is a mosque evening souq museum and architecture wonder. Neat place to stop by but museum tours must be arranged in advance but contacting Abdraheam at +96650360137. You can also visit [http://www.tripadvisor.com/Attraction_Review-g295419-d4090222-Reviews-Al_Tayebat_International_City-Jeddah_Makkah_Province.html] advisor for some more info.</b><br /><a href=\"http://www.openstreetmap.org/way/111645517\" target=\"_blank\">http://www.openstreetmap.org/way/111645517</a><br />Coordinates: (21.6267930, 39.1099550)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6267930&mlon=39.1099550&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.626793,39.1099550\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.62679300~39.10995500&lvl=16&dir=0&sty=c&sp=point.21.62679300_39.10995500_This%20is%20a%20mosque%20evening%20souq%20museum%20and%20architecture%20wonder.%20Neat%20place%20to%20stop%20by%20but%20museum%20tours%20must%20be%20arranged%20in%20advance%20but%20contacting%20Abdraheam%20at%20%2B96650360137.%20You%20can%20also%20visit%20%5Bhttp%3A//www.tripadvisor.com/Attraction_Review-g295419-d4090222-Reviews-Al_Tayebat_International_City-Jeddah_Makkah_Province.html%5D%20advisor%20for%20some%20more%20info.\" target=\"_blank\">Bing</a>").addTo(poicat002);
-
-   L.marker([21.6071180, 39.1206780],{icon: iconType695}).bindPopup("<b>Boat dealer</b><br /><br />Coordinates: (21.6071180, 39.1206780)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6071180&mlon=39.1206780&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.607118,39.1206780\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.60711800~39.12067800&lvl=16&dir=0&sty=c&sp=point.21.60711800_39.12067800_Boat%20dealer\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
    L.marker([21.5488831, 39.1634262],{icon: iconType696}).bindPopup("<b>Blue reef divers</b><br /><br />Coordinates: (21.5488831, 39.1634262)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5488831&mlon=39.1634262&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.548883,39.1634262\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.54888310~39.16342620&lvl=16&dir=0&sty=c&sp=point.21.54888310_39.16342620_Blue%20reef%20divers\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
    L.marker([21.5494170, 39.1632579],{icon: iconType696}).bindPopup("<b>Red Sea divers</b><br /><br />Coordinates: (21.5494170, 39.1632579)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5494170&mlon=39.1632579&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.549417,39.1632579\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.54941700~39.16325790&lvl=16&dir=0&sty=c&sp=point.21.54941700_39.16325790_Red%20Sea%20divers\" target=\"_blank\">Bing</a>").addTo(poicat002);
-
-   L.marker([21.5487079, 39.1619871],{icon: iconType696}).bindPopup("<b>The Arab circumnavigator</b><br /><br />Coordinates: (21.5487079, 39.1619871)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5487079&mlon=39.1619871&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.548708,39.1619871\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.54870790~39.16198710&lvl=16&dir=0&sty=c&sp=point.21.54870790_39.16198710_The%20Arab%20circumnavigator\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
    L.marker([21.7303730, 39.1069580],{icon: iconType697}).bindPopup("<b>Desert Sea Divers</b><br />Dive shop and marina. http://desertseadivers.com/<br />Coordinates: (21.7303730, 39.1069580)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.7303730&mlon=39.1069580&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.730373,39.1069580\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.73037300~39.10695800&lvl=16&dir=0&sty=c&sp=point.21.73037300_39.10695800_Desert%20Sea%20Divers\" target=\"_blank\">Bing</a>").addTo(poicat005);
 
@@ -855,10 +799,6 @@
 
    L.marker([22.2876130, 39.1131900],{icon: iconType700}).bindPopup("<b>Pharmacy</b><br /><a href=\"http://www.openstreetmap.org/way/304768912\" target=\"_blank\">http://www.openstreetmap.org/way/304768912</a><br />Coordinates: (22.2876130, 39.1131900)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.2876130&mlon=39.1131900&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.287613,39.1131900\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.28761300~39.11319000&lvl=16&dir=0&sty=c&sp=point.22.28761300_39.11319000_Pharmacy\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
-   L.marker([22.2868540, 39.1125680],{icon: iconType701}).bindPopup("<b>Passport photo studio</b><br /><br />Coordinates: (22.2868540, 39.1125680)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.2868540&mlon=39.1125680&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.286854,39.1125680\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.28685400~39.11256800&lvl=16&dir=0&sty=c&sp=point.22.28685400_39.11256800_Passport%20photo%20studio\" target=\"_blank\">Bing</a>").addTo(poicat004);
-
-   L.marker([22.2866940, 39.1132660],{icon: iconType701}).bindPopup("<b>Passport photo studio</b><br /><br />Coordinates: (22.2866940, 39.1132660)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.2866940&mlon=39.1132660&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.286694,39.1132660\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.28669400~39.11326600&lvl=16&dir=0&sty=c&sp=point.22.28669400_39.11326600_Passport%20photo%20studio\" target=\"_blank\">Bing</a>").addTo(poicat004);
-
    L.marker([22.2875160, 39.1157070],{icon: iconType702}).bindPopup("<b>Car wash</b><br />SAR 20. They use high pressure hoses, cloth and lots of soap. I tried to haggle for a car wash but after I came back, the car was still unwashed. Perhaps someone with good command of arabic will have more luck. -Juho<br />Coordinates: (22.2875160, 39.1157070)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.2875160&mlon=39.1157070&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.287516,39.1157070\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.28751600~39.11570700&lvl=16&dir=0&sty=c&sp=point.22.28751600_39.11570700_Car%20wash\" target=\"_blank\">Bing</a>").addTo(poicat004);
 
    L.marker([22.2896820, 39.1147380],{icon: iconType703}).bindPopup("<b>ATM</b><br /><br />Coordinates: (22.2896820, 39.1147380)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.2896820&mlon=39.1147380&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.289682,39.1147380\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.28968200~39.11473800&lvl=16&dir=0&sty=c&sp=point.22.28968200_39.11473800_ATM\" target=\"_blank\">Bing</a>").addTo(poicat004);
@@ -872,8 +812,6 @@
    L.marker([21.5251472, 39.1683472],{icon: iconType705}).bindPopup("<b>DSFH: KAUST bus dropoff</b><br /><br />Coordinates: (21.5251472, 39.1683472)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5251472&mlon=39.1683472&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.525147,39.1683472\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.52514720~39.16834720&lvl=16&dir=0&sty=c&sp=point.21.52514720_39.16834720_DSFH%3A%20KAUST%20bus%20dropoff\" target=\"_blank\">Bing</a>").addTo(poicat003);
 
    L.marker([21.6280767, 39.1130930],{icon: iconType705}).bindPopup("<b>Red Sea Mall: KAUST bus dropoff</b><br /><br />Coordinates: (21.6280767, 39.1130930)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.6280767&mlon=39.1130930&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.628077,39.1130930\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.62807670~39.11309300&lvl=16&dir=0&sty=c&sp=point.21.62807670_39.11309300_Red%20Sea%20Mall%3A%20KAUST%20bus%20dropoff\" target=\"_blank\">Bing</a>").addTo(poicat003);
-
-   L.marker([20.0000000, 41.4500000],{icon: iconType706}).bindPopup("<b>Al Bahah</b><br /><a href=\"http://en.wikipedia.org/wiki/Al_Bahah\" target=\"_blank\">http://en.wikipedia.org/wiki/Al_Bahah</a><br />Coordinates: (20.0000000, 41.4500000)<br /><a href=\"http://www.openstreetmap.org/?mlat=20.0000000&mlon=41.4500000&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=20.000000,41.4500000\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=20.00000000~41.45000000&lvl=16&dir=0&sty=c&sp=point.20.00000000_41.45000000_Al%20Bahah\" target=\"_blank\">Bing</a>").addTo(poicat005);
 
    L.marker([21.2570570, 40.3865700],{icon: iconType707}).bindPopup("<b>Historic mosque</b><br /><br />Coordinates: (21.2570570, 40.3865700)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.2570570&mlon=40.3865700&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.257057,40.3865700\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.25705700~40.38657000&lvl=16&dir=0&sty=c&sp=point.21.25705700_40.38657000_Historic%20mosque\" target=\"_blank\">Bing</a>").addTo(poicat004);
 
@@ -985,8 +923,6 @@
 
    L.marker([23.6885470, 38.8017940],{icon: iconType731}).bindPopup("<b>Mastorah Dunes</b><br />Thanks, Greg Wickham<br />Coordinates: (23.6885470, 38.8017940)<br /><a href=\"http://www.openstreetmap.org/?mlat=23.6885470&mlon=38.8017940&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=23.688547,38.8017940\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=23.68854700~38.80179400&lvl=16&dir=0&sty=c&sp=point.23.68854700_38.80179400_Mastorah%20Dunes\" target=\"_blank\">Bing</a>").addTo(poicat005);
 
-   L.marker([22.7349750, 39.0692861],{icon: iconType732}).bindPopup("<b>Driving license bureau</b><br /><br />Coordinates: (22.7349750, 39.0692861)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.7349750&mlon=39.0692861&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.734975,39.0692861\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.73497500~39.06928610&lvl=16&dir=0&sty=c&sp=point.22.73497500_39.06928610_Driving%20license%20bureau\" target=\"_blank\">Bing</a>").addTo(poicat004);
-
    L.marker([20.8020170, 39.4255780],{icon: iconType733}).bindPopup("<b>At Shuaiba Shipwrecks</b><br /><a href=\"http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/\" target=\"_blank\">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</a><br />Coordinates: (20.8020170, 39.4255780)<br /><a href=\"http://www.openstreetmap.org/?mlat=20.8020170&mlon=39.4255780&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=20.802017,39.4255780\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=20.80201700~39.42557800&lvl=16&dir=0&sty=c&sp=point.20.80201700_39.42557800_At%20Shuaiba%20Shipwrecks\" target=\"_blank\">Bing</a>").addTo(poicat005);
 
    L.marker([21.4750010, 39.2090770],{icon: iconType734}).bindPopup("<b>Khuzam palace</b><br /><a href=\"http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/\" target=\"_blank\">http://menzene.com/travel/14-lesser-known-must-visit-places-jeddah/</a><br />Coordinates: (21.4750010, 39.2090770)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.4750010&mlon=39.2090770&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.475001,39.2090770\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.47500100~39.20907700&lvl=16&dir=0&sty=c&sp=point.21.47500100_39.20907700_Khuzam%20palace\" target=\"_blank\">Bing</a>").addTo(poicat005);
@@ -1023,7 +959,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.858820, 39.642496],
+       center: [21.869365, 39.665218],
        zoom: 6,
        layers: [MBOX, poilist]   });
 

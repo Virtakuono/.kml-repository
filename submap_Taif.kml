@@ -10,13 +10,6 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style694">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/mall.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
   <Style id="style707">
     <IconStyle>
       <Icon>
@@ -66,14 +59,6 @@
     <styleUrl>#style666</styleUrl>
     <Point>
       <coordinates>40.2677310,21.3644850,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Mall</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style694</styleUrl>
-    <Point>
-      <coordinates>40.4187240,21.2878250,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>

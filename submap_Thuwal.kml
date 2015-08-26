@@ -45,24 +45,10 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style692">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/sewingmachine.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
   <Style id="style700">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/pharmacy.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style701">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/photo.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -145,14 +131,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Electronic store and mobiles</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style674</styleUrl>
-    <Point>
-      <coordinates>39.1127360,22.2873210,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Mobile shop</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style674</styleUrl>
@@ -169,35 +147,11 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Tailor</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style692</styleUrl>
-    <Point>
-      <coordinates>39.1123280,22.2861880,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Pharmacy</name>
     <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/304768912]</div>]]></description>
     <styleUrl>#style700</styleUrl>
     <Point>
       <coordinates>39.1131900,22.2876130,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Passport photo studio</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style701</styleUrl>
-    <Point>
-      <coordinates>39.1125680,22.2868540,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Passport photo studio</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style701</styleUrl>
-    <Point>
-      <coordinates>39.1132660,22.2866940,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>

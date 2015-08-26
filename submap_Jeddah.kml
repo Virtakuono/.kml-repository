@@ -192,13 +192,6 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style695">
-    <IconStyle>
-      <Icon>
-        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/boatshop.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
   <Style id="style696">
     <IconStyle>
       <Icon>
@@ -752,14 +745,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Look for tent makers in this area</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style671</styleUrl>
-    <Point>
-      <coordinates>39.2486570,21.5832210,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Mahmoud Saeed souq</name>
     <description><![CDATA[<div dir="ltr">Excellent market for carpets and furniture</div>]]></description>
     <styleUrl>#style671</styleUrl>
@@ -805,14 +790,6 @@
     <styleUrl>#style671</styleUrl>
     <Point>
       <coordinates>39.2213840,21.5900130,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Yamamah gold souq</name>
-    <description><![CDATA[<div dir="ltr">Best place to buy gold and there are a lot of shops to buy fabrics and textiles</div>]]></description>
-    <styleUrl>#style671</styleUrl>
-    <Point>
-      <coordinates>39.1964989,21.4869081,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -872,14 +849,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Emax</name>
-    <description><![CDATA[<div dir="ltr">Electronics, Sitteen Street, Bawadi,Jeddah,Tel: +966 2 6977519, 6977517</div>]]></description>
-    <styleUrl>#style674</styleUrl>
-    <Point>
-      <coordinates>39.1768610,21.5906050,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Extra</name>
     <description><![CDATA[<div dir="ltr">Electronics and home appliances</div>]]></description>
     <styleUrl>#style674</styleUrl>
@@ -912,14 +881,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>La Plage Beach</name>
-    <description><![CDATA[<div dir="ltr">Thanks, Mincho Kavaldzhiev</div>]]></description>
-    <styleUrl>#style675</styleUrl>
-    <Point>
-      <coordinates>39.0833000,21.7093000,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Al Muhaidib Hardware</name>
     <description><![CDATA[<div dir="ltr">found door chains here. Door lock, handles etc.</div>]]></description>
     <styleUrl>#style676</styleUrl>
@@ -949,14 +910,6 @@
     <styleUrl>#style676</styleUrl>
     <Point>
       <coordinates>39.2049060,21.5634480,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>SITACO</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style676</styleUrl>
-    <Point>
-      <coordinates>39.1648860,21.5779530,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1013,14 +966,6 @@
     <styleUrl>#style680</styleUrl>
     <Point>
       <coordinates>39.1741776,21.5788018,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Happy Pets</name>
-    <description><![CDATA[<div dir="ltr">Pet shop</div>]]></description>
-    <styleUrl>#style681</styleUrl>
-    <Point>
-      <coordinates>39.1426440,21.6024440,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1208,14 +1153,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Aziz Mall</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style694</styleUrl>
-    <Point>
-      <coordinates>39.1101300,21.5766770,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Coral Mall</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
     <styleUrl>#style694</styleUrl>
@@ -1272,27 +1209,11 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Thalia Mall</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style694</styleUrl>
-    <Point>
-      <coordinates>39.1488340,21.5490590,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>This is a mosque evening souq museum and architecture wonder. Neat place to stop by but museum tours must be arranged in advance but contacting Abdraheam at +96650360137. You can also visit [http://www.tripadvisor.com/Attraction_Review-g295419-d4090222-Reviews-Al_Tayebat_International_City-Jeddah_Makkah_Province.html] advisor for some more info.</name>
     <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/111645517]</div>]]></description>
     <styleUrl>#style694</styleUrl>
     <Point>
       <coordinates>39.1099550,21.6267930,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Boat dealer</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style695</styleUrl>
-    <Point>
-      <coordinates>39.1206780,21.6071180,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1309,14 +1230,6 @@
     <styleUrl>#style696</styleUrl>
     <Point>
       <coordinates>39.1632579,21.5494170,0.0000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>The Arab circumnavigator</name>
-    <description><![CDATA[<div dir="ltr"></div>]]></description>
-    <styleUrl>#style696</styleUrl>
-    <Point>
-      <coordinates>39.1619871,21.5487079,0.0000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>

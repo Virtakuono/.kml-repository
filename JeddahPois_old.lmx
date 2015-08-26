@@ -20,14 +20,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Best Western Orchid hotel</lm:name>
-    <lm:coordinates>
-      <lm:latitude>24.685123</lm:latitude>
-      <lm:longitude>46.718612</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Crowne Plaza</lm:name>
     <lm:coordinates>
       <lm:latitude>21.517490</lm:latitude>
@@ -160,14 +152,6 @@
     <lm:coordinates>
       <lm:latitude>21.608330</lm:latitude>
       <lm:longitude>39.142090</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Summer resort</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.080696</lm:latitude>
-      <lm:longitude>40.315273</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
@@ -380,30 +364,6 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Reem Alwabadi</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.557912</lm:latitude>
-      <lm:longitude>39.145033</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Restaurant</lm:name>
-    <lm:coordinates>
-      <lm:latitude>21.287325</lm:latitude>
-      <lm:longitude>40.422997</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Rotisserie chicken carry-out</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.287018</lm:latitude>
-      <lm:longitude>39.113503</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
     <lm:name>Sahareej Aden Yemini Restaurant</lm:name>
     <lm:coordinates>
       <lm:latitude>21.578571</lm:latitude>
@@ -420,7 +380,7 @@
     </lm:coordinates>
   </lm:landmark>
   <lm:landmark>
-    <lm:name>Seafood restaurant</lm:name>
+    <lm:name>Al Wada'a restaurant</lm:name>
     <lm:coordinates>
       <lm:latitude>21.588215</lm:latitude>
       <lm:longitude>39.105740</lm:longitude>
@@ -448,14 +408,6 @@
     <lm:coordinates>
       <lm:latitude>21.485792</lm:latitude>
       <lm:longitude>39.182842</lm:longitude>
-      <lm:altitude>0.0</lm:altitude>
-    </lm:coordinates>
-  </lm:landmark>
-  <lm:landmark>
-    <lm:name>Shwarma Carry-out</lm:name>
-    <lm:coordinates>
-      <lm:latitude>22.286245</lm:latitude>
-      <lm:longitude>39.112209</lm:longitude>
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
