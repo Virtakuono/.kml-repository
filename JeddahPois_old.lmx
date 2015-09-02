@@ -1987,5 +1987,13 @@
       <lm:altitude>0.0</lm:altitude>
     </lm:coordinates>
   </lm:landmark>
+  <lm:landmark>
+    <lm:name>Gas cylinders for BBQ</lm:name>
+    <lm:coordinates>
+      <lm:latitude>22.284217</lm:latitude>
+      <lm:longitude>39.116314</lm:longitude>
+      <lm:altitude>0.0</lm:altitude>
+    </lm:coordinates>
+  </lm:landmark>
  </lm:landmarkCollection>
 </lm:lmx>

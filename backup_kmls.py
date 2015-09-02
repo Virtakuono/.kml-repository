@@ -530,7 +530,9 @@ class POISet():
 
         rv += '   var overlayMaps = {\n'
         for foo in range(0,len(self.effcategories)):
-            rv += '      \"%s\": poicat%03d,\n'%(self.categoryNames[self.effcategories[foo]][:-1],self.effcategories[foo])
+            if self.categoryNames[self.effcategories[foo]][-1] == '\r':
+                self.categoryNames[self.effcategories[foo]] = '%s'%(self.categoryNames[self.effcategories[foo]][:-1])
+            rv += '      \"%s\": poicat%03d,\n'%(self.categoryNames[self.effcategories[foo]],self.effcategories[foo])
             ### for some reason there is \r at the end of these names. I blame google.
         rv += '      };\n\n'
 
