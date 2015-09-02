@@ -444,6 +444,13 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style740">
+    <IconStyle>
+      <Icon>
+        <href>https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/gas_cylinder1.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Abhu palace hotel</name>
     <description><![CDATA[<div dir="ltr"></div>]]></description>
@@ -2426,6 +2433,14 @@
     <styleUrl>#style739</styleUrl>
     <Point>
       <coordinates>39.1708309,21.5589177,0.0000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gas cylinders for BBQ</name>
+    <description><![CDATA[<div dir="ltr">[http://www.openstreetmap.org/way/336065897]</div>]]></description>
+    <styleUrl>#style740</styleUrl>
+    <Point>
+      <coordinates>39.1163141,22.2842169,0.0000000</coordinates>
     </Point>
   </Placemark>
 </Document>

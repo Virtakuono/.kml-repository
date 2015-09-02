@@ -440,6 +440,13 @@
    popupAnchor: [0,-20]
    });
 
+   var iconType740 = L.icon({
+   iconUrl: 'https://raw.githubusercontent.com/Virtakuono/.kml-repository/master/icons/gas_cylinder1.png',
+   iconSize: [32,37],
+   iconAnchor: [16,37],
+   popupAnchor: [0,-20]
+   });
+
 
 
 
@@ -939,6 +946,8 @@
 
    L.marker([21.5589177, 39.1708309],{icon: iconType739}).bindPopup("<b>aDawliah</b><br />For musical instruments and supplies <a href=\"http://www.openstreetmap.org/node/3355298072\" target=\"_blank\">http://www.openstreetmap.org/node/3355298072</a><br />Coordinates: (21.5589177, 39.1708309)<br /><a href=\"http://www.openstreetmap.org/?mlat=21.5589177&mlon=39.1708309&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=21.558918,39.1708309\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=21.55891770~39.17083090&lvl=16&dir=0&sty=c&sp=point.21.55891770_39.17083090_aDawliah\" target=\"_blank\">Bing</a>").addTo(poicat002);
 
+   L.marker([22.2842169, 39.1163141],{icon: iconType740}).bindPopup("<b>Gas cylinders for BBQ</b><br /><a href=\"http://www.openstreetmap.org/way/336065897\" target=\"_blank\">http://www.openstreetmap.org/way/336065897</a><br />Coordinates: (22.2842169, 39.1163141)<br /><a href=\"http://www.openstreetmap.org/?mlat=22.2842169&mlon=39.1163141&zoom=12&layers=M\" target=\"_blank\">OSM</a>, <a href=\"http://maps.google.com/maps?q=22.284217,39.1163141\" target=\"_blank\">Google Maps</a>, <a href=\"http://www.bing.com/maps/?v=2&cp=22.28421690~39.11631410&lvl=16&dir=0&sty=c&sp=point.22.28421690_39.11631410_Gas%20cylinders%20for%20BBQ\" target=\"_blank\">Bing</a>").addTo(poicat004);
+
 
 
 
@@ -959,7 +968,7 @@
    var HEREF = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {id: 'HEREF', attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>', subdomains: '1234', mapID: 'newest', app_id: 'NsbBYO9x9J3Ur21k1j8j', app_code: 'p4GtVh8OBdi4zgGXw6RXCQ', base: 'aerial', minZoom: 0, maxZoom: 20});
 
    var map = L.map('map', {
-       center: [21.869365, 39.665218],
+       center: [21.871031, 39.663014],
        zoom: 6,
        layers: [MBOX, poilist]   });
 
