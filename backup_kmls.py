@@ -488,6 +488,7 @@ class POISet():
         rv += '\n'
 
 
+
         for foo in range(0,len(self.effcategories)):
             rv += '   var poicat%03d = new L.layerGroup();\n'%(self.effcategories[foo])
 
@@ -529,7 +530,8 @@ class POISet():
 
         rv += '   var overlayMaps = {\n'
         for foo in range(0,len(self.effcategories)):
-            rv += '      \"%s\": poicat%03d,\n'%(self.categoryNames[self.effcategories[foo]],self.effcategories[foo])
+            rv += '      \"%s\": poicat%03d,\n'%(self.categoryNames[self.effcategories[foo]][:-1],self.effcategories[foo])
+            ### for some reason there is \r at the end of these names. I blame google.
         rv += '      };\n\n'
 
         #rv += '   var overlayMaps = {\n          \"POIs\": poilist\n          };\n\n'
